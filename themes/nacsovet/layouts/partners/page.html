@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<!-- ===== PARTNERS HERO ===== -->
+<section class="relative overflow-hidden pt-12 pb-10 md:pt-20 md:pb-16">
+    <div class="container mx-auto px-5 lg:px-8 text-center">
+        <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+            <i class="fas fa-handshake mr-1"></i> Наши партнёры
+        </span>
+        <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
+            Организации и сообщества
+        </h1>
+        <p class="text-gray-700 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
+            Мы сотрудничаем с ведущими организациями, разделяющими наши ценности. Вместе мы создаём будущее для молодёжи и детских объединений.
+        </p>
+    </div>
+</section>
+
+<section class="py-8 pb-20" 
+         x-data="{ loading: false, partners: [] }" 
+         x-init="partners = JSON.parse(document.getElementById('partners-data').textContent)">
+    
+    <script id="partners-data" type="application/json">
+        {{ site.Data.partners | jsonify }}
+    </script>
+
+    <div class="container mx-auto px-5 lg:px-8">
+        
+        <div id="partnersGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 max-w-6xl mx-auto">
+            <template x-for="partner in partners" :key="partner.name">
+                <a :href="partner.url || '#'" 
+                   target="_blank" 
+                   rel="noopener"
+                   class="flex flex-col items-center justify-center p-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow duration-300 group">
+                    <div class="h-16 w-full flex items-center justify-center mb-4">
+                        <img :src="'/' + partner.logo.replace(/^\//, '')" :alt="partner.name" class="max-h-full max-w-full object-contain filter grayscale group-hover:grayscale-0 transition-all duration-300">
+                    </div>
+                    <h3 class="text-md font-semibold text-gray-800 text-center" x-text="partner.name"></h3>
+                    <p class="text-xs text-gray-500 text-center mt-1" x-text="partner.description"></p>
+                </a>
+            </template>
+        </div>
+
+        <div id="partnersLoading" x-show="loading" class="text-center py-12 text-gray-500">
+            <i class="fas fa-spinner fa-spin text-3xl text-primary mb-4 block"></i>
+            <p>Загрузка партнёров...</p>
+        </div>
+        
+        <div id="partnersError" class="hidden text-center py-12 text-red-500">
+            <i class="fas fa-exclamation-circle text-3xl mb-4 block"></i>
+            <p>Не удалось загрузить данные. Попробуйте позже.</p>
+        </div>
+        
+        <div id="partnersEmpty" x-show="!loading && partners.length === 0" class="text-center py-12 text-gray-500">
+            <i class="fas fa-users text-4xl text-gray-300 mb-4 block"></i>
+            <p class="text-lg">Список партнёров пока пуст.</p>
+        </div>
+    </div>
+</section>
+
+{{ end }}

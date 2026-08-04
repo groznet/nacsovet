@@ -1,0 +1,92 @@
+<!-- Top Bar -->
+<div class="bg-primary text-white text-xs py-2 border-b border-white/10">
+    <div class="container mx-auto px-5 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-2">
+        <!-- Левая часть: Важное уведомление / Срочный анонс -->
+        <div class="flex items-center space-x-2 animate-pulse">
+            <span class="bg-secondary text-primary font-bold px-2 py-0.5 rounded-sm text-[10px] uppercase tracking-wider">Важно</span>
+            <a href="/partners" class="hover:text-accent transition-colors duration-200 truncate max-w-xs sm:max-w-md">
+                Открыта регистрация на новый молодежный форум в Грозном!
+            </a>
+        </div>
+
+        <!-- Правая часть: Контакты и Быстрые ссылки -->
+        <div class="flex items-center space-x-4 flex-wrap justify-center">
+            <!-- Телефон -->
+            <a href="tel:+79287805607" class="hover:text-accent transition-colors flex items-center space-x-1">
+                <i class="fas fa-phone-alt text-[10px]"></i>
+                <span>8 (928) 780-56-07</span>
+            </a>
+            <!-- Соц. сети / Мессенджеры -->
+            <div class="flex items-center space-x-3 border-l border-white/20 pl-4">
+                <a href="https://vk.com/id196339167" target="_blank" rel="noopener noreferrer" class="hover:text-accent transition-colors" title="VK">
+                    <i class="fab fa-vk text-sm"></i>
+                </a>
+                <a href="https://t.me/nacsovet_ru" target="_blank" rel="noopener noreferrer" class="hover:text-accent transition-colors" title="Telegram">
+                    <i class="fab fa-telegram-plane text-sm"></i>
+                </a>
+                <a href="www.instagram.com/dunaevmusa" target="_blank" rel="noopener noreferrer" class="hover:text-accent transition-colors" title="Instagram">
+                    <i class="fab fa-instagram text-sm"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mx-auto px-5 lg:px-8 py-4 flex items-center justify-between flex-wrap gap-y-3">
+    <!-- Logo + brand -->
+    <div class="flex items-center space-x-3">
+        <div class="w-12 h-12 flex items-center justify-center">
+            <a href="/">
+                <img src="/assets/images/logo.png" alt="НацСовет" class="w-full h-full object-contain">
+            </a>
+        </div>
+        <div>
+            <a href="/" class="heading-font text-2xl font-extrabold text-primary font-serif tracking-tight">Нац<span class="text-secondary">Совет</span></a>
+            <p class="text-xs text-muted hidden sm:block">молодёжь · развитие · будущее</p>
+        </div>
+    </div>
+
+    <!-- Mobile Search Bar (Visible only on mobile/tablet, positioned between logo and burger) -->
+    <div class="flex-1 max-w-xs mx-4 md:order-3">
+        <form action="/search" method="GET" class="relative">
+            <input 
+                type="text" 
+                name="q" 
+                placeholder="Поиск..." 
+                class="w-full bg-gray-100 text-sm text-gray-800 pl-9 pr-3 py-2 rounded-full border focus:bg-white focus:border-secondary transition-all duration-200"
+            >
+            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <i class="fas fa-search text-gray-400 text-xs"></i>
+            </div>
+        </form>
+    </div>
+
+    <!-- Desktop navigation -->
+    <nav class="hidden md:flex space-x-8 items-center font-medium md:order-2">
+        <a href="/" class="text-gray-800 hover:text-secondary transition-colors duration-200">Главная</a>
+        <a href="/news" class="text-gray-800 hover:text-secondary">Новости</a>
+        <a href="/partners" class="text-gray-800 hover:text-secondary">Партнеры</a>
+        <a href="/about" class="text-gray-800 hover:text-secondary">О нас</a>
+        <a href="/projects" class="text-gray-800 hover:text-secondary">Проекты</a>
+        <a href="/contact" class="text-gray-800 hover:text-secondary">Контакты</a>
+    </nav>
+
+    <div class="hidden md:block md:order-4">
+        <a href="/partners" class="btn-secondary-solid px-5 py-2 rounded-full text-sm shadow-sm transition"><i class="fas fa-calendar-alt mr-2"></i>Анонсы</a>
+    </div>
+
+    <!-- Mobile menu button -->
+    <button id="mobileMenuBtn" class="md:hidden bg-gray-100 p-2 rounded-lg focus:outline-none">
+        <i class="fas fa-bars text-primary text-xl"></i>
+    </button>
+</div>
+
+<!-- Mobile dropdown menu -->
+<div id="mobileMenu" class="md:hidden hidden bg-white/95 backdrop-blur-md border-t border-gray-200 px-5 pb-5 pt-2 flex flex-col space-y-3">
+    <a href="/" class="py-2 text-gray-800 hover:text-secondary font-medium"><i class="fas fa-home w-6 mr-2"></i>Главная</a>
+    <a href="/news" class="py-2 text-gray-800 hover:text-secondary"><i class="fas fa-newspaper w-6 mr-2"></i>Новости</a>
+    <a href="/partners" class="py-2 text-gray-800 hover:text-secondary"><i class="fas fa-calendar-week w-6 mr-2"></i>Мероприятия</a>
+    <a href="/about" class="py-2 text-gray-800 hover:text-secondary"><i class="fas fa-info-circle w-6 mr-2"></i>О нас</a>
+    <a href="/projects" class="py-2 text-gray-800 hover:text-secondary"><i class="fas fa-pen-fancy w-6 mr-2"></i>Проекты</a>
+    <a href="/contact" class="py-2 text-gray-800 hover:text-secondary"><i class="fas fa-phone-alt w-6 mr-2"></i>Контакты</a>
+    <div class="pt-2"><a href="/partners" class="btn-secondary-solid w-full text-center inline-block px-4 py-2 rounded-full">Календарь мероприятий</a></div>
+</div>

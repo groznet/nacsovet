@@ -1,0 +1,298 @@
+{{ define "main" }}
+
+<!-- ============================================================
+    NEWS ARCHIVE — Section Components with Mobile Toggle
+    Left sidebar: search, categories, date filters, tags, archives
+    Right: post list with pagination
+    ============================================================ -->
+
+<!-- ====== ARCHIVE HEADER ====== -->
+{{/* Определение названия месяца на русском */}}
+{{ $months := dict "01" "Январь" "02" "Февраль" "03" "Март" "04" "Апрель" "05" "Май" "06" "Июнь" "07" "Июль" "08" "Август" "09" "Сентябрь" "10" "Октябрь" "11" "Ноябрь" "12" "Декабрь" }}
+
+{{/* Определение текущего года и месяца из структуры URL/разделов */}}
+{{ $year := .Title }}
+{{ $month := "" }}
+
+{{ if .Parent }}
+    {{ if ne .Parent.Section "" }}
+        {{ $year = .Parent.Title }}
+        {{ $month = index $months .Title | default .Title }}
+    {{ end }}
+{{ end }}
+
+<section class="relative overflow-hidden pt-12 pb-8 md:pt-16 md:pb-10">
+    <div class="container mx-auto px-4 lg:px-8">
+        {{/* Извлечение года и месяца из пути URL */}}
+        {{ $path := split (trim .RelPermalink "/") "/" }}
+        {{ $year := "" }}
+        {{ $monthNum := "" }}
+        {{ $monthName := "" }}
+
+        {{ if ge (len $path) 2 }}
+            {{ $year = index $path 1 }}
+        {{ end }}
+        {{ if ge (len $path) 3 }}
+            {{ $monthNum = index $path 2 }}
+            {{ $months := dict "01" "Январь" "02" "Февраль" "03" "Март" "04" "Апрель" "05" "Май" "06" "Июнь" "07" "Июль" "08" "Август" "09" "Сентябрь" "10" "Октябрь" "11" "Ноябрь" "12" "Декабрь" }}
+            {{ $monthName = index $months $monthNum }}
+        {{ end }}
+
+        {{/* Вычисление списка постов для корректного счетчика */}}
+        {{ $posts := slice }}
+        {{ if eq .RelPermalink "/news/" }}
+            {{ $posts = where .Site.RegularPages "Section" "news" }}
+        {{ else }}
+            {{ $posts = .RegularPagesRecursive }}
+        {{ end }}
+
+        <div class="flex flex-wrap items-center justify-between gap-4">
+            <div>
+                <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-3 backdrop-blur-sm">
+                    <i class="fas fa-archive mr-1"></i> Архив публикаций
+                </span>
+                
+                <h1 class="heading-font text-3xl md:text-4xl lg:text-5xl font-extrabold text-primary">
+                    {{ if $monthName }}
+                        Архив за {{ $monthName }} {{ $year }} г.
+                    {{ else if $year }}
+                        Архив за {{ $year }} год
+                    {{ else }}
+                        Все новости
+                    {{ end }}
+                </h1>
+                
+                <p class="text-gray-600 mt-2 max-w-2xl">
+                    {{ if $monthName }}
+                        Публикации, анонсы и мероприятия Национального совета за {{ $monthName | lower }} {{ $year }} года.
+                    {{ else if $year }}
+                        Полный архив публикаций, анонсов и мероприятий за {{ $year }} год.
+                    {{ else }}
+                        Полный список публикаций, анонсов, мероприятий и игр Национального совета.
+                    {{ end }}
+                </p>
+            </div>
+            
+            <div class="text-sm text-muted bg-white/60 px-4 py-2 rounded-full border border-gray-200/50">
+                <i class="far fa-file-alt mr-1"></i> Всего: <span>{{ len $posts }}</span> публикаций
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ====== MAIN ARCHIVE LAYOUT ====== -->
+<div class="container mx-auto px-4 lg:px-8 pb-20">
+
+    <!-- Sidebar overlay (mobile) -->
+    <div id="archiveSidebarOverlay" class="archive-sidebar-overlay"></div>
+
+    <!-- Floating toggle button (mobile) -->
+    <button id="archiveSidebarToggle" class="archive-sidebar-toggle" aria-label="Открыть фильтры">
+        <i class="fas fa-sliders-h"></i>
+    </button>
+
+    <div class="flex flex-col lg:flex-row gap-8">
+
+        <!-- ============================================================
+            LEFT SIDEBAR
+            ============================================================ -->
+        <aside class="archive-sidebar lg:w-72 xl:w-80 flex-shrink-0">
+            {{ partial "sidebar.html" . }}
+        </aside>
+
+        <!-- ============================================================
+            RIGHT COLUMN — POST LIST
+            ============================================================ -->
+        <main class="flex-1 min-w-0">
+
+            {{ $pages := .RegularPagesRecursive }}
+            {{ $paginator := .Paginate $pages }}
+
+            <!-- -------- POSTS -------- -->
+            <div id="postsContainer" class="space-y-5">
+                {{ range $paginator.Pages }}
+                    <article class="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex flex-col sm:flex-row">
+                        
+                        <div class="sm:w-48 md:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden bg-gray-100 relative">
+                            {{ $featuredImg := "" }}
+                            
+                            {{/* 1. Try reading gallery.json inside the post bundle */}}
+                            {{ $gallery := .Resources.GetMatch "gallery.json" }}
+                            {{ if $gallery }}
+                                {{ $data := $gallery.Content | transform.Unmarshal }}
+                                {{ with $data.featured_image }}
+                                    {{ $featuredImg = . }}
+                                {{ end }}
+                            {{ end }}
+
+                            {{/* 2. Fallback to local featured.jpg if gallery.json is missing or lacks featured_image */}}
+                            {{ if not $featuredImg }}
+                                {{ $image := .Resources.GetMatch "featured.jpg" }}
+                                {{ if $image }}
+                                    {{ $featuredImg = $image.RelPermalink }}
+                                {{ else }}
+                                    {{ $featuredImg = "/assets/images/post-thumbnail.jpg" }}
+                                {{ end }}
+                            {{ end }}
+
+                            <img
+                                src="{{ $featuredImg }}"
+                                alt="{{ .Title }}"
+                                class="w-full h-full object-cover hover:scale-105 transition-transform duration-400"
+                                loading="lazy"
+                            />
+                        </div>
+
+                        <div class="flex-1 p-4 md:p-5 flex flex-col min-w-0">
+                            <div class="flex items-center gap-2 flex-wrap mb-1.5">
+                                <span class="category-pill text-[10px] font-bold uppercase tracking-wider bg-accent text-primary px-2.5 py-0.5 rounded-full">
+                                    {{ with .Params.categories }}{{ index . 0 }}{{ else }}{{ .Type }}{{ end }}
+                                </span>
+                                <span class="text-xs text-gray-400">
+                                    <i class="far fa-calendar-alt mr-1"></i>
+                                    {{ .Date.Format "02.01.2006" }}
+                                </span>
+                            </div>
+
+                            <h3 class="heading-font text-lg md:text-xl font-bold text-primary hover:text-secondary transition-colors cursor-pointer line-clamp-2">
+                                <a href="{{ .RelPermalink }}">{{ .Title | truncate 76 }}</a>
+                            </h3>
+
+                            <p class="text-gray-600 text-sm mt-1 line-clamp-2 flex-grow break-words">
+                                {{ $content := .Description | default .Summary }}
+                                {{ $content | plainify | truncate 350 }}
+                            </p>
+
+                            <div class="flex items-center justify-between mt-3 pt-3 border-t border-gray-100">
+                                <span class="text-xs text-gray-400 truncate max-w-[150px]">
+                                    <i class="far fa-user mr-1"></i>
+                                    {{ with .Params.author }}{{ . }}{{ else }}Пресс-служба{{ end }}
+                                </span>
+                                <a href="{{ .RelPermalink }}" class="text-secondary font-semibold text-sm hover:text-primary transition-colors inline-flex items-center gap-1 flex-shrink-0">
+                                    Читать <i class="fas fa-arrow-right text-xs"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                {{ else }}
+                    <div class="text-center py-12 text-gray-500 bg-white rounded-2xl border border-gray-100">
+                        <i class="far fa-folder-open text-4xl mb-3 block text-gray-300"></i>
+                        Публикаций пока нет.
+                    </div>
+                {{ end }}
+            </div>
+
+            <!-- ====== PAGINATION ====== -->
+            {{ if gt $paginator.TotalPages 1 }}
+            <nav class="flex flex-col items-center gap-4 mt-8 pt-4 border-t border-gray-200/60 sm:flex-row sm:justify-between" aria-label="Навигация по страницам">
+
+                <div class="text-sm text-gray-500">
+                    Страница <span class="font-medium text-gray-700">{{ $paginator.PageNumber }}</span> из <span class="font-medium text-gray-700">{{ $paginator.TotalPages }}</span>
+                </div>
+
+                <div class="flex items-center gap-1.5">
+                    {{ if $paginator.HasPrev }}
+                        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition">
+                            <i class="fas fa-chevron-left text-xs"></i>
+                        </a>
+                    {{ else }}
+                        <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 opacity-40 cursor-not-allowed" disabled>
+                            <i class="fas fa-chevron-left text-xs"></i>
+                        </button>
+                    {{ end }}
+
+                    {{ $current := $paginator.PageNumber }}
+                    {{ $total := $paginator.TotalPages }}
+                    {{ $ellipses_printed := false }}
+
+                    {{ range $paginator.Pagers }}
+                        {{ $pipe := .PageNumber }}
+                        {{ if or (eq $pipe 1) (eq $pipe $total) (and (ge $pipe (sub $current 1)) (le $pipe (add $current 1))) }}
+                            {{ $ellipses_printed = false }}
+                            {{ if eq $pipe $current }}
+                                <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full bg-primary text-white font-medium text-sm cursor-default">
+                                    {{ $pipe }}
+                                </button>
+                            {{ else }}
+                                <a href="{{ .URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition font-medium text-sm">
+                                    {{ $pipe }}
+                                </a>
+                            {{ end }}
+                        {{ else if not $ellipses_printed }}
+                            <span class="text-gray-400 px-1 select-none">…</span>
+                            {{ $ellipses_printed = true }}
+                        {{ end }}
+                    {{ end }}
+
+                    {{ if $paginator.HasNext }}
+                        <a href="{{ $paginator.Next.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition">
+                            <i class="fas fa-chevron-right text-xs"></i>
+                        </a>
+                    {{ else }}
+                        <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 opacity-40 cursor-not-allowed" disabled>
+                            <i class="fas fa-chevron-right text-xs"></i>
+                        </button>
+                    {{ end }}
+                </div>
+
+            </nav>
+            {{ end }}
+
+        </main>
+
+    </div>
+
+</div>
+
+<!-- ====== TOGGLE SCRIPT ====== -->
+<script>
+    (function() {
+        const sidebar = document.querySelector('.archive-sidebar');
+        const overlay = document.getElementById('archiveSidebarOverlay');
+        const toggleBtn = document.getElementById('archiveSidebarToggle');
+        
+        const closeBtn = document.getElementById('archiveSidebarClose') || document.getElementById('closeArchiveSidebar');
+
+        if (!sidebar || !overlay) return;
+
+        function openSidebar() {
+            sidebar.classList.add('open');
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeSidebar() {
+            sidebar.classList.remove('open');
+            overlay.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', function(e) {
+                if (sidebar.classList.contains('open')) {
+                    closeSidebar();
+                } else {
+                    openSidebar();
+                }
+            });
+        }
+
+        if (closeBtn) closeBtn.addEventListener('click', closeSidebar);
+        if (overlay) overlay.addEventListener('click', closeSidebar);
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && sidebar.classList.contains('open')) {
+                closeSidebar();
+            }
+        });
+
+        const mediaQuery = window.matchMedia('(min-width: 1024px)');
+        mediaQuery.addEventListener('change', function(e) {
+            if (e.matches && sidebar.classList.contains('open')) {
+                closeSidebar();
+            }
+        });
+    })();
+</script>
+
+{{ end }}

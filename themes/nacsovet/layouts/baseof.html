@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="NacSovet — Межрегиональная Ассоциация «Национальный совет молодежных и детских объединений». Новости, интерактивные игры, мероприятия для молодежи и детских организаций в России.">
+    <meta name="keywords" content="национальный совет молодежи, молодежные объединения, детские организации, мероприятия для молодежи, новости молодежных проектов, Чеченская Республика">
+    <meta name="author" content="NacSovet">
+    <title>НацСовет | Национальный совет молодежных и детских объединений</title>
+    <!-- Google Fonts & Font Awesome -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- TailwindCSS v3 + base utilities (default theme) -->
+    <script src="/assets/js/tailwind.js?plugins=typography"></script>
+    <!-- Custom overrides: brand colors, paper texture, fonts -->
+    <!-- main.css file most common styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body class="antialiased">
+    <div class="content-wrapper">
+        <!-- HEADER: Loaded dynamically from /components/header.html -->
+        <header class="bg-white/80 backdrop-blur-sm shadow-sm sticky top-0 z-50 border-b border-gray-200/60">
+            {{ partial "header.html" . }}
+        </header>
+
+        <!-- MAIN CONTENT -->
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        <!-- FOOTER: Loaded dynamically from /components/footer.html -->
+        <footer class="bg-primary text-white/90 pt-12 pb-6 mt-8 shadow-2xl">
+            {{ partial "footer.html" . }}
+        </footer>
+    </div>
+
+    <script src="/assets/js/main.js"></script>
+</body>
+</html>

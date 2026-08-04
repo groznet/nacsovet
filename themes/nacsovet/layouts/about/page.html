@@ -1,0 +1,225 @@
+{{ define "main" }}
+
+<!-- ===== ABOUT HERO ===== -->
+<section class="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center">
+            <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+                <i class="fas fa-flag mr-1"></i> Кто мы
+            </span>
+            <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
+                О Национальном совете
+            </h1>
+            <p class="text-gray-700 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
+                Мы — Межрегиональная Ассоциация общественных объединений, объединяющая молодёжные и детские организации России. Наша цель — создавать возможности для развития, творчества и социальной активности подрастающего поколения.
+            </p>
+            <div class="mt-8 flex flex-wrap gap-4 justify-center">
+                <a href="#mission" class="btn-primary px-8 py-3 rounded-full text-base shadow-md inline-flex items-center">
+                    <i class="fas fa-bullseye mr-2"></i>Наша миссия
+                </a>
+                <a href="#team" class="btn-outline-secondary px-7 py-3 rounded-full text-base inline-flex items-center">
+                    <i class="fas fa-users mr-2"></i>Команда
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== MISSION, VISION, VALUES ===== -->
+<section id="mission" class="py-16 bg-white/60 backdrop-blur-sm">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+            <!-- Mission -->
+            <div class="bg-white p-8 rounded-2xl shadow-md text-center card-hover">
+                <div class="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mx-auto mb-5">
+                    <i class="fas fa-rocket text-3xl text-primary"></i>
+                </div>
+                <h3 class="heading-font text-2xl font-bold text-primary mb-3">Миссия</h3>
+                <p class="text-gray-600 leading-relaxed">Создать экосистему возможностей для самореализации молодёжи и детских объединений, через интерактивные игры, образовательные проекты и социальные инициативы.</p>
+            </div>
+            <!-- Vision -->
+            <div class="bg-white p-8 rounded-2xl shadow-md text-center card-hover">
+                <div class="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mx-auto mb-5">
+                    <i class="fas fa-eye text-3xl text-primary"></i>
+                </div>
+                <h3 class="heading-font text-2xl font-bold text-primary mb-3">Видение</h3>
+                <p class="text-gray-600 leading-relaxed">Стать ведущей платформой для молодёжных и детских инициатив в России, где каждый может найти поддержку, единомышленников и ресурсы для своих проектов.</p>
+            </div>
+            <!-- Values -->
+            <div class="bg-white p-8 rounded-2xl shadow-md text-center card-hover">
+                <div class="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mx-auto mb-5">
+                    <i class="fas fa-heart text-3xl text-primary"></i>
+                </div>
+                <h3 class="heading-font text-2xl font-bold text-primary mb-3">Ценности</h3>
+                <p class="text-gray-600 leading-relaxed">Доверие, открытость, сотрудничество, инновации и уважение к каждому участнику. Мы верим в силу сообщества и общих целей.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== OUR STORY / TIMELINE ===== -->
+<section class="py-20">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="text-center mb-14">
+            <h2 class="section-title section-title-center text-3xl md:text-4xl font-bold text-primary">Наша история</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto mt-6">Как начинался Национальный совет и как мы росли</p>
+        </div>
+
+        <div class="max-w-4xl mx-auto relative">
+            <!-- Центральная линия (desktop) -->
+            <div class="hidden md:block absolute left-1/2 top-0 bottom-0 w-0.5 bg-primary/20 -translate-x-1/2"></div>
+
+            <!-- Event 1 -->
+            <div class="relative flex flex-col md:flex-row items-start md:items-center gap-6 md:gap-10 mb-12">
+                <div class="md:w-1/2 md:text-right order-2 md:order-1">
+                    <div class="bg-white p-6 rounded-2xl shadow-md card-hover">
+                        <span class="text-sm font-bold text-secondary">2019</span>
+                        <h4 class="heading-font text-xl font-bold text-primary mt-1">Основание ассоциации</h4>
+                        <p class="text-gray-600 text-sm mt-1">Инициативная группа из Чеченской Республики зарегистрировала Межрегиональную Ассоциацию «Национальный совет молодежных и детских объединений».</p>
+                    </div>
+                </div>
+                <div class="order-1 md:order-2 flex items-center justify-center">
+                    <div class="timeline-dot"></div>
+                </div>
+                <div class="md:w-1/2 order-3"></div>
+            </div>
+
+            <!-- Event 2 -->
+            <div class="relative flex flex-col md:flex-row items-start md:items-center gap-6 md:gap-10 mb-12">
+                <div class="md:w-1/2 order-2 md:order-1"></div>
+                <div class="order-1 md:order-2 flex items-center justify-center">
+                    <div class="timeline-dot"></div>
+                </div>
+                <div class="md:w-1/2 md:text-left order-3">
+                    <div class="bg-white p-6 rounded-2xl shadow-md card-hover">
+                        <span class="text-sm font-bold text-secondary">2021</span>
+                        <h4 class="heading-font text-xl font-bold text-primary mt-1">Первые проекты и игры</h4>
+                        <p class="text-gray-600 text-sm mt-1">Запуск интерактивных образовательных игр, квестов и форумов для молодёжи Северного Кавказа. Присоединение первых 10 организаций-членов.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Event 3 -->
+            <div class="relative flex flex-col md:flex-row items-start md:items-center gap-6 md:gap-10 mb-12">
+                <div class="md:w-1/2 md:text-right order-2 md:order-1">
+                    <div class="bg-white p-6 rounded-2xl shadow-md card-hover">
+                        <span class="text-sm font-bold text-secondary">2023</span>
+                        <h4 class="heading-font text-xl font-bold text-primary mt-1">Всероссийское признание</h4>
+                        <p class="text-gray-600 text-sm mt-1">Ассоциация получила грантовую поддержку на реализацию федеральных проектов. Количество участников превысило 2 000 человек.</p>
+                    </div>
+                </div>
+                <div class="order-1 md:order-2 flex items-center justify-center">
+                    <div class="timeline-dot"></div>
+                </div>
+                <div class="md:w-1/2 order-3"></div>
+            </div>
+
+            <!-- Event 4 -->
+            <div class="relative flex flex-col md:flex-row items-start md:items-center gap-6 md:gap-10">
+                <div class="md:w-1/2 order-2 md:order-1"></div>
+                <div class="order-1 md:order-2 flex items-center justify-center">
+                    <div class="timeline-dot"></div>
+                </div>
+                <div class="md:w-1/2 md:text-left order-3">
+                    <div class="bg-white p-6 rounded-2xl shadow-md card-hover">
+                        <span class="text-sm font-bold text-secondary">2025</span>
+                        <h4 class="heading-font text-xl font-bold text-primary mt-1">Новый этап развития</h4>
+                        <p class="text-gray-600 text-sm mt-1">Запуск цифровой платформы для проведения онлайн-игр, расширение географии до 15 регионов России. В планах — создание молодёжного инновационного центра.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== TEAM / LEADERSHIP ===== -->
+<section id="team" class="py-20 bg-white/50 rounded-3xl mx-5 lg:mx-8 shadow-inner">
+    <div class="container mx-auto px-5">
+        <div class="text-center mb-14">
+            <span class="bg-secondary/20 text-secondary px-4 py-1.5 rounded-full text-sm font-semibold"><i class="fas fa-user-tie mr-1"></i> Команда</span>
+            <h2 class="heading-font text-3xl md:text-4xl font-bold text-primary mt-4">Руководство и лидеры</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto mt-2">Люди, которые вдохновляют, создают и развивают Национальный совет</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            <!-- Team member 1 -->
+            <div class="bg-white rounded-2xl shadow-md overflow-hidden team-card">
+                <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=320&fit=crop" alt="Мусса Дунаев" class="w-full h-56 object-cover" loading="lazy">
+                <div class="p-6">
+                    <h4 class="heading-font text-xl font-bold text-primary">Мусса Дунаев</h4>
+                    <p class="text-secondary font-medium text-sm">Президент ассоциации</p>
+                    <p class="text-gray-600 text-sm mt-2">Основатель и идейный вдохновитель. Более 10 лет опыта в молодёжной политике и общественных инициативах.</p>
+                </div>
+            </div>
+
+            <!-- Team member 2 -->
+            <div class="bg-white rounded-2xl shadow-md overflow-hidden team-card">
+                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=320&fit=crop" alt="Аминат Исмаилова" class="w-full h-56 object-cover" loading="lazy">
+                <div class="p-6">
+                    <h4 class="heading-font text-xl font-bold text-primary">Аминат Исмаилова</h4>
+                    <p class="text-secondary font-medium text-sm">Исполнительный директор</p>
+                    <p class="text-gray-600 text-sm mt-2">Координатор проектов и программ, эксперт в области управления НКО и развития детских объединений.</p>
+                </div>
+            </div>
+
+            <!-- Team member 3 -->
+            <div class="bg-white rounded-2xl shadow-md overflow-hidden team-card">
+                <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=320&fit=crop" alt="Руслан Ахмадов" class="w-full h-56 object-cover" loading="lazy">
+                <div class="p-6">
+                    <h4 class="heading-font text-xl font-bold text-primary">Руслан Ахмадов</h4>
+                    <p class="text-secondary font-medium text-sm">Руководитель отдела интерактивных игр</p>
+                    <p class="text-gray-600 text-sm mt-2">Разработчик игровых механик, методолог образовательных квестов и симуляций для молодёжи.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center mt-10">
+            <p class="text-gray-600 text-sm">И ещё более 20 активистов и экспертов, работающих над развитием молодёжного движения.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ===== STATISTICS / ACHIEVEMENTS ===== -->
+<section class="py-20">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
+            <div class="bg-white p-6 rounded-2xl text-center shadow-sm card-hover">
+                <div class="text-4xl font-black text-primary">12</div>
+                <p class="text-gray-600 text-sm mt-1">регионов России</p>
+            </div>
+            <div class="bg-white p-6 rounded-2xl text-center shadow-sm card-hover">
+                <div class="text-4xl font-black text-primary">45+</div>
+                <p class="text-gray-600 text-sm mt-1">организаций-членов</p>
+            </div>
+            <div class="bg-white p-6 rounded-2xl text-center shadow-sm card-hover">
+                <div class="text-4xl font-black text-primary">3 200+</div>
+                <p class="text-gray-600 text-sm mt-1">активных участников</p>
+            </div>
+            <div class="bg-white p-6 rounded-2xl text-center shadow-sm card-hover">
+                <div class="text-4xl font-black text-primary">150+</div>
+                <p class="text-gray-600 text-sm mt-1">проведённых мероприятий</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CTA: JOIN US ===== -->
+<section class="py-16">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="max-w-4xl mx-auto bg-gradient-to-r from-primary/5 to-secondary/10 rounded-3xl p-8 md:p-12 text-center border border-gray-200/50">
+            <i class="fas fa-handshake text-5xl text-secondary mb-4"></i>
+            <h2 class="heading-font text-3xl md:text-4xl font-bold text-primary">Станьте частью Национального совета</h2>
+            <p class="text-gray-700 text-lg max-w-2xl mx-auto mt-3">Присоединяйтесь к ассоциации — вместе мы создаём будущее для молодёжи и детских объединений России.</p>
+            <div class="mt-8 flex flex-wrap justify-center gap-4">
+                <a href="/contact" class="btn-primary px-8 py-3 rounded-full text-base shadow-md inline-flex items-center">
+                    <i class="fas fa-pen mr-2"></i>Подать заявку
+                </a>
+                <a href="/faq" class="btn-outline-secondary px-7 py-3 rounded-full text-base inline-flex items-center">
+                    <i class="fas fa-question-circle mr-2"></i>Частые вопросы
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

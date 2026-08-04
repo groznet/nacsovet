@@ -1,0 +1,15 @@
+<!-- Gallery -->
+{{ $images := .Resources.Match "gallery/*" }}
+{{ if $images }}
+<section class="mt-8">
+    <h2 class="text-xl font-semibold mb-4">Галерея</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {{ range $images }}
+        <figure class="overflow-hidden rounded-md">
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="w-full h-auto object-cover">
+            {{ if .Title }}<figcaption class="text-sm text-gray-600 mt-1">{{ .Title }}</figcaption>{{ end }}
+        </figure>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,333 @@
+{{ define "main" }}
+
+<style>
+    /* Mobile sidebar toggle styles */
+    .archive-sidebar-toggle {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        z-index: 1000;
+        width: 56px;
+        height: 56px;
+        border-radius: 9999px;
+        background: var(--color-primary, #0D3B66);
+        color: white;
+        border: none;
+        box-shadow: 0 8px 30px rgba(13, 59, 102, 0.3);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.2s;
+    }
+    .archive-sidebar-toggle:hover {
+        transform: scale(1.05);
+        background: #0a2e52;
+    }
+    .archive-sidebar-toggle:active {
+        transform: scale(0.95);
+    }
+
+    /* Sidebar overlay (mobile) */
+    .archive-sidebar-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 900;
+        background: rgba(0, 0, 0, 0.3);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+    }
+    .archive-sidebar-overlay.active {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    /* Sidebar panel */
+    .archive-sidebar {
+        position: relative;
+    }
+
+    /* On mobile, fixed slide from left */
+    @media (max-width: 1023px) {
+        .archive-sidebar-toggle {
+            display: flex;
+        }
+        .archive-sidebar-overlay {
+            display: block;
+        }
+        .archive-sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 320px;
+            max-width: 85vw;
+            height: 100%;
+            z-index: 1000;
+            background: #fff;
+            overflow-y: auto;
+            transform: translateX(-100%);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 4px 0 30px rgba(0, 0, 0, 0.08);
+            padding: 1.5rem 1.25rem 2rem;
+            display: block !important;
+        }
+        .archive-sidebar.open {
+            transform: translateX(0);
+        }
+        .archive-sidebar .sticky {
+            position: static !important;
+        }
+        .archive-sidebar-close {
+            display: flex !important;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .archive-sidebar-close,
+        .archive-sidebar-overlay,
+        .archive-sidebar-toggle {
+            display: none !important;
+        }
+    }
+
+    .archive-sidebar-close {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        width: 32px;
+        height: 32px;
+        border-radius: 9999px;
+        background: #f3f4f6;
+        border: none;
+        cursor: pointer;
+        color: #4b5563;
+        transition: background 0.2s;
+        margin-left: auto;
+        margin-bottom: 0.5rem;
+    }
+    .archive-sidebar-close:hover {
+        background: #e5e7eb;
+    }
+</style>
+
+<div class="container mx-auto px-4 lg:px-8 py-12">
+
+    <!-- Mobile Overlay & Toggle -->
+    <div id="archiveSidebarOverlay" class="archive-sidebar-overlay"></div>
+    <button id="archiveSidebarToggle" class="archive-sidebar-toggle" aria-label="Открыть меню архива">
+        <i class="fas fa-sliders-h" aria-hidden="true"></i>
+    </button>    
+    
+    <div class="flex flex-col lg:flex-row gap-12">
+        
+        <!-- Sidebar -->
+        <aside class="archive-sidebar lg:w-72 xl:w-80 flex-shrink-0">
+            {{ partial "sidebar.html" . }}
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 min-w-0">
+            <article class="rounded-2xl md:p-6 shadow-sm border border-gray-100">
+                
+                <!-- Metadata -->
+                <header class="mb-6">
+                    <span class="inline-block bg-accent/30 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
+                        {{ with .Params.categories }}{{ index . 0 }}{{ else }}Новости{{ end }}
+                    </span>
+                    <h1 class="heading-font text-3xl md:text-4xl font-extrabold text-primary leading-tight mb-4 font-serif">
+                        {{ .Title }}
+                    </h1>
+                    <div class="flex items-center gap-6 text-sm text-gray-500">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}" class="flex items-center">
+                            <i class="far fa-calendar-alt mr-2" aria-hidden="true"></i>{{ .Date.Format "02.01.2006" }}
+                        </time>
+                        <span class="flex items-center">
+                            <i class="far fa-user mr-2" aria-hidden="true"></i>{{ with .Params.author }}{{ . }}{{ else }}Пресс-служба{{ end }}
+                        </span>
+                    </div>
+                </header>
+
+                {{/* 1. Parse gallery.json (Resource or Direct File) */}}
+                {{ $gData := dict }}
+                {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
+                {{ if $galleryResource }}
+                    {{ $gData = $galleryResource.Content | transform.Unmarshal }}
+                {{ else if .File }}
+                    {{ $galleryJsonPath := printf "%sgallery.json" .File.Dir }}
+                    {{ if fileExists $galleryJsonPath }}
+                        {{ $gData = unmarshal (readFile $galleryJsonPath) }}
+                    {{ end }}
+                {{ end }}
+
+                {{/* 2. Resolve Main Image (featured_image from JSON -> Local featured.jpg -> First Local Image -> Frontmatter image -> Default) */}}
+                {{ $mainImgSrc := "" }}
+                {{ $isResizedImage := false }}
+                {{ $resizedImg := dict }}
+
+                {{ if $gData.featured_image }}
+                    {{ $mainImgSrc = $gData.featured_image }}
+                {{ else }}
+                    {{ $localFeatured := .Resources.GetMatch "featured.jpg" }}
+                    {{ if $localFeatured }}
+                        {{ $resizedImg = $localFeatured.Resize "1200x webp q85" }}
+                        {{ $mainImgSrc = $resizedImg.RelPermalink }}
+                        {{ $isResizedImage = true }}
+                    {{ else }}
+                        {{ $anyImg := index (.Resources.ByType "image") 0 }}
+                        {{ if $anyImg }}
+                            {{ $mainImgSrc = $anyImg.RelPermalink }}
+                        {{ else if .Params.image }}
+                            {{ $mainImgSrc = .Params.image | relURL }}
+                        {{ else }}
+                            {{ $mainImgSrc = "/assets/images/post-thumbnail.jpg" }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                <!-- Main Featured Image -->
+                {{ if $mainImgSrc }}
+                <div class="mb-8 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
+                    <img src="{{ $mainImgSrc }}" 
+                         {{ if $isResizedImage }}width="{{ $resizedImg.Width }}" height="{{ $resizedImg.Height }}"{{ end }}
+                         alt="{{ .Title }}" 
+                         class="w-full h-auto object-cover" 
+                         loading="eager">
+                    {{ with .Params.image_caption }}
+                        <p class="text-xs text-gray-600 mt-2 italic text-center">{{ . }}</p>
+                    {{ else }}
+                        {{ with .Description }}
+                            <p class="text-xs text-gray-600 mt-2 italic text-center">{{ . }}</p>
+                        {{ end }}
+                    {{ end }}
+                </div>
+                {{ end }}
+
+                <!-- Summary / Intro -->
+                {{ if .Params.summary }}
+                <p class="mb-6 text-base md:text-lg leading-relaxed text-gray-700 font-medium">{{ .Params.summary }}</p>
+                {{ end }}
+
+                <!-- Post Content -->
+                <div class="post-content prose prose-lg max-w-full text-gray-800 leading-relaxed">
+                    {{ .Content }}
+                </div>
+
+                <!-- Gallery Section -->
+                {{ $cdn := .Site.Params.cdn }}
+                {{ $dir := "" }}
+                {{ if .File }}
+                    {{ $dir = replace .File.Dir "\\" "/" }}
+                {{ end }}
+
+                {{ if $gData.images }}
+                    {{/* JSON-based Remote/Local Gallery */}}
+                    <section class="mt-10 pt-6 border-t border-gray-100">
+                        <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                            {{ range $gData.images }}
+                                {{ $imgUrl := "" }}
+                                {{ if $gData.remote_base_url }}
+                                    {{ $imgUrl = printf "%s%s" $gData.remote_base_url . }}
+                                {{ else }}
+                                    {{ $imgUrl = printf "%s/%simages/%s" $cdn $dir . }}
+                                {{ end }}
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                                    <a href="{{ $imgUrl }}" target="_blank" rel="noopener">
+                                        <img src="{{ $imgUrl }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
+                                    </a>
+                                </figure>
+                            {{ end }}
+                        </div>
+                    </section>
+                {{ else }}
+                    {{/* Local Fallback Gallery from Bundle */}}
+                    {{ $allImages := .Resources.ByType "image" }}
+                    {{ if gt (len $allImages) 1 }}
+                    <section class="mt-10 pt-6 border-t border-gray-100">
+                        <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                            {{ range $allImages }}
+                                {{ if ne .RelPermalink $mainImgSrc }}
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                                    <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
+                                        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
+                                    </a>
+                                </figure>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                    </section>
+                    {{ end }}
+                {{ end }}
+
+            </article>
+
+            <!-- Navigation: Prev/Next -->
+            <nav class="flex justify-between items-center mt-12 pt-8 border-t border-gray-200" aria-label="Навигация по статьям">
+                {{ if .PrevInSection }}
+                    <a href="{{ .PrevInSection.RelPermalink }}" class="text-sm font-semibold text-primary hover:text-secondary transition-colors duration-200 flex items-center">
+                        <i class="fas fa-arrow-left mr-2" aria-hidden="true"></i> Предыдущая
+                    </a>
+                {{ else }}
+                    <span></span>
+                {{ end }}
+                
+                {{ if .NextInSection }}
+                    <a href="{{ .NextInSection.RelPermalink }}" class="text-sm font-semibold text-primary hover:text-secondary transition-colors duration-200 flex items-center">
+                        Следующая <i class="fas fa-arrow-right ml-2" aria-hidden="true"></i>
+                    </a>
+                {{ end }}
+            </nav>
+        </main>
+    </div>
+</div>
+
+<script>
+    (function() {
+        const sidebar = document.querySelector('.archive-sidebar');
+        const overlay = document.getElementById('archiveSidebarOverlay');
+        const toggleBtn = document.getElementById('archiveSidebarToggle');
+        const closeBtn = document.getElementById('archiveSidebarClose') || document.getElementById('closeArchiveSidebar');
+
+        if (!sidebar || !overlay) return;
+
+        function openSidebar() {
+            sidebar.classList.add('open');
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeSidebar() {
+            sidebar.classList.remove('open');
+            overlay.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', function() {
+                sidebar.classList.contains('open') ? closeSidebar() : openSidebar();
+            });
+        }
+
+        if (closeBtn) closeBtn.addEventListener('click', closeSidebar);
+        if (overlay) overlay.addEventListener('click', closeSidebar);
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && sidebar.classList.contains('open')) {
+                closeSidebar();
+            }
+        });
+
+        const mediaQuery = window.matchMedia('(min-width: 1024px)');
+        mediaQuery.addEventListener('change', function(e) {
+            if (e.matches && sidebar.classList.contains('open')) {
+                closeSidebar();
+            }
+        });
+    })();
+</script>
+
+{{ end }}

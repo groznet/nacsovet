@@ -1,0 +1,255 @@
+{{ define "main" }}
+
+<section class="py-12 md:py-16 lg:py-20 bg-white/50 backdrop-blur-sm">
+    <div class="container mx-auto px-4 lg:px-8">
+
+        {{ $allNews := where site.RegularPages "Section" "news" }}
+        {{ $featured := first 1 $allNews }}
+        {{ $secondary := (after 1 $allNews) | first 3 }}
+
+        <div class="flex items-center justify-between mb-8 md:mb-10">
+            <h2 class="heading-font text-2xl md:text-3xl lg:text-4xl font-bold text-primary">
+                📰 Последние новости
+            </h2>
+            <a href="/news" class="text-secondary font-semibold text-sm md:text-base hover:underline flex items-center gap-1.5 transition-all">
+                Все новости
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+            </a>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 md:gap-8">
+
+            <div class="lg:col-span-8">
+                {{ range $featured }}
+                <article class="group bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100/80 h-full flex flex-col">
+
+                    <div class="relative overflow-hidden bg-gray-100">
+                        {{ $featuredImgSrc := "/assets/images/post-thumbnail.jpg" }}
+
+                        {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
+                        {{ if $galleryResource }}
+                            {{ $galleryData := $galleryResource.Content | transform.Unmarshal }}
+                            {{ with $galleryData.featured_image }}
+                                {{ $featuredImgSrc = . }}
+                            {{ end }}
+                        {{ else }}
+                            {{/* Резервный поиск локального featured.jpg, если gallery.json отсутствует */}}
+                            {{ with .Resources.GetMatch "featured.jpg" }}
+                                {{ $featuredImgSrc = .RelPermalink }}
+                            {{ end }}
+                        {{ end }}
+
+                        <img
+                            src="{{ $featuredImgSrc }}"
+                            alt="{{ .Title }}"
+                            class="w-full h-56 sm:h-64 md:h-72 lg:h-80 object-cover group-hover:scale-105 transition-transform duration-500"
+                            loading="lazy"
+                        />
+                        <span class="absolute top-4 left-4 category-pill bg-accent text-primary text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide shadow-sm">
+                            {{ with .Params.categories }}{{ index . 0 }}{{ else }}Новости{{ end }}
+                        </span>
+                    </div>
+
+                    <div class="p-5 md:p-6 flex flex-col flex-grow">
+                        <div class="flex items-center gap-3 text-xs text-gray-500 mb-2">
+                            <span><i class="far fa-calendar-alt mr-1"></i>{{ .Date.Format "2 января 2006" }}</span>
+                            <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                            <span><i class="far fa-user mr-1"></i>{{ .Params.author | default "Пресс-служба" }}</span>
+                        </div>
+                        <h3 class="heading-font text-xl md:text-2xl lg:text-3xl font-bold text-primary leading-tight mb-2 group-hover:text-secondary transition-colors duration-200"> <a href="{{ .RelPermalink }}">{{ .Title }}</a> </h3>
+                        <p class="text-gray-600 text-sm md:text-base leading-relaxed flex-grow">
+                            {{ .Summary | truncate 400 }}
+                        </p>
+                        <div class="mt-4 pt-4 border-t border-gray-100">
+                            <a href="{{ .RelPermalink }}" class="inline-flex items-center text-secondary font-semibold text-sm hover:text-primary transition-colors duration-200">
+                                Читать полностью
+                                <svg class="w-4 h-4 ml-1.5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+
+            <div class="lg:col-span-4 flex flex-col gap-4 md:gap-5">
+                {{ range $secondary }}
+                <article class="group bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex items-stretch">
+                    <div class="flex-shrink-0 w-28 sm:w-32 h-28 sm:h-32 overflow-hidden bg-gray-100">
+                        {{ $imgSrc := "/assets/images/post-thumbnail.jpg" }}
+                        {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
+                        {{ if $galleryResource }}
+                            {{ $galleryData := $galleryResource.Content | transform.Unmarshal }}
+                            {{ with $galleryData.featured_image }}
+                                {{ $imgSrc = . }}
+                            {{ end }}
+                        {{ else }}
+                            {{ with .Resources.GetMatch "featured.jpg" }}
+                                {{ $imgSrc = .RelPermalink }}
+                            {{ end }}
+                        {{ end }}
+
+                        <img
+                            src="{{ $imgSrc }}"
+                            alt="{{ .Title }}"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-400"
+                            loading="lazy"
+                        />
+                    </div>
+                    <div class="flex-1 p-3 sm:p-4 flex flex-col justify-center min-w-0">
+                        <h4 class="heading-font text-sm sm:text-base font-bold text-primary leading-snug group-hover:text-secondary transition-colors duration-200 line-clamp-2">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </h4>
+                        <p class="text-gray-500 text-xs sm:text-sm mt-1 line-clamp-2 hidden sm:block">
+                            {{ .Summary | truncate 80 }}
+                        </p>
+                        <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-400 text-[10px] mt-1.5 flex items-center">
+                            <i class="far fa-calendar-alt mr-1" aria-hidden="true"></i>{{ .Date.Format "02.01.2006" }}
+                        </time>
+                    </div>
+                </article>
+                {{ end }}
+
+                <div class="mt-1 pt-1">
+                    <a href="{{ "news" | relURL }}" class="group flex items-center justify-between w-full px-4 py-3 bg-primary/5 hover:bg-primary/10 rounded-xl border border-primary/10 transition-all duration-200">
+                        <span class="text-sm font-semibold text-primary">Все новости →</span>
+                        <span class="text-xs text-gray-400 group-hover:text-secondary transition-colors">{{ len $allNews }} публикаций</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- HERO Section with modern CTA -->
+<section class="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
+    <div class="container mx-auto px-4 lg:px-8">
+        <div class="flex flex-col lg:flex-row items-center gap-12">
+            <!-- Left content (unchanged) -->
+            <div class="flex-1 text-center lg:text-left">
+                <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+                    <i class="fas fa-rocket mr-1"></i> Общероссийская ассоциация
+                </span>
+                <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6 font-serif">
+                    Национальный совет<br>молодёжных и детских объединений
+                </h1>
+                <p class="text-gray-700 text-lg md:text-xl max-w-2xl lg:mx-0 mx-auto mb-8">
+                    Объединяем активную молодёжь, детские организации и инициативы Чеченской Республики и всей России. Новости, интерактивные игры, проекты развития — будущее создаём сегодня.
+                </p>
+                <div class="flex flex-wrap gap-4 justify-center lg:justify-start">
+                    <a href="/partners" class="btn-primary px-8 py-3 rounded-full text-base shadow-md inline-flex items-center">
+                        <i class="fas fa-calendar-check mr-2"></i>Партнеры
+                    </a>
+                    <a href="/about" class="btn-outline-secondary px-7 py-3 rounded-full text-base inline-flex items-center">
+                        <i class="fas fa-arrow-right mr-2"></i>О движении
+                    </a>
+                </div>
+            </div>
+
+            <!-- Right side: engaging image + interactive team info -->
+            <div class="flex-1 relative group">
+                <div class="relative rounded-2xl overflow-hidden shadow-2xl transform rotate-1 hover:rotate-0 transition duration-500">
+                    <!-- Main Image -->
+                    <img src="/assets/images/Musa_Dunaev.jpg" 
+                        alt="Дунаев Муса Салаудинович - Председатель правления НацСовет" 
+                        class="w-full h-auto object-cover rounded-2xl">
+                    
+                    <!-- Dark Overlay on Hover -->
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-2xl"></div>
+                    
+                    <!-- Floating Info Card on Hover -->
+                    <div class="absolute bottom-4 left-4 right-4 bg-white/95 backdrop-blur-sm p-4 rounded-xl shadow-xl border-l-4 border-secondary translate-y-10 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-out group-hover:animate-[bounce_3s_infinite_1s]">
+                        <h4 class="font-heading font-bold text-primary text-base mb-0.5">
+                            Дунаев Муса Салаудинович
+                        </h4>
+                        <p class="font-body text-xs text-gray-600 leading-relaxed">
+                            Председатель правления Национального совета общественных, молодежных и детских объединений ЧР
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============================================================
+NEWS SECTION — Homepage Component
+Two-column asymmetrical layout:
+- Left (65%): Featured post with image, headline, excerpt
+- Right (35%): 3 secondary posts (thumbnail + title + excerpt)
+- "More News" link at bottom of right column
+============================================================ -->
+
+<!-- О нас / Миссия (кратко) -->
+<section class="py-16 bg-white/60 backdrop-blur-sm">
+    <div class="container mx-auto px-4 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="section-title text-3xl md:text-4xl font-bold text-primary inline-block">Миссия и ценности</h2>
+            <p class="text-gray-700 text-lg mt-8 leading-relaxed">NacSovet — Межрегиональная Ассоциация общественных объединений «Национальный совет молодежных и детских объединений». Мы создаём пространство для реализации инициатив, игровых образовательных форматов и социальных проектов, объединяя граждан, общественные объединения и организации для общего блага.</p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
+                <div class="flex flex-col items-center p-5 bg-white rounded-xl shadow-md"><i class="fas fa-hand-holding-heart text-secondary text-4xl mb-3"></i><h3 class="font-bold text-xl">3+ тыс.</h3><p class="text-gray-600">активных участников</p></div>
+                <div class="flex flex-col items-center p-5 bg-white rounded-xl shadow-md"><i class="fas fa-gamepad text-secondary text-4xl mb-3"></i><h3 class="font-bold text-xl">24+</h3><p class="text-gray-600">интерактивных игр и квестов</p></div>
+                <div class="flex flex-col items-center p-5 bg-white rounded-xl shadow-md"><i class="fas fa-chalkboard-user text-secondary text-4xl mb-3"></i><h3 class="font-bold text-xl">50+</h3><p class="text-gray-600">мероприятий ежегодно</p></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ПРЕДСТОЯЩИЕ МЕРОПРИЯТИЯ + ИНТЕРАКТИВНЫЕ ИГРЫ -->
+<section class="py-16 bg-white/50 rounded-3xl lg:mx-8 shadow-inner">
+    <div class="container mx-auto px-5">
+        <div class="text-center mb-12">
+            <span class="bg-secondary/20 text-secondary px-4 py-1.5 rounded-full text-sm font-semibold"><i class="fas fa-star-of-life mr-1"></i> Календарь событий</span>
+            <h2 class="heading-font text-3xl md:text-4xl font-bold text-primary mt-4">Мероприятия и игры</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto mt-2">Интерактивные форматы, форумы и тренинги для развития лидерства</p>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+            <!-- левая колонка: предстоящие мероприятия -->
+            <div class="space-y-5">
+                <div class="bg-white p-5 rounded-xl flex flex-wrap sm:flex-nowrap gap-4 shadow-md">
+                    <div class="bg-primary/10 rounded-xl p-3 text-center min-w-[80px]"><span class="text-2xl font-black text-primary">15</span><br><span class="text-xs">июля</span></div>
+                    <div><h3 class="font-bold text-xl">Летняя школа молодёжного актива</h3><p class="text-gray-500">Образовательная программа, командообразующие игры, воркшопы. Регистрация открыта.</p><a href="#" class="text-secondary text-sm font-medium mt-1 inline-block">Подробнее →</a></div>
+                </div>
+                <div class="bg-white p-5 rounded-xl flex flex-wrap sm:flex-nowrap gap-4 shadow-md">
+                    <div class="bg-primary/10 rounded-xl p-3 text-center min-w-[80px]"><span class="text-2xl font-black text-primary">22</span><br><span class="text-xs">июля</span></div>
+                    <div><h3 class="font-bold text-xl">Интерактивная игра «Управляй будущим»</h3><p class="text-gray-500">Деловая симуляция для молодёжи 14-25 лет. Развитие проектного мышления.</p><a href="#" class="text-secondary text-sm font-medium mt-1 inline-block">Регистрация →</a></div>
+                </div>
+                <div class="bg-white p-5 rounded-xl flex flex-wrap sm:flex-nowrap gap-4 shadow-md">
+                    <div class="bg-primary/10 rounded-xl p-3 text-center min-w-[80px]"><span class="text-2xl font-black text-primary">05</span><br><span class="text-xs">авг.</span></div>
+                    <div><h3 class="font-bold text-xl">Фестиваль детских общественных объединений</h3><p class="text-gray-500">Выставка проектов, мастер-классы, награждение активистов.</p><a href="#" class="text-secondary text-sm font-medium mt-1 inline-block">Афиша →</a></div>
+                </div>
+            </div>
+            <!-- Правая: Игры и акцент -->
+            <div class="bg-gradient-to-br from-primary/5 to-white rounded-2xl p-6 shadow-lg border border-accent/20">
+                <div class="flex items-center gap-2 mb-4"><i class="fas fa-dice-d6 text-3xl text-secondary"></i><h3 class="text-2xl font-bold text-primary">🎮 Интерактивные игры от НацСовета</h3></div>
+                <p class="mb-4">Разрабатываем и проводим современные образовательные игры: квизы, ролевые игры, стратегии, городские квесты. Игровые механики для развития soft skills и гражданской активности.</p>
+                <ul class="space-y-2 mb-5">
+                    <li class="flex items-center"><i class="fas fa-check-circle text-accent mr-2"></i> Квиз «Моя Россия» — знание истории и культуры</li>
+                    <li class="flex items-center"><i class="fas fa-check-circle text-accent mr-2"></i> Деловая игра «Молодёжный парламент»</li>
+                    <li class="flex items-center"><i class="fas fa-check-circle text-accent mr-2"></i> Экологический марафон «Чистые игры»</li>
+                </ul>
+                <a href="/partners" class="inline-flex items-center btn-secondary-solid px-6 py-2.5 rounded-full shadow"><i class="fas fa-play mr-2"></i>Партнеры</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Цитата / Поддержка + Присоединяйтесь -->
+<section class="py-20">
+    <div class="container mx-auto px-4 lg:px-8 text-center">
+        <div class="max-w-3xl mx-auto bg-white/70 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-md border border-gray-100">
+            <i class="fas fa-quote-left text-5xl text-secondary opacity-40 mb-4"></i>
+            <p class="text-xl md:text-2xl font-medium text-gray-800 leading-relaxed">Стать частью движения, которое меняет мир вокруг — просто. Присоединяйтесь к Национальному совету, реализуйте свои проекты, участвуйте в играх и создавайте будущее.</p>
+            <div class="mt-8 flex flex-wrap justify-center gap-4">
+                <a href="/contact" class="btn-primary px-8 py-3 rounded-full text-lg"><i class="fab fa-telegram-plane mr-2"></i> Вступить в ассоциацию</a>
+                <a href="/faq" class="btn-outline-secondary px-7 py-3 rounded-full text-lg">Частые вопросы</a>
+            </div>
+            <p class="text-sm text-muted mt-6">📞 Для партнёрств и членства: 8 (928) 780-56-07</p>
+        </div>
+    </div>
+</section>
+
+{{ end }}

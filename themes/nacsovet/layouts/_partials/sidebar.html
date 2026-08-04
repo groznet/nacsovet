@@ -1,0 +1,257 @@
+<style>
+    /* Mobile sidebar toggle styles */
+    .archive-sidebar-toggle {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        z-index: 1000;
+        width: 56px;
+        height: 56px;
+        border-radius: 9999px;
+        background: var(--color-primary, #0D3B66);
+        color: white;
+        border: none;
+        box-shadow: 0 8px 30px rgba(13, 59, 102, 0.3);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.2s;
+    }
+    .archive-sidebar-toggle:hover {
+        transform: scale(1.05);
+        background: #0a2e52;
+    }
+    .archive-sidebar-toggle:active {
+        transform: scale(0.95);
+    }
+
+    /* Sidebar overlay (mobile) */
+    .archive-sidebar-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 900;
+        background: rgba(0, 0, 0, 0.3);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+    }
+    .archive-sidebar-overlay.active {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    /* Sidebar panel */
+    .archive-sidebar {
+        position: relative;
+        /* default: static in flow on desktop */
+    }
+
+    /* On mobile, we make it fixed and slide from left */
+    @media (max-width: 1023px) {
+        .archive-sidebar-toggle {
+            display: flex;
+        }
+
+        .archive-sidebar-overlay {
+            display: block;
+        }
+
+        .archive-sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 320px;
+            max-width: 85vw;
+            height: 100%;
+            z-index: 1000;
+            background: #fff;
+            overflow-y: auto;
+            transform: translateX(-100%);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 4px 0 30px rgba(0, 0, 0, 0.08);
+            padding: 1.5rem 1.25rem 2rem;
+            display: block !important; /* override any flex */
+        }
+
+        .archive-sidebar.open {
+            transform: translateX(0);
+        }
+
+        /* Hide the sticky behavior on mobile */
+        .archive-sidebar .sticky {
+            position: static !important;
+        }
+
+        /* Close button inside sidebar (mobile) */
+        .archive-sidebar-close {
+            display: flex !important;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .archive-sidebar-close {
+            display: none !important;
+        }
+        .archive-sidebar-overlay {
+            display: none !important;
+        }
+        .archive-sidebar-toggle {
+            display: none !important;
+        }
+    }
+
+    .archive-sidebar-close {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        width: 32px;
+        height: 32px;
+        border-radius: 9999px;
+        background: #f3f4f6;
+        border: none;
+        cursor: pointer;
+        color: #4b5563;
+        transition: background 0.2s;
+        margin-left: auto;
+        margin-bottom: 0.5rem;
+    }
+    .archive-sidebar-close:hover {
+        background: #e5e7eb;
+    }
+</style>
+
+<button id="archiveSidebarClose" class="archive-sidebar-close" aria-label="Закрыть фильтры">
+    <i class="fas fa-times"></i>
+</button>
+
+<div class="sticky top-24 space-y-6">
+
+    <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <div class="relative">
+            <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
+            <input
+            type="text"
+            id="archiveSearch"
+            placeholder="Поиск по публикациям..."
+            class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-gray-200 bg-white/70 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition text-sm"
+            />
+        </div>
+    </div>
+
+    <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">
+            <i class="fas fa-tags text-secondary"></i> Категории
+        </h3>
+        <div class="space-y-1.5" id="categoryFilters">
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm group">
+                <input type="radio" name="category" value="all" checked class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700 group-hover:text-primary transition">Все новости</span>
+                <span class="ml-auto text-xs text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
+                    {{ len .Site.RegularPages }}
+                </span>
+            </label>
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm group">
+                <input type="radio" name="category" value="{{ $name }}" class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700 group-hover:text-primary transition">{{ $name | humanize }}</span>
+                <span class="ml-auto text-xs text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">
+                    {{ $taxonomy.Count }}
+                </span>
+            </label>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">
+            <i class="far fa-calendar-alt text-secondary"></i> Период
+        </h3>
+        <div class="space-y-1.5" id="periodFilters">
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm">
+                <input type="radio" name="period" value="all" checked class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700">За всё время</span>
+            </label>
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm">
+                <input type="radio" name="period" value="month" class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700">Последний месяц</span>
+            </label>
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm">
+                <input type="radio" name="period" value="3months" class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700">Последние 3 месяца</span>
+            </label>
+            <label class="flex items-center gap-2.5 px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer transition text-sm">
+                <input type="radio" name="period" value="year" class="accent-primary w-4 h-4 flex-shrink-0" />
+                <span class="text-gray-700">Последний год</span>
+            </label>
+            <div class="mt-3 pt-3 border-t border-gray-100 flex items-center gap-2 text-xs text-gray-500">
+                <span>с</span>
+                <input type="date" id="dateFrom" class="border border-gray-200 rounded-lg px-2 py-1 text-sm flex-1 min-w-0 bg-white/70" />
+                <span>по</span>
+                <input type="date" id="dateTo" class="border border-gray-200 rounded-lg px-2 py-1 text-sm flex-1 min-w-0 bg-white/70" />
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">
+            <i class="fas fa-hashtag text-secondary"></i> Популярные теги
+        </h3>
+        <div class="flex flex-wrap gap-1.5" id="tagFilters">
+            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+            <span class="tag-pill px-3 py-1 bg-gray-100 text-gray-600 text-xs rounded-full hover:bg-accent hover:text-primary cursor-pointer transition border border-transparent hover:border-secondary" data-tag="{{ $name }}">
+                {{ $name }}
+            </span>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">
+            <i class="fas fa-folder-open text-secondary"></i> Архив по месяцам
+        </h3>
+        <div class="space-y-2 text-sm" id="archiveFilters">
+            {{ $pages := .Site.RegularPages }}
+            {{ $months := dict "January" "Январь" "February" "Февраль" "March" "Март" "April" "Апрель" "May" "Май" "June" "Июнь" "July" "Июль" "August" "Август" "September" "Сентябрь" "October" "Октябрь" "November" "Ноябрь" "December" "Декабрь" }}
+            
+            {{ $years := $pages.GroupByDate "2006" }}
+            {{ range $index, $yearGroup := $years }}
+                <details class="group/year" {{ if eq $index 0 }}open{{ end }}>
+                    <summary class="flex justify-between items-center px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer font-medium text-gray-800 transition select-none">
+                        <span class="flex items-center gap-2">
+                            <i class="fas fa-chevron-right text-xs text-gray-400 transition-transform group-open/year:rotate-90"></i>
+                            {{ $yearGroup.Key }} год
+                        </span>
+                        <span class="text-xs text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full font-normal">
+                            {{ len $yearGroup.Pages }}
+                        </span>
+                    </summary>
+                    
+                    <div class="mt-1 ml-4 pl-2 border-l border-gray-100 space-y-0.5">
+                        {{ range $yearGroup.Pages.GroupByDate "2006-01" }}
+                            {{ $date := time.AsTime (printf "%s-01" .Key) }}
+                            {{ $monthName := index $months ($date.Format "January") }}
+                            
+                            <div class="flex justify-between items-center px-2 py-1 rounded-lg hover:bg-gray-50 cursor-pointer transition group/month" data-archive="{{ .Key }}">
+                                <span class="text-gray-600 group-hover/month:text-primary transition text-xs">
+                                    {{ $monthName }}
+                                </span>
+                                <span class="text-[10px] text-gray-400 bg-gray-100 px-1.5 py-0.2 rounded-full">
+                                    {{ len .Pages }}
+                                </span>
+                            </div>
+                        {{ end }}
+                    </div>
+                </details>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="flex gap-2">
+        <button id="applyFiltersBtn" class="btn-primary flex-1 py-2.5 rounded-xl text-sm font-semibold">Применить</button>
+        <button id="resetFiltersBtn" class="border border-gray-300 px-4 py-2.5 rounded-xl text-sm text-gray-600 hover:bg-gray-50 transition">Сбросить</button>
+    </div>
+
+</div>

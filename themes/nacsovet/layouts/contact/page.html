@@ -1,0 +1,138 @@
+{{ define "main" }}
+
+<!-- ===== CONTACT HERO ===== -->
+<section class="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center">
+            <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+                <i class="fas fa-phone-alt mr-1"></i> Свяжитесь с нами
+            </span>
+            <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
+                Контакты
+            </h1>
+            <p class="text-gray-700 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
+                Мы всегда открыты для диалога. Задайте вопросы, предложите сотрудничество или просто поделитесь идеями — мы ответим оперативно.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CONTACT INFO GRID ===== -->
+<section class="py-8">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            <!-- Phone -->
+            <div class="bg-white p-6 rounded-2xl shadow-md text-center contact-icon-box">
+                <div class="w-14 h-14 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-phone-alt text-2xl text-primary"></i>
+                </div>
+                <h4 class="heading-font text-lg font-bold text-primary">Телефон / WhatsApp</h4>
+                <a href="tel:+79287805607" class="text-gray-700 hover:text-secondary transition">8 (928) 780-56-07</a>
+            </div>
+            <!-- Email -->
+            <div class="bg-white p-6 rounded-2xl shadow-md text-center contact-icon-box">
+                <div class="w-14 h-14 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-envelope text-2xl text-primary"></i>
+                </div>
+                <h4 class="heading-font text-lg font-bold text-primary">Email</h4>
+                <a href="mailto:dunaev_ms@mail.ru" class="text-gray-700 hover:text-secondary transition">dunaev_ms@mail.ru</a>
+            </div>
+            <!-- Address -->
+            <div class="bg-white p-6 rounded-2xl shadow-md text-center contact-icon-box">
+                <div class="w-14 h-14 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-map-marker-alt text-2xl text-primary"></i>
+                </div>
+                <h4 class="heading-font text-lg font-bold text-primary">Адрес офиса</h4>
+                <p class="text-gray-700">ул. Ашхабадская, д. 11А, кв. 16,<br />Грозный, Чеченская Республика, 364046</p>
+            </div>
+            <!-- Social -->
+            <div class="bg-white p-6 rounded-2xl shadow-md text-center contact-icon-box">
+                <div class="w-14 h-14 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-share-alt text-2xl text-primary"></i>
+                </div>
+                <h4 class="heading-font text-lg font-bold text-primary">Мы в соцсетях</h4>
+                <div class="flex justify-center space-x-4 text-2xl mt-2">
+                    <a href="https://vk.com/id196339167" target="_blank" class="text-gray-600 hover:text-secondary transition"><i class="fab fa-vk"></i></a>
+                    <a href="https://t.me/nacsovet.ru" target="_blank" class="text-gray-600 hover:text-secondary transition"><i class="fab fa-telegram"></i></a>
+                    <a href="https://www.instagram.com/dunaevmusa" target="_blank" class="text-gray-600 hover:text-secondary transition"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="text-gray-600 hover:text-secondary transition"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CONTACT FORM + MAP ===== -->
+<section class="py-16">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
+            <!-- Contact Form -->
+            <div class="bg-white/80 backdrop-blur-sm rounded-3xl p-6 md:p-8 shadow-md border border-gray-100">
+                <h2 class="heading-font text-2xl md:text-3xl font-bold text-primary mb-6">Напишите нам</h2>
+                <form id="contactForm" action="#" method="POST" class="space-y-5">
+                    <div>
+                        <label for="name" class="block text-sm font-medium text-gray-700 mb-1">Ваше имя *</label>
+                        <input type="text" id="name" name="name" required
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                    </div>
+                    <div>
+                        <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email *</label>
+                        <input type="email" id="email" name="email" required
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                    </div>
+                    <div>
+                        <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">Телефон</label>
+                        <input type="tel" id="phone" name="phone"
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                    </div>
+                    <div>
+                        <label for="message" class="block text-sm font-medium text-gray-700 mb-1">Сообщение *</label>
+                        <textarea id="message" name="message" rows="4" required
+                                    class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70"></textarea>
+                    </div>
+                    <button type="submit" class="btn-primary w-full py-3 rounded-xl text-lg font-semibold shadow-md transition">
+                        <i class="fas fa-paper-plane mr-2"></i>Отправить
+                    </button>
+                    <p class="text-xs text-gray-500 text-center mt-2">Нажимая «Отправить», вы соглашаетесь с <a href="/privacy" class="text-secondary hover:underline">политикой конфиденциальности</a>.</p>
+                </form>
+                <div id="formSuccess" class="hidden mt-4 p-4 bg-green-50 text-green-800 rounded-xl border border-green-200 text-center">
+                    <i class="fas fa-check-circle text-2xl mr-2"></i> Спасибо! Ваше сообщение отправлено. Мы свяжемся с вами в ближайшее время.
+                </div>
+            </div>
+
+            <!-- Map & Additional Info -->
+            <div class="space-y-6">
+                <div class="map-container">
+                    <!-- Яндекс.Карты iframe (адрес: ул. Ашхабадская, 11А, Грозный) -->
+                    <iframe class="w-full" height="400" src="https://yandex.ru/map-widget/v1/?um=constructor%3A7a5f4b8e2a4b5c6d7e8f9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5&amp;source=constructor"
+                            loading="lazy"
+                            title="Офис Национального совета на карте"></iframe>
+                </div>
+                <div class="bg-white/70 backdrop-blur-sm p-6 rounded-2xl shadow-sm border border-gray-100">
+                    <h3 class="heading-font text-xl font-bold text-primary mb-2">Часы работы</h3>
+                    <p class="text-gray-700">Пн–Пт: 10:00 – 18:00 (по московскому времени)</p>
+                    <p class="text-gray-700">Сб–Вс: выходной</p>
+                    <p class="text-sm text-gray-500 mt-3">Приём по предварительной записи возможен в другое время.</p>
+                </div>
+                <div class="bg-secondary/10 p-6 rounded-2xl border-l-4 border-secondary">
+                    <p class="text-sm text-gray-700"><i class="fas fa-info-circle text-secondary mr-2"></i> Для партнёрских предложений и вопросов членства звоните по номеру <strong>8 (928) 780-56-07</strong> или пишите на почту.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CTA: Join us (optional but consistent) ===== -->
+<section class="py-12">
+    <div class="container mx-auto px-5 lg:px-8 text-center">
+        <div class="max-w-3xl mx-auto bg-gradient-to-r from-primary/5 to-secondary/10 rounded-3xl p-6 md:p-10 border border-gray-200/50">
+            <h3 class="heading-font text-2xl md:text-3xl font-bold text-primary">Хотите стать частью НацСовета?</h3>
+            <p class="text-gray-700 mt-2">Присоединяйтесь к ассоциации или предложите совместный проект.</p>
+            <a href="/about#team" class="btn-secondary-solid inline-flex items-center px-6 py-2.5 rounded-full mt-4 shadow">
+                <i class="fas fa-handshake mr-2"></i>Узнать о членстве
+            </a>
+        </div>
+    </div>
+</section>
+
+{{ end }}

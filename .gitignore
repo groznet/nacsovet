@@ -1,0 +1,29 @@
+# Hugo output & cache
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore all images and videos inside the content directory and its subdirectories
+/content/**/*.jpg
+/content/**/*.jpeg
+/content/**/*.png
+/content/**/*.webp
+/content/**/*.gif
+/content/**/*.svg
+/content/**/*.mp4
+/content/**/*.webm
+/content/**/*.mov
+/content/**/*.avi
+
+# Ignore any content images folders
+/content/**/images/

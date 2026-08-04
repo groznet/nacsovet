@@ -1,0 +1,464 @@
+{{ define "main" }}
+
+<style>
+    :root {
+        --color-primary: #0D3B66;
+        --color-secondary: #FAA916;
+        --color-accent: #F4D35E;
+        --color-bg-paper: #FDF9F2;
+        --color-text-dark: #111827;
+        --color-muted: #6B7280;
+        --font-heading: 'Inter', 'Montserrat', system-ui, sans-serif;
+        --font-body: 'Roboto', system-ui, sans-serif;
+    }
+
+    body {
+        font-family: var(--font-body);
+        color: var(--color-text-dark);
+        background-color: #FBF7EF;
+        position: relative;
+        background-image:
+            repeating-radial-gradient(circle at 20% 30%, rgba(0, 0, 0, 0.008) 0px, rgba(0, 0, 0, 0.008) 2px, transparent 2px, transparent 4px),
+            linear-gradient(145deg, #FDF9F2 0%, #F9F3E6 100%);
+    }
+
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 0;
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.025'/%3E%3C/svg%3E");
+        background-repeat: repeat;
+        opacity: 0.35;
+    }
+
+    .content-wrapper {
+        position: relative;
+        z-index: 2;
+    }
+
+    .bg-primary { background-color: var(--color-primary); }
+    .bg-secondary { background-color: var(--color-secondary); }
+    .bg-accent { background-color: var(--color-accent); }
+    .text-primary { color: var(--color-primary); }
+    .text-secondary { color: var(--color-secondary); }
+    .text-accent { color: var(--color-accent); }
+    .border-primary { border-color: var(--color-primary); }
+    .border-secondary { border-color: var(--color-secondary); }
+
+    .btn-primary {
+        background-color: var(--color-primary);
+        color: white;
+        transition: all 0.2s ease;
+        font-weight: 600;
+    }
+    .btn-primary:hover {
+        background-color: #0a2e52;
+        transform: translateY(-1px);
+        box-shadow: 0 8px 16px -6px rgba(13, 59, 102, 0.2);
+    }
+
+    .btn-outline-secondary {
+        border: 1.5px solid var(--color-secondary);
+        color: var(--color-secondary);
+        background: transparent;
+        transition: 0.2s;
+        font-weight: 500;
+    }
+    .btn-outline-secondary:hover {
+        background-color: var(--color-secondary);
+        color: #1f2937;
+        transform: translateY(-1px);
+    }
+
+    .btn-secondary-solid {
+        background-color: var(--color-secondary);
+        color: #1e1e2f;
+        font-weight: 600;
+        transition: all 0.2s ease;
+    }
+    .btn-secondary-solid:hover {
+        background-color: #e09c14;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 16px -6px rgba(250, 169, 22, 0.3);
+    }
+
+    .card-hover {
+        transition: all 0.25s ease;
+    }
+    .card-hover:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2, h3, h4, .heading-font {
+        font-family: var(--font-heading);
+        font-weight: 700;
+        letter-spacing: -0.02em;
+    }
+
+    .section-title {
+        position: relative;
+        display: inline-block;
+    }
+    .section-title:after {
+        content: '';
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+        width: 60px;
+        height: 3px;
+        background-color: var(--color-secondary);
+        border-radius: 3px;
+    }
+
+    .section-title-center:after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /* Project Card Styles */
+    .project-card {
+        transition: all 0.3s ease;
+        background: white;
+        border-radius: 1.25rem;
+        overflow: hidden;
+        border: 1px solid rgba(0,0,0,0.04);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+    }
+    .project-card:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 20px 32px -8px rgba(13, 59, 102, 0.1);
+        border-color: rgba(250, 169, 22, 0.15);
+    }
+    .project-image {
+        height: 180px;
+        overflow: hidden;
+        background: #f3f4f6;
+        position: relative;
+    }
+    .project-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.4s ease;
+    }
+    .project-card:hover .project-image img {
+        transform: scale(1.04);
+    }
+    .project-image .status-badge {
+        position: absolute;
+        top: 0.75rem;
+        right: 0.75rem;
+        font-size: 0.6rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        padding: 0.2rem 0.8rem;
+        border-radius: 20px;
+        background: var(--color-secondary);
+        color: #1e1e2f;
+    }
+    .project-image .status-badge.completed {
+        background: #9CA3AF;
+        color: white;
+    }
+    .project-image .status-badge.ongoing {
+        background: #34D399;
+        color: #065F46;
+    }
+    .project-image .status-badge.upcoming {
+        background: var(--color-accent);
+        color: var(--color-primary);
+    }
+    .project-body {
+        padding: 1.25rem 1.25rem 1.5rem;
+    }
+    .project-body .category {
+        font-size: 0.65rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: var(--color-secondary);
+        margin-bottom: 0.25rem;
+    }
+    .project-body h3 {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: var(--color-primary);
+        margin-bottom: 0.3rem;
+        line-height: 1.3;
+    }
+    .project-body p {
+        font-size: 0.85rem;
+        color: #4b5563;
+        line-height: 1.5;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .project-body .project-footer {
+        margin-top: 0.75rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid rgba(0,0,0,0.04);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .project-body .project-footer .project-link {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--color-primary);
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        transition: color 0.2s;
+    }
+    .project-body .project-footer .project-link:hover {
+        color: var(--color-secondary);
+    }
+    .project-body .project-footer .partners {
+        font-size: 0.65rem;
+        color: var(--color-muted);
+    }
+    </style>
+
+<!-- ===== PROJECTS HERO ===== -->
+<section class="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center">
+            <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+                <i class="fas fa-rocket mr-1"></i> Наши инициативы
+            </span>
+            <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
+                Проекты
+            </h1>
+            <p class="text-gray-700 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
+                Мы реализуем программы, игры и социальные проекты, направленные на развитие молодёжи, поддержку детских объединений и создание новых возможностей.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- ===== PROJECTS GRID ===== -->
+<section class="py-8 pb-20">
+    <div class="container mx-auto px-5 lg:px-8">
+        <div id="projectsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 max-w-6xl mx-auto">
+            <!-- Projects will be injected by JS -->
+        </div>
+        <!-- Loading / error states -->
+        <div id="projectsLoading" class="text-center py-12 text-gray-500">
+            <i class="fas fa-spinner fa-spin text-3xl text-primary mb-4 block"></i>
+            <p>Загрузка проектов...</p>
+        </div>
+        <div id="projectsError" class="hidden text-center py-12 text-red-500">
+            <i class="fas fa-exclamation-circle text-3xl mb-4 block"></i>
+            <p>Не удалось загрузить данные. Попробуйте позже.</p>
+        </div>
+        <div id="projectsEmpty" class="hidden text-center py-12 text-gray-500">
+            <i class="fas fa-folder-open text-4xl text-gray-300 mb-4 block"></i>
+            <p class="text-lg">Список проектов пока пуст.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CTA: Join us ===== -->
+<section class="py-12">
+    <div class="container mx-auto px-5 lg:px-8 text-center">
+        <div class="max-w-3xl mx-auto bg-gradient-to-r from-primary/5 to-secondary/10 rounded-3xl p-6 md:p-10 border border-gray-200/50">
+            <h3 class="heading-font text-2xl md:text-3xl font-bold text-primary">Хотите стать частью НацСовета?</h3>
+            <p class="text-gray-700 mt-2">Присоединяйтесь к ассоциации или предложите совместный проект.</p>
+            <a href="/about#team" class="btn-secondary-solid inline-flex items-center px-6 py-2.5 rounded-full mt-4 shadow">
+                <i class="fas fa-handshake mr-2"></i>Узнать о членстве
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- ===== PROJECTS DATA FETCH AND RENDER ===== -->
+<script>
+    (function() {
+        const grid = document.getElementById('projectsGrid');
+        const loading = document.getElementById('projectsLoading');
+        const errorEl = document.getElementById('projectsError');
+        const emptyEl = document.getElementById('projectsEmpty');
+
+        // Sample projects data (fallback if JSON fetch fails)
+        const fallbackProjects = [{
+            "id": "vektor-2025",
+            "title": "Форум «Вектор-2025»",
+            "description": "Всероссийский молодёжный форум с интерактивными сессиями, играми и стратегическими сессиями для лидеров детских объединений.",
+            "image": "/assets/images/projects/vektor-2025.jpg",
+            "category": "Форумы",
+            "status": "upcoming",
+            "partners": "Росмолодёжь, Минобр ЧР",
+            "link": "/projects/vektor-2025"
+        }, {
+            "id": "marshrut-pokoleniy",
+            "title": "Маршрут поколений",
+            "description": "Интерактивный исторический квест для школьников и студентов, знакомящий с историей региона через командные игры и цифровые технологии.",
+            "image": "/assets/images/projects/marshrut-pokoleniy.jpg",
+            "category": "Квесты",
+            "status": "completed",
+            "partners": "Музей ЧР, Минкультуры ЧР",
+            "link": "/projects/marshrut-pokoleniy"
+        }, {
+            "id": "molodezhnaya-iniciativa",
+            "title": "Молодёжная инициатива",
+            "description": "Грантовая программа поддержки социальных проектов для детских и молодёжных НКО. Призовой фонд — 1,5 млн рублей.",
+            "image": "/assets/images/projects/molodezhnaya-iniciativa.jpg",
+            "category": "Гранты",
+            "status": "ongoing",
+            "partners": "Фонд президентских грантов",
+            "link": "/projects/molodezhnaya-iniciativa"
+        }, {
+            "id": "chistye-igry",
+            "title": "Чистые игры",
+            "description": "Экологический марафон с элементами интерактивной игры. Участники собирают мусор, сортируют отходы и участвуют в экологических квестах.",
+            "image": "/assets/images/projects/chistye-igry.jpg",
+            "category": "Экология",
+            "status": "completed",
+            "partners": "Экоцентр ЧР, Волонтёры",
+            "link": "/projects/chistye-igry"
+        }, {
+            "id": "letnyaya-shkola",
+            "title": "Летняя школа актива",
+            "description": "Образовательная программа для молодёжных лидеров. Командообразующие игры, воркшопы по проектированию, развитию soft skills.",
+            "image": "/assets/images/projects/letnyaya-shkola.jpg",
+            "category": "Образование",
+            "status": "upcoming",
+            "partners": "ЧГУ, Минобр ЧР",
+            "link": "/projects/letnyaya-shkola"
+        }, {
+            "id": "festival-detskih",
+            "title": "Фестиваль детских объединений",
+            "description": "Выставка проектов, мастер-классы, награждение активистов. Фестиваль собрал более 300 участников из 10 регионов.",
+            "image": "/assets/images/projects/festival-detskih.jpg",
+            "category": "Фестивали",
+            "status": "completed",
+            "partners": "Департамент образования",
+            "link": "/projects/festival-detskih"
+        }, {
+            "id": "igroteka",
+            "title": "Игротека актива",
+            "description": "Презентация и разработка мобильных игр, созданных участниками Совета. Игры направлены на развитие soft skills и командной работы.",
+            "image": "/assets/images/projects/igroteka.jpg",
+            "category": "Игры",
+            "status": "ongoing",
+            "partners": "IT-парк Грозный",
+            "link": "/projects/igroteka"
+        }, {
+            "id": "forum-itogi",
+            "title": "Итоговый форум проектов",
+            "description": "Презентация 25 проектов, 7 из которых получили грантовую поддержку. Участники отметили высокий уровень организации и экспертизы.",
+            "image": "/assets/images/projects/forum-itogi.jpg",
+            "category": "Форумы",
+            "status": "completed",
+            "partners": "Общественная палата ЧР",
+            "link": "/projects/forum-itogi"
+        }];
+
+        async function loadProjects() {
+            try {
+                const response = await fetch('/data/projects.json');
+                if (!response.ok) {
+                    console.warn('Projects JSON not found, using fallback data.');
+                    return fallbackProjects;
+                }
+                const data = await response.json();
+                return data;
+            } catch (e) {
+                console.warn('Error loading projects JSON, using fallback data.', e);
+                return fallbackProjects;
+            }
+        }
+
+        function getStatusBadgeClass(status) {
+            const map = {
+                'completed': 'completed',
+                'завершён': 'completed',
+                'ongoing': 'ongoing',
+                'активный': 'ongoing',
+                'upcoming': 'upcoming',
+                'предстоящий': 'upcoming'
+            };
+            return map[status] || 'upcoming';
+        }
+
+        function getStatusLabel(status) {
+            const map = {
+                'completed': 'Завершён',
+                'завершён': 'Завершён',
+                'ongoing': 'Активный',
+                'активный': 'Активный',
+                'upcoming': 'Предстоящий',
+                'предстоящий': 'Предстоящий'
+            };
+            return map[status] || status;
+        }
+
+        function renderProjects(projects) {
+            loading.classList.add('hidden');
+            if (!projects || projects.length === 0) {
+                emptyEl.classList.remove('hidden');
+                return;
+            }
+            emptyEl.classList.add('hidden');
+
+            let html = '';
+            for (const p of projects) {
+                const statusClass = getStatusBadgeClass(p.status);
+                const statusLabel = getStatusLabel(p.status);
+                const image = p.image || '/assets/images/projects/default-project.jpg';
+                html += `
+                    <div class="project-card">
+                        <div class="project-image">
+                            <img src="${image}" alt="${p.title}" loading="lazy" onerror="this.src='/assets/images/projects/default-project.jpg'" />
+                            <span class="status-badge ${statusClass}">${statusLabel}</span>
+                        </div>
+                        <div class="project-body">
+                            ${p.category ? `<div class="category">${p.category}</div>` : ''}
+                            <h3>${p.title}</h3>
+                            ${p.description ? `<p>${p.description}</p>` : ''}
+                            <div class="project-footer">
+                                ${p.link ? `<a href="${p.link}" class="project-link">Подробнее <i class="fas fa-arrow-right text-xs"></i></a>` : ''}
+                                ${p.partners ? `<span class="partners"><i class="fas fa-handshake mr-1"></i>${p.partners}</span>` : ''}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+            grid.innerHTML = html;
+        }
+
+        async function init() {
+            const projects = await loadProjects();
+            renderProjects(projects);
+        }
+
+        init();
+
+        // ---------- MOBILE MENU FALLBACK ----------
+        const mobileBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        if (mobileBtn && mobileMenu) {
+            mobileBtn.addEventListener('click', function() {
+                mobileMenu.classList.toggle('hidden');
+            });
+            mobileMenu.querySelectorAll('a').forEach(function(link) {
+                link.addEventListener('click', function() {
+                    mobileMenu.classList.add('hidden');
+                });
+            });
+        }
+
+    })();
+</script>
+
+{{ end }}

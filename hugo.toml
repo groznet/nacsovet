@@ -1,0 +1,197 @@
+baseURL = "https://www.nacsovet.ru/"
+languageCode = "ru-ru"
+title = "NacSovet"
+theme = "nacsovet"
+enableRobotsTXT = true
+defaultContentLanguage = "ru"
+hasCJKLanguage = false
+summaryLength = 70
+disableKinds = ["taxonomyTerm"]
+canonifyURLs = true
+pluralizeListTitles = false
+
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+
+[pagination]
+  pagerSize = 10
+
+##############################################
+# Site parameters
+##############################################
+[params]
+  siteName = "NacSovet"
+  siteDescription = "Официальный сайт Межрегиональной Ассоциации молодежных и детских общественных объединений «Национальный совет»"
+  author = "Муса Дунаев"
+  copyright = "© 2026 NacSovet"
+  defaultImage = "/images/og-default.jpg"
+  dateFormat = "02 Jan 2006"
+
+  email = "dunaev_ms@mail.ru"
+  phone = "8 (928) 780-56-07"
+  address = "ул. Ашхабадская, д. 11А, г. Грозный, Чеченская Республика"
+
+  [[params.social]]
+    name = "Instagram"
+    icon = "instagram"
+    url = "https://www.instagram.com/dunaevmusa"
+
+  [[params.social]]
+    name = "VK"
+    icon = "vk"
+    url = "https://vk.com/id196339167"
+
+  [[params.social]]
+    name = "Telegram"
+    icon = "telegram"
+    url = "https://t.me/nacsovet.ru"
+
+  [params.theme]
+    layout = "default"
+    colorScheme = "light"
+    logo = "/images/logo.png"
+    favicon = "/favicon.ico"
+
+  [params.sections]
+    showHero = true
+    showFeatures = true
+    showBlog = true
+    showTestimonials = false
+    showCTA = true
+
+  [params.newsletter]
+    enable = false
+
+##############################################
+# Taxonomies
+##############################################
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+  location = "locations"
+
+##############################################
+# Menus
+##############################################
+[menu]
+
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "О нас"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Новости"
+    url = "/news/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Мероприятия"
+    url = "/events/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Блог"
+    url = "/blog/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Контакты"
+    url = "/contact/"
+    weight = 6
+
+  [[menu.footer]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Политика конфиденциальности"
+    url = "/privacy/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Условия использования"
+    url = "/terms/"
+    weight = 3
+
+##############################################
+# Outputs
+##############################################
+[outputs]
+  home = ["HTML", "RSS"]
+
+##############################################
+# Sitemap
+##############################################
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+
+  [privacy.youtube]
+    privacyEnhanced = true
+
+##############################################
+# Deployment (GitHub Pages)
+##############################################
+[deployment]
+  [[deployment.targets]]
+    name = "production"
+    URL = "https://nacsovet.ru/"
+
+##############################################
+# Services
+##############################################
+[services]
+  [services.googleAnalytics]
+    id = "G-XXXXXXXXXX"
+
+##############################################
+# Languages
+##############################################
+[languages]
+  [languages.ru]
+    languageName = "Русский"
+    weight = 1
+    title = "NacSovet"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "NacSovet"
+
+##############################################
+# Minify
+##############################################
+[minify]
+  disableXML = true
+  tdewolff = { html = { keepWhitespace = false } }
+
+[caches]
+  [caches.getjson]
+    dir = ":resourceDir/_gen"
+    maxAge = "6h"
+
+[permalinks]
+  news = "/news/:year/:month/:slug/"

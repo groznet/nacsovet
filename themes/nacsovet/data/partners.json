@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ГрозНет",
+    "logo": "images/partners/groznet.svg",
+    "url": "https://groznet.ru",
+    "description": "Веб-разработка и digital-интеграция"
+  },
+  {
+    "name": "Беркут",
+    "logo": "images/partners/berkut.svg",
+    "url": "#",
+    "description": "Школа безопасности и охраны"
+  },
+  {
+    "name": "Поиск-ЧР",
+    "logo": "images/partners/poisk.svg",
+    "url": "#",
+    "description": "Региональное поисковое движение"
+  },
+  {
+    "name": "Рияда",
+    "logo": "images/partners/riyada.svg",
+    "url": "#",
+    "description": "Спортивная экипировка и инвентарь"
+  }
+]
