@@ -229,21 +229,25 @@
                         </span>
                     </summary>
                     
-                    <div class="mt-1 ml-4 pl-2 border-l border-gray-100 space-y-0.5">
-                        {{ range $yearGroup.Pages.GroupByDate "2006-01" }}
-                            {{ $date := time.AsTime (printf "%s-01" .Key) }}
-                            {{ $monthName := index $months ($date.Format "January") }}
-                            
-                            <div class="flex justify-between items-center px-2 py-1 rounded-lg hover:bg-gray-50 cursor-pointer transition group/month" data-archive="{{ .Key }}">
-                                <span class="text-gray-600 group-hover/month:text-primary transition text-xs">
-                                    {{ $monthName }}
-                                </span>
-                                <span class="text-[10px] text-gray-400 bg-gray-100 px-1.5 py-0.2 rounded-full">
-                                    {{ len .Pages }}
-                                </span>
-                            </div>
-                        {{ end }}
-                    </div>
+<div class="mt-1 ml-4 pl-2 border-l border-gray-100 space-y-0.5">
+    {{ range $yearGroup.Pages.GroupByDate "2006-01" }}
+        {{ $date := time.AsTime (printf "%s-01" .Key) }}
+        {{ $monthName := index $months ($date.Format "January") }}
+        {{ $year := $date.Format "2006" }}
+        {{ $monthNum := $date.Format "01" }}
+        
+        <a href="{{ relURL (printf "/news/%s/%s/" $year $monthNum) }}" 
+           class="flex justify-between items-center px-2 py-1 rounded-lg hover:bg-gray-50 cursor-pointer transition group/month block" 
+           data-archive="{{ .Key }}">
+            <span class="text-gray-600 group-hover/month:text-primary transition text-xs">
+                {{ $monthName }}
+            </span>
+            <span class="text-[10px] text-gray-400 bg-gray-100 px-1.5 py-0.2 rounded-full">
+                {{ len .Pages }}
+            </span>
+        </a>
+    {{ end }}
+</div>
                 </details>
             {{ end }}
         </div>
