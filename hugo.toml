@@ -1,4 +1,4 @@
-baseURL = "https://www.nacsovet.ru/"
+baseURL = "https://nacsovet.ru/"
 languageCode = "ru-ru"
 title = "NacSovet"
 theme = "nacsovet"
