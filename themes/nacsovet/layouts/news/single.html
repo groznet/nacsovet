@@ -235,7 +235,7 @@
                                     {{ $imgUrl = printf "%s/%simages/%s" $cdn $dir . }}
                                 {{ end }}
                                 <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                                    <a href="{{ $imgUrl }}" target="_blank" rel="noopener">
+                                    <a href="{{ $imgUrl }}" rel="noopener">
                                         <img src="{{ $imgUrl }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
                                 </figure>

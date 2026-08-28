@@ -1,3 +1,8 @@
+# Add a slug field to each news post's front matter when one is missing,
+# generating it from the post title (or a fallback identifier if the title
+# is empty), truncating slugs to the configured maximum length, and saving
+# the updated Markdown files.
+
 from pathlib import Path
 from slugify import slugify
 
