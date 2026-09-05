@@ -16,7 +16,7 @@ The script starts at `content/news`. Instead of scanning every single folder (wh
 ### 2. URL Construction
 
 Once it finds a post, e.g., `content/news/2026/03/my-new-event`, it calculates the matching remote URL:
-`https://files.groznet.com/poiskchr/news/2026/03/my-new-event/images/`
+`https://ci21392.tw1.ru/poiskchr/news/2026/03/my-new-event/images/`
 
 ### 3. Remote Scraping (The "Bot" Phase)
 
@@ -39,7 +39,7 @@ Finally, it takes that list of filenames and writes a `gallery.json` file **loca
 
 ### Regular Workflow
 
-1. **Upload Media:** Upload your `feature.jpg` and `images/` folder to your server (`files.groznet.com`).
+1. **Upload Media:** Upload your `feature.jpg` and `images/` folder to your server (`files.example.com`).
 2. **Create Post:** Create your Hugo post locally (e.g., `hugo new news/2026/03/my-post/index.md`).
 3. **Run Script:** Execute the Python script:
 ```bash
