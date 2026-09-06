@@ -1,18 +1,15 @@
 +++
-date = 2022-04-20T23:01:00-08:00
+date = "2022-04-20T23:01:00-08:00"
 draft = false
-title = 'Доброй ночи'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4493"
+title = "Доброй ночи!"
+slug = "доброй-ночи"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Доброй ночи!
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

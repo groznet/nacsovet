@@ -1,10 +1,12 @@
 +++
-date = 2023-01-18T15:20:00-08:00
+date = "2023-01-18T15:20:00-08:00"
 draft = false
-title = 'Друзья, в Администрации Главы и Правительства ЧР  с заместит'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5901"
+title = "Друзья, в Администрации Главы и Правительства ЧР  с заместит"
+slug = "друзья-в-администрации-главы-и-правительства-чр-с-заместит"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья, в Администрации Главы и Правительства ЧР  с заместителем руководителя  Гадуевым Салманом и начальником отдела внутренней политики Арсанукаевым Исой обсудили развитие интеллектуального движения как в республике, так и в стране целом. 
@@ -19,11 +21,6 @@ title = 'Друзья, в Администрации Главы и Правит�
 #маоонацсовет 
 
 @adminchr @kabmin_chr @parlament_chr @minsportmol95 [club119042965|@grozmer] [id736198518|@depobr_grozny] @groznygimn12 [club42535075|@groznytv] @linguistic_school95  [id295988085|@deprel_95] @opchr_95 @minobrnauki_95 @minnacinform_chr @youthchr_nacsovet  [club211773886|@irskom] @intellektualny_kavkaz [club61650283|@er_chechnya] @daymohk_online @lara_dmoda
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2021-12-15T18:36:00-08:00
+date = "2021-12-15T18:36:00-08:00"
 draft = false
-title = 'Дорогие друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4246"
+title = "Дорогие друзья!"
+slug = "дорогие-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дорогие друзья!
@@ -38,8 +40,3 @@ title = 'Дорогие друзья'
 
  Оргкомитет интеллектуальных игр в ЧР: @youthchr_nacsovet @intellektualny_kavkaz @intellektualny_centre_scfo @chroo_sm @mmoo_patriot_
 @gkrrussia [club150060071|@oficeryofficial] @dunaevmusa #интеллектуальныйкавказ @muzaevsaidmagomed @madina_hasanova_er
-
-## Вложения
-
-![](images/featured.jpg)
-

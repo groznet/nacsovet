@@ -1,10 +1,12 @@
 +++
-date = 2020-11-27T21:04:00-08:00
+date = "2020-11-27T21:04:00-08:00"
 draft = false
-title = 'Дорогие друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4062"
+title = "Дорогие друзья!"
+slug = "дорогие-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дорогие друзья! 
@@ -17,12 +19,3 @@ title = 'Дорогие друзья'
 - Мударова Хава @eva_mudarova ;
 - Ахмадов Бекхан @1abdul1aziz ; 
 - Хасанова Мадина @hasanova_madina__
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239260)
-

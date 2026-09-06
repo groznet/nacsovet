@@ -1,10 +1,12 @@
 +++
-date = 2021-03-25T21:42:00-08:00
+date = "2021-03-25T21:42:00-08:00"
 draft = false
-title = 'Ассаламу алейкум'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4135"
+title = "Ассаламу алейкум!"
+slug = "ассаламу-алейкум"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ассаламу алейкум! 
@@ -27,12 +29,3 @@ title = 'Ассаламу алейкум'
 Да пребудет с вами сила интеллекта🎩✅🤚🏻🏆🥇🥈🥉
 
 @hasanova_madina__ @chroo_sm @mmoo_patriot_ @dunaev.95 #Брэйнрингчр #интеллектуальныеигры
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-

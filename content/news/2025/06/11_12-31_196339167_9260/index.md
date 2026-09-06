@@ -1,10 +1,12 @@
 +++
-date = 2025-06-11T12:31:00-08:00
+date = "2025-06-11T12:31:00-08:00"
 draft = false
-title = 'Ассаламу Алейкум'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9260"
+title = "Ассаламу Алейкум!"
+slug = "ассаламу-алейкум"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ассаламу Алейкум! 
@@ -17,8 +19,3 @@ title = 'Ассаламу Алейкум'
 
 ИНСТРУКЦИЯ ⬇️ 
 https://disk.yandex.ru/d/y8Hmmsi4Csc46Q
-
-## Вложения
-
-![](images/featured.jpg)
-

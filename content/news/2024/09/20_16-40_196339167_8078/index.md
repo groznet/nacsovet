@@ -1,10 +1,12 @@
 +++
-date = 2024-09-20T16:40:00-08:00
+date = "2024-09-20T16:40:00-08:00"
 draft = false
-title = 'СОШ N 16  г. Грозного, 20 сентябрь  2024 год., проект межрег'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8078"
+title = "СОШ N 16  г. Грозного, 20 сентябрь  2024 год., проект межрег"
+slug = "сош-n-16-г-грозного-20-сентябрь-2024-год-проект-межрег"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ N 16  г. Грозного, 20 сентябрь  2024 год., проект межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный» от Президентского фонда культурных инициатив.
@@ -14,9 +16,3 @@ title = 'СОШ N 16  г. Грозного, 20 сентябрь  2024 год., �
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕРРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95]) @opchr.ru [id339261382|@daymohk_chr]  @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 ([club42535075|@groznytv] [club89240801|@vesti_respubliki_chr]) [id736198518|@depobr_grozny] [club224863102|@minmol95]) @ggntu_official [club58127113|@chgu_official] [club58127113|@chgu_official] @grozny_inform
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240767)
-

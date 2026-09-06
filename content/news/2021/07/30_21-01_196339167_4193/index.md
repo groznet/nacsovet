@@ -1,10 +1,12 @@
 +++
-date = 2021-07-30T21:01:00-08:00
+date = "2021-07-30T21:01:00-08:00"
 draft = false
-title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4193"
+title = "ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️"
+slug = "господа-интеллектуалы-внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️ 
@@ -13,11 +15,6 @@ title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️
 
  Добро пожаловать в интеллектуальный мир! Да пребудет с вами сила интеллекта 🏆✅🎩⭐️⚡️ 
  #россия🇷🇺 #70летАхиатХаджи #команданацсовета [id339261382|@daymohk_chr] @zakriev_hamzat_95 [id104980503|@irskom] [club61650283|@er_chechnya] @beriauto95 @shtory_style_home @isma_school @intellektualny_kavkaz @intellektualny_centre_scfo #интеллектуальныйкавказ @muzaevsaidmagomed @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет @gkrrussia #роофицерыроссиивчр🇷🇺 #поисковикичр @dunaevmusa [club42535075|@groznytv] @noh_che @minsport_mol_chr @minobrnauki_95 @i.baysultanov_95 @minnacinform_chr [club204804052|@ahmed_95kra] [club204804188|@bugor_jr] [club203108194|@isa_k669ra] @deprel_95 @opchr_95 [id508910309|@idenilkhanov] [club85324860|@rgo95] @chroo_sm @mmoo_patriot_
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2021-04-20T12:34:00-08:00
+date = "2021-04-20T12:34:00-08:00"
 draft = false
-title = 'Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_offici'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4149"
+title = "Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_offici"
+slug = "друзья-19-04-2021-г-в-ифип-chspu-ifip-чгпу-chspu-offici"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_official @ibaykhanov прошла Интеллектуальная игра «Киномания». 
@@ -16,13 +18,3 @@ title = 'Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_o
  Да пребудет с вами сила интеллекта 💯🎩 
 
 #интеллектуальныеигры #киномания #чгпу95 #маоонациональныйсовет #интеллектуальныйкавказ @chroo_sm @hasanova_madina__ @mmoo_patriot_ @dunaev.95
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-

@@ -1,10 +1,12 @@
 +++
-date = 2021-11-10T21:23:00-08:00
+date = "2021-11-10T21:23:00-08:00"
 draft = false
-title = 'Господа интеллектуалы ❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4228"
+title = "Господа интеллектуалы ❗️"
+slug = "господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Господа интеллектуалы ❗️
@@ -16,8 +18,3 @@ title = 'Господа интеллектуалы ❗️'
 Воистину, мы (оргкомитет интеллектуальных игр в республике) благодарны вам [club42535075|@groznytv] @khaizuran.groznytv , партнёрам @minobrnauki_95 @i.baysulltanov_95 [id422063213|@minmolodezhi_95] [club203108194|@isa_k669ra] @opchr_95 [id508910309|@idenilkhanov] @national_library_chechnya @intellektualny_kavkaz @intellektualny_centre_scfo @muzaevsaidmagomed, спонсорам [id104980503|@irskom] [id339261382|@daymohk_chr] @zakriev_hamzat_95 @isma_school @beriauto95 [club205246856|@ochag__predkov] @shtory_style_home , воистину, мы делаем вместе благородное дело. Нам, действительно, нужна грамотная молодёжь, ведь и вправду, завтрашний день у нашей молодёжи...
 
 #70летахматхаджи [club204780466|@ya_pomoshnik_kra_95] #россия🇷🇺 #чеченскаяреспублика #грозный #маоонациональныйсовет #маоонацсовет #нацсоветчр #нацсовет #гражданскийкомитетроссии #поисковикичр #роофицерыроссиивчр🇷🇺 #офицерыроссии #интеллектуальныйкавказ @pgrants_ru #фондпрезидентскихгрантов @islam_mission_ru #международнаяисламскаямиссия [club49388164|@rosmolodez] #росмолодежь🇷🇺 @youthchr_nacsovet @dunaevmusa #дунаевмуса
-
-## Вложения
-
-![](images/featured.jpg)
-

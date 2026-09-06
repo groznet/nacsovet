@@ -1,10 +1,12 @@
 +++
-date = 2021-11-26T17:45:00-08:00
+date = "2021-11-26T17:45:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4237"
+title = "ВНИМАНИЕ❗️❗️❗️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ❗️❗️❗️
@@ -22,8 +24,3 @@ title = 'ВНИМАНИЕ❗️❗️❗️'
 [club85324860|@rgo95] @molodezhka_onf_95 [id339261382|@daymohk_chr] @chro_voi @l_dialog @sosh_23_grozny @chroo_sm @mmoo_patriot_ #80% #МЫ #ГСВГ#сборнаясош #резонанс 
 
 @youthchr_nacsovet @intellektualny_kavkaz @intellektualny_centre_scfo @dunaevmusa @muzaevsaidmagomed
-
-## Вложения
-
-![](images/featured.jpg)
-

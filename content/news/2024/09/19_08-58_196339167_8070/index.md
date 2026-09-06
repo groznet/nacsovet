@@ -1,10 +1,12 @@
 +++
-date = 2024-09-19T08:58:00-08:00
+date = "2024-09-19T08:58:00-08:00"
 draft = false
-title = 'В СОШ N 23 г. Грозного, 13 сентября текущего года дан старт'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8070"
+title = "В СОШ N 23 г. Грозного, 13 сентября текущего года дан старт"
+slug = "в-сош-n-23-г-грозного-13-сентября-текущего-года-дан-старт"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 В СОШ N 23 г. Грозного, 13 сентября текущего года дан старт проекта межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный». Поздравляю президента клуба, руководителя проекта Л-А. Мовлатова с победой в конкурсе Президентского фонда культурных инициатив.  Важность и значимость проекта  лежит в основе названии проекта «ЛИДЕР ЧТЕНИЯ». 
@@ -16,19 +18,6 @@ title = 'В СОШ N 23 г. Грозного, 13 сентября текущег
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕРРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 [id295988085|@deprel_95] @opchr.ru [id339261382|@daymohk_chr] @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @minzdrav_95 @ggntu_official [club58127113|@chgu_official] [club58127113|@chgu_official]
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-
 
 ## Комментарии
 

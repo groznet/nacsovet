@@ -1,10 +1,12 @@
 +++
-date = 2022-12-24T21:54:00-08:00
+date = "2022-12-24T21:54:00-08:00"
 draft = false
-title = 'Добро пожаловать в мир интеллекта'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5744"
+title = "Добро пожаловать в мир интеллекта!"
+slug = "добро-пожаловать-в-мир-интеллекта"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Добро пожаловать в мир интеллекта!
@@ -26,15 +28,6 @@ title = 'Добро пожаловать в мир интеллекта'
 Да пребудет с вами сила интеллекта!
 
 @minsportmol95 @national_library_chechnya @youthchr_nacsovet
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-
 
 ## Комментарии
 

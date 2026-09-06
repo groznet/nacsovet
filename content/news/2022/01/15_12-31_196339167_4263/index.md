@@ -1,10 +1,12 @@
 +++
-date = 2022-01-15T12:31:00-08:00
+date = "2022-01-15T12:31:00-08:00"
 draft = false
-title = 'СОШ 16 @sosh_16_.grozny г. Грозный, проект от Фонда Президен'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4263"
+title = "СОШ 16 @sosh_16_.grozny г. Грозный, проект от Фонда Президен"
+slug = "сош-16-sosh-16-grozny-г-грозный-проект-от-фонда-президен"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ 16 @sosh_16_.grozny г. Грозный, проект от Фонда Президентских грантов «Я и этот мир». 
@@ -15,12 +17,3 @@ title = 'СОШ 16 @sosh_16_.grozny г. Грозный, проект от Фон
 @minobrnauki_95 @daaev_minobr 
 [club42535075|@groznytv] @deprel_95 @aslan_abdulaev_95 
 @gkrrussia #поисковикичр #маоонацсовет #интеллектуальныйкавказ #интеллектуальныйцентрскфо @youthchr_nacsovet @pgrants_ru #фондпрезидентскихгрантов
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-

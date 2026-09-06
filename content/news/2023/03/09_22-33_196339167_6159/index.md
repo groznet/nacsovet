@@ -1,10 +1,12 @@
 +++
-date = 2023-03-09T22:33:00-08:00
+date = "2023-03-09T22:33:00-08:00"
 draft = false
-title = 'ДОБРО ПОЖАЛОВАТЬ В МИР ИНТЕЛЛЕКТА❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_6159"
+title = "ДОБРО ПОЖАЛОВАТЬ В МИР ИНТЕЛЛЕКТА❗️"
+slug = "добро-пожаловать-в-мир-интеллекта"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ДОБРО ПОЖАЛОВАТЬ В МИР ИНТЕЛЛЕКТА❗️ 
@@ -16,20 +18,6 @@ title = 'ДОБРО ПОЖАЛОВАТЬ В МИР ИНТЕЛЛЕКТА❗️'
 #РОССИЯ🇷🇺 #админчр #кабминчр  #грозмэр #депобраз #интеллектуальнаяроссия #маоонациональныйсовет #интеллектуальныйкавказ #интеллектуальныйцентрскфо
 
 [club119042965|@grozmer] [id736198518|@depobr_grozny] [club42535075|@groznytv] @timuraliev1973 @intellektualny_kavkaz @youthchr_nacsovet @dunaevmusa @muzaevsaidmagomed
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-![](images/image-09.jpg)
-
 
 ## Комментарии
 

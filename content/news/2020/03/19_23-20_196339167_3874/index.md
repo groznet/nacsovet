@@ -1,10 +1,12 @@
 +++
-date = 2020-03-19T23:20:00-08:00
+date = "2020-03-19T23:20:00-08:00"
 draft = false
-title = '#Repost @youthchr_nacsovet ([club188253483|@get_repost'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_3874"
+title = "#Repost @youthchr_nacsovet ([club188253483|@get_repost])"
+slug = "repost-youthchr-nacsovet-club188253483-get-repost"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @youthchr_nacsovet ([club188253483|@get_repost])
@@ -21,8 +23,3 @@ title = '#Repost @youthchr_nacsovet ([club188253483|@get_repost'
 @intellektualny_kavkaz
 
 #КадыровРамзан#Чечня#Грозный#ММООПатриот#МАООНацСовет#СоюзМолодежиЧР#ФОНДПРЕЗИДЕНТСКИХГРАНТОВ @pgrants_ru#ЦРОИСЛАМСКАЯМИССИЯ @islam_mission_ru#РОСМОЛОДЕЖЬ @rosmolodez#МинОбразованияНаукиЧР [club167915299|@minobrnauki] #МинМолодежиЧР @minmolodezhi_95#МинНацЧР @minnac_95#ДепаретаментПоСвязямсРелигиознымиОбщественнымиОрганизациямиАдминистрацииГлавыПравительстваЧР @deprel_95#ОбщественнаяПалата @opchr_95#ЧГТРКГрозный@groznytv [club41816880|@grozny_inform] @utro_s_groznym
-
-## Вложения
-
-![](images/featured.jpg)
-

@@ -1,15 +1,12 @@
 +++
-date = 2016-07-22T11:21:00-08:00
+date = "2016-07-22T11:21:00-08:00"
 draft = false
-title = 'На форуме #онф'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_1217"
+title = "На форуме #онф"
+slug = "на-форуме-онф"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 На форуме #онф
-
-## Вложения
-
-![](images/featured.jpg)
-

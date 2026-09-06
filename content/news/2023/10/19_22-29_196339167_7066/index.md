@@ -1,10 +1,12 @@
 +++
-date = 2023-10-19T22:29:00-08:00
+date = "2023-10-19T22:29:00-08:00"
 draft = false
-title = '@timuraliev1973 @tropami_predkov'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7066"
+title = "@timuraliev1973 @tropami_predkov"
+slug = "timuraliev1973-tropami-predkov"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 @timuraliev1973 @tropami_predkov
@@ -15,16 +17,6 @@ title = '@timuraliev1973 @tropami_predkov'
 Историко-географическая экспедиция «Тропами предков» была создана в 2022 году под эгидой Совета при Главе ЧР по развитию гражданского обшества и правам человека. Её целями были объявлены вовлечение широких масс населения Чеченской Республики в изучение родного края, популяризация внутреннего туризма, содействие научному сообществу в исследованиях горной местности республики»…
 
 @intellektualny_kavkaz @youthchr_nacsovet @muzaevsaidmagomed @dunaevmusa  #маоонациональныйсовет #маоонацсовет #интеллектуальныйкавказ #интеллектуальныйцентрскфо
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-
 
 ## Комментарии
 

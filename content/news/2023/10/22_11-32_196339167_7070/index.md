@@ -1,15 +1,11 @@
 +++
-date = 2023-10-22T11:32:00-08:00
+date = "2023-10-22T11:32:00-08:00"
 draft = false
-title = 'Без названия'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7070"
+title = "Без названия"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
-
-
-## Вложения
-
-- [Ссылка](https://instagram.com/p/CynIZGCAB4D/)
 

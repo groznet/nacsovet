@@ -1,10 +1,12 @@
 +++
-date = 2021-12-31T20:10:00-08:00
+date = "2021-12-31T20:10:00-08:00"
 draft = false
-title = 'Воистину, что может быть лучше, чем закончить календарный го'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4251"
+title = "Воистину, что может быть лучше, чем закончить календарный го"
+slug = "воистину-что-может-быть-лучше-чем-закончить-календарный-го"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Воистину, что может быть лучше, чем закончить календарный год за богоугодной работой.
@@ -18,13 +20,3 @@ title = 'Воистину, что может быть лучше, чем зак�
 ВЕЗАЧУ АЛЛАХА ДИКАНЦА БЕКХАМА БОЙЛА ШУНА 🤲❗️
 
 #команданацсовета #маоонациональныйсовет #гражданскийкомитетроссии @youthchr_nacsovet @intellektualny_kavkaz @intellektualny_centre_scfo @mmoo_patriot_ @chroo_sm @chro_voi @madkslovo @_nashdomgorodgrozny @soiuz_roditeley @l_dialog @molodezhka_onf_95 @isa_sardalov @muzaevsaidmagomed @madina_hasanova_er @rssmp_chr @dunaevmusa
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239339)
-![](videos/video-02-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239340)
-![](videos/video-03-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239341)
-

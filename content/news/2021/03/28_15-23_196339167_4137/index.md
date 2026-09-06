@@ -1,10 +1,12 @@
 +++
-date = 2021-03-28T15:23:00-08:00
+date = "2021-03-28T15:23:00-08:00"
 draft = false
-title = 'Ассаламу алейкум'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4137"
+title = "Ассаламу алейкум!"
+slug = "ассаламу-алеи-кум"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ассаламу алейкум! 
@@ -18,9 +20,3 @@ title = 'Ассаламу алейкум'
   Также благодарны партнерам: @parlament_chr @admin.chr [club119042965|@grozmer] @minsport_mol_chr @bugor_jr @opchr_95 [id508910309|@idenilkhanov] @deprel_95 @mininform_chr [club42535075|@groznytv] @iliastaaev @zakriev_hamzat_95 @aslan_abdulaev_95 _ за поддержку деятельности @youthchr_nacsovet . 
 
 #россия🇷🇺 #маоонациональныйсовет #маоонацсовет @dunaevmusa #дунаевмуса @intellektualny_centre_scfo @intellektualny_kavkaz @muzaevsaidmagomed #маоонацсовет @dunaevmusa #дунаевмуса @intellektualny_centre_scfo @intellektualny_kavkaz @muzaevsaidmagomed
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239280)
-

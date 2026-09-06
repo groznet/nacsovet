@@ -1,21 +1,15 @@
 +++
-date = 2022-07-27T18:54:00-08:00
+date = "2022-07-27T18:54:00-08:00"
 draft = false
-title = 'Дубай, день первый'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5035"
+title = "Дубай, день первый!"
+slug = "дубай-день-первый"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дубай, день первый!
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239619)
-![](videos/video-02-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239620)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2020-05-08T08:48:00-08:00
+date = "2020-05-08T08:48:00-08:00"
 draft = false
-title = 'Дорогие друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_3911"
+title = "Дорогие друзья!"
+slug = "дорогие-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дорогие друзья! 
@@ -27,15 +29,3 @@ title = 'Дорогие друзья'
 [club98959944|@dobroinrussia] 
 @deprel_95 @aslan_abdulaev_95 @ismail_85_95 
 #чгтркгрозный [club42535075|@groznytv] @grozny_inform [club174135054|@utronew] #гражданскийкомитетроссии #гкр [club7438074|@youthrussia] #терскийрубеж #поисковоедвижениечечни #чровои @chro_voi @chro_voi
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239178)
-![](videos/video-02-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239179)
-![](videos/video-03-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239180)
-![](videos/video-04-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239181)
-

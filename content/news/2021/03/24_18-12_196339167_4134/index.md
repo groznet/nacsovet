@@ -1,10 +1,12 @@
 +++
-date = 2021-03-24T18:12:00-08:00
+date = "2021-03-24T18:12:00-08:00"
 draft = false
-title = 'Ассаламу алейкум! Господа интеллектуалы'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4134"
+title = "Ассаламу алейкум! Господа интеллектуалы!"
+slug = "ассаламу-алейкум-господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ассаламу алейкум! Господа интеллектуалы! 
@@ -18,8 +20,3 @@ title = 'Ассаламу алейкум! Господа интеллектуа�
 Да пребудет с вами сила интеллекта! 
 
 @adminchr @parlament_chr [club119042965|@grozmer] @minobrnauki_95 @minsport_mol_chr @deprel_95 @opchr_95 [id339261382|@daymohk_chr] @youthchr_nacsovet @intellektualny_kavkaz @chroo_sm @mmoo_patriot_ [club150060071|@oficeryofficial] #гражданскийкомитетроссии
-
-## Вложения
-
-![](images/featured.jpg)
-

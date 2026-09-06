@@ -1,10 +1,12 @@
 +++
-date = 2022-12-12T14:50:00-08:00
+date = "2022-12-12T14:50:00-08:00"
 draft = false
-title = 'ВЫСШАЯ ЛИГА, ГОСПОДА ИНТЕЛЛЕКТУАЛЫ'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5626"
+title = "ВЫСШАЯ ЛИГА, ГОСПОДА ИНТЕЛЛЕКТУАЛЫ!"
+slug = "высшая-лига-господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВЫСШАЯ ЛИГА, ГОСПОДА ИНТЕЛЛЕКТУАЛЫ!
@@ -14,14 +16,6 @@ title = 'ВЫСШАЯ ЛИГА, ГОСПОДА ИНТЕЛЛЕКТУАЛЫ'
 В первых двух, становилась команда «Амперсанд», капитан команды Музаев Сайдмагомед- директор межрегионального интеллектуального центра СКФО .
 
 @adminchr @parlament_chr @kabmin_chr @minobrnauki_95 @minsportmol95 @national_library_chechnya [club42535075|@groznytv] @youthchr_nacsovet @intellektualny_kavkaz @lara_dmoda [id339261382|@daymohk_chr] [club211773886|@irskom]
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-
 
 ## Комментарии
 

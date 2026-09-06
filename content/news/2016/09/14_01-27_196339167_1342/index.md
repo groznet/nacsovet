@@ -1,15 +1,12 @@
 +++
-date = 2016-09-14T01:27:00-08:00
+date = "2016-09-14T01:27:00-08:00"
 draft = false
-title = 'Ведучи'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_1342"
+title = "Ведучи!!!"
+slug = "ведучи"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ведучи!!!
-
-## Вложения
-
-![](images/featured.jpg)
-

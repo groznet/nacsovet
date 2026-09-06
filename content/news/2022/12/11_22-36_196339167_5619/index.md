@@ -1,10 +1,12 @@
 +++
-date = 2022-12-11T22:36:00-08:00
+date = "2022-12-11T22:36:00-08:00"
 draft = false
-title = 'Дамы и господа, уважаемые интеллектуалы, высшая лига - ФИНАЛ'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5619"
+title = "Дамы и господа, уважаемые интеллектуалы, высшая лига - ФИНАЛ"
+slug = "дамы-и-господа-уважаемые-интеллектуалы-высшая-лига-финал"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дамы и господа, уважаемые интеллектуалы, высшая лига - ФИНАЛ! 
@@ -14,12 +16,6 @@ title = 'Дамы и господа, уважаемые интеллектуал
 Играйте в интеллектуальные игры и да пребудет с вами сила интеллекта! 
 
 @adminchr @parlament_chr @kabmin_chr @minobrnauki_95 @minsportmol95 @national_library_chechnya [club42535075|@groznytv] @youthchr_nacsovet @intellektualny_kavkaz @lara_dmoda [club211773886|@irskom] [id339261382|@daymohk_chr]
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239811)
-
 
 ## Комментарии
 

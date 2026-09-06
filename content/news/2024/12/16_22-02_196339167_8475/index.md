@@ -1,10 +1,11 @@
 +++
-date = 2024-12-16T22:02:00-08:00
+date = "2024-12-16T22:02:00-08:00"
 draft = false
-title = '16 декабря 2024 года в ДДТ Байсангурского района'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8475"
+title = "16 декабря 2024 года в ДДТ Байсангурского района"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 16 декабря 2024 года в ДДТ Байсангурского района
@@ -16,11 +17,6 @@ title = '16 декабря 2024 года в ДДТ Байсангурского 
 @adminchr @gkrrussia @youthchr_nacsovet
 [club224374831|Deprel_95]  @opchr.ru @dunaevmusa
  [id736198518|@depobr_grozny]
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

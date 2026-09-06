@@ -1,0 +1,44 @@
+{{/*
+    Возвращает медиа поста одним словарём:
+        featured — URL обложки ("" если нет)
+        images   — срез абсолютных URL галереи
+        videos   — срез словарей {src, poster, name}
+
+    Источник — media.json внутри page bundle. Если его нет,
+    обложка ищется среди локальных ресурсов поста.
+
+    Использование:
+        {{ $media := partial "post-media.html" . }}
+        {{ $media.featured }}
+*/}}
+
+{{ $page := . }}
+{{ $featured := "" }}
+{{ $images := slice }}
+{{ $videos := slice }}
+
+{{ with $page.Resources.GetMatch "media.json" }}
+    {{ $data := .Content | transform.Unmarshal }}
+    {{ with $data.featured }}{{ $featured = . }}{{ end }}
+    {{ with $data.images }}{{ $images = . }}{{ end }}
+    {{ with $data.videos }}{{ $videos = . }}{{ end }}
+{{ end }}
+
+{{/* Запасные варианты, если media.json ещё не сгенерирован */}}
+{{ if not $featured }}
+    {{ with $page.Resources.GetMatch "featured.*" }}
+        {{ $featured = .RelPermalink }}
+    {{ end }}
+{{ end }}
+{{ if not $featured }}
+    {{ with $page.Resources.ByType "image" }}
+        {{ $featured = (index . 0).RelPermalink }}
+    {{ end }}
+{{ end }}
+{{ if not $featured }}
+    {{ with $page.Params.image }}
+        {{ $featured = . | relURL }}
+    {{ end }}
+{{ end }}
+
+{{ return dict "featured" $featured "images" $images "videos" $videos }}

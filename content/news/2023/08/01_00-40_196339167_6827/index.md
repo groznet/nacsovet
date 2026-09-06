@@ -1,10 +1,12 @@
 +++
-date = 2023-08-01T00:40:00-08:00
+date = "2023-08-01T00:40:00-08:00"
 draft = false
-title = 'Межрегиональный турнир «Знай наших» по интеллектуальной игре'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_6827"
+title = "Межрегиональный турнир «Знай наших» по интеллектуальной игре"
+slug = "межрегиональный-турнир-знай-наших-по-интеллектуальной-игре"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Межрегиональный турнир «Знай наших» по интеллектуальной игре «Своя игра», болеем за наших…
@@ -16,9 +18,3 @@ title = 'Межрегиональный турнир «Знай наших» п�
 @youthchr_nacsovet @intellektualny_kavkaz @albus_club @muzaevsaidmagomed @dunaevmusa 
 
 Партнёры и спонсоры: @minsportmol95 [club42535075|@groznytv] [id295988085|@deprel_95] @timuraliev1973 @za_.kadyrova_95eng [club211773886|@irskom] @lara_dmoda @kid_shop.95
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240191)
-

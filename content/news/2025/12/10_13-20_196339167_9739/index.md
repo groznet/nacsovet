@@ -1,10 +1,12 @@
 +++
-date = 2025-12-10T13:20:00-08:00
+date = "2025-12-10T13:20:00-08:00"
 draft = false
-title = 'Ассаламу алейкум, друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9739"
+title = "Ассаламу алейкум, друзья!"
+slug = "ассаламу-алейкум-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Ассаламу алейкум, друзья!
@@ -20,8 +22,3 @@ Likee, TikTok, YouTube, ВКонтакте, Одноклассники, Telegram
 
 📄 Полный текст закона:
 👉 http://kremlin.ru/acts/bank/50930
-
-## Вложения
-
-![](images/featured.jpg)
-

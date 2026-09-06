@@ -1,0 +1,12 @@
+{
+  "base_url": "https://files.groznet.com/nacsovet/news/2025/12/30_20-00_196339167_9783",
+  "featured": "https://files.groznet.com/nacsovet/news/2025/12/30_20-00_196339167_9783/videos/video-01-thumb.jpg",
+  "images": [],
+  "videos": [
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2025/12/30_20-00_196339167_9783/videos/video-1.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2025/12/30_20-00_196339167_9783/videos/video-01-thumb.jpg",
+      "name": "video-1.mp4"
+    }
+  ]
+}

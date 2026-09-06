@@ -1,15 +1,12 @@
 +++
-date = 2017-07-22T19:20:00-08:00
+date = "2017-07-22T19:20:00-08:00"
 draft = false
-title = 'На старте'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_2577"
+title = "На старте..."
+slug = "на-старте"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 На старте...
-
-## Вложения
-
-![](images/featured.jpg)
-

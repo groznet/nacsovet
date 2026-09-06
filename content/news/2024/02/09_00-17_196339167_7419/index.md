@@ -1,10 +1,12 @@
 +++
-date = 2024-02-09T00:17:00-08:00
+date = "2024-02-09T00:17:00-08:00"
 draft = false
-title = '@linguistic_school95 Команда Лингвистической школы стала поб'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7419"
+title = "@linguistic_school95 Команда Лингвистической школы стала поб"
+slug = "linguistic-school95-команда-лингвистической-школы-стала-поб"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 @linguistic_school95 Команда Лингвистической школы стала победителем межрегионального турнира СКФО «Я и этот мир» по интеллектуальной игре «Что? Где?
@@ -17,14 +19,3 @@ title = '@linguistic_school95 Команда Лингвистической шк
 ПАРТНЕРЫ: @adminchr @kabmin_chr @parlament_chr [club119042965|@grozmer] @minsportmol95 [id295988085|@deprel_95] @minnacinform_chr @minobrnauki_95 [id736198518|@depobr_grozny] @groznyt @national_library_chechnya 
 
 СПОНСОРЫ: @xexarxo.vu [club211773886|@irskom] @kid_shop.95
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-

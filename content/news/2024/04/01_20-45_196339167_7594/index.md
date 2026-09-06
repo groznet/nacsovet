@@ -1,10 +1,12 @@
 +++
-date = 2024-04-01T20:45:00-08:00
+date = "2024-04-01T20:45:00-08:00"
 draft = false
-title = 'Друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7594"
+title = "Друзья!"
+slug = "друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья!
@@ -35,12 +37,6 @@ title = 'Друзья'
 5. Если не можете ввести ответ  -  ОБНОВИТЕ страницу
 6. Обязательно должен быть хороший устойчивый интернет!
 Успехов и удачи в игре!
-
-## Вложения
-
-![](images/featured.jpg)
-- [Ссылка](https://lk.znanierussia.ru/login?invitation_token=a872f4862283e7d0ca46aafd70efd64bad3b4d3c3ca396aefd970ecb42f90108)
-
 
 ## Комментарии
 

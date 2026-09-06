@@ -1,10 +1,12 @@
 +++
-date = 2021-01-22T06:12:00-08:00
+date = "2021-01-22T06:12:00-08:00"
 draft = false
-title = '#Repost [id508910309|@idenilkhanov'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4106"
+title = "#Repost [id508910309|@idenilkhanov]"
+slug = "repost-id508910309-idenilkhanov"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost [id508910309|@idenilkhanov]
@@ -28,9 +30,3 @@ title = '#Repost [id508910309|@idenilkhanov'
 @dunaevmusa @youthchr_nacsovet @molodezhka_onf_95 @ibragimbazaew [id339261382|@daymohk_chr] @fond_hayra @onfchr @zakriev_hamzat_95 [id507332371|@marimatsaeva] @movsar_ibragimov__er 
 
 #опчр #Общественнаяпалата #молодежкаонф #мывместе #правоваязащита #правачеловека
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239271)
-

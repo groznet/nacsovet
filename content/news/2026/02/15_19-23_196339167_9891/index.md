@@ -1,10 +1,12 @@
 +++
-date = 2026-02-15T19:23:00-08:00
+date = "2026-02-15T19:23:00-08:00"
 draft = false
-title = 'https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9891"
+title = "https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t"
+slug = "https-chat-whatsapp-com-lisffx8bcum4cagcxkc5lt-mode-gi-t"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t
@@ -26,8 +28,3 @@ https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t
 
 📞 Контакты: +7 966 111-50-50
 [id339261382|@daymohk_chr]
-
-## Вложения
-
-![](images/featured.jpg)
-

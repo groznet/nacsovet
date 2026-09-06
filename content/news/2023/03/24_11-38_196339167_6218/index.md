@@ -1,10 +1,12 @@
 +++
-date = 2023-03-24T11:38:00-08:00
+date = "2023-03-24T11:38:00-08:00"
 draft = false
-title = '❗️ВНИМАНИЕ!❗️ Уважаемые интеллектуалы❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_6218"
+title = "❗️ВНИМАНИЕ!❗️ Уважаемые интеллектуалы❗️"
+slug = "внимание-уважаемые-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ❗️ВНИМАНИЕ!❗️ Уважаемые интеллектуалы❗️ 
@@ -17,11 +19,6 @@ title = '❗️ВНИМАНИЕ!❗️ Уважаемые интеллектуа
 [club119042965|@grozmer] @idepobr_grozny @groznyt  @minsportmol95 @timuraliev1973 @intellektualny_kavkaz @youthchr_nacsovet @dunaevmusa @muzaevsaidmagomed @lara_dmoda @kid_shop.95 
 
 ПАРТНЕРЫ И СПОНСОРЫ: #админчр #кабминчр #парламентчр  #грозмэр #депобраз #чгтркгрозный #ирском #лдмода #кидшоп95 #единаяроссия #фонддаймохк
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2021-10-08T13:57:00-08:00
+date = "2021-10-08T13:57:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ ❗️❗️❗️ ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4217"
+title = "ВНИМАНИЕ ❗️❗️❗️ ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️❗️❗️"
+slug = "внимание-господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ ❗️❗️❗️ ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️❗️❗️
@@ -28,9 +30,3 @@ title = 'ВНИМАНИЕ ❗️❗️❗️ ГОСПОДА ИНТЕЛЛЕКТУ
  ✅ Спонсоры интеллектуальных игр в ЧР: [id104980503|@irskom] [id339261382|@daymohk_chr] [club61650283|@er_chechnya] @shtory_style_home @beriauto95 @pgrants_ru @islam_mission_ru [club49388164|@rosmolodez] @apteka_ooo_deva_62_ 
 
  ✅ Играйте в интеллектуальные игры❗️
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-

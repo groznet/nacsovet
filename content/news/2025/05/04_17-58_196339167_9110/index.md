@@ -1,10 +1,12 @@
 +++
-date = 2025-05-04T17:58:00-08:00
+date = "2025-05-04T17:58:00-08:00"
 draft = false
-title = '«ПОМНИТЬ, ЧТОБЫ ЖИТЬ!»'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9110"
+title = "«ПОМНИТЬ, ЧТОБЫ ЖИТЬ!»"
+slug = "помнить-чтобы-жить"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 «ПОМНИТЬ, ЧТОБЫ ЖИТЬ!»
@@ -14,20 +16,6 @@ title = '«ПОМНИТЬ, ЧТОБЫ ЖИТЬ!»'
 (заместителю министра С-М. Баширову, директору департамента С. Мунаеву) за всемерную поддержку ВАОО «Интеллектуальная Россия».
 
 Будем работать!
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-![](images/image-09.jpg)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2021-05-26T07:41:00-08:00
+date = "2021-05-26T07:41:00-08:00"
 draft = false
-title = 'Господа интеллектуалы,друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4164"
+title = "Господа интеллектуалы,друзья!"
+slug = "господа-интеллектуалы-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Господа интеллектуалы,друзья!
@@ -16,8 +18,3 @@ title = 'Господа интеллектуалы,друзья'
 #интеллектуальныеигры #интеллектуальныйкавказ #маоонациональныйсовет @dunaevmusa @youthchr_nacsovet @chroo_sm @intellektualny_centre_scfo @intellektualny_kavkaz @muzaevsaidmagomed @adnan_nagaev @parlament_chr [club42535075|@groznytv] @khaizuran.groznytv @chroo_sm @hasanova_madina__ @mmoo_patriot_ 
 
 Да пребудет с вами сила интеллекта 🏆✅🎩⭐️⚡️
-
-## Вложения
-
-![](images/featured.jpg)
-

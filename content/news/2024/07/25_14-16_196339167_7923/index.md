@@ -1,10 +1,12 @@
 +++
-date = 2024-07-25T14:16:00-08:00
+date = "2024-07-25T14:16:00-08:00"
 draft = false
-title = 'Уважаемые интеллектуалы!❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7923"
+title = "Уважаемые интеллектуалы!❗️"
+slug = "уважаемые-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Уважаемые интеллектуалы!❗️ 
@@ -28,8 +30,3 @@ title = 'Уважаемые интеллектуалы!❗️'
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕПРЕЛ #МАООНАЦИОНАЛЬНЫЙСОВЕТ #СПЧ #ОПЧР
 
 @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @tropami_predkov [club43098840|@grand_park] @gkrrussia @opchr_95 [id295988085|@deprel_95] @ladyquizrf  [id710660524|@ulkergrozny]
-
-## Вложения
-
-![](images/featured.jpg)
-

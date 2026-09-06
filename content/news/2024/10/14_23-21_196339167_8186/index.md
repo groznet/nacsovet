@@ -1,10 +1,12 @@
 +++
-date = 2024-10-14T23:21:00-08:00
+date = "2024-10-14T23:21:00-08:00"
 draft = false
-title = 'СОШ 67 г. Грозного, 14 октября 2024 года, проект межрегионал'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8186"
+title = "СОШ 67 г. Грозного, 14 октября 2024 года, проект межрегионал"
+slug = "сош-67-г-грозного-14-октября-2024-года-проект-межрегионал"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ 67 г. Грозного, 14 октября 2024 года, проект межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный», при поддержке Президентского фонда культурных инициатив.
@@ -19,15 +21,3 @@ title = 'СОШ 67 г. Грозного, 14 октября 2024 года, про
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕПРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ЧРОРСМ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95]) @opchr.ru ([id339261382|@id339261382] ([id339261382|@id339261382]) ([id339261382|@daymohk_chr])) @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @ggntu_officia @chgu_officia @chgu_officia @grozny_inform
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-

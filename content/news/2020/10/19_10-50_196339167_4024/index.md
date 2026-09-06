@@ -1,10 +1,12 @@
 +++
-date = 2020-10-19T10:50:00-08:00
+date = "2020-10-19T10:50:00-08:00"
 draft = false
-title = '#Repost [club89240801|@vesti_respubliki_chr'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4024"
+title = "#Repost [club89240801|@vesti_respubliki_chr]"
+slug = "repost-club89240801-vesti-respubliki-chr"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost [club89240801|@vesti_respubliki_chr]
@@ -44,13 +46,3 @@ title = '#Repost [club89240801|@vesti_respubliki_chr'
 📝Далее читайте на vesti95.ru
 ⠀
 #Кадыров #Россия #Чечня #Грозный #Финал #ШколыЧР #СМИЧР #Вестиреспублики #ЯчитаюВестиреспублики
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-

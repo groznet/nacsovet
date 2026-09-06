@@ -1,10 +1,12 @@
 +++
-date = 2022-02-06T20:08:00-08:00
+date = "2022-02-06T20:08:00-08:00"
 draft = false
-title = '#Repost @youthchr_nacsovet with [club87821973|@make_repost'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4277"
+title = "#Repost @youthchr_nacsovet with [club87821973|@make_repost]"
+slug = "repost-youthchr-nacsovet-with-club87821973-make-repost"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @youthchr_nacsovet with [club87821973|@make_repost]
@@ -31,15 +33,3 @@ title = '#Repost @youthchr_nacsovet with [club87821973|@make_repost'
 ✅ Добро пожаловать в Интеллектуальный МИР 🌍✋🤝✊🌟⚡️🏆✨🦅❗️ 
 
 #россия🇷🇺 #100летчеченскойгосударственности #70летахматхаджи [club119042965|@grozmer] @intellektualny_kavkaz @chroo_sm #интеллектуальныйкавказ  @apteka_ooo_deva_62_ #интеллектуальныйцентрскфо  @dunaev.95 @mmoo_patriot_ #поисковикичр #гражданскийкомитетроссии #роофицерыроссиивчр🇷🇺 #дунаевмуса @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет #нацсоветчр #нацсовет
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-

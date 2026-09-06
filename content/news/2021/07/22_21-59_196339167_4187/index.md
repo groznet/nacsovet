@@ -1,10 +1,12 @@
 +++
-date = 2021-07-22T21:59:00-08:00
+date = "2021-07-22T21:59:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ‼️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4187"
+title = "ВНИМАНИЕ‼️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ‼️ 
@@ -18,8 +20,3 @@ title = 'ВНИМАНИЕ‼️'
 Дела реза хийла шуна ✅🌟 
 
  #россия🇷🇺 #70летАхиатХаджи #команданацсовета @intellektualny_kavkaz @intellektualny_centre_scfo @muzaevsaidmagomed #интеллектуальныйкавказ #маоонациональныйсовет @youthchr_nacsovet @alvialtamirov @dunaevmusa
-
-## Вложения
-
-![](images/featured.jpg)
-

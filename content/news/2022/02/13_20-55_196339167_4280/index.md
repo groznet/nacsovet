@@ -1,10 +1,12 @@
 +++
-date = 2022-02-13T20:55:00-08:00
+date = "2022-02-13T20:55:00-08:00"
 draft = false
-title = 'В Н И М А Н И Е ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4280"
+title = "В Н И М А Н И Е ❗️❗️❗️"
+slug = "в-н-и-м-а-н-и-е"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 В Н И М А Н И Е ❗️❗️❗️
@@ -28,8 +30,3 @@ title = 'В Н И М А Н И Е ❗️❗️❗️'
 ✅ Добро пожаловать в Интеллектуальный МИР 🌍✋🤝✊🌟⚡️🏆✨🦅❗️ 
 
 #россия🇷🇺 #100летчеченскойгосударственности #70летахматхаджи [club119042965|@grozmer] #интеллектуальныйкавказ #80летбитвазакавказ @intellektualny_kavkaz @chroo_sm #интеллектуальныйкавказ  @apteka_ooo_deva_62_ #интеллектуальныйцентрскфо  @intellektualny_centre_scfo @dunaev.95 @mmoo_patriot_ #поисковикичр #гражданскийкомитетроссии @gkrrussia [club150060071|@oficeryofficial] #офицерыроссии #роофицерыроссиивчр🇷🇺 #дунаевмуса @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет #нацсоветчр #нацсовет @madina_hasanova_er @muzaevsaidmagomed @dunaevmusa
-
-## Вложения
-
-![](images/featured.jpg)
-

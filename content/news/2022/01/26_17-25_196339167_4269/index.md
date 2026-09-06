@@ -1,10 +1,12 @@
 +++
-date = 2022-01-26T17:25:00-08:00
+date = "2022-01-26T17:25:00-08:00"
 draft = false
-title = '#Repost @gabazov_isa with [club87821973|@make_repost'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4269"
+title = "#Repost @gabazov_isa with [club87821973|@make_repost]"
+slug = "repost-gabazov-isa-with-club87821973-make-repost"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @gabazov_isa with [club87821973|@make_repost]
@@ -20,13 +22,3 @@ title = '#Repost @gabazov_isa with [club87821973|@make_repost'
 АЛЛАХА ДИКАНЦА БЕКХАМА БОЙЛА ХЬУНА, ЛЕРАМЕ 1ИСА 🤲☝️🤝🙏❗️
 
 @youthchr_nacsovet @gkrrussia @intellektualny_kavkaz @intellektualny_centre_scfo #маоонациональныйсовет #маоонацсовет #нацсовет @dunaevmusa
-
-## Вложения
-
-- [Фотография](https://vk.ru/photo196339167_457244760)
-- [Фотография](https://vk.ru/photo196339167_457244761)
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239342)
-

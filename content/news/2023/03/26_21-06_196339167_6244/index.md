@@ -1,10 +1,12 @@
 +++
-date = 2023-03-26T21:06:00-08:00
+date = "2023-03-26T21:06:00-08:00"
 draft = false
-title = 'Друзья, завершилась первая игра «Что? Где? Когда?» весенней'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_6244"
+title = "Друзья, завершилась первая игра «Что? Где? Когда?» весенней"
+slug = "друзья-завершилась-первая-игра-что-где-когда-весенней"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья, завершилась первая игра «Что? Где? Когда?» весенней серии среди команд высшей лиги…
@@ -18,20 +20,6 @@ title = 'Друзья, завершилась первая игра «Что? Г
 [club119042965|@grozmer] @idepobr_grozny @groznyt  @minsportmol95 @timuraliev1973 @intellektualny_kavkaz @youthchr_nacsovet @dunaevmusa @muzaevsaidmagomed @lara_dmoda @kid_shop.95 
 
 ПАРТНЕРЫ И СПОНСОРЫ: #админчр #кабминчр #парламентчр  #грозмэр #депобраз #чгтркгрозный #ирском #лдмода #кидшоп95 #единаяроссия #фонддаймохк
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-![](images/image-09.jpg)
-
 
 ## Комментарии
 

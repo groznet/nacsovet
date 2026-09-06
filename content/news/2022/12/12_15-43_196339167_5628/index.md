@@ -1,20 +1,17 @@
 +++
-date = 2022-12-12T15:43:00-08:00
+date = "2022-12-12T15:43:00-08:00"
 draft = false
-title = 'Рабочая встреча с директором ЧГТРК «Грозный» Ахмадовым Чинги'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5628"
+title = "Рабочая встреча с директором ЧГТРК «Грозный» Ахмадовым Чинги"
+slug = "рабочая-встреча-с-директором-чгтрк-грозный-ахмадовым-чинги"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Рабочая встреча с директором ЧГТРК «Грозный» Ахмадовым Чингизом в рамках проведения второго интеллектуального турнира по интеллектуальной игре «Своя игра» на КУБОК ЧГТРК «ГРОЗНЫЙ».
 
 @adminchr @parlament_chr @kabmin_chr @minobrnauki_95 @minsportmol95 @national_library_chechnya [club42535075|@groznytv] @youthchr_nacsovet @intellektualny_kavkaz @lara_dmoda ([id339261382|@daymohk_chr]) [club211773886|@irskom]
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

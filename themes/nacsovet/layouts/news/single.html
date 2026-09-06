@@ -150,50 +150,15 @@
                     </div>
                 </header>
 
-                {{/* 1. Parse gallery.json (Resource or Direct File) */}}
-                {{ $gData := dict }}
-                {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
-                {{ if $galleryResource }}
-                    {{ $gData = $galleryResource.Content | transform.Unmarshal }}
-                {{ else if .File }}
-                    {{ $galleryJsonPath := printf "%sgallery.json" .File.Dir }}
-                    {{ if fileExists $galleryJsonPath }}
-                        {{ $gData = unmarshal (readFile $galleryJsonPath) }}
-                    {{ end }}
-                {{ end }}
-
-                {{/* 2. Resolve Main Image (featured_image from JSON -> Local featured.jpg -> First Local Image -> Frontmatter image -> Default) */}}
-                {{ $mainImgSrc := "" }}
-                {{ $isResizedImage := false }}
-                {{ $resizedImg := dict }}
-
-                {{ if $gData.featured_image }}
-                    {{ $mainImgSrc = $gData.featured_image }}
-                {{ else }}
-                    {{ $localFeatured := .Resources.GetMatch "featured.jpg" }}
-                    {{ if $localFeatured }}
-                        {{ $resizedImg = $localFeatured.Resize "1200x webp q85" }}
-                        {{ $mainImgSrc = $resizedImg.RelPermalink }}
-                        {{ $isResizedImage = true }}
-                    {{ else }}
-                        {{ $anyImg := index (.Resources.ByType "image") 0 }}
-                        {{ if $anyImg }}
-                            {{ $mainImgSrc = $anyImg.RelPermalink }}
-                        {{ else if .Params.image }}
-                            {{ $mainImgSrc = .Params.image | relURL }}
-                        {{ else }}
-                            {{ $mainImgSrc = "/assets/images/post-thumbnail.jpg" }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
+                {{/* Медиа поста: media.json или локальные ресурсы бандла */}}
+                {{ $media := partial "post-media.html" . }}
+                {{ $mainImgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
                 <!-- Main Featured Image -->
-                {{ if $mainImgSrc }}
                 <div class="mb-8 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
-                    <img src="{{ $mainImgSrc }}" 
-                         {{ if $isResizedImage }}width="{{ $resizedImg.Width }}" height="{{ $resizedImg.Height }}"{{ end }}
-                         alt="{{ .Title }}" 
-                         class="w-full h-auto object-cover" 
+                    <img src="{{ $mainImgSrc }}"
+                         alt="{{ .Title }}"
+                         class="w-full h-auto object-cover"
                          loading="eager">
                     {{ with .Params.image_caption }}
                         <p class="text-xs text-gray-600 mt-2 italic text-center">{{ . }}</p>
@@ -203,7 +168,6 @@
                         {{ end }}
                     {{ end }}
                 </div>
-                {{ end }}
 
                 <!-- Summary / Intro -->
                 {{ if .Params.summary }}
@@ -215,35 +179,46 @@
                     {{ .Content }}
                 </div>
 
-                <!-- Gallery Section -->
-                {{ $cdn := .Site.Params.cdn }}
-                {{ $dir := "" }}
-                {{ if .File }}
-                    {{ $dir = replace .File.Dir "\\" "/" }}
+                <!-- Videos -->
+                {{ with $media.videos }}
+                <section class="mt-10 pt-6 border-t border-gray-100">
+                    <h2 class="text-2xl font-bold text-primary mb-6">
+                        {{ if gt (len .) 1 }}Видео ({{ len . }}){{ else }}Видео{{ end }}
+                    </h2>
+                    <div class="grid grid-cols-1 {{ if gt (len .) 1 }}lg:grid-cols-2{{ end }} gap-4">
+                        {{ range . }}
+                        <video
+                            controls
+                            preload="none"
+                            {{ with .poster }}poster="{{ . }}"{{ end }}
+                            class="w-full rounded-xl bg-black"
+                        >
+                            <source src="{{ .src }}">
+                            Ваш браузер не поддерживает воспроизведение видео.
+                            <a href="{{ .src }}">Скачать файл</a>.
+                        </video>
+                        {{ end }}
+                    </div>
+                </section>
                 {{ end }}
 
-                {{ if $gData.images }}
-                    {{/* JSON-based Remote/Local Gallery */}}
+                <!-- Gallery -->
+                {{ if $media.images }}
+                    {{/* Галерея из media.json — абсолютные URL на S3 */}}
                     <section class="mt-10 pt-6 border-t border-gray-100">
                         <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                            {{ range $gData.images }}
-                                {{ $imgUrl := "" }}
-                                {{ if $gData.remote_base_url }}
-                                    {{ $imgUrl = printf "%s%s" $gData.remote_base_url . }}
-                                {{ else }}
-                                    {{ $imgUrl = printf "%s/%simages/%s" $cdn $dir . }}
-                                {{ end }}
+                            {{ range $media.images }}
                                 <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                                    <a href="{{ $imgUrl }}" rel="noopener">
-                                        <img src="{{ $imgUrl }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
+                                    <a href="{{ . }}" target="_blank" rel="noopener">
+                                        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
                                 </figure>
                             {{ end }}
                         </div>
                     </section>
                 {{ else }}
-                    {{/* Local Fallback Gallery from Bundle */}}
+                    {{/* Запасная галерея из локальных ресурсов бандла */}}
                     {{ $allImages := .Resources.ByType "image" }}
                     {{ if gt (len $allImages) 1 }}
                     <section class="mt-10 pt-6 border-t border-gray-100">

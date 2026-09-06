@@ -1,18 +1,13 @@
 +++
-date = 2024-10-05T11:39:00-08:00
+date = "2024-10-05T11:39:00-08:00"
 draft = false
-title = 'Без названия'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8137"
+title = "Без названия"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
-
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240788)
 
 
 ## Комментарии

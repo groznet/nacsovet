@@ -1,10 +1,12 @@
 +++
-date = 2024-08-06T19:24:00-08:00
+date = "2024-08-06T19:24:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ ‼️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7956"
+title = "ВНИМАНИЕ ‼️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ ‼️ 
@@ -29,8 +31,3 @@ title = 'ВНИМАНИЕ ‼️'
 #РОССИЯ 🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #МАООНАЦИОНАЛЬНЫЙСОВЕТ  #ГРАНДПАРК #СПЧ #ОПЧР
 
 [club42535075|@groznytv] [id710660524|@ulkergrozny] @youthchr_nacsovet  @dunaevmusa @kid_shop95 [club43098840|@grand_park] @timuraliev1973 @ladyquizrf
-
-## Вложения
-
-![](images/featured.jpg)
-

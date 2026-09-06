@@ -1,15 +1,12 @@
 +++
-date = 2024-07-01T12:00:00-08:00
+date = "2024-07-01T12:00:00-08:00"
 draft = false
-title = 'https://t.me/gkrrus/2009'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7826"
+title = "https://t.me/gkrrus/2009"
+slug = "https-t-me-gkrrus-2009"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 https://t.me/gkrrus/2009
-
-## Вложения
-
-- [Ссылка](https://t.me/gkrrus/2009)
-

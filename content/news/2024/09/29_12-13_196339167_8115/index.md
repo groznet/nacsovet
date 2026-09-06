@@ -1,10 +1,12 @@
 +++
-date = 2024-09-29T12:13:00-08:00
+date = "2024-09-29T12:13:00-08:00"
 draft = false
-title = '✅ Республиканский открытый турнир  по #ЧТОГДЕКОГДА на кубок'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8115"
+title = "✅ Республиканский открытый турнир  по #ЧТОГДЕКОГДА на кубок"
+slug = "республиканский-открытый-турнир-по-чтогдекогда-на-кубок"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ✅ Республиканский открытый турнир  по #ЧТОГДЕКОГДА на кубок 🏆 РОО Поисковый отряд Терский рубеж»…
@@ -32,8 +34,3 @@ title = '✅ Республиканский открытый турнир  по 
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕПРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95] @opchr.ru [id339261382|@daymohk_chr] @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @ggntu_official @chgu_officia [club58127113|@chgu_official]) @grozny_inform
-
-## Вложения
-
-![](images/featured.jpg)
-

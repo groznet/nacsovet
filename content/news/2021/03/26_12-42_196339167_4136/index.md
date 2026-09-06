@@ -1,10 +1,12 @@
 +++
-date = 2021-03-26T12:42:00-08:00
+date = "2021-03-26T12:42:00-08:00"
 draft = false
-title = 'Господа, интеллектуалы'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4136"
+title = "Господа, интеллектуалы !!!!"
+slug = "господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Господа, интеллектуалы !!!! 
@@ -22,8 +24,3 @@ title = 'Господа, интеллектуалы'
 Участники чемпионата: [club85324860|@rgo95] @madkslovo @onfchr #чробастион @molodezhka_onf_95 #ссузы [club187191049|@rsm_chr95] [id339261382|@daymohk_chr] @chroo_sm @l_dialog [club144204495|@chro_rssm] [club58127113|@chgu_official] @chspu_official [id210461348|@zelenoe_zoloto] 
 
 Аллаха, диканца бекхама бойла шуна!
-
-## Вложения
-
-![](images/featured.jpg)
-

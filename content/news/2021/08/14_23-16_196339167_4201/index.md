@@ -1,10 +1,12 @@
 +++
-date = 2021-08-14T23:16:00-08:00
+date = "2021-08-14T23:16:00-08:00"
 draft = false
-title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4201"
+title = "ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ❗️❗️❗️"
+slug = "господа-интеллектуалы-внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ❗️❗️❗️
@@ -20,8 +22,3 @@ title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ❗️
  Да пребудет с вами сила интеллекта 🙏🤝✨🌟⚡️👍✅☝️❗️ @zakriev_hamzat_95 @adlan_dinaev95_er @noh_che @khaizuran.groznytv @muzaevsaidmagomed 
 
  ❗️❗️❗️➡️➡️➡️ Набранные баллы в этом турнире будут перенесены в общий зачет команд в Чемпионате. @za_kra_bistriy @minsport_mol_chr @intellektualny_kavkaz @dunaevmusa @youthchr_nacsovet
-
-## Вложения
-
-![](images/featured.jpg)
-

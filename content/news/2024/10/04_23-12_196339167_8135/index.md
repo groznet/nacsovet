@@ -1,10 +1,12 @@
 +++
-date = 2024-10-04T23:12:00-08:00
+date = "2024-10-04T23:12:00-08:00"
 draft = false
-title = '❗️❗️❗️ ВНИМАНИЕ ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8135"
+title = "❗️❗️❗️ ВНИМАНИЕ ❗️❗️❗️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ❗️❗️❗️ ВНИМАНИЕ ❗️❗️❗️
@@ -17,8 +19,3 @@ title = '❗️❗️❗️ ВНИМАНИЕ ❗️❗️❗️'
 #РОССИЯ🇷🇺 #маоонациональныйсовет #интеллектуальнаяроссия #гражданскийкомитетроссии #интеллектуальныйкавказ #интеллектуальныйцентрскфо 
 
 [id295988085|@deprel_95] @opchr.ru @gkrrussia @youthchr_nacsovet @intellektualny_kavkaz @ladyquizrf @chrovaoo_intellektualnaya_rus
-
-## Вложения
-
-![](images/featured.jpg)
-

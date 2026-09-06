@@ -1,10 +1,12 @@
 +++
-date = 2024-12-01T09:43:00-08:00
+date = "2024-12-01T09:43:00-08:00"
 draft = false
-title = 'ФИНАЛ ПЕРВОГО ЧЕМПИОНАТА ЧР #БРЭЙНРИНГ , открытая лига'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8412"
+title = "ФИНАЛ ПЕРВОГО ЧЕМПИОНАТА ЧР #БРЭЙНРИНГ , открытая лига"
+slug = "финал-первого-чемпионата-чр-брэйнринг-открытая-лига"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ФИНАЛ ПЕРВОГО ЧЕМПИОНАТА ЧР #БРЭЙНРИНГ , открытая лига
@@ -14,13 +16,3 @@ title = 'ФИНАЛ ПЕРВОГО ЧЕМПИОНАТА ЧР #БРЭЙНРИНГ
 Благодарим партнеров и спонсоров #маоонациональныйсовет : #АДМИНЧР #ДЕПРЕЛ #МИНКУЛЬТЧР #МИНМОЛЧР #ДЕПОБРГРОЗНЫЙ #РОФКАДЫРОВА #ГРАНДПАРК #БФДАЙМОХК #НАЦБИБЛИОТЕКА #УЛЬКЕР @adminchr @deprel95 ([club224863102|@club224863102] ([club224863102|@club224863102]) ([club224863102|@minmol95])) @opchr95 ([club42535075|@club42535075] ([club42535075|@club42535075]) ([club42535075|@groznytv])) ([club94834481|@grandpark]) ([id710660524|@ulkergrozny]) ([id339261382|@daymohk_chr]) @muzaevsaidmagomed @historian6966 @chrovaoointellektualnayarus @intellektualnykavkaz @youthchr_nacsovet @dunaevmusa
 
 Да пребудет с вами сила интеллекта!
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240877)
-![](videos/video-02-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240878)
-![](videos/video-03-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240879)
-

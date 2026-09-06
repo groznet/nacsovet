@@ -1,0 +1,17 @@
+{
+  "base_url": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672",
+  "featured": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672/7d00siGGxqJ4nruZJ424CPYKh_RQ8rKE9MxL5yVjKMgDj4ozVSi34sYUXbrpyqsCAWx0mXUnUhafpJ0iEhTS53EG.jpg",
+  "images": [],
+  "videos": [
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672/videos/video-1.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672/videos/video-01-thumb.jpg",
+      "name": "video-1.mp4"
+    },
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672/videos/video-2.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2024/04/29_22-31_196339167_7672/videos/video-02-thumb.jpg",
+      "name": "video-2.mp4"
+    }
+  ]
+}

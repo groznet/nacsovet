@@ -1,10 +1,12 @@
 +++
-date = 2016-10-14T00:45:00-08:00
+date = "2016-10-14T00:45:00-08:00"
 draft = false
-title = '#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_1472"
+title = "#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp"
+slug = "gprepost-reposter-notetag-albert-che95-via-gprepostapp"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp 
@@ -12,8 +14,3 @@ title = '#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp'
 @albert_che95:Сегодня в Национальной библиотеке Чеченской Республики прошла презентация новой книги Ислама Сайдаева @islam_shah "Кто стоит за мировым терроризмом". От всего сердца поздравляю Ислама с новым трудом и желаю дальнейших творческих успехов. 
 А также хочу выразить огромную благодарность нашему московскому другу и надежному товарищу Андрею Алферову @alferoff1984 за издание книги в Москве и поддержку! 👍👍👍🙏🙏🙏
 #книга #Сайдаев #минмолодежи #чечня #грозный #антитеррор #антиэкстремизм
-
-## Вложения
-
-![](images/featured.jpg)
-

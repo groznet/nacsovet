@@ -1,0 +1,20 @@
+{
+  "base_url": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066",
+  "featured": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/PhNbqBwWW3fI8RKPWAoBvlVM4YC3SpddBOeBZ00YrDDtOymR7td09WDbnkV43wx_hdwWpriMe9iEw3rtaI95yIPO.jpg",
+  "images": [
+    "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/images/M71qssBa6QtySIakGvuqlZW9MKY8nvhOXy5kAoZSqeuVxAHFVZyCUDeh-ItL8wFLcv6NkRyChNZY8F193UP3-Ttj.jpg",
+    "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/images/ZkTxHX1hPU5Po2X4i7cC5MZs9GZZi1LzNmwmWw4dhHOUmUTOetB1FtuP1VnFHjPq7lzp-24ZWKSG-pgLREgLl3PV.jpg"
+  ],
+  "videos": [
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/videos/video-1.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/videos/video-01-thumb.jpg",
+      "name": "video-1.mp4"
+    },
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/videos/video-2.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2026/05/08_10-35_196339167_10066/videos/video-02-thumb.jpg",
+      "name": "video-2.mp4"
+    }
+  ]
+}

@@ -1,10 +1,12 @@
 +++
-date = 2024-09-18T17:09:00-08:00
+date = "2024-09-18T17:09:00-08:00"
 draft = false
-title = 'Приглашаем вас на женскую интеллектуальную викторину «Lady-к'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8067"
+title = "Приглашаем вас на женскую интеллектуальную викторину «Lady-к"
+slug = "приглашаем-вас-на-женскую-интеллектуальную-викторину-lady-к"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Приглашаем вас на женскую интеллектуальную викторину «Lady-квиз»!  
@@ -16,8 +18,3 @@ title = 'Приглашаем вас на женскую интеллектуа�
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕРРЕЛ #ОПЧР
 
 [id295988085|@deprel_95] @opchr.ru [id339261382|@daymohk_chr] @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @minzdrav_95 @ggntu_official [club58127113|@chgu_official] [club58127113|@chgu_official]
-
-## Вложения
-
-![](images/featured.jpg)
-

@@ -1,10 +1,12 @@
 +++
-date = 2023-01-15T13:32:00-08:00
+date = "2023-01-15T13:32:00-08:00"
 draft = false
-title = 'Дамы и господа, уважаемые интеллектуалы, друзья❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5891"
+title = "Дамы и господа, уважаемые интеллектуалы, друзья❗️"
+slug = "дамы-и-господа-уважаемые-интеллектуалы-друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Дамы и господа, уважаемые интеллектуалы, друзья❗️
@@ -17,12 +19,6 @@ title = 'Дамы и господа, уважаемые интеллектуал
 #маоонацсовет 
 
 @adminchr @kabmin_chr @parlament_chr @minsportmol95 @youthchr_nacsovet @intellektualny_kavkaz [club61650283|@er_chechnya] @daymohk_online @lara_dmoda
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239857)
-
 
 ## Комментарии
 

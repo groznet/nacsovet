@@ -1,10 +1,12 @@
 +++
-date = 2024-11-03T00:13:00-08:00
+date = "2024-11-03T00:13:00-08:00"
 draft = false
-title = '✅ Уважаемые интеллектуалы! Сегодня мы с вами провели одиннад'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8274"
+title = "✅ Уважаемые интеллектуалы! Сегодня мы с вами провели одиннад"
+slug = "уважаемые-интеллектуалы-сегодня-мы-с-вами-провели-одиннад"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ✅ Уважаемые интеллектуалы! Сегодня мы с вами провели одиннадцатый этап второго чемпионата ЧР по интеллектуальной игре «Своя игра» #СВОЯИГРА. 
@@ -22,15 +24,3 @@ title = '✅ Уважаемые интеллектуалы! Сегодня мы 
 #РОССИЯ🇷🇺 #маоонациональныйсовет #интеллектуальнаяроссия #гражданскийкомитетроссии #интеллектуальныйкавказ #интеллектуальныйцентрскфо 
 
 @adminchr [id295988085|@deprel_95] @opchr.ru @gkrrussia @youthchr_nacsovet @intellektualny_kavkaz @ladyquizrf @chrovaoo_intellektualnaya_rus @muzaevsaidmagomed @historian6966 @dunaevmusa
-
-## Вложения
-
-![](images/featured.jpg)
-- [Фотография](https://vk.ru/photo196339167_457248844)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-

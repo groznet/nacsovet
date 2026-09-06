@@ -1,10 +1,11 @@
 +++
-date = 2022-02-25T17:22:00-08:00
+date = "2022-02-25T17:22:00-08:00"
 draft = false
-title = 'Патриотическое воспитание является одним из приоритетных нап'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4286"
+title = "Патриотическое воспитание является одним из приоритетных нап"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Патриотическое воспитание является одним из приоритетных направлений в системе образования России, так как способствует становлению и развитию личности, обладающей качествами гражданина и патриота своей страны.
@@ -17,8 +18,3 @@ title = 'Патриотическое воспитание является од
 
 [club204780466|@ya_pomoshnik_kra_95] @kabmin_chr @adminchr @parlament_chr [id422063213|@minmolodezhi_95] [club203108194|@isa_k669ra] @minobrnauki_95 @daaev_minobr 
 @minnacinform_chr [club204804052|@ahmed_95kra] [club42535075|@groznytv] @sosh_28_grozny @intellektualny_kavkaz @intellektualny_centre_scfo @chroo_sm @mmoo_patriot_ @youthchr_nacsovet @gkrrussia #гражданскийкомитетроссии #маоонациональныйсовет #маоонацсовет #нацсоветчр #нацсовет #дунаевмуса @muzaevsaidmagomed @dunaevmusa #помнитьчтобыжить #битвазакавказ #колокольчикипамяти #явернулсямама #историявлицах
-
-## Вложения
-
-![](images/featured.jpg)
-

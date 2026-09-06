@@ -1,10 +1,12 @@
 +++
-date = 2022-05-13T23:52:00-08:00
+date = "2022-05-13T23:52:00-08:00"
 draft = false
-title = 'АРХИВ от 19.02.2022г. Продолжается реализация проекта «Я и э'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4647"
+title = "АРХИВ от 19.02.2022г. Продолжается реализация проекта «Я и э"
+slug = "архив-от-19-02-2022г-продолжается-реализация-проекта-я-и-э"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 АРХИВ от 19.02.2022г. Продолжается реализация проекта «Я и этот мир» @pgrants_ru .
@@ -22,11 +24,3 @@ title = 'АРХИВ от 19.02.2022г. Продолжается реализац
 @isma_school 
 [id339261382|@daymohk_chr] 
 #интеллектуальныйкавказ #интеллектуальныйцентрскфо #маоонациональныйсовет @youthchr_nacsovet @madina_hasanova_er @dunaevmusa @intellektualny_kavkaz @intellektualny_centre_scfo @muzaevsaidmagomed
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-

@@ -1,10 +1,12 @@
 +++
-date = 2020-06-22T07:08:00-08:00
+date = "2020-06-22T07:08:00-08:00"
 draft = false
-title = '#Repost @youthchr_nacsovet • • • • • •'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_3954"
+title = "#Repost @youthchr_nacsovet • • • • • •"
+slug = "repost-youthchr-nacsovet"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @youthchr_nacsovet • • • • • •
@@ -43,11 +45,3 @@ title = '#Repost @youthchr_nacsovet • • • • • •'
 #ЧГТРКГрозный [club42535075|@groznytv] @grozny_inform [club143904353|@utronews]
 #ГражданскийКомитетРоссии
 #РОофицерыРоссиивЧР @onfchr [id339261382|@daymohk_chr] @zakriev_hamzat_95 @daymohk_online  #роофицерыроссиивчр🇷🇺 [club150060071|@oficeryofficial] #россия🇷🇺
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239217)
-![](videos/video-02-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239218)
-

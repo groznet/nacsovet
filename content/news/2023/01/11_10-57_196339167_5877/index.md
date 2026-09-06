@@ -1,10 +1,12 @@
 +++
-date = 2023-01-11T10:57:00-08:00
+date = "2023-01-11T10:57:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ‼️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5877"
+title = "ВНИМАНИЕ‼️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ‼️
@@ -24,12 +26,6 @@ title = 'ВНИМАНИЕ‼️'
 #маоонацсовет 
 
 @adminchr @kabmin_chr @parlament_chr @minsportmol95 @youthchr_nacsovet @intellektualny_kavkaz [club61650283|@er_chechnya] @daymohk_online @lara_dmoda
-
-## Вложения
-
-![](images/featured.jpg)
-- [Ссылка](http://www.nacsovet.ru)
-
 
 ## Комментарии
 

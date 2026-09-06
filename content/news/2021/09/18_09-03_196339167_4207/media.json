@@ -1,0 +1,12 @@
+{
+  "base_url": "https://files.groznet.com/nacsovet/news/2021/09/18_09-03_196339167_4207",
+  "featured": "https://files.groznet.com/nacsovet/news/2021/09/18_09-03_196339167_4207/videos/video-01-thumb.jpg",
+  "images": [],
+  "videos": [
+    {
+      "src": "https://files.groznet.com/nacsovet/news/2021/09/18_09-03_196339167_4207/videos/video-1.mp4",
+      "poster": "https://files.groznet.com/nacsovet/news/2021/09/18_09-03_196339167_4207/videos/video-01-thumb.jpg",
+      "name": "video-1.mp4"
+    }
+  ]
+}

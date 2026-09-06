@@ -1,10 +1,12 @@
 +++
-date = 2022-11-13T17:50:00-08:00
+date = "2022-11-13T17:50:00-08:00"
 draft = false
-title = '«Южный ветер», ЧГК, 2-ой тур✅'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5464"
+title = "«Южный ветер», ЧГК, 2-ой тур✅"
+slug = "южный-ветер-чгк-2-ой-тур"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 «Южный ветер», ЧГК, 2-ой тур✅
@@ -12,20 +14,6 @@ title = '«Южный ветер», ЧГК, 2-ой тур✅'
 Также благодарим наших партнёров и организаторов:
 [id196339167|Муса Дунаев] 
 [id316437452|Irskom Irskom]
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-![](images/image-09.jpg)
-
 
 ## Комментарии
 

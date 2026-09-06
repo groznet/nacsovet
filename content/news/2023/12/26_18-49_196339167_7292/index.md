@@ -1,10 +1,12 @@
 +++
-date = 2023-12-26T18:49:00-08:00
+date = "2023-12-26T18:49:00-08:00"
 draft = false
-title = '#ЧТОГДЕКОГДА, ФИНАЛ, ЛЮБИТЕЛЬСКАЯ ЛИГА'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7292"
+title = "#ЧТОГДЕКОГДА, ФИНАЛ, ЛЮБИТЕЛЬСКАЯ ЛИГА."
+slug = "чтогдекогда-финал-любительская-лига"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #ЧТОГДЕКОГДА, ФИНАЛ, ЛЮБИТЕЛЬСКАЯ ЛИГА. 
@@ -18,14 +20,6 @@ title = '#ЧТОГДЕКОГДА, ФИНАЛ, ЛЮБИТЕЛЬСКАЯ ЛИГА'
 #РОССИЯ🇷🇺 #ЧЕЧНЯ #ГРОЗНЫЙ #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ИНТЕЛЛЕКТУАЛЬНЫЙКАВУАЗ
 
 @adminchr @kabmin_chr @parlament_chr @minsportmol95 [club42535075|@groznytv]  @youthchr_nacsovet [club211773886|@irskom] @fond.kadirov @kid_shop.95
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-
 
 ## Комментарии
 

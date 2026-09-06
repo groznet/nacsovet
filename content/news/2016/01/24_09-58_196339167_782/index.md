@@ -1,15 +1,11 @@
 +++
-date = 2016-01-24T09:58:00-08:00
+date = "2016-01-24T09:58:00-08:00"
 draft = false
-title = 'Без названия'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_782"
+title = "Без названия"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
-
-
-## Вложения
-
-![](images/featured.jpg)
 

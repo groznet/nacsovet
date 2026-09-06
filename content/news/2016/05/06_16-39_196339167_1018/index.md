@@ -1,15 +1,12 @@
 +++
-date = 2016-05-06T16:39:00-08:00
+date = "2016-05-06T16:39:00-08:00"
 draft = false
-title = 'Пытаюсь быть ЧЕЛОВЕКОМ, видит БОГ! Спасибо  @zelenoe_zoloto'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_1018"
+title = "Пытаюсь быть ЧЕЛОВЕКОМ, видит БОГ! Спасибо  @zelenoe_zoloto"
+slug = "пытаюсь-быть-человеком-видит-бог-спасибо-zelenoe-zoloto"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Пытаюсь быть ЧЕЛОВЕКОМ, видит БОГ! Спасибо  @zelenoe_zoloto за добрые слова...)
-
-## Вложения
-
-![](images/featured.jpg)
-

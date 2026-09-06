@@ -1,10 +1,12 @@
 +++
-date = 2022-12-12T03:20:00-08:00
+date = "2022-12-12T03:20:00-08:00"
 draft = false
-title = 'Команда «СПЧ» - Совет при Главе ЧР по развитию гражданского'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5620"
+title = "Команда «СПЧ» - Совет при Главе ЧР по развитию гражданского"
+slug = "команда-спч-совет-при-главе-чр-по-развитию-гражданского"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Команда «СПЧ» - Совет при Главе ЧР по развитию гражданского общества и правам человека  10 декабря  текущего года становится ЧЕМПИОНАМИ ЧР по интеллектуальной игре «Что? Где? Когда?» среди молодёжи, некоммерческих организаций, любительских команд.
@@ -14,17 +16,6 @@ title = 'Команда «СПЧ» - Совет при Главе ЧР по ра
 Да пребудет с вами сила интеллекта!
 
 @adminchr @parlament_chr @kabmin_chr @minobrnauki_95 @minsportmol95 @national_library_chechnya [club42535075|@groznytv] @youthchr_nacsovet @intellektualny_kavkaz @lara_dmoda [id339261382|@daymohk_chr] [club211773886|@irskom]
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-
 
 ## Комментарии
 

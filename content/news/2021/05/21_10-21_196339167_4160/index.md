@@ -1,10 +1,12 @@
 +++
-date = 2021-05-21T10:21:00-08:00
+date = "2021-05-21T10:21:00-08:00"
 draft = false
-title = 'Господа интеллектуалы'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4160"
+title = "Господа интеллектуалы!"
+slug = "господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Господа интеллектуалы!
@@ -18,8 +20,3 @@ title = 'Господа интеллектуалы'
  Также благодарны партнерам: @parlament_chr [id306422093|@lord_095] @adnan_nagaev @admin.chr @taymaskhanovhh @za_kra_bistriy_95 @isa.patriot [club119042965|@grozmer] @havazhi_095 @minobrnauki_95 @i.baysultanov_95 @iliastaaev @daaev_mk , @national_library_chechnya , @opchr_95 [id508910309|@idenilkhanov] @ibragimbazaew @deprel_95 @aslan_abdulaev_95 @ismail_85_95 @mininform_chr @surho_grozny [club42535075|@groznytv] @noh_che за поддержку деятельности @youthchr_nacsovet . 
 
 Да пребудет с вами сила интеллекта 🏆✅🎩⭐️⚡️
-
-## Вложения
-
-![](images/featured.jpg)
-

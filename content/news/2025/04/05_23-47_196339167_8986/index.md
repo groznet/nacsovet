@@ -1,10 +1,12 @@
 +++
-date = 2025-04-05T23:47:00-08:00
+date = "2025-04-05T23:47:00-08:00"
 draft = false
-title = 'Друзья'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8986"
+title = "Друзья!"
+slug = "друзья"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья!
@@ -32,20 +34,6 @@ title = 'Друзья'
 В БР и СИ восемь команд и игроков также выйдут в финальный, 10-й раунд. Баллы будут обнулены, и состоится жеребьёвка для определения групп. Все игры проводятся строго по правилам МАК ЧГК.
 
 Да пребудет с вами сила интеллекта!
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-![](images/image-08.jpg)
-![](images/image-09.jpg)
-
 
 ## Комментарии
 

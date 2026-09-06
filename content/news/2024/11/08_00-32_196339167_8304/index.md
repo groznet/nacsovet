@@ -1,10 +1,12 @@
 +++
-date = 2024-11-08T00:32:00-08:00
+date = "2024-11-08T00:32:00-08:00"
 draft = false
-title = 'СОШ 4 г. Грозного, 7 ноября 2024 года, проект межрегионально'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8304"
+title = "СОШ 4 г. Грозного, 7 ноября 2024 года, проект межрегионально"
+slug = "сош-4-г-грозного-7-ноября-2024-года-проект-межрегионально"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ 4 г. Грозного, 7 ноября 2024 года, проект межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный», при поддержке Президентского фонда культурных инициатив.
@@ -18,11 +20,3 @@ title = 'СОШ 4 г. Грозного, 7 ноября 2024 года, проек
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕПРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95]) @opchr.ru ([id339261382|@daymohk_chr]) @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @ggntu_officia @chgu_officia @chgu_officia @grozny_inform
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-

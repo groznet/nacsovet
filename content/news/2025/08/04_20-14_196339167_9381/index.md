@@ -1,10 +1,12 @@
 +++
-date = 2025-08-04T20:14:00-08:00
+date = "2025-08-04T20:14:00-08:00"
 draft = false
-title = 'Поддержите благотворительный сбор в Daymohk! 🤲'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9381"
+title = "Поддержите благотворительный сбор в Daymohk! 🤲"
+slug = "поддержите-благотворительный-сбор-в-daymohk"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Поддержите благотворительный сбор в Daymohk! 🤲
@@ -32,8 +34,3 @@ https://daymohk.staq.dev/charities/126e661d-6eab-4410-9fe4-8de71b56a285
 🔗 Для android: https://play.google.com/store/apps/details?id=ru.daymohk.app
 🔗Для iOs: https://apps.apple.com/ua/app/daymohk/id6736373786
 📱Для информации: 8 (938) 902-37-83
-
-## Вложения
-
-![](images/featured.jpg)
-

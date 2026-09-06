@@ -1,10 +1,12 @@
 +++
-date = 2024-09-19T20:50:00-08:00
+date = "2024-09-19T20:50:00-08:00"
 draft = false
-title = 'СОШ N 28 г. Грозного, 17 сентябрь 2024 г., проект межрегиона'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8073"
+title = "СОШ N 28 г. Грозного, 17 сентябрь 2024 г., проект межрегиона"
+slug = "сош-n-28-г-грозного-17-сентябрь-2024-г-проект-межрегиона"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ N 28 г. Грозного, 17 сентябрь 2024 г., проект межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный» от Президентского фонда культурных инициатив.
@@ -14,10 +16,3 @@ title = 'СОШ N 28 г. Грозного, 17 сентябрь 2024 г., про�
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕРРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 ([id295988085|@deprel_95]) @opchr.ru ([id339261382|@id339261382] ([id339261382|@daymohk_chr])) @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 ([club42535075|@club42535075] ([club42535075|@groznytv])) ([club89240801|@vesti_respubliki_chr]) ([id736198518|@depobr_grozny]) ([club224863102|@minmol95]) @minzdrav_95 @ggntu_official ([club58127113|@chgu_official]) ([club58127113|@chgu_official])
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-

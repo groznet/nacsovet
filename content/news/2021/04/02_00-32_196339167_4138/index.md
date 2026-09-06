@@ -1,10 +1,12 @@
 +++
-date = 2021-04-02T00:32:00-08:00
+date = "2021-04-02T00:32:00-08:00"
 draft = false
-title = 'Друзья! Господа интеллектуалы'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4138"
+title = "Друзья! Господа интеллектуалы!"
+slug = "друзья-господа-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Друзья! Господа интеллектуалы!
@@ -24,13 +26,3 @@ title = 'Друзья! Господа интеллектуалы'
 #команданацсовета @muzaevsaidmagomed @intellektualny_kavkaz @intellektualny_centre_scfo @chroo_sm @hasanova_madina__ @dunaev.95 @mmoo_patriot_ м#россия🇷🇺 #маоонациональныйсовет #маоонацсовет @dunaevmusa #дунаевмуса 
 
 Да пребудет с вами сила интеллекта! Аллаха, диканца бекхама бойла шуна!
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-

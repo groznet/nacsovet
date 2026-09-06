@@ -1,17 +1,14 @@
 +++
-date = 2016-10-21T22:11:00-08:00
+date = "2016-10-21T22:11:00-08:00"
 draft = false
-title = '#GPRepost,#reposter,#notetag @islam_shah via @GPRepostApp'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_1492"
+title = "#GPRepost,#reposter,#notetag @islam_shah via @GPRepostApp"
+slug = "gprepost-reposter-notetag-islam-shah-via-gprepostapp"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #GPRepost,#reposter,#notetag @islam_shah via @GPRepostApp 
  ======> 
 @islam_shah:Ма ша Аллах! #ДелегацияЧР #проектМИМ #МеждународнаяИсламскаяМиссия #Пшихачев #ДУМЧР #МинмолЧР @МиннацЧР #ОПЧР ПятигорскМечеть #
-
-## Вложения
-
-![](images/featured.jpg)
-

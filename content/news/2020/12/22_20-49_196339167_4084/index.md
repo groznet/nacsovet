@@ -1,10 +1,12 @@
 +++
-date = 2020-12-22T20:49:00-08:00
+date = "2020-12-22T20:49:00-08:00"
 draft = false
-title = '#Repost @adlan_dinaev95_er'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4084"
+title = "#Repost @adlan_dinaev95_er"
+slug = "repost-adlan-dinaev95-er"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @adlan_dinaev95_er
@@ -19,8 +21,3 @@ title = '#Repost @adlan_dinaev95_er'
 #Волонтеры
 #ЧГТРК
 #Грозный @hasanova_madina__ @chroo_sm #чроосоюзмолодежи @youthchr_nacsovet #маоонациональныйсовет #нацсовет #нацсоветчр #маоонацсовет
-
-## Вложения
-
-![](images/featured.jpg)
-

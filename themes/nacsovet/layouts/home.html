@@ -23,23 +23,11 @@
 
             <div class="lg:col-span-8">
                 {{ range $featured }}
+                {{ $media := partial "post-media.html" . }}
                 <article class="group bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100/80 h-full flex flex-col">
 
                     <div class="relative overflow-hidden bg-gray-100">
-                        {{ $featuredImgSrc := "/assets/images/post-thumbnail.jpg" }}
-
-                        {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
-                        {{ if $galleryResource }}
-                            {{ $galleryData := $galleryResource.Content | transform.Unmarshal }}
-                            {{ with $galleryData.featured_image }}
-                                {{ $featuredImgSrc = . }}
-                            {{ end }}
-                        {{ else }}
-                            {{/* Резервный поиск локального featured.jpg, если gallery.json отсутствует */}}
-                            {{ with .Resources.GetMatch "featured.jpg" }}
-                                {{ $featuredImgSrc = .RelPermalink }}
-                            {{ end }}
-                        {{ end }}
+                        {{ $featuredImgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
                         <img
                             src="{{ $featuredImgSrc }}"
@@ -47,6 +35,15 @@
                             class="w-full h-56 sm:h-64 md:h-72 lg:h-80 object-cover group-hover:scale-105 transition-transform duration-500"
                             loading="lazy"
                         />
+
+                        {{ if $media.videos }}
+                        <span class="absolute inset-0 flex items-center justify-center pointer-events-none">
+                            <span class="w-16 h-16 rounded-full bg-black/50 flex items-center justify-center">
+                                <i class="fas fa-play text-white text-xl ml-1"></i>
+                            </span>
+                        </span>
+                        {{ end }}
+
                         <span class="absolute top-4 left-4 category-pill bg-accent text-primary text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide shadow-sm">
                             {{ with .Params.categories }}{{ index . 0 }}{{ else }}Новости{{ end }}
                         </span>
@@ -77,20 +74,10 @@
 
             <div class="lg:col-span-4 flex flex-col gap-4 md:gap-5">
                 {{ range $secondary }}
+                {{ $media := partial "post-media.html" . }}
                 <article class="group bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex items-stretch">
-                    <div class="flex-shrink-0 w-28 sm:w-32 h-28 sm:h-32 overflow-hidden bg-gray-100">
-                        {{ $imgSrc := "/assets/images/post-thumbnail.jpg" }}
-                        {{ $galleryResource := .Resources.GetMatch "gallery.json" }}
-                        {{ if $galleryResource }}
-                            {{ $galleryData := $galleryResource.Content | transform.Unmarshal }}
-                            {{ with $galleryData.featured_image }}
-                                {{ $imgSrc = . }}
-                            {{ end }}
-                        {{ else }}
-                            {{ with .Resources.GetMatch "featured.jpg" }}
-                                {{ $imgSrc = .RelPermalink }}
-                            {{ end }}
-                        {{ end }}
+                    <div class="relative flex-shrink-0 w-28 sm:w-32 h-28 sm:h-32 overflow-hidden bg-gray-100">
+                        {{ $imgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
                         <img
                             src="{{ $imgSrc }}"
@@ -98,6 +85,14 @@
                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-400"
                             loading="lazy"
                         />
+
+                        {{ if $media.videos }}
+                        <span class="absolute inset-0 flex items-center justify-center pointer-events-none">
+                            <span class="w-8 h-8 rounded-full bg-black/50 flex items-center justify-center">
+                                <i class="fas fa-play text-white text-xs ml-0.5"></i>
+                            </span>
+                        </span>
+                        {{ end }}
                     </div>
                     <div class="flex-1 p-3 sm:p-4 flex flex-col justify-center min-w-0">
                         <h4 class="heading-font text-sm sm:text-base font-bold text-primary leading-snug group-hover:text-secondary transition-colors duration-200 line-clamp-2">
@@ -174,14 +169,6 @@
         </div>
     </div>
 </section>
-
-<!-- ============================================================
-NEWS SECTION — Homepage Component
-Two-column asymmetrical layout:
-- Left (65%): Featured post with image, headline, excerpt
-- Right (35%): 3 secondary posts (thumbnail + title + excerpt)
-- "More News" link at bottom of right column
-============================================================ -->
 
 <!-- О нас / Миссия (кратко) -->
 <section class="py-16 bg-white/60 backdrop-blur-sm">

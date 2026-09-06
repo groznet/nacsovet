@@ -1,10 +1,12 @@
 +++
-date = 2025-04-09T19:30:00-08:00
+date = "2025-04-09T19:30:00-08:00"
 draft = false
-title = 'Dear intellectuals'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9019"
+title = "Dear intellectuals!"
+slug = "dear-intellectuals"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Dear intellectuals!  
@@ -14,8 +16,3 @@ Dear intellectuals!
 Уникальность турнира заключается в том, что ведение, вопросы от ведущего и ответы участников будут проходить на английском языке. В ближайшие дни проведем заседание организационного комитета турнира.  
 
 May the power of intellect be with you!
-
-## Вложения
-
-![](images/featured.jpg)
-

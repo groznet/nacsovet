@@ -1,10 +1,12 @@
 +++
-date = 2023-10-31T12:02:00-08:00
+date = "2023-10-31T12:02:00-08:00"
 draft = false
-title = '«ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7098"
+title = "«ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»"
+slug = "цель-оправдывает-средства"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 «ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»
@@ -18,8 +20,3 @@ title = '«ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»'
 ВОИСТИНУ, как это на нас похоже, МЫ ЖЕ НЕ ИЩЕМ ЛЕГКИХ ПУТЕЙ…
 
 #маоонацсовет #маоонациональныйсовет #дунаевмуса @adminchr [id295988085|@deprel_95] @youthchr_nacsovet @dunaevmusa @intellektualny_kavkaz @muzaevsaidmagomed @kid_shop.95 @lara_dmoda [club211773886|@irskom]
-
-## Вложения
-
-![](images/featured.jpg)
-

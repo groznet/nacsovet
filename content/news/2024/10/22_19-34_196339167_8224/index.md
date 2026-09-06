@@ -1,10 +1,12 @@
 +++
-date = 2024-10-22T19:34:00-08:00
+date = "2024-10-22T19:34:00-08:00"
 draft = false
-title = 'СОШ 37 г. Грозного, 22 октября 2024 года, проект межрегионал'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8224"
+title = "СОШ 37 г. Грозного, 22 октября 2024 года, проект межрегионал"
+slug = "сош-37-г-грозного-22-октября-2024-года-проект-межрегионал"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 СОШ 37 г. Грозного, 22 октября 2024 года, проект межрегионального интеллектуального клуба «Интеллектуальный Кавказ» «Лидер чтения города Грозный», при поддержке Президентского фонда культурных инициатив.
@@ -18,12 +20,6 @@ title = 'СОШ 37 г. Грозного, 22 октября 2024 года, про
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕПРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95] @opchr.ru [id339261382|@daymohk_chr] @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @ggntu_official @chgu_officia [club58127113|@chgu_official] @grozny_inform
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240806)
-
 
 ## Комментарии
 

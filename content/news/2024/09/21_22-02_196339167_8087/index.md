@@ -1,10 +1,12 @@
 +++
-date = 2024-09-21T22:02:00-08:00
+date = "2024-09-21T22:02:00-08:00"
 draft = false
-title = '21 сентября  в ТРЦ «Гранд-парк» прошла увлекательная игра «L'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8087"
+title = "21 сентября  в ТРЦ «Гранд-парк» прошла увлекательная игра «L"
+slug = "21-сентября-в-трц-гранд-парк-прошла-увлекательная-игра-l"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 21 сентября  в ТРЦ «Гранд-парк» прошла увлекательная игра «Lady-квиз» @ladyquizrf. Это отличная возможность проверить свои знания, повстречаться с интересными людьми и отлично провести время!
@@ -25,9 +27,3 @@ title = '21 сентября  в ТРЦ «Гранд-парк» прошла у�
 #РОССИЯ🇷🇺 #ИНТЕЛЛЕКТУАЛЬНАЯРОССИЯ #ГРАЖДАНСКИЙКОМИТЕТРОССИИ #ДЕРРЕЛ #ОПЧР #МАООНАЦИОНАЛЬНЫЙСОВЕТ #ДУНАЕВМУСА
 
 @adminchr @parlament_chr [club119042965|@grozmer] [id295988085|@deprel_95] @opchr.ru [id339261382|@daymohk_chr] @ladyquizrf @chrovaoo_intellektualnaya_rus @intellektualny_kavkaz @youthchr_nacsovet @minnacinform_chr @minobrnauki_95 [club42535075|@groznytv] [club89240801|@vesti_respubliki_chr] [id736198518|@depobr_grozny] [club224863102|@minmol95] @ggntu_officia @chgu_officia [club58127113|@chgu_official] @grozny_inform
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240778)
-

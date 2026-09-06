@@ -1,19 +1,15 @@
 +++
-date = 2023-02-20T13:50:00-08:00
+date = "2023-02-20T13:50:00-08:00"
 draft = false
-title = '#ТРОПАМИПРЕДКОВ'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_6043"
+title = "#ТРОПАМИПРЕДКОВ"
+slug = "тропамипредков"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #ТРОПАМИПРЕДКОВ
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-
 
 ## Комментарии
 

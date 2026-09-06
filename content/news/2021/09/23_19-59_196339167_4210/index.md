@@ -1,10 +1,12 @@
 +++
-date = 2021-09-23T19:59:00-08:00
+date = "2021-09-23T19:59:00-08:00"
 draft = false
-title = '23.09.2021г., Шаройский район ЧР, с. Кхенхи, проект @youthch'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4210"
+title = "23.09.2021г., Шаройский район ЧР, с. Кхенхи, проект @youthch"
+slug = "23-09-2021г-шаройский-район-чр-с-кхенхи-проект-youthch"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 23.09.2021г., Шаройский район ЧР, с. Кхенхи, проект @youthchr_nacsovet #маоонациональныйсовет #яиэтотмир от ФОНДА ПРЕЗИДЕНТСКИХ ГРАНТОВ @pgrants_ru #фондпрезидентскихгрантов , при поддержке ЦРО «Международная Исламская Миссия» @islam_mission_ru @shafigpshikhachev, Министерства образования и науки ЧР @minobrnauki_95 @i.baysultanov_95.
@@ -15,8 +17,3 @@ title = '23.09.2021г., Шаройский район ЧР, с. Кхенхи, п
 Благодарны партнерам, спонсорам ассоциации:и @minsport_chr_ @za_kra_bistriy_95 , ЧГТРК «Грозный», @opchr_95 [id508910309|@idenilkhanov] @ibragimbazaew за поддержку @youthchr_nacsovet @dunaevmusa , как материально, так в организационном плане. 
 
  #россия🇷🇺 #70летАхматХаджи @adnan_nagaev @isa.patriot [club119042965|@grozmer] [club61650283|@er_chechnya] @adlan_dinaev95_er @deprel_95 @minnacinform_chr [club204804052|@ahmed_95kra] @chro_voi @intellektualny_kavkaz @chroo_sm #интеллектуальныйкавказ #интеллектуальныйцентрскфо @dunaev.95 @mmoo_patriot_ @hasanova_madina__ #поисковикичр #гражданскийкомитетроссии #роофицерыроссиивчр🇷🇺 #дунаевмуса @gkrrussia #поисковикичр #шаройскийрайон #кхенхи [id104980503|@irskom] [id339261382|@daymohk_chr] @beriauto95 @apteka_ooo_deva_62_ @shtory_style_home @isma_school ...
-
-## Вложения
-
-![](images/featured.jpg)
-

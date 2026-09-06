@@ -1,18 +1,15 @@
 +++
-date = 2022-07-29T22:32:00-08:00
+date = "2022-07-29T22:32:00-08:00"
 draft = false
-title = 'Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmusa'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_5053"
+title = "Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmusa"
+slug = "как-то-так-дубай-muzaevsaidmagomed-dunaevmusa"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmusa
-
-## Вложения
-
-![](images/featured.jpg)
-
 
 ## Комментарии
 

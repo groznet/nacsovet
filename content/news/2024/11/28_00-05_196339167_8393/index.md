@@ -1,10 +1,12 @@
 +++
-date = 2024-11-28T00:05:00-08:00
+date = "2024-11-28T00:05:00-08:00"
 draft = false
-title = '*Сенсация: БФ «Даймохк» запускает собственное приложение для'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_8393"
+title = "*Сенсация: БФ «Даймохк» запускает собственное приложение для"
+slug = "сенсация-бф-даймохк-запускает-собственное-приложение-для"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 *Сенсация: БФ «Даймохк» запускает собственное приложение для пожертвований!*
@@ -22,10 +24,3 @@ title = '*Сенсация: БФ «Даймохк» запускает собс�
 
 🔗 Для android: https://play.google.com/store/apps/details?id=ru.daymohk.app
 🔗Для iOs: https://apps.apple.com/ua/app/daymohk/id6736373786
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456240862)
-- [Ссылка](https://play.google.com/store/apps/details?id=ru.daymohk.app)
-

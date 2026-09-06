@@ -1,10 +1,12 @@
 +++
-date = 2025-06-14T23:11:00-08:00
+date = "2025-06-14T23:11:00-08:00"
 draft = false
-title = 'Уважаемые интеллектуалы! ❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9273"
+title = "Уважаемые интеллектуалы! ❗️"
+slug = "уважаемые-интеллектуалы"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Уважаемые интеллектуалы! ❗️
@@ -23,18 +25,6 @@ title = 'Уважаемые интеллектуалы! ❗️'
 
 С уважением,
 Координатор по Чеченской Республике — Дунаев М.С.
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-
 
 ## Комментарии
 

@@ -1,10 +1,12 @@
 +++
-date = 2021-10-17T15:39:00-08:00
+date = "2021-10-17T15:39:00-08:00"
 draft = false
-title = 'ХV) Всероссийский асинхронный турнир по интеллектуальной игр'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4219"
+title = "ХV) Всероссийский асинхронный турнир по интеллектуальной игр"
+slug = "хv-всероссийский-асинхронный-турнир-по-интеллектуальной-игр"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ХV) Всероссийский асинхронный турнир по интеллектуальной игре [club77614088|@chto_gde_kogda] среди 5-8 классов общеобразовательных ЧР.
@@ -16,9 +18,3 @@ title = 'ХV) Всероссийский асинхронный турнир п�
 Дала диканца бекхама бойла шуна!
 
 @youthchr_nacsovet @intellektualny_kavkaz @intellektualny_centre_scfo @dunaevmusa @muzaevsaidmagomed @linguistic_school95
-
-## Вложения
-
-![](videos/video-01-thumb.jpg)
-- [Видео](https://vk.ru/video196339167_456239310)
-

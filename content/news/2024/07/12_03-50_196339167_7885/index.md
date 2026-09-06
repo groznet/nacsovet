@@ -1,10 +1,12 @@
 +++
-date = 2024-07-12T03:50:00-08:00
+date = "2024-07-12T03:50:00-08:00"
 draft = false
-title = 'https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_7885"
+title = "https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR"
+slug = "https-youtube-com-shorts-sgvrgf-6du4-si-ywawyedwcch-nmur"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR

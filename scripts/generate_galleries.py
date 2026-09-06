@@ -6,7 +6,7 @@ import re
 # SITE CONFIGURATION
 # ==========================================
 SITE_SLUG = "nacsovet"
-MEDIA_SERVER_BASE = "https://ci21392.tw1.ru"
+MEDIA_SERVER_BASE = "https://files.groznet.com"
 CONTENT_SECTION = "news"
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -83,8 +83,8 @@ def process_post(post_dir):
         "images": gallery_images
     }
 
-    # 4. Read existing gallery.json if present to check for changes
-    json_path = os.path.join(post_dir, "gallery.json")
+    # 4. Read existing media.json if present to check for changes
+    json_path = os.path.join(post_dir, "media.json")
     existing_data = None
     if os.path.exists(json_path):
         try:
@@ -97,9 +97,9 @@ def process_post(post_dir):
     if existing_data != output_data:
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(output_data, f, indent=4, ensure_ascii=False)
-        print(f"🔄 Updated: {CONTENT_SECTION}/{rel_post_path}/gallery.json ({len(gallery_images)} images)")
+        print(f"🔄 Updated: {CONTENT_SECTION}/{rel_post_path}/media.json ({len(gallery_images)} images)")
     else:
-        print(f"✔️ Up to date: {CONTENT_SECTION}/{rel_post_path}/gallery.json")
+        print(f"✔️ Up to date: {CONTENT_SECTION}/{rel_post_path}/media.json")
 
 if __name__ == '__main__':
     print(f"🚀 Scanning local bundle media for site: [{SITE_SLUG}]...")

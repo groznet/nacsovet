@@ -1,10 +1,11 @@
 +++
-date = 2025-10-04T18:47:00-08:00
+date = "2025-10-04T18:47:00-08:00"
 draft = false
-title = 'Без названия'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_9540"
+title = "Без названия"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 

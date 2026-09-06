@@ -1,10 +1,12 @@
 +++
-date = 2022-05-13T23:29:00-08:00
+date = "2022-05-13T23:29:00-08:00"
 draft = false
-title = 'Архив: Господа интеллектуалы, сегодня, 26 февраля завершился'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4646"
+title = "Архив: Господа интеллектуалы, сегодня, 26 февраля завершился"
+slug = "архив-господа-интеллектуалы-сегодня-26-февраля-завершился"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Архив: Господа интеллектуалы, сегодня, 26 февраля завершился третий этап интеллектуальной игры #брэйнринг [club12255990|@brain_ring] , прошла в супер финал на ЧГТРК «Грозный» команда СОШ 4 ст. Шелковская @8.v.sosh4 .
@@ -14,15 +16,3 @@ title = 'Архив: Господа интеллектуалы, сегодня, 
 Партнёры и спонсоры: @kabmin_chr @adminchr @parlament_chr [id295988085|@deprel_95] [id422063213|@minmolodezhi_95] @minobrnauki_95 @minnacinform_chr @intellektualny_centre_scfo @intellektualny_kavkaz [club99175488|@fond_kadyrova] [club61650283|@er_chechnya] [club211773886|@irskom] [club211230710|@beriauto95] @shtory_style_home [club205246856|@ochag__predkov] @daymohk_online @isma_school 
 
 @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет #гражданскийкомитетроссии #интеллектуальныйкавказ #нацсоветчр #нацсовет #чроосоюзмолодежи #чммоопатриот
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-![](images/image-03.jpg)
-![](images/image-04.jpg)
-![](images/image-05.jpg)
-![](images/image-06.jpg)
-![](images/image-07.jpg)
-

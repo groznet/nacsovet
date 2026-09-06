@@ -1,10 +1,12 @@
 +++
-date = 2021-10-02T11:08:00-08:00
+date = "2021-10-02T11:08:00-08:00"
 draft = false
-title = '#Repost @youthchr_nacsovet with [club87821973|@make_repost'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4215"
+title = "#Repost @youthchr_nacsovet with [club87821973|@make_repost]"
+slug = "repost-youthchr-nacsovet-with-club87821973-make-repost"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 #Repost @youthchr_nacsovet with [club87821973|@make_repost]
@@ -18,8 +20,3 @@ title = '#Repost @youthchr_nacsovet with [club87821973|@make_repost'
  ✅ Поздравляю команду [club85324860|@rgo95], нашему спонсору говорим спасибо 🙏 ✅❗️
 
 #россия🇷🇺 #70летахматхаджи [club119042965|@grozmer] @timuraliev1973 @ibragimbazaew @zarya.s.095 @intellektualny_kavkaz @chroo_sm @gkrrussia [id339261382|@daymohk_chr] [id104980503|@irskom] @shtory_style_home @isma_school [club61650283|@er_chechnya] @beriauto95 #интеллектуальныйкавказ #интеллектуальныйцентрскфо @mmoo_patriot_ @hasanova_madina__ #поисковикичр @isa_sardalov #гражданскийкомитетроссии @london_city_eng #роофицерыроссиивчр🇷🇺 #дунаевмуса
-
-## Вложения
-
-![](images/featured.jpg)
-

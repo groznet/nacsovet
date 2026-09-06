@@ -1,10 +1,12 @@
 +++
-date = 2021-03-11T20:09:00-08:00
+date = "2021-03-11T20:09:00-08:00"
 draft = false
-title = 'Внимание'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4132"
+title = "Внимание !!!"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 Внимание !!! 
@@ -22,10 +24,3 @@ title = 'Внимание'
  Оригинальные заявки подаются не позже 31 марта 2021 года (на открытии чемпионата).
 
 #россия🇷🇺 #маоонациональныйсовет #маоонацсовет @dunaevmusa #дунаевмуса @intellektualny_centre_scfo @intellektualny_kavkaz @muzaevsaidmagomed
-
-## Вложения
-
-![](images/featured.jpg)
-![](images/image-01.jpg)
-![](images/image-02.jpg)
-

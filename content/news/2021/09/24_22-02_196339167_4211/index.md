@@ -1,10 +1,12 @@
 +++
-date = 2021-09-24T22:02:00-08:00
+date = "2021-09-24T22:02:00-08:00"
 draft = false
-title = 'ВНИМАНИЕ❗️❗️❗️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4211"
+title = "ВНИМАНИЕ❗️❗️❗️"
+slug = "внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ВНИМАНИЕ❗️❗️❗️
@@ -22,8 +24,3 @@ title = 'ВНИМАНИЕ❗️❗️❗️'
  ✅  Играйте в интеллектуальные игры❗️ Добро пожаловать в интеллектуальный мир 🙏🤝✨🌟⚡️👍✅☝️❗️ 
 
 #россия🇷🇺 #70летахматхаджи @minsport_chr @za_kra_bistriy_95 @minobrnauki_95 @i.baysultanov_95 [club119042965|@grozmer] @ibragimbazaew @timuraliev1973 @intellektualny_kavkaz @chroo_sm @gkrrussia #интеллектуальныйкавказ #интеллектуальныйцентрскфо @mmoo_patriot_ #поисковикичр #гражданскийкомитетроссии @london_city_eng #роофицерыроссиивчр🇷🇺 #дунаевмуса
-
-## Вложения
-
-![](images/featured.jpg)
-

@@ -1,10 +1,12 @@
 +++
-date = 2021-08-04T09:38:00-08:00
+date = "2021-08-04T09:38:00-08:00"
 draft = false
-title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️'
-[params]
-    author = "Муса Дунаев"
-    vk_url = "https://vk.ru/wall196339167_4198"
+title = "ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️"
+slug = "господа-интеллектуалы-внимание"
+author = "Муса Дунаев"
+
+tags = []
+categories = []
 +++
 
 ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️ 
@@ -24,8 +26,3 @@ title = 'ГОСПОДА ИНТЕЛЛЕКТУАЛЫ ❗️ ВНИМАНИЕ‼️
  Благодарны учредителям, исполнителям и спонсорам чемпионата: министерству ЧР по физической культуре, спорту и молодёжной политике @minsport_mol_chr , министру Ибрагимову Турпал-Али @za_kra_bistriy_95 и руководителю БФ «Даймохк» [id339261382|@daymohk_chr] Закриеву Хамзату @zakriev_hamzat_95 , ООО «Ирс Ком» [id104980503|@irskom] [club61650283|@er_chechnya] @beriauto95 @shtory_style_home @isma_school, директору МИЦ СКФО @intellektualny_centre_scfo Музаеву Сайдмагомеду @muzaevsaidmagomed , директору МИК ИК @intellektualny_kavkaz Висихановой Хадижат #висихановахадижат, команде МАОО НС #команданацсовета @youthchr_nacsovet #маоонациональныйсовет за поддержку интеллектуальных игр в республике.
 
  #россия 🇷🇺 #70летАхматХаджи @dunaevmusa [club42535075|@groznytv] @noh_che @minsport_mol_chr @minobrnauki_95 @i.baysultanov_95 @minnacinform_chr [club204804052|@ahmed_95kra] [club203108194|@isa_k669ra] @deprel_95 @opchr_95 [id508910309|@idenilkhanov]
-
-## Вложения
-
-![](images/featured.jpg)
-
