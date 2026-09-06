@@ -1,0 +1,184 @@
+{{ define "main" }}
+
+<!-- ============================================================
+    TAXONOMY / TERMS CLOUD VIEW — taxonomy.html
+    Left sidebar: search, categories, date filters, tags, archives
+    Right: term cloud (top 80 initially, expandable)
+    ============================================================ -->
+
+<!-- ====== TAXONOMY HEADER ====== -->
+<section class="relative overflow-hidden pt-12 pb-8 md:pt-16 md:pb-10">
+    <div class="container mx-auto px-4 lg:px-8">
+        {{ $terms := .Data.Terms }}
+        {{ $taxonomyName := .Data.Plural }}
+        {{ $titleRussian := cond (eq $taxonomyName "categories") "Категории" (cond (eq $taxonomyName "tags") "Теги" (.Title | humanize)) }}
+        
+        <div class="flex flex-wrap items-center justify-between gap-4">
+            <div>
+                <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-3 backdrop-blur-sm">
+                    <i class="fas fa-tags mr-1"></i> {{ .Data.Singular | humanize }}
+                </span>
+                <h1 class="heading-font text-3xl md:text-4xl lg:text-5xl font-extrabold text-primary">
+                    {{ $titleRussian }}
+                </h1>
+                
+                <p class="text-gray-600 mt-2 max-w-2xl">
+                    Все {{ $titleRussian | lower }} сайта для быстрого поиска и навигации по публикациям.
+                </p>
+            </div>
+            
+            <div class="text-sm text-muted bg-white/60 px-4 py-2 rounded-full border border-gray-200/50">
+                <i class="fas fa-hashtag mr-1"></i> Всего: <span>{{ len $terms }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ====== MAIN LAYOUT ====== -->
+<div class="container mx-auto px-4 lg:px-8 pb-20">
+    <!-- Sidebar overlay (mobile) -->
+    <div id="archiveSidebarOverlay" class="archive-sidebar-overlay"></div>
+    <!-- Floating toggle button (mobile) -->
+    <button id="archiveSidebarToggle" class="archive-sidebar-toggle" aria-label="Открыть фильтры">
+        <i class="fas fa-sliders-h"></i>
+    </button>
+    
+    <div class="flex flex-col lg:flex-row gap-8">
+        <!-- ============================================================
+            LEFT SIDEBAR
+            ============================================================ -->
+        <aside class="archive-sidebar lg:w-72 xl:w-80 flex-shrink-0">
+            {{ partial "sidebar.html" . }}
+        </aside>
+
+        <!-- ============================================================
+            RIGHT COLUMN — TERM CLOUD
+            ============================================================ -->
+        <main class="flex-1 min-w-0">
+            <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+                {{ $allTerms := .Data.Terms.ByCount }}
+                {{ $totalCount := len $allTerms }}
+                {{ if gt $totalCount 0 }}
+                    {{ $max := (index $allTerms 0).Count }}
+                    {{ $min := (index $allTerms (sub $totalCount 1)).Count }}
+                    {{ $diff := sub $max $min }}
+
+                    <div class="flex flex-wrap items-center gap-2.5 sm:gap-3">
+                        {{ range $index, $term := $allTerms }}
+                            {{ $count := $term.Count }}
+                            {{/* Weight calculation from 0 to 4 for font size variations */}}
+                            {{ $weight := 0 }}
+                            {{ if gt $diff 0 }}
+                                {{ $weight = div (mul (sub $count $min) 4) $diff }}
+                            {{ end }}
+                            
+                            {{ $fontSize := "text-xs px-3 py-1.5" }}
+                            {{ if eq $weight 1 }}
+                                {{ $fontSize = "text-sm px-3.5 py-1.5" }}
+                            {{ else if eq $weight 2 }}
+                                {{ $fontSize = "text-base px-4 py-2" }}
+                            {{ else if eq $weight 3 }}
+                                {{ $fontSize = "text-lg px-4.5 py-2 font-semibold" }}
+                            {{ else if eq $weight 4 }}
+                                {{ $fontSize = "text-xl px-5 py-2.5 font-bold" }}
+                            {{ end }}
+
+                            <a href="{{ $term.Page.RelPermalink }}" 
+                            class="inline-flex items-center gap-2 rounded-full border border-gray-200/80 bg-gray-50/80 text-primary hover:bg-primary/5 hover:border-primary transition-all duration-200 group {{ $fontSize }} {{ if ge $index 80 }}extra-term hidden{{ end }}">
+                                <span>{{ $term.Page.Title }}</span>
+                                <span class="text-[11px] font-semibold bg-accent/40 text-primary px-2 py-0.5 rounded-full transition-colors">
+                                    {{ $count }}
+                                </span>
+                            </a>
+                        {{ end }}
+                    </div>
+
+                    {{ if gt $totalCount 80 }}
+                        <div class="mt-8 pt-4 border-t border-gray-100 text-center">
+                            <button id="termsToggleBtn" type="button" class="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:text-secondary transition-colors cursor-pointer bg-gray-50 hover:bg-gray-100 px-5 py-2.5 rounded-full border border-gray-200">
+                                <span id="termsToggleText">Показать все ({{ $totalCount }})</span>
+                                <i id="termsToggleIcon" class="fas fa-chevron-down text-xs transition-transform duration-200"></i>
+                            </button>
+                        </div>
+                    {{ end }}
+                {{ else }}
+                    <div class="text-center py-12 text-gray-500">
+                        <i class="far fa-folder-open text-4xl mb-3 block text-gray-300"></i>
+                        Список пуст.
+                    </div>
+                {{ end }}
+            </div>
+        </main>
+    </div>
+</div>
+
+<!-- ====== TOGGLE SCRIPT ====== -->
+<script>
+    (function() {
+        // --- Sidebar toggle logic ---
+        const sidebar = document.querySelector('.archive-sidebar');
+        const overlay = document.getElementById('archiveSidebarOverlay');
+        const toggleBtn = document.getElementById('archiveSidebarToggle');
+        const closeBtn = document.getElementById('archiveSidebarClose') || document.getElementById('closeArchiveSidebar');
+        
+        if (sidebar && overlay) {
+            function openSidebar() {
+                sidebar.classList.add('open');
+                overlay.classList.add('active');
+                document.body.style.overflow = 'hidden';
+            }
+            function closeSidebar() {
+                sidebar.classList.remove('open');
+                overlay.classList.remove('active');
+                document.body.style.overflow = '';
+            }
+            if (toggleBtn) {
+                toggleBtn.addEventListener('click', function() {
+                    if (sidebar.classList.contains('open')) closeSidebar();
+                    else openSidebar();
+                });
+            }
+            if (closeBtn) closeBtn.addEventListener('click', closeSidebar);
+            if (overlay) overlay.addEventListener('click', closeSidebar);
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && sidebar.classList.contains('open')) closeSidebar();
+            });
+            const mediaQuery = window.matchMedia('(min-width: 1024px)');
+            mediaQuery.addEventListener('change', function(e) {
+                if (e.matches && sidebar.classList.contains('open')) closeSidebar();
+            });
+        }
+
+        // --- Term cloud expand/collapse logic ---
+        const termsBtn = document.getElementById('termsToggleBtn');
+        const termsText = document.getElementById('termsToggleText');
+        const termsIcon = document.getElementById('termsToggleIcon');
+
+        if (termsBtn) {
+            const totalTerms = {{ len .Data.Terms }};
+            let isExpanded = false;
+
+            termsBtn.addEventListener('click', function() {
+                const hiddenTerms = document.querySelectorAll('.extra-term');
+                isExpanded = !isExpanded;
+
+                hiddenTerms.forEach(term => {
+                    if (isExpanded) {
+                        term.classList.remove('hidden');
+                    } else {
+                        term.classList.add('hidden');
+                    }
+                });
+
+                if (isExpanded) {
+                    termsText.textContent = 'Свернуть';
+                    termsIcon.classList.add('rotate-180');
+                } else {
+                    termsText.textContent = `Показать все (${totalTerms})`;
+                    termsIcon.classList.remove('rotate-180');
+                }
+            });
+        }
+    })();
+</script>
+{{ end }}

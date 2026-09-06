@@ -6,7 +6,7 @@ enableRobotsTXT = true
 defaultContentLanguage = "ru"
 hasCJKLanguage = false
 summaryLength = 70
-disableKinds = ["taxonomyTerm"]
+# disableKinds = ["taxonomyTerm"]
 canonifyURLs = true
 pluralizeListTitles = false
 
