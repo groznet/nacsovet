@@ -5,8 +5,17 @@ title = "#чемпионатчр #интеллектуальнаяигра #чт
 slug = "чемпионатчр-интеллектуальнаяигра-чтогдекогда-club7761408"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "чемпионатчр",
+    "интеллектуальнаяигра",
+    "чтогдекогда",
+    "некоммерческие объединения",
+    "любительские команды",
+]
+categories = [
+    "Конкурсы",
+    "Интерактивные игры",
+]
 +++
 
 #чемпионатчр #интеллектуальнаяигра #чтогдекогда [club77614088|@chto_gde_kogda] среди некоммерческих объединений, любительских команд... да пребудет с вами сила интеллекта!!! @minsport_mol_chr [id339261382|@daymohk_chr] @intellektualny_kavkaz @intellektualny_centre_scfo @chroo_sm @mmoo_patriot_ @youthchr_nacsovet @national_library_chechnya @minobrnauki_95 @opchr_95 @molodezhka_onf_95

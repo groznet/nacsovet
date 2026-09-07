@@ -5,8 +5,18 @@ title = "Доброе утро страна #россия🇷🇺 !!! Актив
 slug = "доброе-утро-страна-россия-активных-выходных-вам-друз"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "россия",
+    "выходные",
+    "маоонациональныйсовет",
+    "dunaevmusa",
+    "intellektualny_kavkaz",
+    "chroo_sm",
+    "mmoo_patriot",
+]
+categories = [
+    "Новости",
+]
 +++
 
 Доброе утро страна #россия🇷🇺 !!! Активных выходных вам, друзья! @dunaevmusa #маоонациональныйсовет @intellektualny_kavkaz @chroo_sm @mmoo_patriot_

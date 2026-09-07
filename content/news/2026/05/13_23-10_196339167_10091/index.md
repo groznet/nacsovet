@@ -5,8 +5,17 @@ title = "https://vesti095.ru/2026/05/chtoby-pomnili-delegatsiya-iz-gr"
 slug = "https-vesti095-ru-2026-05-chtoby-pomnili-delegatsiya-iz-gr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "грузия",
+    "чеченская республика",
+    "память",
+    "погибшие в боях",
+    "проект последний рубеж",
+]
+categories = [
+    "Патриотическое воспитание",
+    "Международное сотрудничество",
+]
 +++
 
 https://vesti095.ru/2026/05/chtoby-pomnili-delegatsiya-iz-gruzii-posetila-chechenskuyu-respubliku-chtoby-otdat-dan-pamyati-zemlyakam-pogibshim-v-boyah-za-groznyj/ 

@@ -5,8 +5,18 @@ title = "#москва #3день #конференция2018 #офицерыр�
 slug = "москва-3день-конференция2018-офицерыроссии-oficeryoffici"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "москва",
+    "конференция2018",
+    "офицерыроссии",
+    "oficeryoffici",
+    "movladi_bata",
+    "youthchr",
+]
+categories = [
+    "Новости",
+    "Мероприятия",
+]
 +++
 
 #москва #3день #конференция2018 #офицерыроссии oficeryofficial movladi_bata youthchr

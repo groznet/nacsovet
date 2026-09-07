@@ -5,8 +5,18 @@ title = "@timuraliev1973 @tropami_predkov"
 slug = "timuraliev1973-tropami-predkov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "историко-географическая экспедиция «тропами предков»",
+    "грозный",
+    "чеченская республика",
+    "внутренний туризм",
+    "кубок совета при главе чр",
+    "год чеченского языка",
+]
+categories = [
+    "Новости",
+    "Патриотическое воспитание",
+]
 +++
 
 @timuraliev1973 @tropami_predkov

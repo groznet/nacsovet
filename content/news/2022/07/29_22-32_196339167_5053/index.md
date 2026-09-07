@@ -5,8 +5,14 @@ title = "Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmus
 slug = "как-то-так-дубай-muzaevsaidmagomed-dunaevmusa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "дубай",
+    "muzaevsaidmagomed",
+    "dunaevmusa",
+]
+categories = [
+    "Новости",
+]
 +++
 
 Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmusa

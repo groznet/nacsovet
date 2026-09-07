@@ -5,8 +5,18 @@ title = "#Repost @youthchr_nacsovet with [club87821973|@make_repost]"
 slug = "repost-youthchr-nacsovet-with-club87821973-make-repost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "всероссийский асинхронный турнир",
+    "южный ветер",
+    "интеллектуальная игра",
+    "что где когда",
+    "грозный",
+    "интеллектуальный кавказ",
+]
+categories = [
+    "Мероприятия",
+    "Образование и обучение",
+]
 +++
 
 #Repost @youthchr_nacsovet with [club87821973|@make_repost]

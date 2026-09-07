@@ -4,8 +4,15 @@ draft = false
 title = "На ифтара у брата ibragimbazaew islam_shah_today"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "ibragimbazaew",
+    "islam",
+    "shah",
+    "ифтар",
+]
+categories = [
+    "Новости",
+]
 +++
 
 На ифтара у брата ibragimbazaew islam_shah_today

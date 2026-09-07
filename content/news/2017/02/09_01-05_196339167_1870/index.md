@@ -5,8 +5,16 @@ title = "#GPRepost,#reposter,#notetag @belgatoy_2 via @GPRepostApp"
 slug = "gprepost-reposter-notetag-belgatoy-2-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "соц.проект",
+    "старшие классы",
+    "семинар",
+    "идеи проекта",
+]
+categories = [
+    "Образование и обучение",
+    "Проекты",
+]
 +++
 
 #GPRepost,#reposter,#notetag @belgatoy_2 via @GPRepostApp 

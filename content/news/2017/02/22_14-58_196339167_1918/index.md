@@ -5,8 +5,17 @@ title = "#GPRepost,#reposter,#notetag @assotsiatsiya_obsh_obyedineniy"
 slug = "gprepost-reposter-notetag-assotsiatsiya-obsh-obyedineniy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "надтеречный район",
+    "чеченская республика",
+    "возвращение к истокам",
+    "ирасханова лайлакюраевна",
+    "мбоусош3с.п.надтеречное",
+]
+categories = [
+    "Проекты",
+    "Патриотическое воспитание",
+]
 +++
 
 #GPRepost,#reposter,#notetag @assotsiatsiya_obsh_obyedineniy via @GPRepostApp 

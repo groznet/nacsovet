@@ -5,8 +5,15 @@ title = "#GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp"
 slug = "gprepost-reposter-notetag-ibragimbazaew-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "чеченская республика",
+    "рамзан ахматович кадыров",
+    "инаугурация",
+    "глава чеченской республики",
+]
+categories = [
+    "Патриотическое воспитание",
+]
 +++
 
 #GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp 

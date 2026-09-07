@@ -5,8 +5,17 @@ title = "Доброе утро, страна #россия🇷🇺 !!! @youthchr
 slug = "доброе-утро-страна-россия-youthchr-nacsovet-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "россия",
+    "youthchr_nacsovet",
+    "dunaev",
+    "маоонациональныйсовет",
+    "нацсоветчр",
+    "нацсовет",
+]
+categories = [
+    "Новости",
+]
 +++
 
 Доброе утро, страна #россия🇷🇺 !!! @youthchr_nacsovet @dunaevmusa #маоонациональныйсовет #нацсоветчр #нацсовет #маоонацсовет

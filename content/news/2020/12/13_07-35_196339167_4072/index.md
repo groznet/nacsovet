@@ -5,8 +5,15 @@ title = "В единстве наша сила! С праздником! @youthc
 slug = "в-единстве-наша-сила-с-праздником-youthchr-nacsovet-маоо"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "маоо",
+    "национальныйсовет",
+    "youthchr_nacsovet",
+    "dunaevmusa",
+]
+categories = [
+    "Патриотическое воспитание",
+]
 +++
 
 В единстве наша сила! С праздником! @youthchr_nacsovet #маоонациональныйсовет @dunaevmusa

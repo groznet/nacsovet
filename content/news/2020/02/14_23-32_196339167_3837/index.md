@@ -5,8 +5,18 @@ title = "Офис Интеллектуального центра СКФО !!! �
 slug = "офис-интеллектуального-центра-скфо-все-по-воле-аллах1а"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "интеллектуальный центр скфо",
+    "шахматыишашкичр",
+    "кавказ",
+    "грозный",
+    "абдулаев аслан",
+    "интеллектуальныйкавказ",
+]
+categories = [
+    "Новости",
+    "Мероприятия",
+]
 +++
 
 Офис Интеллектуального центра СКФО !!! Все по воле АЛЛАХ1А !!! @parlament_chr @admin.chr [club119042965|@grozmer] @isa.patriot @deprel_95 @ismail_85_95 @minobrnauki_95 @i.baysultanov_95 @minnac_95 @djambox [id422063213|@minmolodezhi_95] @isa_k669ra #AбдулаевАслан @opchr_95 [id508910309|@idenilkhanov] @adnan_nagaev [club42535075|@groznytv] @gtrk.vainah.tv [club41816880|@grozny_inform] @chro_voi @intellektualny_kavkaz @chroo_sm [club144204495|@chro_rssm] [club187191049|@rsm_chr95] [club49388164|@rosmolodez] @pgrants_ru @islam_mission_ru @isa_sardalov @linguistic_school95 #интеллектуальныйкавказ #интеллектуальныйцентрскфо Добро пожаловать !!! [club77614088|@chto_gde_kogda] [club12255990|@brain_ring] [club68269203|@svoiaigra] #шахматыишашкичр @muzaevsaidmagomed @hasanova_madina__

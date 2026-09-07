@@ -5,8 +5,15 @@ title = "#GPRepost,#reposter,#notetag @alihan_selmurzaev via @GPRepos"
 slug = "gprepost-reposter-notetag-alihan-selmurzaev-via-gprepos"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "день россии",
+    "ачхой-мартановский",
+    "район",
+    "празднование",
+]
+categories = [
+    "Патриотическое воспитание",
+]
 +++
 
 #GPRepost,#reposter,#notetag @alihan_selmurzaev via @GPRepostApp 

@@ -5,8 +5,14 @@ title = "Господа интеллектуалы, с праздником ва
 slug = "господа-интеллектуалы-с-праздником-вас-интеллектуальны"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "интеллектуальны",
+    "интеллектуальный кавказ",
+    "youthchr_nacsovet",
+]
+categories = [
+    "Мероприятия",
+]
 +++
 
 Господа интеллектуалы, с праздником вас !!! #интеллектуальныйкавказ @intellektualny_kavkaz @intellektualny_centre_scfo @youthchr_nacsovet

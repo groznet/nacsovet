@@ -5,8 +5,18 @@ title = "https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t"
 slug = "https-chat-whatsapp-com-lisffx8bcum4cagcxkc5lt-mode-gi-t"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "донорская акция",
+    "благотворительный фонд даймохк",
+    "российский красный крест",
+    "грозный",
+    "рамадан",
+    "спасение жизней",
+]
+categories = [
+    "Волонтёрство",
+    "Патриотическое воспитание",
+]
 +++
 
 https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t

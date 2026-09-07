@@ -5,8 +5,15 @@ title = "https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR"
 slug = "https-youtube-com-shorts-sgvrgf-6du4-si-ywawyedwcch-nmur"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "youtube",
+    "shorts",
+    "абдулмадид лулуев",
+]
+categories = [
+    "Новости",
+    "Мероприятия",
+]
 +++
 
 https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR

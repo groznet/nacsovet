@@ -5,8 +5,17 @@ title = "Венеция Господа, усталые, но довольные.
 slug = "венеция-господа-усталые-но-довольные-italy-venezia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "венеция",
+    "italy",
+    "venezia",
+    "нацсоветчр",
+    "muzaevsaidmagomed",
+    "dunaevmusa",
+]
+categories = [
+    "Новости",
+]
 +++
 
 Венеция Господа, усталые, но довольные... #italy🇮🇹 #venezia #нацсоветчр muzaevsaidmagomed dunaevmusa

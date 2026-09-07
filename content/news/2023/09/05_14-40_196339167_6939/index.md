@@ -5,8 +5,15 @@ title = "#РОССИЯ🇷🇺 #ТУРЦИЯ 🇹🇷#KIDSHOP #LDMODA @kid_shop.
 slug = "россия-турция-kidshop-ldmoda-kid-shop-95-lara-dmod"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "россия",
+    "турция",
+    "kidshop",
+    "ldmoda",
+]
+categories = [
+    "Объявления",
+]
 +++
 
 #РОССИЯ🇷🇺 #ТУРЦИЯ 🇹🇷#KIDSHOP #LDMODA @kid_shop.95 @lara_dmoda

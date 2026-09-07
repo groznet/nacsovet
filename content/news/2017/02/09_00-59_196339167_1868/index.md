@@ -5,8 +5,19 @@ title = "#GPRepost,#reposter,#notetag @germenchuc_sosh2 via @GPRepost"
 slug = "gprepost-reposter-notetag-germenchuc-sosh2-via-gprepost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "общественная палата чр",
+    "дунаев муса",
+    "буигоева индира бислановна",
+    "алаудинов асламбек узумхаджиевич",
+    "дунаева лариса хаваживна",
+    "тренинг-семинар",
+    "соц.проект",
+]
+categories = [
+    "Образование и обучение",
+    "Проекты",
+]
 +++
 
 #GPRepost,#reposter,#notetag @germenchuc_sosh2 via @GPRepostApp 

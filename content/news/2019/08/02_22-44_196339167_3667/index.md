@@ -5,8 +5,16 @@ title = "#aquafan #italy🇮🇹 #аквопарк #нацсоветчр muzaevs
 slug = "aquafan-italy-аквопарк-нацсоветчр-muzaevsaidmagomed"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "aquafan",
+    "italy",
+    "аквопарк",
+    "нацсоветчр",
+    "muzaevsaidmagomed",
+]
+categories = [
+    "Новости",
+]
 +++
 
 #aquafan #italy🇮🇹 #аквопарк #нацсоветчр muzaevsaidmagomed  #довольныдетисчастлиаыродители

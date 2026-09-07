@@ -5,8 +5,15 @@ title = "Спецрепортаж для magomedkhadzhimuradov ))) #комуле
 slug = "спецрепортаж-для-magomedkhadzhimuradov-комулегко-велоп"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "magomedkhadzhimuradov",
+    "велопробег",
+    "спорт",
+    "вело",
+]
+categories = [
+    "Новости",
+]
 +++
 
 Спецрепортаж для magomedkhadzhimuradov ))) #комулегко #велопробег🚲 #спорткаждыйдень или #почтикаждыйдееь

@@ -77,7 +77,7 @@ buildExpired = false
 [taxonomies]
   category = "categories"
   tag = "tags"
-  author = "authors"
+  project  = "projects"
   location = "locations"
 
 ##############################################

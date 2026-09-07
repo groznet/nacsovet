@@ -5,8 +5,15 @@ title = "Спорт каждый день!!! youthchr  rsm_chr95 timur_a503oa"
 slug = "спорт-каждый-день-youthchr-rsm-chr95-timur-a503oa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "youthchr",
+    "rsm_chr95",
+    "timur_a503oa",
+    "спорт",
+]
+categories = [
+    "Мероприятия",
+]
 +++
 
 Спорт каждый день!!! youthchr  rsm_chr95 timur_a503oa

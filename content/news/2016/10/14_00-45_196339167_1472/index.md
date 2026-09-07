@@ -5,8 +5,19 @@ title = "#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp"
 slug = "gprepost-reposter-notetag-albert-che95-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "ислам сайдаев",
+    "книга",
+    "кто стоит за мировым терроризмом",
+    "антитеррор",
+    "антиэкстремизм",
+    "чеченская республика",
+    "грозный",
+]
+categories = [
+    "Образование и обучение",
+    "Патриотическое воспитание",
+]
 +++
 
 #GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp 

@@ -5,8 +5,19 @@ title = "#Repost @kadyrov_news95 with [club87821973|@make_repost]"
 slug = "repost-kadyrov-news95-with-club87821973-make-repost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "день добровольца",
+    "волонтёры",
+    "чеченская республика",
+    "пандемия",
+    "единая россия",
+    "молодёжка онф",
+    "волонтёры победы",
+]
+categories = [
+    "Волонтёрство",
+    "Патриотическое воспитание",
+]
 +++
 
 #Repost @kadyrov_news95 with [club87821973|@make_repost]

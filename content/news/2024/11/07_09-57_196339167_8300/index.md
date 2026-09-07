@@ -5,8 +5,15 @@ title = "https://intel-russia.timepad.ru/event/3104228/"
 slug = "https-intel-russia-timepad-ru-event-3104228"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = [
+    "intel-russia",
+    "timepad",
+    "event",
+]
+categories = [
+    "Мероприятия",
+    "Объявления",
+]
 +++
 
 https://intel-russia.timepad.ru/event/3104228/
