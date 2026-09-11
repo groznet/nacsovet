@@ -2,22 +2,12 @@
 <div class="bg-primary text-white text-xs py-2 border-b border-white/10">
     <div class="container mx-auto px-5 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-2">
         <!-- Левая часть: Важная ссылка на документы и Срочный анонс -->
-        <div class="flex items-center space-x-3">
-            <!-- Кнопка-ссылка на раздел документов -->
-            <a href="/documents/2026%20ДепОбр%20препод.docx" download class="inline-flex items-center space-x-1.5 bg-secondary/20 hover:bg-secondary/30 text-secondary font-semibold px-2.5 py-0.5 rounded transition-colors duration-200">
-                <i class="fas fa-file-word text-[11px]"></i>
-                <span>ДепОбр препод (DOCX)</span>
+        <div class="flex items-center space-x-2 animate-pulse min-w-0">
+            <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Документ</span>
+            <a href="/documents/2026%20ДепОбр%20препод.docx" download class="hover:text-accent font-medium transition-colors duration-200 truncate max-w-[200px] xs:max-w-xs sm:max-w-md flex items-center space-x-1.5" title="Скачать 2026 ДепОбр препод.docx">
+                <i class="fas fa-file-word text-secondary shrink-0"></i>
+                <span class="truncate">2026 ДепОбр препод (DOCX)</span>
             </a>
-
-            <span class="text-white/20 hidden sm:inline">|</span>
-
-            <!-- Анонс -->
-            <div class="flex items-center space-x-2 animate-pulse">
-                <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider">Важно</span>
-                <a href="/partners" class="hover:text-accent transition-colors duration-200 truncate max-w-xs sm:max-w-md">
-                    Открыта регистрация на новый молодежный форум в Грозном!
-                </a>
-            </div>
         </div>
 
         <!-- Правая часть: Контакты и Соцсети -->
