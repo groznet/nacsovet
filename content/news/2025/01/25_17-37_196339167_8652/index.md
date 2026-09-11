@@ -2,7 +2,7 @@
 date = "2025-01-25T17:37:00-08:00"
 draft = false
 title = "✅ С праздником вас, дорогие студенты 🧑‍🎓🌹❗️"
-slug = "с-праздником-вас-дорогие-студенты"
+slug = "s-prazdnikom-vas-dorogie-studenty"
 author = "Муса Дунаев"
 
 tags = []

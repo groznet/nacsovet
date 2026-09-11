@@ -2,7 +2,7 @@
 date = "2022-09-03T10:30:00-08:00"
 draft = false
 title = "Активных выходных вам, друзья!"
-slug = "активных-выходных-вам-друзья"
+slug = "aktivnykh-vykhodnykh-vam-druzia"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2022-04-12T01:19:00-08:00"
 draft = false
 title = "Сегодня , заместитель директора ИА \"Чечня Сегодня\", Эльмурза"
-slug = "сегодня-заместитель-директора-иа-чечня-сегодня-эльмурза"
+slug = "segodnia-zamestitel-direktora-ia-chechnia-segodnia-elmurza"
 author = "Муса Дунаев"
 
 tags = []

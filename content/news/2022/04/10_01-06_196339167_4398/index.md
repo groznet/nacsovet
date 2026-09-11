@@ -2,7 +2,7 @@
 date = "2022-04-10T01:06:00-08:00"
 draft = false
 title = "О АЛЛАХ, ДАРУЙ СВОЙ ВЕЧНЫЙ РАЙ ТВОЕМУ РАБУ, МОЕМУ БРАТУ!!!"
-slug = "о-аллах-даруй-свой-вечный-рай-твоему-рабу-моему-брату"
+slug = "o-allakh-darui-svoi-vechnyi-rai-tvoemu-rabu-moemu-bratu"
 author = "Муса Дунаев"
 
 tags = []

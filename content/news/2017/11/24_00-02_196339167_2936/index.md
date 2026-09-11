@@ -2,6 +2,7 @@
 date = "2017-11-24T00:02:00-08:00"
 draft = false
 title = "Везачу АЛЛАХА ДЕКЬАЛЛА войла хьо винчу даьнца Исмаил Денильх"
+slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-ismail"
 author = "Муса Дунаев"
 
 tags = []

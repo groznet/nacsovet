@@ -2,7 +2,7 @@
 date = "2022-06-14T01:19:00-08:00"
 draft = false
 title = "Шесть часов пролетели как миг, друзья от БОГА !!!"
-slug = "шесть-часов-пролетели-как-миг-друзья-от-бога"
+slug = "shest-chasov-proleteli-kak-mig-druzia-ot-boga"
 author = "Муса Дунаев"
 
 tags = []

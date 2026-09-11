@@ -2,7 +2,7 @@
 date = "2017-10-12T01:00:00-08:00"
 draft = false
 title = "Старинное село ХОЙ, #веденскийрайон #"
-slug = "старинное-село-хой-веденскийрайон"
+slug = "starinnoe-selo-khoi-vedenskiiraion"
 author = "Муса Дунаев"
 
 tags = []

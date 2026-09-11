@@ -2,7 +2,7 @@
 date = "2020-01-12T03:55:00-08:00"
 draft = false
 title = "Друзья !!! Сегодня состоялась встреча с руководителем аппара"
-slug = "друзья-сегодня-состоялась-встреча-с-руководителем-аппара"
+slug = "druzia-segodnia-sostoialas-vstrecha-s-rukovoditelem-appara"
 author = "Муса Дунаев"
 
 tags = []

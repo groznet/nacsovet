@@ -2,7 +2,7 @@
 date = "2023-09-06T09:07:00-08:00"
 draft = false
 title = "Друзья, поздравляю вас с одним из самых значимых праздников"
-slug = "друзья-поздравляю-вас-с-одним-из-самых-значимых-праздников"
+slug = "druzia-pozdravliaiu-vas-s-odnim-iz-samykh-znachimykh"
 author = "Муса Дунаев"
 
 tags = []

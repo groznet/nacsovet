@@ -2,6 +2,7 @@
 date = "2025-03-27T17:27:00-08:00"
 draft = false
 title = "В Шалинском государственном колледже обсудили перспективы ме"
+slug = "v-shalinskom-gosudarstvennom-kolledzhe-obsudili-perspektivy"
 author = "Муса Дунаев"
 
 tags = []

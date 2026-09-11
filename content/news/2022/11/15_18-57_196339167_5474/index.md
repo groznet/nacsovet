@@ -2,7 +2,7 @@
 date = "2022-11-15T18:57:00-08:00"
 draft = false
 title = "Как-то так, занимайтесь спортом!!!"
-slug = "как-то-так-занимайтесь-спортом"
+slug = "kak-to-tak-zanimaites-sportom"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2016-12-24T19:36:00-08:00"
 draft = false
 title = "Да будет доволен вами АЛЛАХ!!! Искренние соболезнования родн"
-slug = "да-будет-доволен-вами-аллах-искренние-соболезнования-родн"
+slug = "da-budet-dovolen-vami-allakh-iskrennie-soboleznovaniia-rodn"
 author = "Муса Дунаев"
 
 tags = []

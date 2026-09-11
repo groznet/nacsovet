@@ -2,17 +2,11 @@
 date = "2021-02-05T08:16:00-08:00"
 draft = false
 title = "Господа интеллектуалы, с праздником вас !!! #интеллектуальны"
-slug = "господа-интеллектуалы-с-праздником-вас-интеллектуальны"
+slug = "gospoda-intellektualy-s-prazdnikom-vas-intellektualny"
 author = "Муса Дунаев"
 
-tags = [
-    "интеллектуальны",
-    "интеллектуальный кавказ",
-    "youthchr_nacsovet",
-]
-categories = [
-    "Мероприятия",
-]
+tags = []
+categories = []
 +++
 
 Господа интеллектуалы, с праздником вас !!! #интеллектуальныйкавказ @intellektualny_kavkaz @intellektualny_centre_scfo @youthchr_nacsovet

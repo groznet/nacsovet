@@ -2,11 +2,10 @@
 date = "2026-08-28T13:43:00-08:00"
 draft = false
 title = "Доклад на тему:"
-slug = "доклад-на-тему"
+slug = "doklad-na-temu"
 author = "Муса Дунаев"
 
 tags = []
-
 categories = []
 +++
 

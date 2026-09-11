@@ -2,7 +2,7 @@
 date = "2017-09-24T10:05:00-08:00"
 draft = false
 title = "Дорогу выдержал, а я сомневался, более того доволен как паро"
-slug = "дорогу-выдержал-а-я-сомневался-более-того-доволен-как-паро"
+slug = "dorogu-vyderzhal-a-ia-somnevalsia-bolee-togo-dovolen-kak"
 author = "Муса Дунаев"
 
 tags = []

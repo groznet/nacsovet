@@ -2,6 +2,7 @@
 date = "2025-07-23T23:01:00-08:00"
 draft = false
 title = "Сегодня в подразделении 141-ого специального моторизованного"
+slug = "segodnia-v-podrazdelenii-141-ogo-spetsialnogo"
 author = "Муса Дунаев"
 
 tags = []

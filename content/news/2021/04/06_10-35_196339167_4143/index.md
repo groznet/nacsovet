@@ -2,21 +2,11 @@
 date = "2021-04-06T10:35:00-08:00"
 draft = false
 title = "Дорогая ЮЛЯ @yuliavasiljeva !!!"
-slug = "дорогая-юля-yuliavasiljeva"
+slug = "dorogaia-iulia-yuliavasiljeva"
 author = "Муса Дунаев"
 
-tags = [
-    "день рождения",
-    "юля васильева",
-    "дружба",
-    "межнациональные и межконфессиональные отношения",
-    "курган",
-    "грозный",
-    "москва",
-]
-categories = [
-    "Объявления",
-]
+tags = []
+categories = []
 +++
 
 Дорогая ЮЛЯ @yuliavasiljeva !!!

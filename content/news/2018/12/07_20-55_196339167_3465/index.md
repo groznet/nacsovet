@@ -2,19 +2,11 @@
 date = "2018-12-07T20:55:00-08:00"
 draft = false
 title = "По воле АЛЛАХА, двигаемся по Богоугодному делу!!! #учительот"
-slug = "по-воле-аллаха-двигаемся-по-богоугодному-делу-учительот"
+slug = "po-vole-allakha-dvigaemsia-po-bogougodnomu-delu-uchitelot"
 author = "Муса Дунаев"
 
-tags = [
-    "учительот",
-    "аллаха",
-    "богоугодному делу",
-    "islam_mission_ru",
-    "youthchr_nacsovet",
-]
-categories = [
-    "Патриотическое воспитание",
-]
+tags = []
+categories = []
 +++
 
 По воле АЛЛАХА, двигаемся по Богоугодному делу!!! #учительотБога👍 1abdul1aziz islam_mission_ru #всеповолеВсевышнего☝️ youthchr_nacsovet chroo_sm

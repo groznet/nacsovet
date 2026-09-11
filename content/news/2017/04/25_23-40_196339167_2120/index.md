@@ -2,6 +2,7 @@
 date = "2017-04-25T23:40:00-08:00"
 draft = false
 title = "Сегодня у профессионала с большой буквы Адлана Нагаева День"
+slug = "segodnia-u-professionala-s-bolshoi-bukvy-adlana-nagaeva-den"
 author = "Муса Дунаев"
 
 tags = []

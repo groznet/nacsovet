@@ -2,7 +2,7 @@
 date = "2022-09-09T23:27:00-08:00"
 draft = false
 title = "Красивые виды, Республика Дагестан…"
-slug = "красивые-виды-республика-дагестан"
+slug = "krasivye-vidy-respublika-dagestan"
 author = "Муса Дунаев"
 
 tags = []

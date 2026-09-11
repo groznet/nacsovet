@@ -2,6 +2,7 @@
 date = "2023-07-11T22:54:00-08:00"
 draft = false
 title = "Поздравляю Гучигова Сайпуддина с избранием на должность пред"
+slug = "pozdravliaiu-guchigova-saipuddina-s-izbraniem-na-dolzhnost"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,11 +2,19 @@
 date = "2015-12-06T23:47:00-08:00"
 draft = false
 title = "Друзья от Бога!!!"
-slug = "друзья-от-бога"
+slug = "druzia-ot-boga"
 author = "Муса Дунаев"
-
-tags = []
-categories = []
+tags = [
+	"дружба",
+	"отношения",
+]
+categories = [
+	"Общество",
+]
+projects = []
+locations = []
 +++
+
+
 
 Друзья от Бога!!!

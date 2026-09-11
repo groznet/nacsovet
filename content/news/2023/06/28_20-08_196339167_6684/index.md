@@ -2,7 +2,7 @@
 date = "2023-06-28T20:08:00-08:00"
 draft = false
 title = "С праздником всех мусульман, но и конечно, всегда находите в"
-slug = "с-праздником-всех-мусульман-но-и-конечно-всегда-находите-в"
+slug = "s-prazdnikom-vsekh-musulman-no-i-konechno-vsegda-nakhodite-v"
 author = "Муса Дунаев"
 
 tags = []

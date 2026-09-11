@@ -2,20 +2,11 @@
 date = "2021-05-18T23:59:00-08:00"
 draft = false
 title = "Семинар от @islam_mission_ru @shafigpshikhachev в рамках про"
-slug = "семинар-от-islam-mission-ru-shafigpshikhachev-в-рамках-про"
+slug = "seminar-ot-islam-mission-ru-shafigpshikhachev-v-ramkakh-pro"
 author = "Муса Дунаев"
 
-tags = [
-    "семинар",
-    "islam_mission_ru",
-    "shafigpshikhachev",
-    "точки роста",
-    "российский исламский университет им. кунта-хаджи",
-]
-categories = [
-    "Образование и обучение",
-    "Проекты",
-]
+tags = []
+categories = []
 +++
 
 Семинар от @islam_mission_ru @shafigpshikhachev в рамках проекта: «Точки роста». Российский исламский университет им. Кунта-Хаджи. 

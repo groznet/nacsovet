@@ -2,7 +2,7 @@
 date = "2026-03-11T12:59:00-08:00"
 draft = false
 title = "В Национальной библиотеке ЧР им. А.А. Айдамирова прошла прес"
-slug = "в-национальной-библиотеке-чр-им-а-а-айдамирова-прошла-прес"
+slug = "v-natsionalnoi-biblioteke-chr-im-a-a-aidamirova-proshla-pres"
 author = "Муса Дунаев"
 
 tags = []

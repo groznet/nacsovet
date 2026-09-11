@@ -2,7 +2,7 @@
 date = "2017-09-28T19:49:00-08:00"
 draft = false
 title = "Разрешили прокататься...) Вы, со мной? #экскурсияпоцитаделю"
-slug = "разрешили-прокататься-вы-со-мной-экскурсияпоцитаделю"
+slug = "razreshili-prokatatsia-vy-so-mnoi-ekskursiiapotsitadeliu"
 author = "Муса Дунаев"
 
 tags = []

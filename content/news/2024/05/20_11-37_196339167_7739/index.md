@@ -2,7 +2,7 @@
 date = "2024-05-20T11:37:00-08:00"
 draft = false
 title = "✅ Доброе утро, страна #РОССИЯ 🇷🇺❗️"
-slug = "доброе-утро-страна-россия"
+slug = "dobroe-utro-strana-rossiia"
 author = "Муса Дунаев"
 
 tags = []

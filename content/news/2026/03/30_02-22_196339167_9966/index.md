@@ -2,7 +2,7 @@
 date = "2026-03-30T02:22:00-08:00"
 draft = false
 title = "«Последний рубеж» — Великой Победы!"
-slug = "последний-рубеж-великой-победы"
+slug = "poslednii-rubezh-velikoi-pobedy"
 author = "Муса Дунаев"
 
 tags = []

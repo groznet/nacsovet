@@ -2,7 +2,7 @@
 date = "2017-05-06T01:31:00-08:00"
 draft = false
 title = "#деньнашидов #мбоусош2селобелгатой #директор #петиматамерхан"
-slug = "деньнашидов-мбоусош2селобелгатой-директор-петиматамерхан"
+slug = "dennashidov-mbousosh2selobelgatoi-direktor-petimatamerkhan"
 author = "Муса Дунаев"
 
 tags = []

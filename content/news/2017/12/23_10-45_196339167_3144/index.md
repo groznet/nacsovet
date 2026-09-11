@@ -2,7 +2,7 @@
 date = "2017-12-23T10:45:00-08:00"
 draft = false
 title = "С Наступающим вас друзья!!! #мынапразднике #сновымгодом🎄🎄🎄 #"
-slug = "с-наступающим-вас-друзья-мынапразднике-сновымгодом"
+slug = "s-nastupaiushchim-vas-druzia-mynaprazdnike-snovymgodom"
 author = "Муса Дунаев"
 
 tags = []

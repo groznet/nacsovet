@@ -2,7 +2,7 @@
 date = "2017-03-30T08:50:00-08:00"
 draft = false
 title = "#эфелева_башня #брат #племянник #россия #франция #видсверху"
-slug = "эфелева-башня-брат-племянник-россия-франция-видсверху"
+slug = "efeleva-bashnia-brat-plemiannik-rossiia-frantsiia-vidsverkhu"
 author = "Муса Дунаев"
 
 tags = []

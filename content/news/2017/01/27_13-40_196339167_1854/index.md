@@ -2,7 +2,7 @@
 date = "2017-01-27T13:40:00-08:00"
 draft = false
 title = "#красотадаитолько #"
-slug = "красотадаитолько"
+slug = "krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []

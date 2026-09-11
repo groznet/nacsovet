@@ -2,7 +2,7 @@
 date = "2017-06-05T00:37:00-08:00"
 draft = false
 title = "#вечернашидов #народныйартистчрисаэсамбаев #мбоусош2сбелгато"
-slug = "вечернашидов-народныйартистчрисаэсамбаев-мбоусош2сбелгато"
+slug = "vechernashidov-narodnyiartistchrisaesambaev"
 author = "Муса Дунаев"
 
 tags = []

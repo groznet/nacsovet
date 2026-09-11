@@ -2,7 +2,7 @@
 date = "2022-12-26T11:07:00-08:00"
 draft = false
 title = "Обратная сторона интеллектуальных игр…)"
-slug = "обратная-сторона-интеллектуальных-игр"
+slug = "obratnaia-storona-intellektualnykh-igr"
 author = "Муса Дунаев"
 
 tags = []

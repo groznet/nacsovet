@@ -2,6 +2,7 @@
 date = "2025-03-24T22:28:00-08:00"
 draft = false
 title = "Без названия"
+slug = "bez-nazvaniia"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,21 +2,11 @@
 date = "2021-09-25T21:06:00-08:00"
 draft = false
 title = "Республиканская интеллектуально-правовая игра «Молодёжь и За"
-slug = "республиканская-интеллектуально-правовая-игра-молодежь-и-за"
+slug = "respublikanskaia-intellektualno-pravovaia-igra-molodezh-i-za"
 author = "Муса Дунаев"
 
-tags = [
-    "республиканская интеллектуально-правовая игра",
-    "молодёжь и закон",
-    "учредитель турнира",
-    "youthchr_nacsovet",
-    "интеллектуальный центр",
-    "чгтрк «грозный»",
-]
-categories = [
-    "Конкурсы",
-    "Интерактивные игры",
-]
+tags = []
+categories = []
 +++
 
 Республиканская интеллектуально-правовая игра «Молодёжь и Закон», благодарны учредителю турнира @minnacinform_chr [club204804052|@ahmed_95kra] @tochki__opory @surho_grozny за чудесные подарки, партнёру и исполнителям @youthchr_nacsovet @dunaevmusa @intellektualny_centre_scfo @intellektualny_kavkaz @chroo_sm #амперсанд за организацию, хорошие вопросы.

@@ -2,7 +2,7 @@
 date = "2022-06-16T22:05:00-08:00"
 draft = false
 title = "Все для вас!!! Находите время для деток!"
-slug = "все-для-вас-находите-время-для-деток"
+slug = "vse-dlia-vas-nakhodite-vremia-dlia-detok"
 author = "Муса Дунаев"
 
 tags = []

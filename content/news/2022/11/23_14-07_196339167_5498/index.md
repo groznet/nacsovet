@@ -2,7 +2,7 @@
 date = "2022-11-23T14:07:00-08:00"
 draft = false
 title = "Дамы и Господа! Что наша жизнь - игра… Играйте друзья, играй"
-slug = "дамы-и-господа-что-наша-жизнь-игра-играйте-друзья-играй"
+slug = "damy-i-gospoda-chto-nasha-zhizn-igra-igraite-druzia-igrai"
 author = "Муса Дунаев"
 
 tags = []

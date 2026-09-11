@@ -2,7 +2,7 @@
 date = "2024-12-09T00:22:00-08:00"
 draft = false
 title = "Обратная сторона интеллектуально-физической работы, мои очер"
-slug = "обратная-сторона-интеллектуально-физической-работы-мои-очер"
+slug = "obratnaia-storona-intellektualno-fizicheskoi-raboty-moi"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2017-04-30T00:36:00-08:00"
 draft = false
 title = "ВСЕ ПО ВОЛЕ ВСЕВЫШНЕГО АЛЛАХА!!!"
-slug = "все-по-воле-всевышнего-аллаха"
+slug = "vse-po-vole-vsevyshnego-allakha"
 author = "Муса Дунаев"
 
 tags = []

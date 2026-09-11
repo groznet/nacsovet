@@ -2,7 +2,7 @@
 date = "2025-10-03T13:22:00-08:00"
 draft = false
 title = "3 октября 2025 года, «Военно-историческая викторина»."
-slug = "3-октября-2025-года-военно-историческая-викторина"
+slug = "3-oktiabria-2025-goda-voenno-istoricheskaia-viktorina"
 author = "Муса Дунаев"
 
 tags = []

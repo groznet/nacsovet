@@ -2,7 +2,7 @@
 date = "2024-11-25T16:57:00-08:00"
 draft = false
 title = "Уважаемые интеллектуалы! Когда награда находит своего героя,"
-slug = "уважаемые-интеллектуалы-когда-награда-находит-своего-героя"
+slug = "uvazhaemye-intellektualy-kogda-nagrada-nakhodit-svoego"
 author = "Муса Дунаев"
 
 tags = []

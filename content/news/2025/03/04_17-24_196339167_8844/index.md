@@ -2,7 +2,7 @@
 date = "2025-03-04T17:24:00-08:00"
 draft = false
 title = "В преддверии международного дня НКО, Межрегиональная ассоциа"
-slug = "в-преддверии-международного-дня-нко-межрегиональная-ассоциа"
+slug = "v-preddverii-mezhdunarodnogo-dnia-nko-mezhregionalnaia"
 author = "Муса Дунаев"
 
 tags = []

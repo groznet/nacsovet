@@ -2,6 +2,7 @@
 date = "2024-04-06T02:55:00-08:00"
 draft = false
 title = "Поздравляю президента межрегионального интеллектуального клу"
+slug = "pozdravliaiu-prezidenta-mezhregionalnogo-intellektualnogo"
 author = "Муса Дунаев"
 
 tags = []

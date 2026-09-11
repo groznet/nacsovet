@@ -2,7 +2,7 @@
 date = "2023-01-18T15:20:00-08:00"
 draft = false
 title = "Друзья, в Администрации Главы и Правительства ЧР  с заместит"
-slug = "друзья-в-администрации-главы-и-правительства-чр-с-заместит"
+slug = "druzia-v-administratsii-glavy-i-pravitelstva-chr-s-zamestit"
 author = "Муса Дунаев"
 
 tags = []

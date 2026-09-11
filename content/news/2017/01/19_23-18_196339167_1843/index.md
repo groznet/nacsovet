@@ -2,21 +2,11 @@
 date = "2017-01-19T23:18:00-08:00"
 draft = false
 title = "#диетическаяеда #Франция🇫🇷 #РодинаНаполеона #montereaufaulty"
-slug = "диетическаяеда-франция-родинанаполеона-montereaufaulty"
+slug = "dieticheskaiaeda-frantsiia-rodinanapoleona-montereaufaulty"
 author = "Муса Дунаев"
 
-tags = [
-    "диетическаяеда",
-    "франция",
-    "родинанаполеона",
-    "montereaufaultyonne",
-    "чеченцыевропы",
-    "спортотдыхает",
-]
-categories = [
-    "Патриотическое воспитание",
-    "Международное сотрудничество",
-]
+tags = []
+categories = []
 +++
 
 #диетическаяеда #Франция🇫🇷 #РодинаНаполеона #montereaufaultyonne #чеченцыевропы #прощайдиета #спортотдыхает

@@ -2,17 +2,11 @@
 date = "2025-05-28T16:20:00-08:00"
 draft = false
 title = "Мы сделали это!)"
-slug = "мы-сделали-это"
+slug = "my-sdelali-eto"
 author = "Муса Дунаев"
 
-tags = [
-    "михаил костыль",
-    "timur dishni",
-    "жанна бориева",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Мы сделали это!)

@@ -2,7 +2,7 @@
 date = "2022-09-07T00:29:00-08:00"
 draft = false
 title = "По милости АЛЛАХА, наш брат Хамзат Закриев совершил в этом г"
-slug = "по-милости-аллаха-наш-брат-хамзат-закриев-совершил-в-этом-г"
+slug = "po-milosti-allakha-nash-brat-khamzat-zakriev-sovershil-v-g"
 author = "Муса Дунаев"
 
 tags = []

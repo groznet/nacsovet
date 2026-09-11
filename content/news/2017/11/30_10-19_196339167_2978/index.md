@@ -2,7 +2,7 @@
 date = "2017-11-30T10:19:00-08:00"
 draft = false
 title = "Конкурс \"Лучшая Школа ЧР\", выступает #мбоусош35"
-slug = "конкурс-лучшая-школа-чр-выступает-мбоусош35"
+slug = "konkurs-luchshaia-shkola-chr-vystupaet-mbousosh35"
 author = "Муса Дунаев"
 
 tags = []

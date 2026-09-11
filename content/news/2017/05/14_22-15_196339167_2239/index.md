@@ -2,7 +2,7 @@
 date = "2017-05-14T22:15:00-08:00"
 draft = false
 title = "#красотадаитолько #веденскийрайон"
-slug = "красотадаитолько-веденскийрайон"
+slug = "krasotadaitolko-vedenskiiraion"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2022-06-16T22:32:00-08:00"
 draft = false
 title = "Набираюсь опытом к приезду друга семьи !"
-slug = "набираюсь-опытом-к-приезду-друга-семьи"
+slug = "nabiraius-opytom-k-priezdu-druga-semi"
 author = "Муса Дунаев"
 
 tags = []

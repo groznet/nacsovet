@@ -2,7 +2,7 @@
 date = "2025-04-25T22:25:00-08:00"
 draft = false
 title = "Сегодня, 25 апреля, в СОШ №7 города Аргун департамент образо"
-slug = "сегодня-25-апреля-в-сош-7-города-аргун-департамент-образо"
+slug = "segodnia-25-aprelia-v-sosh-no7-goroda-argun-departament"
 author = "Муса Дунаев"
 
 tags = []

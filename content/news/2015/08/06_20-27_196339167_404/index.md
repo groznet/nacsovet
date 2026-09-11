@@ -4,9 +4,20 @@ draft = false
 title = "#InstaFrame"
 slug = "instaframe"
 author = "Муса Дунаев"
-
-tags = []
-categories = []
+tags = [
+	"InstaFrame",
+]
+categories = [
+	"Социальные сети",
+	"Фотография",
+	"Маркетинг",
+]
+projects = [
+	"InstaFrame",
+]
+locations = []
 +++
+
+
 
 #InstaFrame

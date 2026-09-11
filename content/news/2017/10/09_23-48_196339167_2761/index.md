@@ -2,19 +2,11 @@
 date = "2017-10-09T23:48:00-08:00"
 draft = false
 title = "Я на жесткой диете...))) #друзьяивафрикедрузья yuliavasiljev"
-slug = "я-на-жесткой-диете-друзьяивафрикедрузья-yuliavasiljev"
+slug = "ia-na-zhestkoi-diete-druziaivafrikedruzia-yuliavasiljev"
 author = "Муса Дунаев"
 
-tags = [
-    "друзьяивафрикедрузья",
-    "yuliavasiljeva",
-    "форум",
-    "открытыйкавказ",
-    "грозный",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Я на жесткой диете...))) #друзьяивафрикедрузья yuliavasiljeva #форум #открытыйкавказ #грозный

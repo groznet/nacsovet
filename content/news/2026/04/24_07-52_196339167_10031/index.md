@@ -2,7 +2,7 @@
 date = "2026-04-24T07:52:00-08:00"
 draft = false
 title = "Проект МИМ, Черкесск (Карачаево-Черкесская республика)."
-slug = "проект-мим-черкесск-карачаево-черкесская-республика"
+slug = "proekt-mim-cherkessk-karachaevo-cherkesskaia-respublika"
 author = "Муса Дунаев"
 
 tags = []

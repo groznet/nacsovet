@@ -2,7 +2,7 @@
 date = "2019-01-08T10:42:00-08:00"
 draft = false
 title = "Лёгкий, диетический ... , довольный и счастливый... Приятных"
-slug = "легкий-диетический-довольный-и-счастливый-приятных"
+slug = "legkii-dieticheskii-dovolnyi-i-schastlivyi-priiatnykh"
 author = "Муса Дунаев"
 
 tags = []

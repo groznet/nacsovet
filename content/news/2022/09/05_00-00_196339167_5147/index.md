@@ -2,7 +2,7 @@
 date = "2022-09-05T00:00:00-08:00"
 draft = false
 title = "Даже обидно, что в первые в Галанчожском районе.  Волшебные"
-slug = "даже-обидно-что-в-первые-в-галанчожском-районе-волшебные"
+slug = "dazhe-obidno-chto-v-pervye-v-galanchozhskom-raione"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2023-08-19T04:44:00-08:00"
 draft = false
 title = "Цель ясна, задача  поставлена, будем работать…!!!"
-slug = "цель-ясна-задача-поставлена-будем-работать"
+slug = "tsel-iasna-zadacha-postavlena-budem-rabotat"
 author = "Муса Дунаев"
 
 tags = []

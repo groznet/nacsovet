@@ -2,7 +2,7 @@
 date = "2022-05-05T09:48:00-08:00"
 draft = false
 title = "Обратная сторона интеллектуальных игр, физический труд…) Доб"
-slug = "обратная-сторона-интеллектуальных-игр-физический-труд-доб"
+slug = "obratnaia-storona-intellektualnykh-igr-fizicheskii-trud-dob"
 author = "Муса Дунаев"
 
 tags = []

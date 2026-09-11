@@ -2,7 +2,7 @@
 date = "2016-01-15T20:02:00-08:00"
 draft = false
 title = "Хорошая встреча, сразу сдался...)"
-slug = "хорошая-встреча-сразу-сдался"
+slug = "khoroshaia-vstrecha-srazu-sdalsia"
 author = "Муса Дунаев"
 
 tags = []

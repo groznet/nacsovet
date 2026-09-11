@@ -2,7 +2,7 @@
 date = "2022-09-04T19:22:00-08:00"
 draft = false
 title = "Живя в Республике с рождения, не устаю удивляться богатству"
-slug = "живя-в-республике-с-рождения-не-устаю-удивляться-богатству"
+slug = "zhivia-v-respublike-s-rozhdeniia-ne-ustaiu-udivliatsia"
 author = "Муса Дунаев"
 
 tags = []

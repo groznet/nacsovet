@@ -2,7 +2,7 @@
 date = "2016-12-24T19:54:00-08:00"
 draft = false
 title = "Когда детки так мастерят, приятно...)"
-slug = "когда-детки-так-мастерят-приятно"
+slug = "kogda-detki-tak-masteriat-priiatno"
 author = "Муса Дунаев"
 
 tags = []

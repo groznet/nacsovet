@@ -2,6 +2,7 @@
 date = "2024-03-19T16:25:00-08:00"
 draft = false
 title = "ВЫБОРЫ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ"
+slug = "vybory-prezidenta-rossiiskoi-federatsii"
 author = "Муса Дунаев"
 
 tags = []

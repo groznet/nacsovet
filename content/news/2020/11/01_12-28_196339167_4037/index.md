@@ -2,6 +2,7 @@
 date = "2020-11-01T12:28:00-08:00"
 draft = false
 title = "Дериземля Анна Денисовна"
+slug = "derizemlia-anna-denisovna"
 author = "Муса Дунаев"
 
 tags = []

@@ -5,15 +5,8 @@ title = "#GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp"
 slug = "gprepost-reposter-notetag-ibragimbazaew-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = [
-    "чечня",
-    "кадыров",
-    "дунаев",
-    "базаев",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 #GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp 

@@ -2,7 +2,7 @@
 date = "2019-07-22T18:46:00-08:00"
 draft = false
 title = "Везачу АЛЛАХ1А, къобала дойла хьа Хадж, лараме Ибрахьим Хадж"
-slug = "везачу-аллах1а-къобала-дойла-хьа-хадж-лараме-ибрахьим-хадж"
+slug = "vezachu-allakh1a-kobala-doila-kha-khadzh-larame-ibrakhim"
 author = "Муса Дунаев"
 
 tags = []

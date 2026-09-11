@@ -5,17 +5,8 @@ title = "Dear intellectuals!"
 slug = "dear-intellectuals"
 author = "Муса Дунаев"
 
-tags = [
-    "английский язык",
-    "интеллектуальный турнир",
-    "9–11 классов",
-    "грозный",
-    "мбоу «лингвистическая школа»",
-]
-categories = [
-    "Образование и обучение",
-    "Мероприятия",
-]
+tags = []
+categories = []
 +++
 
 Dear intellectuals!  

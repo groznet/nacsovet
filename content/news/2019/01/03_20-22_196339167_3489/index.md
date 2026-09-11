@@ -2,7 +2,7 @@
 date = "2019-01-03T20:22:00-08:00"
 draft = false
 title = "По воле АЛЛАХА, у брата Сулеймана-Хаджи!!! #нашид #мовлид🌙 #"
-slug = "по-воле-аллаха-у-брата-сулеймана-хаджи-нашид-мовлид"
+slug = "po-vole-allakha-u-brata-suleimana-khadzhi-nashid-movlid"
 author = "Муса Дунаев"
 
 tags = []

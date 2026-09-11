@@ -2,7 +2,7 @@
 date = "2023-04-24T22:38:00-08:00"
 draft = false
 title = "Все по воле нашего СОЗДАТЕЛЯ!!!"
-slug = "все-по-воле-нашего-создателя"
+slug = "vse-po-vole-nashego-sozdatelia"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,23 +2,11 @@
 date = "2019-08-25T16:52:00-08:00"
 draft = false
 title = "ДОРОГИЕ ДРУЗЬЯ!!! В 17:30 начнётся Первый Международный инте"
-slug = "дорогие-друзья-в-17-30-начнется-первый-международный-инте"
+slug = "dorogie-druzia-v-17-30-nachnetsia-pervyi-mezhdunarodnyi-inte"
 author = "Муса Дунаев"
 
-tags = [
-    "международный интеллектуальный турнир",
-    "кубок первого президента чр",
-    "герой россии а-х.а. кадыров",
-    "pgrants_ru",
-    "tiynalla_hotel",
-    "youthchr_nacsovet",
-    "intellektualny_kavkaz",
-    "chroo_sm",
-]
-categories = [
-    "Международное сотрудничество",
-    "Конкурсы",
-]
+tags = []
+categories = []
 +++
 
 ДОРОГИЕ ДРУЗЬЯ!!! В 17:30 начнётся Первый Международный интеллектуальный турнир на Кубок 🏆 Первого Президента ЧР, Героя России А-Х.А. КАДЫРОВА .. pgrants_ru tiynalla_hotel youthchr_nacsovet intellektualny_kavkaz chroo_sm opchr_95 rosmolodez fadn_rossii #роофицерыроссиивчр🇷🇺

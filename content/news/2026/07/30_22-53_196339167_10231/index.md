@@ -2,7 +2,7 @@
 date = "2026-07-30T22:53:00-08:00"
 draft = false
 title = "ЦЕНТРАЛИЗОВАННАЯ РЕЛИГИОЗНАЯ ОРГАНИЗАЦИЯ «МЕЖДУНАРОДНАЯ ИСЛА"
-slug = "централизованная-религиозная-организация-международная-исла"
+slug = "tsentralizovannaia-religioznaia-organizatsiia-isla"
 author = "Муса Дунаев"
 
 tags = []

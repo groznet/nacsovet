@@ -2,7 +2,7 @@
 date = "2017-06-24T22:44:00-08:00"
 draft = false
 title = "С праздником вас дорогие братья и сестры, всех благ от АЛЛАХ"
-slug = "с-праздником-вас-дорогие-братья-и-сестры-всех-благ-от-аллах"
+slug = "s-prazdnikom-vas-dorogie-bratia-i-sestry-vsekh-blag-ot"
 author = "Муса Дунаев"
 
 tags = []

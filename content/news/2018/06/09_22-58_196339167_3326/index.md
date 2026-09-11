@@ -2,21 +2,11 @@
 date = "2018-06-09T22:58:00-08:00"
 draft = false
 title = "#москва #3день #конференция2018 #офицерыроссии oficeryoffici"
-slug = "москва-3день-конференция2018-офицерыроссии-oficeryoffici"
+slug = "moskva-3den-konferentsiia2018-ofitseryrossii-oficeryoffici"
 author = "Муса Дунаев"
 
-tags = [
-    "москва",
-    "конференция2018",
-    "офицерыроссии",
-    "oficeryoffici",
-    "movladi_bata",
-    "youthchr",
-]
-categories = [
-    "Новости",
-    "Мероприятия",
-]
+tags = []
+categories = []
 +++
 
 #москва #3день #конференция2018 #офицерыроссии oficeryofficial movladi_bata youthchr

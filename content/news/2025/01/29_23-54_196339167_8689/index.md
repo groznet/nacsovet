@@ -2,7 +2,7 @@
 date = "2025-01-29T23:54:00-08:00"
 draft = false
 title = "Общий сбор проектной команды «Лидер чтения города Грозный»,"
-slug = "общий-сбор-проектной-команды-лидер-чтения-города-грозный"
+slug = "obshchii-sbor-proektnoi-komandy-lider-chteniia-goroda"
 author = "Муса Дунаев"
 
 tags = []

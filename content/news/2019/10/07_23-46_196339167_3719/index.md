@@ -2,19 +2,11 @@
 date = "2019-10-07T23:46:00-08:00"
 draft = false
 title = "Наш ПРЕЗИДЕНТ !!! #россия🇷🇺 #россиявперед🇷🇺 #роофицерыроссии"
-slug = "наш-президент-россия-россиявперед-роофицерыроссии"
+slug = "nash-prezident-rossiia-rossiiavpered-roofitseryrossii"
 author = "Муса Дунаев"
 
-tags = [
-    "президент рф",
-    "россия",
-    "владимир владимирович путин",
-    "youthchr_nacsovet",
-    "muzaevsaidmagomed",
-]
-categories = [
-    "Патриотическое воспитание",
-]
+tags = []
+categories = []
 +++
 
 Наш ПРЕЗИДЕНТ !!! #россия🇷🇺 #россиявперед🇷🇺 #роофицерыроссиивчр🇷🇺 #президентрф🇷🇺 #главнокомандующийрф🇷🇺 #владимирвладимировичпутин🇷🇺 @nash_prezident_putin @youthchr_nacsovet @muzaevsaidmagomed @intellektualny_kavkaz @dunaevmusa #вединственашасила

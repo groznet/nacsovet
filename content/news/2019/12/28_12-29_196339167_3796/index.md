@@ -2,7 +2,7 @@
 date = "2019-12-28T12:29:00-08:00"
 draft = false
 title = "Межрегиональная ассоциация общественных объединений \"Национа"
-slug = "межрегиональная-ассоциация-общественных-объединений-национа"
+slug = "mezhregionalnaia-assotsiatsiia-obshchestvennykh-obedinenii"
 author = "Муса Дунаев"
 
 tags = []

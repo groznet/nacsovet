@@ -2,7 +2,7 @@
 date = "2018-06-14T21:08:00-08:00"
 draft = false
 title = "Ас Саламу IАлейкум, друзья!!! Поздравляю всех нас с окончани"
-slug = "ас-саламу-iалейкум-друзья-поздравляю-всех-нас-с-окончани"
+slug = "as-salamu-ialeikum-druzia-pozdravliaiu-vsekh-nas-s-okonchani"
 author = "Муса Дунаев"
 
 tags = []

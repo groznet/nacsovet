@@ -2,7 +2,7 @@
 date = "2017-05-10T15:58:00-08:00"
 draft = false
 title = "#национальныймузейчр #адландинаев #ибрагимбазаев #мамимуцаев"
-slug = "национальныймузейчр-адландинаев-ибрагимбазаев-мамимуцаев"
+slug = "natsionalnyimuzeichr-adlandinaev-ibragimbazaev-mamimutsaev"
 author = "Муса Дунаев"
 
 tags = []

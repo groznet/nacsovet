@@ -2,21 +2,11 @@
 date = "2021-12-16T22:28:00-08:00"
 draft = false
 title = "Проект «Я этот мир» , вместе с @dunaevmusa timuraliev1973 и"
-slug = "проект-я-этот-мир-вместе-с-dunaevmusa-timuraliev1973-и"
+slug = "proekt-ia-etot-mir-vmeste-s-dunaevmusa-timuraliev1973-i"
 author = "Муса Дунаев"
 
-tags = [
-    "проект «я этот мир»",
-    "сош 38",
-    "интеллектуальная игра",
-    "грозный",
-    "ученики старших классов",
-    "патриотическое воспитание",
-]
-categories = [
-    "Мероприятия",
-    "Интерактивные игры",
-]
+tags = []
+categories = []
 +++
 
 Проект «Я этот мир» , вместе с @dunaevmusa timuraliev1973 и @dunaev.95 посетили @sosh_38_grozny @zarakerimova69 , где провели беседу и интеллектуальную игру с учениками старших классов 🎩✅. 

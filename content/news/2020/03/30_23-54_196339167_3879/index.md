@@ -2,7 +2,7 @@
 date = "2020-03-30T23:54:00-08:00"
 draft = false
 title = "По поле АЛЛАХ1А, руководством республики @kadyrov._95 принят"
-slug = "по-поле-аллах1а-руководством-республики-kadyrov-95-принят"
+slug = "po-pole-allakh1a-rukovodstvom-respubliki-kadyrov-95-priniat"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2023-01-09T16:05:00-08:00"
 draft = false
 title = "Спасибо семье Смирновых(Красноярск) за данную возможность ув"
-slug = "спасибо-семье-смирновых-красноярск-за-данную-возможность-ув"
+slug = "spasibo-seme-smirnovykh-krasnoiarsk-za-dannuiu-vozmozhnost"
 author = "Муса Дунаев"
 
 tags = []

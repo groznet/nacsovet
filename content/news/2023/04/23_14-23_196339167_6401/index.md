@@ -2,7 +2,7 @@
 date = "2023-04-23T14:23:00-08:00"
 draft = false
 title = "Друзья, мечеть  Айя София , Стамбул, всех благ вам от нашего"
-slug = "друзья-мечеть-айя-софия-стамбул-всех-благ-вам-от-нашего"
+slug = "druzia-mechet-aiia-sofiia-stambul-vsekh-blag-vam-ot-nashego"
 author = "Муса Дунаев"
 
 tags = []

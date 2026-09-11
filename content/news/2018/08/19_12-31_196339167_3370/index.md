@@ -2,7 +2,7 @@
 date = "2018-08-19T12:31:00-08:00"
 draft = false
 title = "Намаз - лучше чем сон!!!"
-slug = "намаз-лучше-чем-сон"
+slug = "namaz-luchshe-chem-son"
 author = "Муса Дунаев"
 
 tags = []

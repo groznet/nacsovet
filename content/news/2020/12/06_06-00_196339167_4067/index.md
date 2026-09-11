@@ -2,7 +2,7 @@
 date = "2020-12-06T06:00:00-08:00"
 draft = false
 title = "Хвала Аллаху за данную возможность #маоонациональныйсовет @"
-slug = "хвала-аллаху-за-данную-возможность-маоонациональныи-совет"
+slug = "khvala-allakhu-za-dannuiu-vozmozhnost-maoonatsionalnyisovet"
 author = "Муса Дунаев"
 
 tags = []

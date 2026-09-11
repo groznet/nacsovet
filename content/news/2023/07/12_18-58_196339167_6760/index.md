@@ -2,7 +2,7 @@
 date = "2023-07-12T18:58:00-08:00"
 draft = false
 title = "Ремонт завершен, осталось за малым, рабртать… Спасибо минист"
-slug = "ремонт-завершен-осталось-за-малым-рабртать-спасибо-минист"
+slug = "remont-zavershen-ostalos-za-malym-rabrtat-spasibo-minist"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,6 +2,7 @@
 date = "2025-02-04T19:25:00-08:00"
 draft = false
 title = "Большой груз гуманитарной помощи от Регионального общественн"
+slug = "bolshoi-gruz-gumanitarnoi-pomoshchi-ot-regionalnogo"
 author = "Муса Дунаев"
 
 tags = []

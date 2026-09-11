@@ -2,7 +2,7 @@
 date = "2022-12-07T12:24:00-08:00"
 draft = false
 title = "Студенческая осень в ЧГПУ🍁🍂🎩"
-slug = "студенческая-осень-в-чгпу"
+slug = "studencheskaia-osen-v-chgpu"
 author = "Муса Дунаев"
 
 tags = []

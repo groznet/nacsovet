@@ -2,7 +2,7 @@
 date = "2019-05-03T20:34:00-08:00"
 draft = false
 title = "Да смилуется АЛЛАХ1 над нами, сколько горя испытывали целые"
-slug = "да-смилуется-аллах1-над-нами-сколько-горя-испытывали-целые"
+slug = "da-smiluetsia-allakh1-nad-nami-skolko-goria-ispytyvali"
 author = "Муса Дунаев"
 
 tags = []

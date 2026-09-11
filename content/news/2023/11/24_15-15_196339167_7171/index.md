@@ -2,7 +2,7 @@
 date = "2023-11-24T15:15:00-08:00"
 draft = false
 title = "Очень важный документ )) ❗️"
-slug = "очень-важный-документ"
+slug = "ochen-vazhnyi-dokument"
 author = "Муса Дунаев"
 
 tags = []

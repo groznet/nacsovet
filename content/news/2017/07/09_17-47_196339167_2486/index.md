@@ -2,7 +2,7 @@
 date = "2017-07-09T17:47:00-08:00"
 draft = false
 title = "Дамы и Господа красота да и только!!! #чеченскаяреспублика #"
-slug = "дамы-и-господа-красота-да-и-только-чеченскаяреспублика"
+slug = "damy-i-gospoda-krasota-da-i-tolko-chechenskaiarespublika"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2025-09-24T17:53:00-08:00"
 draft = false
 title = "Когда в команде есть такие профессионалы, как Саидмагомед Му"
-slug = "когда-в-команде-есть-такие-профессионалы-как-саидмагомед-му"
+slug = "kogda-v-komande-est-takie-professionaly-kak-saidmagomed-mu"
 author = "Муса Дунаев"
 
 tags = []

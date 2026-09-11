@@ -2,7 +2,7 @@
 date = "2024-12-08T16:58:00-08:00"
 draft = false
 title = "7 декабря текущего года, провели первый этап  шестого чемпио"
-slug = "7-декабря-текущего-года-провели-первый-этап-шестого-чемпио"
+slug = "7-dekabria-tekushchego-goda-proveli-pervyi-etap-shestogo"
 author = "Муса Дунаев"
 
 tags = []

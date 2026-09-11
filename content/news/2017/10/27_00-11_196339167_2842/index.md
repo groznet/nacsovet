@@ -2,7 +2,7 @@
 date = "2017-10-27T00:11:00-08:00"
 draft = false
 title = "Хочу поздравить замечательного ЧЕЛОВЕКА, заметьте ЧЕЛОВЕК на"
-slug = "хочу-поздравить-замечательного-человека-заметьте-человек-на"
+slug = "khochu-pozdravit-zamechatelnogo-cheloveka-zamette-chelovek"
 author = "Муса Дунаев"
 
 tags = []

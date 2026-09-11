@@ -2,7 +2,7 @@
 date = "2023-12-08T23:16:00-08:00"
 draft = false
 title = "«ХАШЛАМА», забегая вперед пишу, получилось на уровне, мне по"
-slug = "хашлама-забегая-вперед-пишу-получилось-на-уровне-мне-по"
+slug = "khashlama-zabegaia-vpered-pishu-poluchilos-na-urovne-mne-po"
 author = "Муса Дунаев"
 
 tags = []

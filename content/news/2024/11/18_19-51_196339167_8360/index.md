@@ -2,7 +2,7 @@
 date = "2024-11-18T19:51:00-08:00"
 draft = false
 title = "Вместе с директором межрегионального центра СКФО С. МУЗАЕВЫМ"
-slug = "вместе-с-директором-межрегионального-центра-скфо-с-музаевым"
+slug = "vmeste-s-direktorom-mezhregionalnogo-tsentra-skfo-s-muzaevym"
 author = "Муса Дунаев"
 
 tags = []

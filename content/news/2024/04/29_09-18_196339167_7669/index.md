@@ -2,16 +2,11 @@
 date = "2024-04-29T09:18:00-08:00"
 draft = false
 title = "Без названия"
+slug = "bez-nazvaniia"
 author = "Муса Дунаев"
 
-tags = [
-    "комментарии",
-    "абдулмадид лулуев",
-    "аноним",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 

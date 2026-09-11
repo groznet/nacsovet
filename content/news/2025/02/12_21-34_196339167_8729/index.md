@@ -2,7 +2,7 @@
 date = "2025-02-12T21:34:00-08:00"
 draft = false
 title = "Подкаст Международной Исламской Миссии, час прошел на одном"
-slug = "подкаст-международной-исламской-миссии-час-прошел-на-одном"
+slug = "podkast-mezhdunarodnoi-islamskoi-missii-chas-proshel-na"
 author = "Муса Дунаев"
 
 tags = []

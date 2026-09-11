@@ -2,7 +2,7 @@
 date = "2022-10-23T09:09:00-08:00"
 draft = false
 title = "Доброе утро страна #россия 🇷🇺!!! Играйте в интеллектуальные"
-slug = "доброе-утро-страна-россия-играйте-в-интеллектуальные"
+slug = "dobroe-utro-strana-rossiia-igraite-v-intellektualnye"
 author = "Муса Дунаев"
 
 tags = []

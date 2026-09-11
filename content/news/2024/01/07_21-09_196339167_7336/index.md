@@ -2,7 +2,7 @@
 date = "2024-01-07T21:09:00-08:00"
 draft = false
 title = "Дамы и Господа, «ХАМСА»! Интеллектуальный 2024 год, ОТКРЫТ!"
-slug = "дамы-и-господа-хамса-интеллектуальный-2024-год-открыт"
+slug = "damy-i-gospoda-khamsa-intellektualnyi-2024-god-otkryt"
 author = "Муса Дунаев"
 
 tags = []

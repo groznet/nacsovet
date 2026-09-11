@@ -2,7 +2,7 @@
 date = "2023-04-17T21:56:00-08:00"
 draft = false
 title = "Благодарен ВСЕВЫШНЕМУ за таких друзей, проверенные временем!"
-slug = "благодарен-всевышнему-за-таких-друзей-проверенные-временем"
+slug = "blagodaren-vsevyshnemu-za-takikh-druzei-proverennye-vremenem"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2017-09-29T08:44:00-08:00"
 draft = false
 title = "Ас Саламу Алейкум!!!! Хочу поздравить друга, одноклассника,"
-slug = "ас-саламу-алейкум-хочу-поздравить-друга-одноклассника"
+slug = "as-salamu-aleikum-khochu-pozdravit-druga-odnoklassnika"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,17 +2,11 @@
 date = "2021-01-11T06:17:00-08:00"
 draft = false
 title = "Ассаламу 1алейкум! Доброй трудовой недели, друзья! @dunaevmu"
-slug = "ассаламу-1алейкум-доброй-трудовой-недели-друзья-dunaevmu"
+slug = "assalamu-1aleikum-dobroi-trudovoi-nedeli-druzia-dunaevmu"
 author = "Муса Дунаев"
 
-tags = [
-    "трудовая неделя",
-    "dunaevmusa",
-    "nacsovet",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Ассаламу 1алейкум! Доброй трудовой недели, друзья! @dunaevmusa @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет #нацсоветчр

@@ -2,7 +2,7 @@
 date = "2017-07-16T23:09:00-08:00"
 draft = false
 title = "Поздравляю ФК \"АХМАТ\" с первой игрой!!! В добрый путь ФК \"АХ"
-slug = "поздравляю-фк-ахмат-с-первой-игрой-в-добрый-путь-фк-ах"
+slug = "pozdravliaiu-fk-akhmat-s-pervoi-igroi-v-dobryi-put-fk-akh"
 author = "Муса Дунаев"
 
 tags = []

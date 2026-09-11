@@ -2,6 +2,7 @@
 date = "2022-06-29T19:13:00-08:00"
 draft = false
 title = "В ГКР сформирован новый руководящий и экспертный состав"
+slug = "v-gkr-sformirovan-novyi-rukovodiashchii-i-ekspertnyi-sostav"
 author = "ГРАЖДАНСКИЙ КОМИТЕТ РОССИИ (ГКР)"
 
 tags = []

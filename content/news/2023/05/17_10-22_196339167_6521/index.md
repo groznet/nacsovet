@@ -2,7 +2,7 @@
 date = "2023-05-17T10:22:00-08:00"
 draft = false
 title = "Да пребудет с вами сила интеллекта! Дамы и господа, «Хаархьа"
-slug = "да-пребудет-с-вами-сила-интеллекта-дамы-и-господа-хаархьа"
+slug = "da-prebudet-s-vami-sila-intellekta-damy-i-gospoda-khaarkha"
 author = "Муса Дунаев"
 
 tags = []

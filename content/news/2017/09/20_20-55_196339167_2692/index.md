@@ -2,7 +2,7 @@
 date = "2017-09-20T20:55:00-08:00"
 draft = false
 title = "Во имя АЛЛАХА, Милостивого и Милосердного!!! С наступающим Н"
-slug = "во-имя-аллаха-милостивого-и-милосердного-с-наступающим-н"
+slug = "vo-imia-allakha-milostivogo-i-miloserdnogo-s-nastupaiushchim"
 author = "Муса Дунаев"
 
 tags = []

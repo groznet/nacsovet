@@ -2,6 +2,7 @@
 date = "2026-06-16T00:36:00-08:00"
 draft = false
 title = "grozny_inform С наступлением месяца Мухаррам для мусульман н"
+slug = "grozny-inform-s-nastupleniem-mesiatsa-mukharram-dlia-n"
 author = "Муса Дунаев"
 
 tags = []

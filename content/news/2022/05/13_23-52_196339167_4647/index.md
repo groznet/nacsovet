@@ -2,22 +2,11 @@
 date = "2022-05-13T23:52:00-08:00"
 draft = false
 title = "АРХИВ от 19.02.2022г. Продолжается реализация проекта «Я и э"
-slug = "архив-от-19-02-2022г-продолжается-реализация-проекта-я-и-э"
+slug = "arkhiv-ot-19-02-2022g-prodolzhaetsia-realizatsiia-proekta-ia"
 author = "Муса Дунаев"
 
-tags = [
-    "я и этот мир",
-    "интеллектуальный кавказ",
-    "обучающиеся",
-    "mbou sosh1 argun",
-    "gimnaziya 5",
-    "minobrnauki",
-    "minmolodezhi",
-]
-categories = [
-    "Проекты",
-    "Конкурсы",
-]
+tags = []
+categories = []
 +++
 
 АРХИВ от 19.02.2022г. Продолжается реализация проекта «Я и этот мир» @pgrants_ru .

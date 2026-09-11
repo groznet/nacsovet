@@ -2,7 +2,7 @@
 date = "2022-05-26T12:19:00-08:00"
 draft = false
 title = "Добро пожаловать в интеллектуальный мир!!"
-slug = "добро-пожаловать-в-интеллектуальный-мир"
+slug = "dobro-pozhalovat-v-intellektualnyi-mir"
 author = "Муса Дунаев"
 
 tags = []

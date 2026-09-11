@@ -2,7 +2,7 @@
 date = "2018-03-08T16:42:00-08:00"
 draft = false
 title = "ВСЕХ БЛАГ ОТ ВСЕВЫШНЕГО АЛЛАХА, ВАМ И ВАШИМ БЛИЗКИМ В ОБОИХ"
-slug = "всех-благ-от-всевышнего-аллаха-вам-и-вашим-близким-в-обоих"
+slug = "vsekh-blag-ot-vsevyshnego-allakha-vam-i-vashim-blizkim-v"
 author = "Муса Дунаев"
 
 tags = []

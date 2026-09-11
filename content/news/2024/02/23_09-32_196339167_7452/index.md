@@ -2,7 +2,7 @@
 date = "2024-02-23T09:32:00-08:00"
 draft = false
 title = "С ДНЕМ ЗАЩИТНИКА ОТЕЧЕСТВА! С ДНЕМ ПОБЕДОНОСНОЙ КРАСНОЙ АРМИ"
-slug = "с-днем-защитника-отечества-с-днем-победоносной-красной-арми"
+slug = "s-dnem-zashchitnika-otechestva-s-dnem-pobedonosnoi-krasnoi"
 author = "Муса Дунаев"
 
 tags = []

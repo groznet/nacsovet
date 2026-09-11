@@ -2,7 +2,7 @@
 date = "2023-07-01T15:19:00-08:00"
 draft = false
 title = "Мы готовы, ваш ход, господа интеллектуалы…"
-slug = "мы-готовы-ваш-ход-господа-интеллектуалы"
+slug = "my-gotovy-vash-khod-gospoda-intellektualy"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2022-03-17T10:59:00-08:00"
 draft = false
 title = "Сдавайтесь «фашисты»!"
-slug = "сдавайтесь-фашисты"
+slug = "sdavaites-fashisty"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2024-05-10T13:41:00-08:00"
 draft = false
 title = "✅ 🙏 Спасибо добрым людям), сфотографировали, прислали, не по"
-slug = "спасибо-добрым-людям-сфотографировали-прислали-не-по"
+slug = "spasibo-dobrym-liudiam-sfotografirovali-prislali-ne-po"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2017-03-26T19:49:00-08:00"
 draft = false
 title = "Проект создан для развития сельской молодежи | Информационно"
-slug = "проект-создан-для-развития-сельской-молодежи-информационно"
+slug = "proekt-sozdan-dlia-razvitiia-selskoi-molodezhi"
 author = "Муса Дунаев"
 
 tags = []

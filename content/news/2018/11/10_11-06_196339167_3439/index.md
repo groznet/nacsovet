@@ -2,7 +2,7 @@
 date = "2018-11-10T11:06:00-08:00"
 draft = false
 title = "ВСЕХ БЛАГ ОТ АЛЛАХА!!! #мыжебессмертные  #мыженикогданеумрем"
-slug = "всех-благ-от-аллаха-мыжебессмертные-мыженикогданеумрем"
+slug = "vsekh-blag-ot-allakha-myzhebessmertnye-myzhenikogdaneumrem"
 author = "Муса Дунаев"
 
 tags = []

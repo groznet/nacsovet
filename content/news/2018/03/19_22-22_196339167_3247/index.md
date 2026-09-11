@@ -2,7 +2,7 @@
 date = "2018-03-19T22:22:00-08:00"
 draft = false
 title = "Гуляя по красной площади и встретить друга, не чудо ли это.."
-slug = "гуляя-по-красной-площади-и-встретить-друга-не-чудо-ли-это"
+slug = "guliaia-po-krasnoi-ploshchadi-i-vstretit-druga-ne-chudo-li"
 author = "Муса Дунаев"
 
 tags = []

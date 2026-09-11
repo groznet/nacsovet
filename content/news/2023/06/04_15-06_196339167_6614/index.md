@@ -2,7 +2,7 @@
 date = "2023-06-04T15:06:00-08:00"
 draft = false
 title = "Поехали.. Второй день межрегионального интеллектуального мол"
-slug = "поехали-второй-день-межрегионального-интеллектуального-мол"
+slug = "poekhali-vtoroi-den-mezhregionalnogo-intellektualnogo-mol"
 author = "Муса Дунаев"
 
 tags = []

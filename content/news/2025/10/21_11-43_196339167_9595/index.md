@@ -2,6 +2,7 @@
 date = "2025-10-21T11:43:00-08:00"
 draft = false
 title = "20 октября 2025 года в Грозненском государственном нефтяном"
+slug = "20-oktiabria-2025-goda-v-groznenskom-gosudarstvennom"
 author = "Муса Дунаев"
 
 tags = []

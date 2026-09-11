@@ -2,7 +2,7 @@
 date = "2025-02-21T17:14:00-08:00"
 draft = false
 title = "Ассаламу Алейкум!"
-slug = "ассаламу-алейкум"
+slug = "assalamu-aleikum"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2016-06-27T01:12:00-08:00"
 draft = false
 title = "Как будто бы вчера, быстро летит время и это истина господа."
-slug = "как-будто-бы-вчера-быстро-летит-время-и-это-истина-господа"
+slug = "kak-budto-by-vchera-bystro-letit-vremia-i-eto-istina-gospoda"
 author = "Муса Дунаев"
 
 tags = []

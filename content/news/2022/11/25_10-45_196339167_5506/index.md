@@ -2,7 +2,7 @@
 date = "2022-11-25T10:45:00-08:00"
 draft = false
 title = "Да пребудет с вами сила интеллекта!"
-slug = "да-пребудет-с-вами-сила-интеллекта"
+slug = "da-prebudet-s-vami-sila-intellekta"
 author = "Муса Дунаев"
 
 tags = []

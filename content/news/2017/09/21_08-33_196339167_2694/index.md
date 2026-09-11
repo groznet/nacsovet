@@ -2,7 +2,7 @@
 date = "2017-09-21T08:33:00-08:00"
 draft = false
 title = "Всех благ от ВСЕВЫШНЕГО АЛЛАХА в обоих мирах!!!!!!!!!! С Нов"
-slug = "всех-благ-от-всевышнего-аллаха-в-обоих-мирах-с-нов"
+slug = "vsekh-blag-ot-vsevyshnego-allakha-v-oboikh-mirakh-s-nov"
 author = "Муса Дунаев"
 
 tags = []

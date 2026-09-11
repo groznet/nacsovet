@@ -2,7 +2,7 @@
 date = "2017-11-27T20:38:00-08:00"
 draft = false
 title = "По воле ВСЕВЫШНЕГО АЛЛАХА, прочитали Священный Мовлид, восхв"
-slug = "по-воле-всевышнего-аллаха-прочитали-священный-мовлид-восхв"
+slug = "po-vole-vsevyshnego-allakha-prochitali-sviashchennyi-movlid"
 author = "Муса Дунаев"
 
 tags = []

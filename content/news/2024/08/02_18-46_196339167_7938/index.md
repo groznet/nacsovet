@@ -2,7 +2,7 @@
 date = "2024-08-02T18:46:00-08:00"
 draft = false
 title = "С директором Департамента  по национальной политике Миннацин"
-slug = "с-директором-департамента-по-национальной-политике-миннацин"
+slug = "s-direktorom-departamenta-po-natsionalnoi-politike-minnatsin"
 author = "Муса Дунаев"
 
 tags = []

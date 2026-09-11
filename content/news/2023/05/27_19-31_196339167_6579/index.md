@@ -2,7 +2,7 @@
 date = "2023-05-27T19:31:00-08:00"
 draft = false
 title = "Национальная библиотека ЧР, «Библилночь - 2023»…"
-slug = "национальная-библиотека-чр-библилночь-2023"
+slug = "natsionalnaia-biblioteka-chr-biblilnoch-2023"
 author = "Муса Дунаев"
 
 tags = []

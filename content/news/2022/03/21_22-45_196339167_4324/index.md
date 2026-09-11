@@ -2,6 +2,7 @@
 date = "2022-03-21T22:45:00-08:00"
 draft = false
 title = "21 марта состоялась встреча муфтия Чеченской Республики Сала"
+slug = "21-marta-sostoialas-vstrecha-muftiia-chechenskoi-respubliki"
 author = "Муса Дунаев"
 
 tags = []

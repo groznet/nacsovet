@@ -2,6 +2,7 @@
 date = "2022-02-25T17:22:00-08:00"
 draft = false
 title = "Патриотическое воспитание является одним из приоритетных нап"
+slug = "patrioticheskoe-vospitanie-iavliaetsia-odnim-iz-nap"
 author = "Муса Дунаев"
 
 tags = []

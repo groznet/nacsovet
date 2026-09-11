@@ -5,19 +5,8 @@ title = "#Repost @youthchr_nacsovet ([club188253483|@get_repost])"
 slug = "repost-youthchr-nacsovet-club188253483-get-repost"
 author = "Муса Дунаев"
 
-tags = [
-    "чеченская республика",
-    "национальный совет",
-    "муса салаудинович",
-    "джамбулат вахидович",
-    "медаль за заслуги",
-    "благодарственное письмо",
-    "россия",
-]
-categories = [
-    "Новости",
-    "Патриотическое воспитание",
-]
+tags = []
+categories = []
 +++
 
 #Repost @youthchr_nacsovet ([club188253483|@get_repost])

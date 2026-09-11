@@ -2,6 +2,7 @@
 date = "2020-08-31T23:26:00-08:00"
 draft = false
 title = "Перед финальными играми первого чемпионата ЧР по интеллектуа"
+slug = "pered-finalnymi-igrami-pervogo-chempionata-chr-po"
 author = "Муса Дунаев"
 
 tags = []

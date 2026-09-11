@@ -2,7 +2,7 @@
 date = "2017-03-01T20:07:00-08:00"
 draft = false
 title = "Завершился первый этап проекта «Возвращение к истокам» | Инф"
-slug = "завершился-первый-этап-проекта-возвращение-к-истокам-инф"
+slug = "zavershilsia-pervyi-etap-proekta-vozvrashchenie-k-istokam"
 author = "Муса Дунаев"
 
 tags = []

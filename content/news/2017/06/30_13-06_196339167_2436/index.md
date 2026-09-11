@@ -2,7 +2,7 @@
 date = "2017-06-30T13:06:00-08:00"
 draft = false
 title = "Хочется пережата вам друзья всю эту красотку,... Добро пожал"
-slug = "хочется-пережата-вам-друзья-всю-эту-красотку-добро-пожал"
+slug = "khochetsia-perezhata-vam-druzia-vsiu-etu-krasotku-dobro"
 author = "Муса Дунаев"
 
 tags = []

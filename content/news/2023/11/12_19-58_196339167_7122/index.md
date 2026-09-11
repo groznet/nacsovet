@@ -2,7 +2,7 @@
 date = "2023-11-12T19:58:00-08:00"
 draft = false
 title = "Сегодня в МБОУ «Лингвистическая школа» прошла военно-спортив"
-slug = "сегодня-в-мбоу-лингвистическая-школа-прошла-военно-спортив"
+slug = "segodnia-v-mbou-lingvisticheskaia-shkola-proshla-voenno"
 author = "Муса Дунаев"
 
 tags = []

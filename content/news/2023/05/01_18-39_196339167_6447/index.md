@@ -2,7 +2,7 @@
 date = "2023-05-01T18:39:00-08:00"
 draft = false
 title = "«ЧТО? ГДЕ? КОГДА?», ВЫСШАЯ ЛИГА, ДА ПРЕБУДЕТ С ВАМИ СИЛА ИНТ"
-slug = "что-где-когда-высшая-лига-да-пребудет-с-вами-сила-инт"
+slug = "chto-gde-kogda-vysshaia-liga-da-prebudet-s-vami-sila-int"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2019-05-12T13:37:00-08:00"
 draft = false
 title = "#всехблагвамивашимблизким🙏🏻 #дасмиловитсянаднамиАллах"
-slug = "всехблагвамивашимблизким-дасмиловитсянаднамиаллах"
+slug = "vsekhblagvamivashimblizkim-dasmilovitsianadnamiallakh"
 author = "Муса Дунаев"
 
 tags = []

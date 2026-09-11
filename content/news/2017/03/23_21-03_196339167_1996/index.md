@@ -2,6 +2,7 @@
 date = "2017-03-23T21:03:00-08:00"
 draft = false
 title = "Поздравляю всех граждан нашей великой РОДИНЫ - с Днём принят"
+slug = "pozdravliaiu-vsekh-grazhdan-nashei-velikoi-rodiny-s-dnem"
 author = "Муса Дунаев"
 
 tags = []

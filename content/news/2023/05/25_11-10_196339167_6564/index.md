@@ -2,6 +2,7 @@
 date = "2023-05-25T11:10:00-08:00"
 draft = false
 title = "Когда день начинается с рабочей встречей с хорошим ЧЕЛОВЕКОМ"
+slug = "kogda-den-nachinaetsia-s-rabochei-vstrechei-s-khoroshim"
 author = "Муса Дунаев"
 
 tags = []

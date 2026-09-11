@@ -2,7 +2,7 @@
 date = "2024-09-29T08:38:00-08:00"
 draft = false
 title = "Друзья, сегодня по случаю своего ДНЯ РОЖДЕНИЯ поздравления п"
-slug = "друзья-сегодня-по-случаю-своего-дня-рождения-поздравления-п"
+slug = "druzia-segodnia-po-sluchaiu-svoego-dnia-rozhdeniia-p"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2023-02-23T21:47:00-08:00"
 draft = false
 title = "Друзья, с Днём защитника ОТЕЧЕСТВА вас!!! Мы должны быть еди"
-slug = "друзья-с-днем-защитника-отечества-вас-мы-должны-быть-еди"
+slug = "druzia-s-dnem-zashchitnika-otechestva-vas-my-dolzhny-byt-edi"
 author = "Муса Дунаев"
 
 tags = []

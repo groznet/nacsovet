@@ -2,11 +2,22 @@
 date = "2016-07-19T18:39:00-08:00"
 draft = false
 title = "Полетели...)"
-slug = "полетели"
+slug = "poleteli"
 author = "Муса Дунаев"
-
-tags = []
-categories = []
+tags = [
+	"неизвестно",
+]
+categories = [
+	"неизвестно",
+]
+projects = [
+	"неизвестно",
+]
+locations = [
+	"неизвестно",
+]
 +++
+
+
 
 Полетели...)

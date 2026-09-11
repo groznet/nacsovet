@@ -2,6 +2,7 @@
 date = "2024-02-16T20:49:00-08:00"
 draft = false
 title = "Патриотическое воспитание молодежи является одним из основны"
+slug = "patrioticheskoe-vospitanie-molodezhi-iavliaetsia-odnim-iz"
 author = "Муса Дунаев"
 
 tags = []

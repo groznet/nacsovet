@@ -2,7 +2,7 @@
 date = "2024-10-09T13:05:00-08:00"
 draft = false
 title = "Муса, поздравляю! счастья, здоровья, успехов!"
-slug = "муса-поздравляю-счастья-здоровья-успехов"
+slug = "musa-pozdravliaiu-schastia-zdorovia-uspekhov"
 author = "Муса Дунаев"
 
 tags = []

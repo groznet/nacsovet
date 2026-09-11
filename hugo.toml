@@ -189,9 +189,9 @@ buildExpired = false
   tdewolff = { html = { keepWhitespace = false } }
 
 [caches]
-  [caches.getjson]
-    dir = ":resourceDir/_gen"
-    maxAge = "6h"
+  [caches.getresource]
+    dir = ":cacheDir/:project"
+    maxAge = -1
 
 [permalinks]
   news = "/news/:year/:month/:slug/"

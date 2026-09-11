@@ -2,21 +2,11 @@
 date = "2020-11-20T00:47:00-08:00"
 draft = false
 title = "Герой проекта @youthchr_nacsovet «Помнить, чтобы жить!» от"
-slug = "герои-проекта-youthchr-nacsovet-помнить-чтобы-жить-от"
+slug = "geroi-proekta-youthchr-nacsovet-pomnit-chtoby-zhit-ot"
 author = "Муса Дунаев"
 
-tags = [
-    "дериземля анна денисовна",
-    "помнить, чтобы жить",
-    "росмолодежь",
-    "рязанская область",
-    "волонтерство",
-    "патриот",
-]
-categories = [
-    "Патриотическое воспитание",
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Герой проекта @youthchr_nacsovet «Помнить, чтобы жить!» от [club49388164|@rosmolodez] ДЕРИЗЕМЛЯ А.Д. 

@@ -2,7 +2,7 @@
 date = "2017-05-08T23:59:00-08:00"
 draft = false
 title = "С Днём ВЕЛИКОЙ ПОБЕДЫ ВАС ДОРОГИЕ НАШИ ВЕТЕРАНЫ!!!!"
-slug = "с-днем-великой-победы-вас-дорогие-наши-ветераны"
+slug = "s-dnem-velikoi-pobedy-vas-dorogie-nashi-veterany"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2022-09-04T22:19:00-08:00"
 draft = false
 title = "Утро второго дня… Живя в Республике с рождения, не устаю уди"
-slug = "утро-второго-дня-живя-в-республике-с-рождения-не-устаю-уди"
+slug = "utro-vtorogo-dnia-zhivia-v-respublike-s-rozhdeniia-ne-ustaiu"
 author = "Муса Дунаев"
 
 tags = []

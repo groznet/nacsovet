@@ -2,22 +2,11 @@
 date = "2024-11-28T07:44:00-08:00"
 draft = false
 title = "Уважаемые интеллектуалы!"
-slug = "уважаемые-интеллектуалы"
+slug = "uvazhaemye-intellektualy"
 author = "Муса Дунаев"
 
-tags = [
-    "панорама квиз",
-    "интеллектуальный турнир",
-    "г. хасавюрт",
-    "республика дагестан",
-    "vasilchuki",
-    "ilahui",
-    "kinostar_groznymall",
-]
-categories = [
-    "Конкурсы",
-    "Мероприятия",
-]
+tags = []
+categories = []
 +++
 
 Уважаемые интеллектуалы!

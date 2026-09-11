@@ -2,7 +2,7 @@
 date = "2017-02-15T17:56:00-08:00"
 draft = false
 title = "После реализации проекта \"Возвращение к истокам!\", видимо до"
-slug = "после-реализации-проекта-возвращение-к-истокам-видимо-до"
+slug = "posle-realizatsii-proekta-vozvrashchenie-k-istokam-vidimo-do"
 author = "Муса Дунаев"
 
 tags = []

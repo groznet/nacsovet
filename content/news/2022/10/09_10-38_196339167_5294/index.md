@@ -2,7 +2,7 @@
 date = "2022-10-09T10:38:00-08:00"
 draft = false
 title = "Приятно, друзья, поздравить Мусу с Днём рождения! Очень живо"
-slug = "приятно-друзья-поздравить-мусу-с-днем-рождения-очень-живо"
+slug = "priiatno-druzia-pozdravit-musu-s-dnem-rozhdeniia-ochen-zhivo"
 author = "Муса Дунаев"
 
 tags = []

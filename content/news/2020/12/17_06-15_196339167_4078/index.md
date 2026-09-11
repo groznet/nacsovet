@@ -2,18 +2,11 @@
 date = "2020-12-17T06:15:00-08:00"
 draft = false
 title = "Доброе утро, страна! Добро пожаловать в республику! Как-то,"
-slug = "доброе-утро-страна-добро-пожаловать-в-республику-как-то"
+slug = "dobroe-utro-strana-dobro-pozhalovat-v-respubliku-kak-to"
 author = "Муса Дунаев"
 
-tags = [
-    "маоонациональныйсовет",
-    "youthchr_nacsovet",
-    "dunaevmusa",
-    "daymohk_chr",
-]
-categories = [
-    "Патриотическое воспитание",
-]
+tags = []
+categories = []
 +++
 
 Доброе утро, страна! Добро пожаловать в республику! Как-то, так! Просто нужно внимательно осмотреться, ведь все лучшее у нас...) #маоонациональныйсовет @youthchr_nacsovet @dunaevmusa  [id339261382|@daymohk_chr]

@@ -2,7 +2,7 @@
 date = "2018-11-03T17:17:00-08:00"
 draft = false
 title = "Результат на лицо, нас уже двое...)) #велопробег🚲 #велоспорт"
-slug = "результат-на-лицо-нас-уже-двое-велопробег-велоспорт"
+slug = "rezultat-na-litso-nas-uzhe-dvoe-veloprobeg-velosport"
 author = "Муса Дунаев"
 
 tags = []

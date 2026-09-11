@@ -5,20 +5,8 @@ title = "#Repost [club89240801|@vesti_respubliki_chr]"
 slug = "repost-club89240801-vesti-respubliki-chr"
 author = "Муса Дунаев"
 
-tags = [
-    "чемпионат по интеллектуальным играм",
-    "лингвистическая школа им. ю.д. дешериева",
-    "что где когда",
-    "своя игра",
-    "brain ring",
-    "общеобразовательные учреждения",
-    "грызма",
-    "интеллектуальный досуг",
-]
-categories = [
-    "Мероприятия",
-    "Образование и обучение",
-]
+tags = []
+categories = []
 +++
 
 #Repost [club89240801|@vesti_respubliki_chr]

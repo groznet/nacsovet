@@ -2,7 +2,7 @@
 date = "2016-01-29T23:50:00-08:00"
 draft = false
 title = "Маленькая принцесса ..."
-slug = "маленькая-принцесса"
+slug = "malenkaia-printsessa"
 author = "Муса Дунаев"
 
 tags = []

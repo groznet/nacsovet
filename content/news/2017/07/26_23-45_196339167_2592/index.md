@@ -2,7 +2,7 @@
 date = "2017-07-26T23:45:00-08:00"
 draft = false
 title = "Общественная палата ЧР, #онлайнсовещание #общественнаяпалата"
-slug = "общественная-палата-чр-онлайнсовещание-общественнаяпалата"
+slug = "obshchestvennaia-palata-chr-onlainsoveshchanie"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2023-04-14T15:00:00-08:00"
 draft = false
 title = "г. Шали, рукотворное чудо…"
-slug = "г-шали-рукотворное-чудо"
+slug = "g-shali-rukotvornoe-chudo"
 author = "Муса Дунаев"
 
 tags = []

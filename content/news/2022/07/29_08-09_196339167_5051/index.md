@@ -2,7 +2,7 @@
 date = "2022-07-29T08:09:00-08:00"
 draft = false
 title = "Доброе утро, страна 🇷🇺❗️"
-slug = "доброе-утро-страна"
+slug = "dobroe-utro-strana"
 author = "Муса Дунаев"
 
 tags = []

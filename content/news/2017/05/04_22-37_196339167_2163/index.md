@@ -2,7 +2,7 @@
 date = "2017-05-04T22:37:00-08:00"
 draft = false
 title = "#реальныепацаны #проектМИМ #международнаяисламскаямиссия #пш"
-slug = "реальныепацаны-проектмим-международнаяисламскаямиссия-пш"
+slug = "realnyepatsany-proektmim-mezhdunarodnaiaislamskaiamissiia"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,21 +2,11 @@
 date = "2021-04-20T12:34:00-08:00"
 draft = false
 title = "Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_offici"
-slug = "друзья-19-04-2021-г-в-ифип-chspu-ifip-чгпу-chspu-offici"
+slug = "druzia-19-04-2021-g-v-ifip-chspu-ifip-chgpu-chspu-offici"
 author = "Муса Дунаев"
 
-tags = [
-    "киномания",
-    "интеллектуальная игра",
-    "чгпу",
-    "национальный совет",
-    "интеллектуальный кавказ",
-    "19.04.2021",
-]
-categories = [
-    "Интерактивные игры",
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_official @ibaykhanov прошла Интеллектуальная игра «Киномания». 

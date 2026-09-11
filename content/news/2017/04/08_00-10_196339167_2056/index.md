@@ -5,18 +5,8 @@ title = "#GPRepost,#reposter,#notetag @tagaev_sh via @GPRepostApp"
 slug = "gprepost-reposter-notetag-tagaev-sh-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = [
-    "ахмат-арена",
-    "митинг "вместе против террора"",
-    "терек - арсенал",
-    "8 апреля",
-    "минута молчания",
-    "терроризм",
-]
-categories = [
-    "Патриотическое воспитание",
-    "Мероприятия",
-]
+tags = []
+categories = []
 +++
 
 #GPRepost,#reposter,#notetag @tagaev_sh via @GPRepostApp 

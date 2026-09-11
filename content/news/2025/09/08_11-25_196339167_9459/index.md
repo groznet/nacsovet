@@ -2,7 +2,7 @@
 date = "2025-09-08T11:25:00-08:00"
 draft = false
 title = "Проект !Я и весь мир!\""
-slug = "проект-я-и-весь-мир"
+slug = "proekt-ia-i-ves-mir"
 author = "Муса Дунаев"
 
 tags = []

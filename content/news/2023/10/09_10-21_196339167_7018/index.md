@@ -2,7 +2,7 @@
 date = "2023-10-09T10:21:00-08:00"
 draft = false
 title = "Муса, поздравляю с днем рождения! Будьте всегда здоровы, кре"
-slug = "муса-поздравляю-с-днем-рождения-будьте-всегда-здоровы-кре"
+slug = "musa-pozdravliaiu-s-dnem-rozhdeniia-budte-vsegda-zdorovy-kre"
 author = "Муса Дунаев"
 
 tags = []

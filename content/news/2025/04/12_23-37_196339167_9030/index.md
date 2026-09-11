@@ -2,6 +2,7 @@
 date = "2025-04-12T23:37:00-08:00"
 draft = false
 title = "От имени ИНТЕЛЛЕКТУАЛЬНОЙ РОССИИ выражаем благодарность за п"
+slug = "ot-imeni-intellektualnoi-rossii-vyrazhaem-blagodarnost-za-p"
 author = "Муса Дунаев"
 
 tags = []

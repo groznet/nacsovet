@@ -2,7 +2,7 @@
 date = "2017-12-14T10:42:00-08:00"
 draft = false
 title = "Молодого ЧЕЛОВЕКА с кубком, дорогого племянника Дунаева Асла"
-slug = "молодого-человека-с-кубком-дорогого-племянника-дунаева-асла"
+slug = "molodogo-cheloveka-s-kubkom-dorogogo-plemiannika-dunaeva"
 author = "Муса Дунаев"
 
 tags = []

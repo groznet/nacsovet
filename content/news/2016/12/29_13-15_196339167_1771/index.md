@@ -2,7 +2,7 @@
 date = "2016-12-29T13:15:00-08:00"
 draft = false
 title = "#чеченскийнациональныйтеатр #общественнаяпалатачр #нацсовето"
-slug = "чеченскийнациональныйтеатр-общественнаяпалатачр-нацсовето"
+slug = "chechenskiinatsionalnyiteatr-obshchestvennaiapalatachr"
 author = "Муса Дунаев"
 
 tags = []

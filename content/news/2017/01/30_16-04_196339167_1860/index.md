@@ -2,7 +2,7 @@
 date = "2017-01-30T16:04:00-08:00"
 draft = false
 title = "С Днём рождения Дмитрий!!! Всех благ вам и вашей семье от АЛ"
-slug = "с-днем-рождения-дмитрий-всех-благ-вам-и-вашей-семье-от-ал"
+slug = "s-dnem-rozhdeniia-dmitrii-vsekh-blag-vam-i-vashei-seme-ot-al"
 author = "Муса Дунаев"
 
 tags = []

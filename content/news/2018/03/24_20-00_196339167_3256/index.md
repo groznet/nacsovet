@@ -2,7 +2,7 @@
 date = "2018-03-24T20:00:00-08:00"
 draft = false
 title = "По воле АЛЛАХА, время не стоит на месте, вот и я в кругу род"
-slug = "по-воле-аллаха-время-не-стоит-на-месте-вот-и-я-в-кругу-род"
+slug = "po-vole-allakha-vremia-ne-stoit-na-meste-vot-i-ia-v-krugu"
 author = "Муса Дунаев"
 
 tags = []

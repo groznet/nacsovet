@@ -2,7 +2,7 @@
 date = "2017-01-08T13:50:00-08:00"
 draft = false
 title = "#армхигорнолыжныйкурорт #армхиджейрахотдых #Хаджимурадов #на"
-slug = "армхигорнолыжныйкурорт-армхиджейрахотдых-хаджимурадов-на"
+slug = "armkhigornolyzhnyikurort-armkhidzheirakhotdykh-na"
 author = "Муса Дунаев"
 
 tags = []

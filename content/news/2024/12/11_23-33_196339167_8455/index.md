@@ -2,7 +2,7 @@
 date = "2024-12-11T23:33:00-08:00"
 draft = false
 title = "Добро пожаловать в мир интеллекта, «Что? Где? Когда?», госпо"
-slug = "добро-пожаловать-в-мир-интеллекта-что-где-когда-госпо"
+slug = "dobro-pozhalovat-v-mir-intellekta-chto-gde-kogda-gospo"
 author = "Муса Дунаев"
 
 tags = []

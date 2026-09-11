@@ -2,7 +2,7 @@
 date = "2024-07-26T13:19:00-08:00"
 draft = false
 title = "Самый скромный интурист, поверьте, я знаю, что говорю…))) Хо"
-slug = "самый-скромный-интурист-поверьте-я-знаю-что-говорю-хо"
+slug = "samyi-skromnyi-inturist-poverte-ia-znaiu-chto-govoriu-kho"
 author = "Муса Дунаев"
 
 tags = []

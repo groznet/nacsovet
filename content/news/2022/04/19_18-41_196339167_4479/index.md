@@ -2,7 +2,7 @@
 date = "2022-04-19T18:41:00-08:00"
 draft = false
 title = "В  офисе межрегиональной ассоциации общественных объединений"
-slug = "в-офисе-межрегиональной-ассоциации-общественных-объединений"
+slug = "v-ofise-mezhregionalnoi-assotsiatsii-obshchestvennykh"
 author = "Муса Дунаев"
 
 tags = []

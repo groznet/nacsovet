@@ -2,7 +2,7 @@
 date = "2024-08-04T08:20:00-08:00"
 draft = false
 title = "«ТРОПАМИ ПРЕДКОВ» - 8 экспедиция!"
-slug = "тропами-предков-8-экспедиция"
+slug = "tropami-predkov-8-ekspeditsiia"
 author = "Муса Дунаев"
 
 tags = []

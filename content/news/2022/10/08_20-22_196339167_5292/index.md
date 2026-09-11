@@ -2,7 +2,7 @@
 date = "2022-10-08T20:22:00-08:00"
 draft = false
 title = "Сердечно поздравляю друга детства, однокурсника, хорошего ЧЕ"
-slug = "сердечно-поздравляю-друга-детства-однокурсника-хорошего-че"
+slug = "serdechno-pozdravliaiu-druga-detstva-odnokursnika-khoroshego"
 author = "Муса Дунаев"
 
 tags = []

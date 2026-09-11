@@ -2,7 +2,7 @@
 date = "2026-04-03T19:15:00-08:00"
 draft = false
 title = "Мой первый «чеченский суп», никому не говорите,  получилось"
-slug = "мой-первый-чеченский-суп-никому-не-говорите-получилось"
+slug = "moi-pervyi-chechenskii-sup-nikomu-ne-govorite-poluchilos"
 author = "Муса Дунаев"
 
 tags = []

@@ -2,7 +2,7 @@
 date = "2023-12-27T12:14:00-08:00"
 draft = false
 title = "Занимайтесь спортом, играйте в интеллектуальные игры… Да буд"
-slug = "занимайтесь-спортом-играйте-в-интеллектуальные-игры-да-буд"
+slug = "zanimaites-sportom-igraite-v-intellektualnye-igry-da-bud"
 author = "Муса Дунаев"
 
 tags = []

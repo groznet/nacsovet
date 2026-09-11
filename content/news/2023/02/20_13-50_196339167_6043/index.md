@@ -2,7 +2,7 @@
 date = "2023-02-20T13:50:00-08:00"
 draft = false
 title = "#ТРОПАМИПРЕДКОВ"
-slug = "тропамипредков"
+slug = "tropamipredkov"
 author = "Муса Дунаев"
 
 tags = []

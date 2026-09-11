@@ -2,7 +2,7 @@
 date = "2022-05-09T19:21:00-08:00"
 draft = false
 title = "С ДНЁМ ВЕЛИКОЙ ПОБЕДЫ! НИЗКИЙ ПОКЛОН ВАМ, ДОРОГИЕ НАШИ ВЕТЕР"
-slug = "с-днем-великой-победы-низкий-поклон-вам-дорогие-наши-ветер"
+slug = "s-dnem-velikoi-pobedy-nizkii-poklon-vam-dorogie-nashi-veter"
 author = "Муса Дунаев"
 
 tags = []

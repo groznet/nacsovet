@@ -2,19 +2,11 @@
 date = "2020-11-27T06:05:00-08:00"
 draft = false
 title = "Примите поздравления от имени правления @youthchr_nacsovet ,"
-slug = "примите-поздравления-от-имени-правления-youthchr-nacsovet"
+slug = "primite-pozdravleniia-ot-imeni-pravleniia-youthchr-nacsovet"
 author = "Муса Дунаев"
 
-tags = [
-    "поздравления",
-    "youthchr_nacsovet",
-    "isa.patriot",
-    "маоонациональныйсовет",
-    "дунаевмуса",
-]
-categories = [
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Примите поздравления от имени правления @youthchr_nacsovet , уверен, зная вас, первое место не за горами ... Везачу Аллаха, аьтто бойла хьа, лараме 1иса @isa.patriot !!! #маоонациональныйсовет @dunaevmusa #дунаевмуса

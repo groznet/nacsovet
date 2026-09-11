@@ -4,18 +4,25 @@ draft = false
 title = "#GPRepost,#reposter,#notetag @zelenoe_zoloto via @GPRepostAp"
 slug = "gprepost-reposter-notetag-zelenoe-zoloto-via-gprepostap"
 author = "Муса Дунаев"
-
 tags = [
-    "чеченская республика",
-    "рамзан кадыров",
-    "инаугурация",
-    "общественная палата чр",
-    "ассоциация общественных объединений чр",
+	"инаугурация",
+	"Чеченская Республика",
+	"политика",
+	"Рамзан Кадыров",
+	"Глава Чеченской Республики",
 ]
 categories = [
-    "Новости",
+	"Политика",
+	"Общество",
+	"Регионы",
+]
+projects = []
+locations = [
+	"Чеченская Республика",
 ]
 +++
+
+
 
 #GPRepost,#reposter,#notetag @zelenoe_zoloto via @GPRepostApp 
  ======> 

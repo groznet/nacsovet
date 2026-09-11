@@ -2,7 +2,7 @@
 date = "2025-10-26T23:44:00-08:00"
 draft = false
 title = "При поддержке органов власти, спонсоров и своей команды проф"
-slug = "при-поддержке-органов-власти-спонсоров-и-своей-команды-проф"
+slug = "pri-podderzhke-organov-vlasti-sponsorov-i-svoei-komandy-prof"
 author = "Муса Дунаев"
 
 tags = []

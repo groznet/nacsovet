@@ -2,7 +2,7 @@
 date = "2020-08-18T10:00:00-08:00"
 draft = false
 title = "На базе третьего Всероссийского молодёжного форума «Фартан"
-slug = "на-базе-третьего-всероссии-ского-молоде-жного-форума-фартан"
+slug = "na-baze-tretego-vserossiiskogo-molodezhnogo-foruma-fartan"
 author = "Муса Дунаев"
 
 tags = []

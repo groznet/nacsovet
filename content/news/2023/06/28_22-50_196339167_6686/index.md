@@ -2,7 +2,7 @@
 date = "2023-06-28T22:50:00-08:00"
 draft = false
 title = "Пора, друзья, ой как пора, открываю «Шашлык- Машлык», гости,"
-slug = "пора-друзья-ой-как-пора-открываю-шашлык-машлык-гости"
+slug = "pora-druzia-oi-kak-pora-otkryvaiu-shashlyk-mashlyk-gosti"
 author = "Муса Дунаев"
 
 tags = []

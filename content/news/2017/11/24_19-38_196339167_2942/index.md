@@ -2,21 +2,11 @@
 date = "2017-11-24T19:38:00-08:00"
 draft = false
 title = "#общественнаяпалатачр #селоАндиРД #ибрагимбазаев ibragimbaza"
-slug = "общественнаяпалатачр-селоандирд-ибрагимбазаев-ibragimbaza"
+slug = "obshchestvennaiapalatachr-seloandird-ibragimbazaev"
 author = "Муса Дунаев"
 
-tags = [
-    "общественнаяпалатачр",
-    "селоандирд",
-    "ибрагимбазаев",
-    "ibragimbaza",
-    "исламсайдаев",
-    "islam_shah",
-    "хамзатлорсанов",
-]
-categories = [
-    "Объявления",
-]
+tags = []
+categories = []
 +++
 
 #общественнаяпалатачр #селоАндиРД #ибрагимбазаев ibragimbazaew #исламсайдаев islam_shah opchr #хамзатлорсанов

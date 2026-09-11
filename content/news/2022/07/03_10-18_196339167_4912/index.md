@@ -2,7 +2,7 @@
 date = "2022-07-03T10:18:00-08:00"
 draft = false
 title = "Интервью , руководителя Общественной организации\" Наш дом- г"
-slug = "интервью-руководителя-общественной-организации-наш-дом-г"
+slug = "interviu-rukovoditelia-obshchestvennoi-organizatsii-nash-dom"
 author = "Муса Дунаев"
 
 tags = []

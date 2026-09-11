@@ -2,7 +2,7 @@
 date = "2023-06-13T13:11:00-08:00"
 draft = false
 title = "Занимайтесь спортом, воистину, это нужно в первую очередь ва"
-slug = "занимайтесь-спортом-воистину-это-нужно-в-первую-очередь-ва"
+slug = "zanimaites-sportom-voistinu-eto-nuzhno-v-pervuiu-ochered-va"
 author = "Муса Дунаев"
 
 tags = []

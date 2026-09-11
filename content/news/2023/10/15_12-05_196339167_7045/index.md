@@ -2,7 +2,7 @@
 date = "2023-10-15T12:05:00-08:00"
 draft = false
 title = "Да пребудет с вами сила интеллекта!!! Межрегиональеый форум"
-slug = "да-пребудет-с-вами-сила-интеллекта-межрегиональеый-форум"
+slug = "da-prebudet-s-vami-sila-intellekta-mezhregionaleyi-forum"
 author = "Муса Дунаев"
 
 tags = []

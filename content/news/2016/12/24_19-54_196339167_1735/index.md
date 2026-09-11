@@ -2,7 +2,7 @@
 date = "2016-12-24T19:54:00-08:00"
 draft = false
 title = "Я добрый охотник, лису отпустил, в кролика не стал стрелять,"
-slug = "я-добрый-охотник-лису-отпустил-в-кролика-не-стал-стрелять"
+slug = "ia-dobryi-okhotnik-lisu-otpustil-v-krolika-ne-stal-streliat"
 author = "Муса Дунаев"
 
 tags = []

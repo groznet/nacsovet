@@ -2,7 +2,7 @@
 date = "2023-03-19T23:42:00-08:00"
 draft = false
 title = "Обратная сторона интеллектуальных игр. Друзья, играйте в инт"
-slug = "обратная-сторона-интеллектуальных-игр-друзья-играйте-в-инт"
+slug = "obratnaia-storona-intellektualnykh-igr-druzia-igraite-v-int"
 author = "Муса Дунаев"
 
 tags = []

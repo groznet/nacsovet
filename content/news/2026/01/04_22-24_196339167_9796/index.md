@@ -2,6 +2,7 @@
 date = "2026-01-04T22:24:00-08:00"
 draft = false
 title = "2025 год для команды Межрегиональной ассоциации общественных"
+slug = "2025-god-dlia-komandy-mezhregionalnoi-assotsiatsii"
 author = "Муса Дунаев"
 
 tags = []

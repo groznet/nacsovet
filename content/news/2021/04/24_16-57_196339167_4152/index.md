@@ -2,21 +2,11 @@
 date = "2021-04-24T16:57:00-08:00"
 draft = false
 title = "Господа интеллектуалы, да пребудет с вами сила интеллекта!"
-slug = "господа-интеллектуалы-да-пребудет-с-вами-сила-интеллекта"
+slug = "gospoda-intellektualy-da-prebudet-s-vami-sila-intellekta"
 author = "Муса Дунаев"
 
-tags = [
-    "чемпионат чр",
-    "интеллектуальные игры",
-    "нко",
-    "youthchr_nacsovet",
-    "intellektualny_kavkaz",
-    "daymohk_chr",
-]
-categories = [
-    "Мероприятия",
-    "Новости",
-]
+tags = []
+categories = []
 +++
 
 Господа интеллектуалы, да пребудет с вами сила интеллекта!

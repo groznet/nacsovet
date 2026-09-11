@@ -2,7 +2,7 @@
 date = "2025-12-15T09:35:00-08:00"
 draft = false
 title = "… «она обещает быть продуктивной. Доброе утро страна #РОССИЯ"
-slug = "она-обещает-быть-продуктивной-доброе-утро-страна-россия"
+slug = "ona-obeshchaet-byt-produktivnoi-dobroe-utro-strana-rossiia"
 author = "Муса Дунаев"
 
 tags = []

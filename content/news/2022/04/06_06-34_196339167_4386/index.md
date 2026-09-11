@@ -2,7 +2,7 @@
 date = "2022-04-06T06:34:00-08:00"
 draft = false
 title = "Воистину, когда наши чеченские ГЕРОИ будут награждены заслуж"
-slug = "воистину-когда-наши-чеченские-герои-будут-награждены-заслуж"
+slug = "voistinu-kogda-nashi-chechenskie-geroi-budut-nagrazhdeny"
 author = "Муса Дунаев"
 
 tags = []

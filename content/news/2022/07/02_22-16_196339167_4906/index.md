@@ -2,7 +2,7 @@
 date = "2022-07-02T22:16:00-08:00"
 draft = false
 title = "Вторая попытка, вроде бы получается…))  Главное, чтобы друзь"
-slug = "вторая-попытка-вроде-бы-получается-главное-чтобы-друзь"
+slug = "vtoraia-popytka-vrode-by-poluchaetsia-glavnoe-chtoby-druz"
 author = "Муса Дунаев"
 
 tags = []

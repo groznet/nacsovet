@@ -2,7 +2,7 @@
 date = "2017-01-01T06:34:00-08:00"
 draft = false
 title = "Доброе утро страна! Всех благ от АЛЛАХА вам и вашим близким"
-slug = "доброе-утро-страна-всех-благ-от-аллаха-вам-и-вашим-близким"
+slug = "dobroe-utro-strana-vsekh-blag-ot-allakha-vam-i-vashim"
 author = "Муса Дунаев"
 
 tags = []

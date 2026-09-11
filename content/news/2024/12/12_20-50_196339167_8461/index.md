@@ -2,7 +2,7 @@
 date = "2024-12-12T20:50:00-08:00"
 draft = false
 title = "Воистину, не хочу и не буду лукавить, не знаю как вам, но мн"
-slug = "воистину-не-хочу-и-не-буду-лукавить-не-знаю-как-вам-но-мн"
+slug = "voistinu-ne-khochu-i-ne-budu-lukavit-ne-znaiu-kak-vam-no-mn"
 author = "Муса Дунаев"
 
 tags = []
