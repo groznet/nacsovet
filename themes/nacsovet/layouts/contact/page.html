@@ -72,28 +72,36 @@
                 <form id="contactForm" action="#" method="POST" class="space-y-5">
                     <div>
                         <label for="name" class="block text-sm font-medium text-gray-700 mb-1">Ваше имя *</label>
-                        <input type="text" id="name" name="name" required
-                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                        <input disabled type="text" id="name" name="name" required
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70 disabled:bg-gray-100 disabled:cursor-not-allowed" />
                     </div>
                     <div>
                         <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email *</label>
-                        <input type="email" id="email" name="email" required
-                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                        <input disabled type="email" id="email" name="email" required
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70 disabled:bg-gray-100 disabled:cursor-not-allowed" />
                     </div>
                     <div>
                         <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">Телефон</label>
-                        <input type="tel" id="phone" name="phone"
-                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70" />
+                        <input disabled type="tel" id="phone" name="phone"
+                                class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70 disabled:bg-gray-100 disabled:cursor-not-allowed" />
                     </div>
                     <div>
                         <label for="message" class="block text-sm font-medium text-gray-700 mb-1">Сообщение *</label>
-                        <textarea id="message" name="message" rows="4" required
-                                    class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70"></textarea>
+                        <textarea disabled id="message" name="message" rows="4" required
+                                    class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary/30 focus:border-primary outline-none transition bg-white/70 disabled:bg-gray-100 disabled:cursor-not-allowed"></textarea>
                     </div>
-                    <button type="submit" class="btn-primary w-full py-3 rounded-xl text-lg font-semibold shadow-md transition">
+                    <button disabled type="submit" class="w-full py-3 rounded-xl text-lg font-semibold shadow-md transition bg-gray-400 text-white cursor-not-allowed">
                         <i class="fas fa-paper-plane mr-2"></i>Отправить
                     </button>
                     <p class="text-xs text-gray-500 text-center mt-2">Нажимая «Отправить», вы соглашаетесь с <a href="/privacy" class="text-secondary hover:underline">политикой конфиденциальности</a>.</p>
+
+                    <!-- Уведомление об отключении формы -->
+                    <div class="p-3 bg-amber-50 border-l-4 border-amber-500 text-amber-900 rounded-r-xl text-sm flex items-start space-x-2">
+                        <i class="fas fa-info-circle text-amber-500 mt-0.5 flex-shrink-0"></i>
+                        <p>
+                            <strong>Обратите внимание:</strong> В настоящее время форма отключена, не обрабатывает и не собирает персональные данные в связи с требованиями Федерального закона «О персональных данных» № 152-ФЗ.
+                        </p>
+                    </div>
                 </form>
                 <div id="formSuccess" class="hidden mt-4 p-4 bg-green-50 text-green-800 rounded-xl border border-green-200 text-center">
                     <i class="fas fa-check-circle text-2xl mr-2"></i> Спасибо! Ваше сообщение отправлено. Мы свяжемся с вами в ближайшее время.
