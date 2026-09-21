@@ -7,10 +7,15 @@
             {{ with $docs }}
                 {{ $latest := index (sort . "Date" "desc") 0 }}
                 <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Документы</span>
-                <a href="/documents/" class="hover:text-accent font-medium transition-colors duration-200 flex items-center space-x-1.5 min-w-0" title="Все актуальные документы">
-                    <i class="fas fa-file-alt text-secondary shrink-0"></i>
-                    <span class="truncate max-w-[200px] sm:max-w-md">{{ $latest.Title }}{{ if gt (len .) 1 }} и ещё {{ sub (len .) 1 }}{{ end }}</span>
-                    <span class="shrink-0">→</span>
+                <!-- Левая часть: Анонс документов -->
+                <a href="/documents/" class="group flex items-center gap-2 min-w-0 hover:text-accent transition-colors duration-200">
+                    <span class="relative flex h-2 w-2 shrink-0">
+                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-secondary opacity-75"></span>
+                        <span class="relative inline-flex h-2 w-2 rounded-full bg-secondary"></span>
+                    </span>
+                    <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Новое</span>
+                    <span class="font-medium truncate">Документы и заявки на мероприятия</span>
+                    <i class="fas fa-arrow-right text-[10px] shrink-0 transition-transform duration-200 group-hover:translate-x-1"></i>
                 </a>
             {{ end }}
         </div>

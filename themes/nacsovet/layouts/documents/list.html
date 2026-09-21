@@ -1,26 +1,72 @@
 {{ define "main" }}
-{{ $current := partial "documents-current.html" . }}
-{{ $archive := complement $current .RegularPages }}
-<section class="container mx-auto px-5 lg:px-8 py-10 max-w-3xl">
+{{ $current := slice }}
+{{ $past := slice }}
+{{ range .RegularPages.ByDate.Reverse }}
+  {{ $start := .Date }}
+  {{ $end := (time.AsTime (.Params.until | default "2100-01-01")).AddDate 0 0 1 }}
+  {{ if and (le $start.Unix now.Unix) (gt $end.Unix now.Unix) }}
+    {{ $current = $current | append . }}
+  {{ else if le $end.Unix now.Unix }}
+    {{ $past = $past | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $icons := dict "docx" "fa-file-word" "doc" "fa-file-word" "pdf" "fa-file-pdf" "xlsx" "fa-file-excel" "xls" "fa-file-excel" }}
+
+<section class="container mx-auto px-5 lg:px-8 py-10">
   <h1 class="text-2xl font-bold text-primary mb-2">{{ .Title }}</h1>
   {{ with .Content }}<div class="text-gray-600 mb-8">{{ . }}</div>{{ end }}
 
-  <h2 class="text-lg font-semibold mb-4">Актуальные</h2>
+  <!-- Актуальные -->
+  <h2 class="text-lg font-semibold text-gray-800 mb-4">Актуальные</h2>
   {{ with $current }}
-    <div class="space-y-4">
-      {{ range sort . "Date" "desc" }}{{ partial "document-item.html" . }}{{ end }}
-    </div>
+    <ul class="space-y-4">
+      {{ range . }}
+      <li class="border border-secondary rounded-lg p-4 bg-white">
+        <p class="text-xs text-gray-500 mb-1">
+          {{ .Date | time.Format "2 January" }}{{ with .Params.until }}{{ if ne (time.Format "2006-01-02" .) ($.Date | time.Format "2006-01-02") }} – {{ time.Format "2 January 2006" . }}{{ end }}{{ end }}
+        </p>
+        <h3 class="font-semibold text-gray-900">{{ .Title }}</h3>
+        {{ with .Content }}<div class="text-sm text-gray-700 mt-1">{{ . }}</div>{{ end }}
+        <div class="flex flex-wrap gap-x-4 gap-y-1 mt-3">
+          {{ range .Resources }}
+            {{ $ext := strings.TrimPrefix "." (path.Ext .Name) | lower }}
+            <a href="{{ .RelPermalink }}" download class="inline-flex items-center gap-1.5 text-sm text-primary hover:text-secondary">
+              <i class="fas {{ index $icons $ext | default "fa-file" }}"></i>{{ .Title }} ({{ upper $ext }})
+            </a>
+          {{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
   {{ else }}
     <p class="text-gray-500">Сейчас актуальных документов нет.</p>
   {{ end }}
 
-  {{ with $archive }}
-    <details class="mt-10 border-t border-gray-200 pt-6">
-      <summary class="cursor-pointer font-semibold text-gray-700">Архив ({{ len . }})</summary>
-      <div class="space-y-4 mt-4 opacity-70">
-        {{ range sort . "Date" "desc" }}{{ partial "document-item.html" . }}{{ end }}
-      </div>
-    </details>
+  <!-- Архив -->
+  {{ with $past }}
+  <details class="group mt-10 border-t border-gray-200 pt-6">
+    <summary class="flex items-center gap-2 cursor-pointer list-none [&::-webkit-details-marker]:hidden text-lg font-semibold text-gray-700">
+      <i class="fas fa-chevron-down text-sm transition-transform duration-200 group-open:rotate-180"></i>
+      Архив ({{ len . }})
+    </summary>
+    <ul class="space-y-3 mt-4 opacity-60">
+      {{ range . }}
+      <li class="border border-gray-200 rounded-lg p-4">
+        <p class="text-xs text-gray-500 mb-1">{{ .Date | time.Format "2 January 2006" }}</p>
+        <h3 class="font-medium text-gray-800">{{ .Title }}</h3>
+        <div class="flex flex-wrap gap-x-4 gap-y-1 mt-2">
+          {{ range .Resources }}
+            {{ $ext := strings.TrimPrefix "." (path.Ext .Name) | lower }}
+            <a href="{{ .RelPermalink }}" download class="inline-flex items-center gap-1.5 text-sm text-gray-600 hover:text-primary">
+              <i class="fas {{ index $icons $ext | default "fa-file" }}"></i>{{ .Title }} ({{ upper $ext }})
+            </a>
+          {{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </details>
   {{ end }}
 </section>
 {{ end }}

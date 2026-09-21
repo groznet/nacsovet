@@ -1,6 +1,7 @@
+{{/* Returns the list of "current" (non-archived) pages from content/documents, used by header.html */}}
 {{ $current := slice }}
-{{ with site.GetPage "/documents" }}
-  {{ range .RegularPages }}
+{{ with site.GetPage "documents" }}
+  {{ range .RegularPages.ByDate.Reverse }}
     {{ $until := time.AsTime (.Params.until | default "2100-01-01") }}
     {{ if gt ($until.AddDate 0 0 1).Unix now.Unix }}
       {{ $current = $current | append . }}
