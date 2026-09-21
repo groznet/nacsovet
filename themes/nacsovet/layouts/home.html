@@ -51,7 +51,7 @@
 
                     <div class="p-5 md:p-6 flex flex-col flex-grow">
                         <div class="flex items-center gap-3 text-xs text-gray-500 mb-2">
-                            <span><i class="far fa-calendar-alt mr-1"></i>{{ .Date.Format "2 января 2006" }}</span>
+                            <span><i class="far fa-calendar-alt mr-1"></i>{{ time.Format "2 January 2006" .Date }}</span>
                             <span class="w-1 h-1 rounded-full bg-gray-300"></span>
                             <span><i class="far fa-user mr-1"></i>{{ .Params.author | default "Пресс-служба" }}</span>
                         </div>

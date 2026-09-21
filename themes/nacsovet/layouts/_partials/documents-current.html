@@ -1,0 +1,10 @@
+{{ $current := slice }}
+{{ with site.GetPage "/documents" }}
+  {{ range .RegularPages }}
+    {{ $until := time.AsTime (.Params.until | default "2100-01-01") }}
+    {{ if gt ($until.AddDate 0 0 1).Unix now.Unix }}
+      {{ $current = $current | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $current }}

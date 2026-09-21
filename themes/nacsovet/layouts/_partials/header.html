@@ -1,13 +1,18 @@
 <!-- Top Bar -->
 <div class="bg-primary text-white text-xs py-2 border-b border-white/10">
     <div class="container mx-auto px-5 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-2">
-        <!-- Левая часть: Важная ссылка на документы и Срочный анонс -->
-        <div class="flex items-center space-x-2 animate-pulse min-w-0">
-            <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Документ</span>
-            <a href="/documents/2026%20ДепОбр%20препод.docx" download class="hover:text-accent font-medium transition-colors duration-200 truncate max-w-[200px] xs:max-w-xs sm:max-w-md flex items-center space-x-1.5" title="Скачать 2026 ДепОбр препод.docx">
-                <i class="fas fa-file-word text-secondary shrink-0"></i>
-                <span class="truncate">2026 ДепОбр препод (DOCX)</span>
-            </a>
+        <!-- Левая часть: актуальные документы (автоматически из content/documents) -->
+        {{ $docs := partialCached "documents-current.html" . }}
+        <div class="flex items-center space-x-2 min-w-0">
+            {{ with $docs }}
+                {{ $latest := index (sort . "Date" "desc") 0 }}
+                <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Документы</span>
+                <a href="/documents/" class="hover:text-accent font-medium transition-colors duration-200 flex items-center space-x-1.5 min-w-0" title="Все актуальные документы">
+                    <i class="fas fa-file-alt text-secondary shrink-0"></i>
+                    <span class="truncate max-w-[200px] sm:max-w-md">{{ $latest.Title }}{{ if gt (len .) 1 }} и ещё {{ sub (len .) 1 }}{{ end }}</span>
+                    <span class="shrink-0">→</span>
+                </a>
+            {{ end }}
         </div>
 
         <!-- Правая часть: Контакты и Соцсети -->
