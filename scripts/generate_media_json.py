@@ -16,7 +16,7 @@ SITE_SLUG = "nacsovet"
 MEDIA_SERVER_BASE = "https://files.groznet.com"
 CONTENT_SECTION = "news"
 
-SKIP_EXISTING_MEDIA_JSON = True  # Set to True to skip directories with existing media.json
+SKIP_EXISTING_MEDIA_JSON = False  # Set to True to skip directories with existing media.json
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 CONTENT_DIR = (SCRIPT_DIR.parent / "content" / CONTENT_SECTION).resolve()
@@ -38,13 +38,15 @@ def natural_key(s: str) -> list:
 
 
 def scan(target_dir: Path, extensions: set[str]) -> list[str]:
-    """Scans directory non-recursively for matching extensions."""
+    """Scans directory non-recursively for matching extensions (ignoring hidden files)."""
     if not target_dir.is_dir():
         return []
     found = [
         e.name
         for e in target_dir.iterdir()
-        if e.is_file() and e.suffix.lower() in extensions
+        if e.is_file()
+        and not e.name.startswith(".")
+        and e.suffix.lower() in extensions
     ]
     found.sort(key=natural_key)
     return found
@@ -93,14 +95,11 @@ def build(post_dir: Path) -> dict:
     """Builds the media.json data structure for a post."""
     try:
         rel_parts = post_dir.relative_to(CONTENT_DIR).parts
-        rel_path = "/".join(rel_parts)
     except ValueError:
-        rel_path = ""
+        rel_parts = ()
 
-    base_url = (
-        url_join(f"{MEDIA_SERVER_BASE}/{SITE_SLUG}/{CONTENT_SECTION}", rel_path)
-        if rel_path
-        else f"{MEDIA_SERVER_BASE}/{SITE_SLUG}/{CONTENT_SECTION}"
+    base_url = url_join(
+        f"{MEDIA_SERVER_BASE}/{SITE_SLUG}/{CONTENT_SECTION}", *rel_parts
     )
 
     root_images = scan(post_dir, IMAGE_EXT)
