@@ -10,6 +10,7 @@ from slugify import slugify
 
 ROOT = Path("content/news")
 MAX_SLUG_LENGTH = 60
+SKIP_EXISTING_SLUGS = True  # Set to False to overwrite existing slug fields
 
 count = 0
 fallback = 1
@@ -41,11 +42,16 @@ for file in sorted(ROOT.rglob("index.md")):
 
     lines = file.read_text(encoding="utf-8").splitlines()
 
-    # Skip if slug already exists
-    if any(
-        line.strip().startswith("slug =") or line.strip().startswith("slug=")
-        for line in lines
-    ):
+    # Find if slug already exists
+    existing_slug_index = None
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped.startswith("slug =") or stripped.startswith("slug="):
+            existing_slug_index = i
+            break
+
+    # Skip if slug exists and configuration is set to skip
+    if existing_slug_index is not None and SKIP_EXISTING_SLUGS:
         continue
 
     title_index = None
@@ -92,11 +98,16 @@ for file in sorted(ROOT.rglob("index.md")):
         slug = f"post-{year}{month}-{fallback:04d}"
         fallback += 1
 
-    # Insert TOML format key-value pair
-    lines.insert(title_index + 1, f'slug = "{slug}"')
+    # Update existing line or insert new line
+    new_slug_line = f'slug = "{slug}"'
+    if existing_slug_index is not None:
+        lines[existing_slug_index] = new_slug_line
+    else:
+        lines.insert(title_index + 1, new_slug_line)
+
     file.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-    print(f"  -> added slug: {slug}")
+    print(f"  -> added/updated slug: {slug}")
     count += 1
 
-print(f"\nDone. Added {count} new slugs.")
+print(f"\nDone. Processed {count} slugs.")
