@@ -130,18 +130,18 @@
 
         <!-- Main Content -->
         <main class="flex-1 min-w-0">
-            <article class="rounded-2xl md:p-6 shadow-sm border border-gray-100">
-                
+            <article class="rounded-2xl md:p-6 shadow-sm border border-gray-100" data-pagefind-body>
+
                 <!-- Metadata -->
                 <header class="mb-6">
-                    <span class="inline-block bg-accent/30 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
+                    <span data-pagefind-ignore data-pagefind-meta="category" class="inline-block bg-accent/30 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
                         {{ with .Params.categories }}{{ index . 0 }}{{ else }}Новости{{ end }}
                     </span>
                     <h1 class="heading-font text-3xl md:text-4xl font-extrabold text-primary leading-tight mb-4 font-serif">
                         {{ .Title }}
                     </h1>
-                    <div class="flex items-center gap-6 text-sm text-gray-500">
-                        <time datetime="{{ .Date.Format "2006-01-02" }}" class="flex items-center">
+                    <div data-pagefind-ignore class="flex items-center gap-6 text-sm text-gray-500">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}" data-pagefind-meta="date:{{ .Date.Format "02.01.2006" }}" class="flex items-center">
                             <i class="far fa-calendar-alt mr-2" aria-hidden="true"></i>{{ .Date.Format "02.01.2006" }}
                         </time>
                         <span class="flex items-center">
@@ -155,8 +155,9 @@
                 {{ $mainImgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
                 <!-- Main Featured Image -->
-                <div class="mb-8 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
+                <div data-pagefind-ignore class="mb-8 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
                     <img src="{{ $mainImgSrc }}"
+                         data-pagefind-meta="image[src]"
                          alt="{{ .Title }}"
                          class="w-full h-auto object-cover"
                          loading="eager">
@@ -181,7 +182,7 @@
 
                 <!-- Videos -->
                 {{ with $media.videos }}
-                <section class="mt-10 pt-6 border-t border-gray-100">
+                <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                     <h2 class="text-2xl font-bold text-primary mb-6">
                         {{ if gt (len .) 1 }}Видео ({{ len . }}){{ else }}Видео{{ end }}
                     </h2>
@@ -205,7 +206,7 @@
                 <!-- Gallery -->
                 {{ if $media.images }}
                     {{/* Галерея из media.json — абсолютные URL на S3 */}}
-                    <section class="mt-10 pt-6 border-t border-gray-100">
+                    <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                         <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $media.images }}
@@ -221,7 +222,7 @@
                     {{/* Запасная галерея из локальных ресурсов бандла */}}
                     {{ $allImages := .Resources.ByType "image" }}
                     {{ if gt (len $allImages) 1 }}
-                    <section class="mt-10 pt-6 border-t border-gray-100">
+                    <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                         <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $allImages }}

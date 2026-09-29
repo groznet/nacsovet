@@ -133,13 +133,212 @@
         <div class="relative">
             <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
             <input
-            type="text"
+            type="search"
             id="archiveSearch"
             placeholder="Поиск по публикациям..."
+            autocomplete="off"
+            aria-label="Поиск по публикациям"
+            data-pagefind-path="{{ "pagefind/pagefind.js" | relURL }}"
+            data-fallback-img="{{ "assets/images/post-thumbnail.jpg" | relURL }}"
             class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-gray-200 bg-white/70 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition text-sm"
             />
         </div>
     </div>
+
+    <!-- Поиск по публикациям (Pagefind): результаты показываются в основной колонке -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const input = document.getElementById('archiveSearch');
+            const aside = input && input.closest('.archive-sidebar');
+            const main = aside && aside.parentElement.querySelector(':scope > main');
+            if (!main) return;
+
+            const PAGE_SIZE = 10;
+            const fallbackImg = input.dataset.fallbackImg;
+            let loading = null;
+            let results = [];
+            let shown = 0;
+            let query = '';
+
+            const box = document.createElement('div');
+            box.id = 'searchResults';
+            box.className = 'space-y-5 hidden';
+            main.prepend(box);
+
+            function esc(s) {
+                return String(s == null ? '' : s).replace(/[&<>"']/g, function(c) {
+                    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+                });
+            }
+
+            function loadPagefind() {
+                if (!loading) {
+                    loading = import(input.dataset.pagefindPath).then(async function(pf) {
+                        await pf.options({ excerptLength: 30 });
+                        await pf.init();
+                        return pf;
+                    });
+                }
+                return loading;
+            }
+
+            // Показывает результаты вместо содержимого основной колонки (и возвращает его обратно)
+            function setActive(active) {
+                box.classList.toggle('hidden', !active);
+                for (const el of main.children) {
+                    if (el === box) continue;
+                    if (active && !el.classList.contains('hidden')) {
+                        el.classList.add('hidden');
+                        el.dataset.searchHidden = '';
+                    } else if (!active && 'searchHidden' in el.dataset) {
+                        el.classList.remove('hidden');
+                        delete el.dataset.searchHidden;
+                    }
+                }
+            }
+
+            function syncUrl(q) {
+                const url = new URL(location.href);
+                if (q) url.searchParams.set('q', q); else url.searchParams.delete('q');
+                history.replaceState(history.state, '', url);
+            }
+
+            function scrollToResults() {
+                const top = main.getBoundingClientRect().top;
+                if (top < 0) window.scrollTo({ top: top + window.scrollY - 110, behavior: 'smooth' });
+            }
+
+            function message(icon, text) {
+                return `
+                    <div class="text-center py-12 text-gray-500 bg-white rounded-2xl border border-gray-100">
+                        <i class="${icon} text-4xl mb-3 block text-gray-300"></i>
+                        ${text}
+                    </div>`;
+            }
+
+            function card(r) {
+                const m = r.meta || {};
+                return `
+                    <article class="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex flex-col sm:flex-row">
+                        <div class="sm:w-48 md:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden bg-gray-100 relative">
+                            <img src="${esc(m.image || fallbackImg)}" alt="${esc(m.title)}" class="w-full h-full object-cover hover:scale-105 transition-transform duration-400" loading="lazy" />
+                        </div>
+                        <div class="flex-1 p-4 md:p-5 flex flex-col min-w-0">
+                            <div class="flex items-center gap-2 flex-wrap mb-1.5">
+                                ${m.category ? `<span class="category-pill text-[10px] font-bold uppercase tracking-wider bg-accent text-primary px-2.5 py-0.5 rounded-full">${esc(m.category)}</span>` : ''}
+                                ${m.date ? `<span class="text-xs text-gray-400"><i class="far fa-calendar-alt mr-1"></i>${esc(m.date)}</span>` : ''}
+                            </div>
+                            <h3 class="heading-font text-lg md:text-xl font-bold text-primary hover:text-secondary transition-colors line-clamp-2">
+                                <a href="${esc(r.url)}">${esc(m.title)}</a>
+                            </h3>
+                            <p class="text-gray-600 text-sm mt-1 line-clamp-3 flex-grow break-words [&_mark]:bg-accent/60 [&_mark]:text-primary [&_mark]:rounded [&_mark]:px-0.5">
+                                ${r.excerpt}
+                            </p>
+                            <div class="flex items-center justify-end mt-3 pt-3 border-t border-gray-100">
+                                <a href="${esc(r.url)}" class="text-secondary font-semibold text-sm hover:text-primary transition-colors inline-flex items-center gap-1 flex-shrink-0">
+                                    Читать <i class="fas fa-arrow-right text-xs"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </article>`;
+            }
+
+            async function showMore(q) {
+                const slice = results.slice(shown, shown + PAGE_SIZE);
+                const data = await Promise.all(slice.map(function(r) { return r.data(); }));
+                if (q !== query) return;
+                shown += slice.length;
+                box.querySelector('[data-search-list]').insertAdjacentHTML('beforeend', data.map(card).join(''));
+                box.querySelector('[data-search-more]').classList.toggle('hidden', shown >= results.length);
+            }
+
+            async function runSearch(q) {
+                query = q;
+                syncUrl(q);
+                if (q.length < 2) {
+                    setActive(false);
+                    box.innerHTML = '';
+                    return;
+                }
+
+                let pf;
+                try {
+                    pf = await loadPagefind();
+                } catch (e) {
+                    if (q !== query) return;
+                    box.innerHTML = message('fas fa-exclamation-circle', 'Поиск временно недоступен');
+                    setActive(true);
+                    return;
+                }
+
+                const search = await pf.debouncedSearch(q, {}, 300);
+                if (search === null || q !== query) return;
+
+                results = search.results;
+                shown = 0;
+
+                if (!results.length) {
+                    box.innerHTML = message('fas fa-search', `Ничего не найдено по запросу «${esc(q)}»`);
+                } else {
+                    box.innerHTML = `
+                        <div class="flex items-center justify-between gap-3 flex-wrap">
+                            <p class="text-sm text-gray-600">
+                                Найдено: <span class="font-semibold text-primary">${results.length}</span> по запросу «${esc(q)}»
+                            </p>
+                            <button type="button" data-search-clear class="text-xs font-semibold text-secondary hover:text-primary transition-colors inline-flex items-center gap-1 cursor-pointer">
+                                Сбросить поиск <i class="fas fa-times text-[10px]"></i>
+                            </button>
+                        </div>
+                        <div data-search-list class="space-y-5"></div>
+                        <div class="text-center">
+                            <button type="button" data-search-more class="hidden border border-gray-300 px-5 py-2.5 rounded-xl text-sm font-semibold text-gray-600 hover:bg-gray-50 transition cursor-pointer">
+                                Показать ещё
+                            </button>
+                        </div>`;
+                    await showMore(q);
+                    if (q !== query) return;
+                }
+                setActive(true);
+                scrollToResults();
+            }
+
+            function clearSearch() {
+                input.value = '';
+                runSearch('');
+            }
+
+            box.addEventListener('click', function(e) {
+                if (e.target.closest('[data-search-more]')) showMore(query);
+                if (e.target.closest('[data-search-clear]')) clearSearch();
+            });
+
+            input.addEventListener('focus', function() {
+                loadPagefind().catch(function() {});
+            }, { once: true });
+
+            input.addEventListener('input', function() {
+                runSearch(input.value.trim());
+            });
+
+            input.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') {
+                    clearSearch();
+                } else if (e.key === 'Enter') {
+                    e.preventDefault();
+                    // На мобильных закрываем панель, чтобы были видны результаты
+                    const closeBtn = document.getElementById('archiveSidebarClose');
+                    if (closeBtn && window.matchMedia('(max-width: 1023px)').matches) closeBtn.click();
+                    scrollToResults();
+                }
+            });
+
+            const initial = new URLSearchParams(location.search).get('q');
+            if (initial) {
+                input.value = initial;
+                runSearch(initial.trim());
+            }
+        });
+    </script>
 
 <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
         <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">

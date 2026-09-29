@@ -30,3 +30,6 @@ Thumbs.db
 
 # macOS AppleDouble files (created on non-APFS/external drives)
 ._*
+
+# Local Pagefind index for `hugo server` (CI builds its own into public/)
+static/pagefind/
