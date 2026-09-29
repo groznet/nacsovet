@@ -4,22 +4,9 @@ draft = false
 title = "Я по снегу соскучился, а в Ставрополе в избытке..."
 slug = "ia-po-snegu-soskuchilsia-a-v-stavropole-v-izbytke"
 author = "Муса Дунаев"
-tags = [
-	"снег",
-	"Ставрополь",
-	"погода",
-]
-categories = [
-	"Путешествия",
-	"География",
-	"Общество",
-]
-projects = []
-locations = [
-	"Ставрополь",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Я по снегу соскучился, а в Ставрополе в избытке...

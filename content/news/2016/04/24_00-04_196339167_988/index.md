@@ -4,21 +4,9 @@ draft = false
 title = "Спасибо деткам за вечер!!!"
 slug = "spasibo-detkam-za-vecher"
 author = "Муса Дунаев"
-tags = [
-	"детки",
-	"вечер",
-	"благодарность",
-	"дети",
-	"мероприятие",
-]
-categories = [
-	"Общество",
-	"Образование",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Спасибо деткам за вечер!!!

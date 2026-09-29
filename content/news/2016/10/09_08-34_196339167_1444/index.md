@@ -4,21 +4,10 @@ draft = false
 title = "С Днем рождения! Здоровья, мира и благополучия!"
 slug = "s-dnem-rozhdeniia-zdorovia-mira-i-blagopoluchiia"
 author = "Муса Дунаев"
-tags = [
-	"поздравление",
-	"здоровье",
-	"мир",
-	"благополучие",
-	"день рождения",
-]
-categories = [
-	"Поздравления",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 С Днем рождения! Здоровья, мира и благополучия!
 

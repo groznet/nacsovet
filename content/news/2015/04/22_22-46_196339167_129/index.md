@@ -4,12 +4,9 @@ draft = false
 title = "Во имя Отечества ...)"
 slug = "vo-imia-otechestva"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Во имя Отечества ...)

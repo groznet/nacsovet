@@ -4,20 +4,9 @@ draft = false
 title = "Машук 2015 ..."
 slug = "mashuk-2015"
 author = "Муса Дунаев"
-tags = [
-	"Машук",
-	"соревнования",
-]
-categories = [
-	"События",
-	"Образование",
-]
-projects = [
-	"Машук",
-]
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Машук 2015 ...

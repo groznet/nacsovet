@@ -4,20 +4,9 @@ draft = false
 title = "Всех мусульман поздравляю с ВЕЛИКИМ ДНЕМ АШУРА!!! Всех благ"
 slug = "vsekh-musulman-pozdravliaiu-s-velikim-dnem-ashura-vsekh-blag"
 author = "Муса Дунаев"
-tags = [
-	"День Ашура",
-	"мусульмане",
-	"поздравление",
-	"Ашура",
-]
-categories = [
-	"Религия",
-	"Праздники",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Всех мусульман поздравляю с ВЕЛИКИМ ДНЕМ АШУРА!!! Всех благ нам от нашего СОЗДАТЕЛЯ АЛЛАХА!!!

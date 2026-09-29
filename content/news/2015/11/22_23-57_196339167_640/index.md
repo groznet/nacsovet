@@ -4,17 +4,9 @@ draft = false
 title = "В огне не горю ...)"
 slug = "v-ogne-ne-goriu"
 author = "Муса Дунаев"
-tags = [
-	"в огне не горю",
-]
-categories = [
-	"Самопознание",
-	"Личностный рост",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 В огне не горю ...)

@@ -4,20 +4,9 @@ draft = false
 title = "Полетели...)"
 slug = "poleteli"
 author = "Муса Дунаев"
-tags = [
-	"неизвестно",
-]
-categories = [
-	"неизвестно",
-]
-projects = [
-	"неизвестно",
-]
-locations = [
-	"неизвестно",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Полетели...)

@@ -4,18 +4,9 @@ draft = false
 title = "Доброе утро страна!!!"
 slug = "dobroe-utro-strana"
 author = "Муса Дунаев"
-tags = [
-	"приветствие",
-	"общение",
-]
-categories = [
-	"Разное",
-	"Повседневность",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Доброе утро страна!!!

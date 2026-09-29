@@ -4,22 +4,9 @@ draft = false
 title = "Удачи тебе о хороший и умный ЧЕЛОВЕК!!!"
 slug = "udachi-tebe-o-khoroshii-i-umnyi-chelovek"
 author = "Муса Дунаев"
-tags = [
-	"пожелание",
-	"удача",
-	"благополучие",
-	"поздравление",
-	"успех",
-]
-categories = [
-	"Поздравления",
-	"Мотивация",
-	"Общие",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Удачи тебе о хороший и умный ЧЕЛОВЕК!!!

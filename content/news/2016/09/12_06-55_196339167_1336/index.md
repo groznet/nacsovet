@@ -4,20 +4,9 @@ draft = false
 title = "С праздником Курбан-Байрам!!! Дала ше дохь дойла вай лелуш д"
 slug = "s-prazdnikom-kurban-bairam-dala-she-dokh-doila-vai-lelush-d"
 author = "Муса Дунаев"
-tags = [
-	"Курбан-Байрам",
-	"праздник",
-	"поздравление",
-]
-categories = [
-	"Праздники",
-	"Религия",
-	"Культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 С праздником Курбан-Байрам!!! Дала ше дохь дойла вай лелуш дег!!!

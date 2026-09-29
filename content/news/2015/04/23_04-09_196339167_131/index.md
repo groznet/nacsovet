@@ -4,22 +4,9 @@ draft = false
 title = "Аргунский мечеть \"Сердце матери\" !!!"
 slug = "argunskii-mechet-serdtse-materi"
 author = "Муса Дунаев"
-tags = [
-	"мечеть",
-	"аргунский мечеть",
-	"аргун",
-	"Аргун",
-]
-categories = [
-	"Архитектура",
-	"Религия",
-]
-projects = []
-locations = [
-	"Аргун",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Аргунский мечеть "Сердце матери" !!!

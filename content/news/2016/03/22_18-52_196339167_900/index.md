@@ -4,22 +4,9 @@ draft = false
 title = "На съезде РСМ, готов к работе..."
 slug = "na-sezde-rsm-gotov-k-rabote"
 author = "Муса Дунаев"
-tags = [
-	"РСМ",
-	"съезд",
-	"работа",
-]
-categories = [
-	"Мероприятия",
-	"События",
-	"Профсоюзы",
-]
-projects = [
-	"РСМ",
-]
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 На съезде РСМ, готов к работе...

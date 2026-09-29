@@ -1,8 +1,8 @@
 +++
 date = "2026-09-22T22:24:00-08:00"
 draft = false
-title = "Итоги II турнира по «Своей игре» на Кубок Департамента образования Мэрии г. Грозного"
-slug = "itogi-ii-turnira-po-svoei-igre-na-kubok-departamenta-merii-g"
+title = "22 сентября 2026 года в СОШ № 23 г. Грозного состоялся II ту"
+slug = "22-sentiabria-2026-goda-v-sosh-no-23-g-groznogo-sostoialsia"
 author = "Муса Дунаев"
 
 tags = []

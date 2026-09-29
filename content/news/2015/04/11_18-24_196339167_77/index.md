@@ -4,20 +4,9 @@ draft = false
 title = "Обсуждаем вселенские проблемы ..."
 slug = "obsuzhdaem-vselenskie-problemy"
 author = "Муса Дунаев"
-tags = [
-	"вселенские проблемы",
-	"обсуждение",
-	"философия",
-]
-categories = [
-	"Философия",
-	"Образование",
-	"Общество",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Обсуждаем вселенские проблемы ...

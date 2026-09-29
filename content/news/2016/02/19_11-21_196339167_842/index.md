@@ -4,21 +4,9 @@ draft = false
 title = "На заседании Совета профсоюзов ЧР..."
 slug = "na-zasedanii-soveta-profsoiuzov-chr"
 author = "Муса Дунаев"
-tags = [
-	"профсоюзы",
-	"ЧР",
-	"заседание совета",
-]
-categories = [
-	"Общество",
-	"Трудовое право",
-]
-projects = []
-locations = [
-	"ЧР",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 На заседании Совета профсоюзов ЧР...

@@ -4,17 +4,9 @@ draft = false
 title = "Друзья от Бога!!!"
 slug = "druzia-ot-boga"
 author = "Муса Дунаев"
-tags = [
-	"дружба",
-	"отношения",
-]
-categories = [
-	"Общество",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Друзья от Бога!!!

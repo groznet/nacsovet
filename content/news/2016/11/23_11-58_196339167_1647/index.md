@@ -4,19 +4,9 @@ draft = false
 title = "Везачу АЛЛАХА декьалла войла хьо винчу даьнца Исмаил Денильх"
 slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-ismail"
 author = "Муса Дунаев"
-tags = [
-	"везачу АЛЛАХА декьалла войла хьо винчу даьнца",
-	"Исмаил Денильханов",
-]
-categories = [
-	"Социальные сети",
-	"Персоналии",
-	"Культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Везачу АЛЛАХА декьалла войла хьо винчу даьнца Исмаил Денильханов @idenilkhanov !!!

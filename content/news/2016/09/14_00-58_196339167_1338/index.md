@@ -4,18 +4,9 @@ draft = false
 title = "Потренируюсь и на кабана...)"
 slug = "potreniruius-i-na-kabana"
 author = "Муса Дунаев"
-tags = [
-	"тренировка",
-	"спорт",
-	"энвайронмент",
-]
-categories = [
-	"Спорт",
-	"Образ жизни",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 Потренируюсь и на кабана...)

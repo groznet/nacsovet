@@ -4,20 +4,9 @@ draft = false
 title = "Приятно награждать достойных людей !!!"
 slug = "priiatno-nagrazhdat-dostoinykh-liudei"
 author = "Муса Дунаев"
-tags = [
-	"награждение",
-	"достойные люди",
-]
-categories = [
-	"Общество",
-	"Психология",
-	"Образование",
-	"Социальная сфера",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Приятно награждать достойных людей !!!

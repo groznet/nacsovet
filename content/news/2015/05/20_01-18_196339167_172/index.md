@@ -4,20 +4,9 @@ draft = false
 title = "Госдума приняла закон о «нежелательных организациях»"
 slug = "gosduma-priniala-zakon-o-nezhelatelnykh-organizatsiiakh"
 author = "Муса Дунаев"
-tags = [
-	"закон",
-	"нежелательные организации",
-	"право",
-	"Госдума",
-]
-categories = [
-	"Право",
-	"Политика",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Госдума приняла закон о «нежелательных организациях»

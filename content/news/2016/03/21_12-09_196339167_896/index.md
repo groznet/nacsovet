@@ -4,20 +4,9 @@ draft = false
 title = "Будем наблюдать, все ради науки..."
 slug = "budem-nabliudat-vse-radi-nauki"
 author = "Муса Дунаев"
-tags = [
-	"наука",
-	"наблюдения",
-	"наблюдение",
-	"исследование",
-]
-categories = [
-	"Образование",
-	"Наука",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Будем наблюдать, все ради науки...

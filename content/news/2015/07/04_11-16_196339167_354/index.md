@@ -4,23 +4,9 @@ draft = false
 title = "#архив #КПДМ #Гудермес #концерт #Дунаев"
 slug = "arkhiv-kpdm-gudermes-kontsert-dunaev"
 author = "Муса Дунаев"
-tags = [
-	"архив",
-	"концерт",
-	"Дунаев",
-	"Гудермес",
-]
-categories = [
-	"Музыка",
-	"Мероприятия",
-	"Исполнители",
-]
-projects = []
-locations = [
-	"Гудермес",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 #архив #КПДМ #Гудермес #концерт #Дунаев

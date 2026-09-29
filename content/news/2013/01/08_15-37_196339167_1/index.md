@@ -4,18 +4,10 @@ draft = false
 title = "Без названия"
 slug = "bez-nazvaniia"
 author = "Муса Дунаев"
-tags = [
-	"комментарии",
-]
-categories = [
-	"Обсуждение",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
-
 
 
 

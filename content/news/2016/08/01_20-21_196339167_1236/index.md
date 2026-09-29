@@ -4,21 +4,9 @@ draft = false
 title = "Великолепная Италия #архив #нашзамечательныйгид #Наталья #Ду"
 slug = "velikolepnaia-italiia-arkhiv-nashzamechatelnyigid-natalia-du"
 author = "Муса Дунаев"
-tags = [
-	"Италия",
-	"архив",
-	"гид",
-	"путешествия",
-]
-categories = [
-	"Путешествия",
-	"Культура",
-]
-projects = []
-locations = [
-	"Италия",
-]
-+++
 
+tags = []
+categories = []
++++
 
 Великолепная Италия #архив #нашзамечательныйгид #Наталья #Дунаев

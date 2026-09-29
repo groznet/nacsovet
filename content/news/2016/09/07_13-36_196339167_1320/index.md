@@ -4,11 +4,9 @@ draft = false
 title = "Не смогли пройти мимо и не дали убежать...)"
 slug = "ne-smogli-proiti-mimo-i-ne-dali-ubezhat"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
 
 Не смогли пройти мимо и не дали убежать...)

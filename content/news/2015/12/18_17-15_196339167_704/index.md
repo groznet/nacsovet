@@ -4,12 +4,9 @@ draft = false
 title = "Министерство иностранных дел КНР, ..."
 slug = "ministerstvo-inostrannykh-del-knr"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Министерство иностранных дел КНР, ...

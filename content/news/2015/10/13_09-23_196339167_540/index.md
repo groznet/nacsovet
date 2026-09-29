@@ -4,18 +4,9 @@ draft = false
 title = "Молодцы !!! Удачи !!!"
 slug = "molodtsy-udachi"
 author = "Муса Дунаев"
-tags = [
-	"поздравление",
-	"успех",
-	"удача",
-]
-categories = [
-	"Разное",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Молодцы !!! Удачи !!!

@@ -4,26 +4,9 @@ draft = false
 title = "#IIIпленум #Россия #Сочи #профсоюз #жизнеобеспечения #Дунаев"
 slug = "iiiplenum-rossiia-sochi-profsoiuz-zhizneobespecheniia-dunaev"
 author = "Муса Дунаев"
-tags = [
-	"III пленум",
-	"Россия",
-	"Сочи",
-	"профсоюз",
-	"жизнеобеспечение",
-]
-categories = [
-	"Трудовые отношения",
-	"Политика",
-	"Общество",
-]
-projects = []
-locations = [
-	"Сочи",
-	"Дунаев",
-	"Россия",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 #IIIпленум #Россия #Сочи #профсоюз #жизнеобеспечения #Дунаев

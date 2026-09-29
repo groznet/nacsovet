@@ -4,11 +4,9 @@ draft = false
 title = "Так держать! Поздравляю!!!"
 slug = "tak-derzhat-pozdravliaiu"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
 
 Так держать! Поздравляю!!!

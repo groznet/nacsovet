@@ -4,19 +4,9 @@ draft = false
 title = "Ну свинья погоди !!!"
 slug = "nu-svinia-pogodi"
 author = "Муса Дунаев"
-tags = [
-	"сатира",
-	"юмор",
-	"социальный комментарий",
-]
-categories = [
-	"Медиа",
-	"Культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Ну свинья погоди !!!

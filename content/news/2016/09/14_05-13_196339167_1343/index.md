@@ -4,18 +4,9 @@ draft = false
 title = "Доброе утро страна! Город спит..."
 slug = "dobroe-utro-strana-gorod-spit"
 author = "Муса Дунаев"
-tags = [
-	"город",
-	"утро",
-	"общение",
-]
-categories = [
-	"Жизнь города",
-	"Повседневность",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 Доброе утро страна! Город спит...

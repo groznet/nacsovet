@@ -4,20 +4,9 @@ draft = false
 title = "На форуме в Ставрополе."
 slug = "na-forume-v-stavropole"
 author = "Муса Дунаев"
-tags = [
-	"форум",
-	"Ставрополь",
-]
-categories = [
-	"Образование",
-	"События",
-]
-projects = []
-locations = [
-	"Ставрополь",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 На форуме в Ставрополе.

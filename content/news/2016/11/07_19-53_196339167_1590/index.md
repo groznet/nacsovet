@@ -4,16 +4,9 @@ draft = false
 title = "Добрый вечер друзья!!!"
 slug = "dobryi-vecher-druzia"
 author = "Муса Дунаев"
-tags = [
-	"приветствие",
-]
-categories = [
-	"Обращение",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Добрый вечер друзья!!!

@@ -4,23 +4,9 @@ draft = false
 title = "С дорогими гостями форума \"Сообщество\" из Кургана..."
 slug = "s-dorogimi-gostiami-foruma-soobshchestvo-iz-kurgana"
 author = "Муса Дунаев"
-tags = [
-	"форум",
-	"гости",
-	"Курган",
-]
-categories = [
-	"Мероприятия",
-	"Культура",
-	"Общество",
-]
-projects = [
-	"Сообщество",
-]
-locations = [
-	"Курган",
-]
-+++
 
+tags = []
+categories = []
++++
 
 С дорогими гостями форума "Сообщество" из Кургана...

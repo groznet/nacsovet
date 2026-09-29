@@ -4,24 +4,9 @@ draft = false
 title = "#Чечня #Абрек #Герой"
 slug = "chechnia-abrek-geroi"
 author = "Муса Дунаев"
-tags = [
-	"Чечня",
-	"Абрек",
-	"Герой",
-	"герой",
-]
-categories = [
-	"Культура",
-	"История",
-	"Общество",
-	"Герои",
-]
-projects = []
-locations = [
-	"Чечня",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 #Чечня #Абрек #Герой

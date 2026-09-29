@@ -4,20 +4,9 @@ draft = false
 title = "По дороге в Ставрополь ..."
 slug = "po-doroge-v-stavropol"
 author = "Муса Дунаев"
-tags = [
-	"путешествия",
-	"Ставрополь",
-]
-categories = [
-	"Путешествия",
-	"Культура",
-]
-projects = []
-locations = [
-	"Ставрополь",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 По дороге в Ставрополь ...

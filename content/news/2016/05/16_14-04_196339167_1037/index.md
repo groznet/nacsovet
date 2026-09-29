@@ -4,22 +4,9 @@ draft = false
 title = "16.052016г. на заседании Совета Федерации профсоюзов ЧР..."
 slug = "16-052016g-na-zasedanii-soveta-federatsii-profsoiuzov-chr"
 author = "Муса Дунаев"
-tags = [
-	"профсоюзы",
-	"ЧР",
-	"совет",
-	"заседание",
-]
-categories = [
-	"Общество",
-	"Политика",
-]
-projects = []
-locations = [
-	"ЧР",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 16.052016г. на заседании Совета Федерации профсоюзов ЧР...

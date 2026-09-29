@@ -4,22 +4,9 @@ draft = false
 title = "Друзья из братской Осетии !!!"
 slug = "druzia-iz-bratskoi-osetii"
 author = "Муса Дунаев"
-tags = [
-	"Осетия",
-	"дружба",
-	"регионы",
-	"братство",
-]
-categories = [
-	"Региональные новости",
-	"Общество",
-]
-projects = []
-locations = [
-	"Осетия",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Друзья из братской Осетии !!!

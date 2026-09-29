@@ -4,18 +4,9 @@ draft = false
 title = "Добрых и активных выходных вам дамы и господа!!!"
 slug = "dobrykh-i-aktivnykh-vykhodnykh-vam-damy-i-gospoda"
 author = "Муса Дунаев"
-tags = [
-	"выходные",
-	"поздравление",
-]
-categories = [
-	"Разное",
-	"Поздравления",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Добрых и активных выходных вам дамы и господа!!!

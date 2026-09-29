@@ -4,24 +4,9 @@ draft = false
 title = "После передачи на ЧГТРК \"Грозный\" ..."
 slug = "posle-peredachi-na-chgtrk-groznyi"
 author = "Муса Дунаев"
-tags = [
-	"ЧГТРК",
-	"Грозный",
-	"передача",
-]
-categories = [
-	"Мероприятия",
-	"Медиа",
-	"События",
-]
-projects = [
-	"ЧГТРК",
-]
-locations = [
-	"Грозный",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 После передачи на ЧГТРК "Грозный" ...

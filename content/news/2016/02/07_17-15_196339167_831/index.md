@@ -4,12 +4,9 @@ draft = false
 title = "Без комментарий! )"
 slug = "bez-kommentarii"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Без комментарий! )

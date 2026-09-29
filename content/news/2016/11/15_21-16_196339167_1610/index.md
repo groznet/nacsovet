@@ -4,22 +4,9 @@ draft = false
 title = "Болеем за нашу сборную..."
 slug = "boleem-za-nashu-sbornuiu"
 author = "Муса Дунаев"
-tags = [
-	"сборная",
-	"спорт",
-	"болельщики",
-	"поддержка",
-	"спортивные новости",
-	"команда",
-]
-categories = [
-	"Спорт",
-	"События",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Болеем за нашу сборную...

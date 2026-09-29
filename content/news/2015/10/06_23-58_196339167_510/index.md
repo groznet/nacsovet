@@ -4,12 +4,9 @@ draft = false
 title = "Славный архив ...)"
 slug = "slavnyi-arkhiv"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Славный архив ...)

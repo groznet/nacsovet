@@ -4,19 +4,9 @@ draft = false
 title = "Всех благ в обоих мирах!"
 slug = "vsekh-blag-v-oboikh-mirakh"
 author = "Муса Дунаев"
-tags = [
-	"благополучие",
-	"две жизни",
-	"миры",
-]
-categories = [
-	"Философия",
-	"Саморазвитие",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Всех благ в обоих мирах!

@@ -4,12 +4,9 @@ draft = false
 title = "Во истину, этот день уже история ... !!!"
 slug = "vo-istinu-etot-den-uzhe-istoriia"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Во истину, этот день уже история ... !!!

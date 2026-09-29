@@ -4,20 +4,9 @@ draft = false
 title = "ПОЗДРАВЛЯЮ НАШУ СБОРНУЮ С ПОБЕДОЙ!!! #молодцы #УРА #УРА #УРА"
 slug = "pozdravliaiu-nashu-sbornuiu-s-pobedoi-molodtsy-ura-ura-ura"
 author = "Муса Дунаев"
-tags = [
-	"победа",
-	"спорт",
-	"команда",
-	"поздравление",
-]
-categories = [
-	"Спорт",
-	"Новости",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 ПОЗДРАВЛЯЮ НАШУ СБОРНУЮ С ПОБЕДОЙ!!! #молодцы #УРА #УРА #УРА

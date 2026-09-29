@@ -4,20 +4,9 @@ draft = false
 title = "Охота и рыбалка ...)"
 slug = "okhota-i-rybalka"
 author = "Муса Дунаев"
-tags = [
-	"охота",
-	"рыбалка",
-	"природа",
-]
-categories = [
-	"Активный отдых",
-	"Спорт",
-	"Природа",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Охота и рыбалка ...)

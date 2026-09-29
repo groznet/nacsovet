@@ -4,12 +4,9 @@ draft = false
 title = "Доброе утро дамы и господа!"
 slug = "dobroe-utro-damy-i-gospoda"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Доброе утро дамы и господа!

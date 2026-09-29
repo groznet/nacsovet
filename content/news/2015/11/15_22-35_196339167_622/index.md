@@ -4,12 +4,9 @@ draft = false
 title = "Доброй ночи !!!"
 slug = "dobroi-nochi"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Доброй ночи !!!

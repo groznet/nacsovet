@@ -4,23 +4,9 @@ draft = false
 title = "Поздравляю Реал с победой в Лиге Чемпионов!!!"
 slug = "pozdravliaiu-real-s-pobedoi-v-lige-chempionov"
 author = "Муса Дунаев"
-tags = [
-	"Реал",
-	"Лига Чемпионов",
-	"футбол",
-	"победа",
-	"Real Madrid",
-]
-categories = [
-	"Спорт",
-	"Футбол",
-]
-projects = [
-	"Лига Чемпионов",
-]
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Поздравляю Реал с победой в Лиге Чемпионов!!!

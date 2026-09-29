@@ -4,20 +4,9 @@ draft = false
 title = "Очередная охота с друзьями, как всегда закончилась фотосесси"
 slug = "ocherednaia-okhota-s-druziami-kak-vsegda-zakonchilas"
 author = "Муса Дунаев"
-tags = [
-	"фотосессия",
-	"друзья",
-	"охота",
-]
-categories = [
-	"Лайфстайл",
-	"Хобби",
-	"Образ жизни",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Очередная охота с друзьями, как всегда закончилась фотосессией...)

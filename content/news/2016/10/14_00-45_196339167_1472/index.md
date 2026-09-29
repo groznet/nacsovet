@@ -4,27 +4,10 @@ draft = false
 title = "#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp"
 slug = "gprepost-reposter-notetag-albert-che95-via-gprepostapp"
 author = "Муса Дунаев"
-tags = [
-	"книга",
-	"антитеррор",
-	"антиэкстремизм",
-	"Ислам Сайдаев",
-	"антитерроризм",
-]
-categories = [
-	"Литература",
-	"Политика",
-	"Культура",
-]
-projects = []
-locations = [
-	"Национальная библиотека Чеченской Республики",
-	"Чеченская Республика",
-	"Москва",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 #GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp 
  ======> 

@@ -4,20 +4,9 @@ draft = false
 title = "Готовлюсь к охоте, день второй..."
 slug = "gotovlius-k-okhote-den-vtoroi"
 author = "Муса Дунаев"
-tags = [
-	"охота",
-	"путешествие",
-	"подготовка",
-]
-categories = [
-	"Активный отдых",
-	"Образ жизни",
-	"Хобби",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Готовлюсь к охоте, день второй...

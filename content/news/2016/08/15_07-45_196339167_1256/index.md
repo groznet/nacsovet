@@ -4,19 +4,9 @@ draft = false
 title = "После прыжка с парашютом, довольные и счастливые..."
 slug = "posle-pryzhka-s-parashiutom-dovolnye-i-schastlivye"
 author = "Муса Дунаев"
-tags = [
-	"прыжок с парашютом",
-	"эмоции",
-	"адреналин",
-]
-categories = [
-	"Активный отдых",
-	"Путешествия",
-	"Спорт",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 После прыжка с парашютом, довольные и счастливые...

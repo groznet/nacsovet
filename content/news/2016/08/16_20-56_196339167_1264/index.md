@@ -4,18 +4,9 @@ draft = false
 title = "После ужина в гостинице \"Беркат\", довольные и счастливые..."
 slug = "posle-uzhina-v-gostinitse-berkat-dovolnye-i-schastlivye"
 author = "Муса Дунаев"
-tags = [
-	"гостиница",
-	"ужин",
-	"счастье",
-]
-categories = [
-	"Культура",
-	"Жизнь",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 После ужина в гостинице "Беркат", довольные и счастливые...

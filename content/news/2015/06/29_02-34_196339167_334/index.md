@@ -4,23 +4,9 @@ draft = false
 title = "Защитник ОТЕЧЕСТВА !!! #Чечня #Кадыров #племянник #Дунаев"
 slug = "zashchitnik-otechestva-chechnia-kadyrov-plemiannik-dunaev"
 author = "Муса Дунаев"
-tags = [
-	"Чечня",
-	"Кадыров",
-	"защитник отечества",
-	"Дунаев",
-	"защитник Отечества",
-]
-categories = [
-	"Общество",
-	"Политика",
-]
-projects = []
-locations = [
-	"Чечня",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Защитник ОТЕЧЕСТВА !!! #Чечня #Кадыров #племянник #Дунаев

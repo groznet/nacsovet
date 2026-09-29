@@ -4,19 +4,9 @@ draft = false
 title = "Едут! Поужинаем на славу ... )"
 slug = "edut-pouzhinaem-na-slavu"
 author = "Муса Дунаев"
-tags = [
-	"ужин",
-	"развлечения",
-	"событие",
-]
-categories = [
-	"Образ жизни",
-	"Развлечения",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Едут! Поужинаем на славу ... )

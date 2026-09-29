@@ -4,21 +4,9 @@ draft = false
 title = "Из той же серии, за красоту ...)"
 slug = "iz-toi-zhe-serii-za-krasotu"
 author = "Муса Дунаев"
-tags = [
-	"красота",
-	"серия",
-	"статья",
-	"сериалы",
-]
-categories = [
-	"Общество",
-	"Культура",
-	"Развлечения",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Из той же серии, за красоту ...)

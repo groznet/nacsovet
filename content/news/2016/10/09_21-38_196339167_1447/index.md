@@ -4,21 +4,10 @@ draft = false
 title = "Спасибо большое друзья за поздравления, клянусь вам, я поним"
 slug = "spasibo-bolshoe-druzia-za-pozdravleniia-klianus-vam-ia-ponim"
 author = "Муса Дунаев"
-tags = [
-	"дружба",
-	"поздравления",
-	"благодарность",
-]
-categories = [
-	"Общество",
-	"Обращение",
-	"Личное",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Спасибо большое друзья за поздравления, клянусь вам, я понимаю и ценю дружбу!!!
 

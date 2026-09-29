@@ -4,20 +4,9 @@ draft = false
 title = "На форуме #онф"
 slug = "na-forume-onf"
 author = "Муса Дунаев"
-tags = [
-	"форум",
-	"мероприятие",
-]
-categories = [
-	"События",
-	"Образование",
-]
-projects = [
-	"#онф",
-]
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 На форуме #онф

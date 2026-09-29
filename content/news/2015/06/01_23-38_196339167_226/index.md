@@ -4,18 +4,9 @@ draft = false
 title = "Маленькая разборка ... )"
 slug = "malenkaia-razborka"
 author = "Муса Дунаев"
-tags = [
-	"разборка",
-	"критика",
-]
-categories = [
-	"Мнения",
-	"Общество",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Маленькая разборка ... )

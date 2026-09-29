@@ -4,22 +4,9 @@ draft = false
 title = "Разминувшись с кабаном, ну их ) ... Лучше рыбалка ..."
 slug = "razminuvshis-s-kabanom-nu-ikh-luchshe-rybalka"
 author = "Муса Дунаев"
-tags = [
-	"рыбалка",
-	"туризм",
-	"отдых",
-	"животные",
-]
-categories = [
-	"Активный отдых",
-	"Образ жизни",
-	"Спорт",
-	"Природа",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Разминувшись с кабаном, ну их ) ... Лучше рыбалка ...

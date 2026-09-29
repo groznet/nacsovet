@@ -4,12 +4,9 @@ draft = false
 title = "Долгая непонятная пауза ...)"
 slug = "dolgaia-neponiatnaia-pauza"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Долгая непонятная пауза ...)

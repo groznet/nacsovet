@@ -4,21 +4,9 @@ draft = false
 title = "Доброе утро Москва!"
 slug = "dobroe-utro-moskva"
 author = "Муса Дунаев"
-tags = [
-	"Москва",
-	"приветствие",
-]
-categories = [
-	"Местные новости",
-	"Городская жизнь",
-	"Новости",
-]
-projects = []
-locations = [
-	"Москва",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Доброе утро Москва!

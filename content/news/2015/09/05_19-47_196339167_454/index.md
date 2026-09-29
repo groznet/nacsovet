@@ -4,22 +4,9 @@ draft = false
 title = "Все фото в кучу, К. Маркс отдыхает ... )"
 slug = "vse-foto-v-kuchu-k-marks-otdykhaet"
 author = "Муса Дунаев"
-tags = [
-	"К. Маркс",
-	"история",
-	"фото",
-	"юмор",
-]
-categories = [
-	"Наука",
-	"Образование",
-	"История",
-	"Юмор",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Все фото в кучу, К. Маркс отдыхает ... )

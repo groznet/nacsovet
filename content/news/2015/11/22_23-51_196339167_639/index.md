@@ -4,12 +4,9 @@ draft = false
 title = "Примерно вот так вот ..."
 slug = "primerno-vot-tak-vot"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 Примерно вот так вот ...

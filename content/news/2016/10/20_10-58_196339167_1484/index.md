@@ -4,26 +4,10 @@ draft = false
 title = "#GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp"
 slug = "gprepost-reposter-notetag-ibragimbazaew-via-gprepostapp"
 author = "Муса Дунаев"
-tags = [
-	"Конференция",
-	"Исламская Миссия",
-	"Межконфессиональный мир",
-	"Стабильное развитие общества",
-]
-categories = [
-	"Политика",
-	"Религия",
-	"Общество",
-]
-projects = [
-	"Конференция Международная Исламская Миссия",
-]
-locations = [
-	"Пятигорск",
-	"Чеченская Республика",
-]
-+++
 
+tags = []
+categories = []
++++
 
 #GPRepost,#reposter,#notetag @ibragimbazaew via @GPRepostApp 
  ======> 

@@ -4,22 +4,9 @@ draft = false
 title = "Что такое СОУТ?"
 slug = "chto-takoe-sout"
 author = "Муса Дунаев"
-tags = [
-	"СОУТ",
-	"история",
-	"право",
-	"знания",
-	"тесты",
-	"обучение",
-]
-categories = [
-	"Наука",
-	"Образование",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Что такое СОУТ?

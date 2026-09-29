@@ -4,19 +4,9 @@ draft = false
 title = "Без названия"
 slug = "bez-nazvaniia"
 author = "Муса Дунаев"
-tags = [
-	"анализ",
-	"тексты",
-	"контент-менеджмент",
-]
-categories = [
-	"Экспертный анализ",
-	"Контент-стратегия",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 

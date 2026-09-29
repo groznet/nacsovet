@@ -4,18 +4,9 @@ draft = false
 title = "Везачу АЛЛАХА декъалла войла хьо винчу даьнца са ваша Ханпаш"
 slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-sa-vasha"
 author = "Муса Дунаев"
-tags = [
-	"Ханпаш",
-	"Везачу АЛЛАХА декъалла войла хьо винчу даьнца са ваша",
-]
-categories = [
-	"Общество",
-	"Культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Везачу АЛЛАХА декъалла войла хьо винчу даьнца са ваша Ханпаш!!!

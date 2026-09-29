@@ -4,24 +4,10 @@ draft = false
 title = "Госпожа Тан, известная телеведущая в провинции Шаньдунь."
 slug = "gospozha-tan-izvestnaia-televedushchaia-v-provintsii-shandun"
 author = "Муса Дунаев"
-tags = [
-	"телеведущая",
-	"Шаньдунь",
-	"Китай",
-]
-categories = [
-	"Интервью",
-	"Известные личности",
-	"Культура",
-	"Медиа",
-]
-projects = []
-locations = [
-	"Шаньдунь",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Госпожа Тан, известная телеведущая в провинции Шаньдунь.
 

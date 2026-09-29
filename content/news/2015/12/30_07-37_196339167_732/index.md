@@ -4,21 +4,9 @@ draft = false
 title = "Удачного дня для благих дел!!!"
 slug = "udachnogo-dnia-dlia-blagikh-del"
 author = "Муса Дунаев"
-tags = [
-	"благие дела",
-	"благотворительность",
-	"добро",
-	"помощь",
-]
-categories = [
-	"Благотворительность",
-	"Добро",
-	"Общество",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Удачного дня для благих дел!!!

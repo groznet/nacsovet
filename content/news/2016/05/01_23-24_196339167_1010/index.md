@@ -4,20 +4,9 @@ draft = false
 title = "Всех благ молодым!!! ВЕЗАЧУ АЛЛАХА декьалла дойла шу!!!"
 slug = "vsekh-blag-molodym-vezachu-allakha-dekalla-doila-shu"
 author = "Муса Дунаев"
-tags = [
-	"молодёжь",
-	"пожелания",
-	"благословение",
-	"молодым",
-]
-categories = [
-	"Общество",
-	"Социальные",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Всех благ молодым!!! ВЕЗАЧУ АЛЛАХА декьалла дойла шу!!!

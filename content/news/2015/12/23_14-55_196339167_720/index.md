@@ -4,19 +4,9 @@ draft = false
 title = "Друзья из Всекитайской Федерации молодежи..."
 slug = "druzia-iz-vsekitaiskoi-federatsii-molodezhi"
 author = "Муса Дунаев"
-tags = [
-	"Всекитайская Федерация молодежи",
-]
-categories = [
-	"Международные связи",
-	"Молодежь",
-]
-projects = [
-	"Всекитайская Федерация молодежи",
-]
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Друзья из Всекитайской Федерации молодежи...

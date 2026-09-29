@@ -4,17 +4,9 @@ draft = false
 title = "Только так !!!"
 slug = "tolko-tak"
 author = "Муса Дунаев"
-tags = [
-	"инструкция",
-	"совет",
-]
-categories = [
-	"Лайфхаки",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Только так !!!

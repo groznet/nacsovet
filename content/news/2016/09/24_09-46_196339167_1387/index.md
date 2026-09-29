@@ -4,18 +4,9 @@ draft = false
 title = "Домбай господа!"
 slug = "dombai-gospoda"
 author = "Муса Дунаев"
-tags = [
-	"Домбай",
-]
-categories = [
-	"Местные новости",
-]
-projects = []
-locations = [
-	"Домбай",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Домбай господа!

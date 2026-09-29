@@ -4,23 +4,9 @@ draft = false
 title = "#Тунис #Карфаген #Дунаев"
 slug = "tunis-karfagen-dunaev"
 author = "Муса Дунаев"
-tags = [
-	"Тунис",
-	"Карфаген",
-	"Дунаев",
-]
-categories = [
-	"История",
-	"География",
-]
-projects = []
-locations = [
-	"Тунис",
-	"Карфаген",
-	"Дунаев",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 #Тунис #Карфаген #Дунаев

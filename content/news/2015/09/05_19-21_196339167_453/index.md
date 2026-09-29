@@ -4,20 +4,9 @@ draft = false
 title = "Дорогие друзья, с Днем города вас !!!"
 slug = "dorogie-druzia-s-dnem-goroda-vas"
 author = "Муса Дунаев"
-tags = [
-	"день города",
-	"поздравление",
-	"День города",
-]
-categories = [
-	"Праздники",
-	"События",
-	"Поздравления",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Дорогие друзья, с Днем города вас !!!

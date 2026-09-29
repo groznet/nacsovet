@@ -4,22 +4,9 @@ draft = false
 title = "За чашкой чая перед отъездом брата с племянниками..."
 slug = "za-chashkoi-chaia-pered-otezdom-brata-s-plemiannikami"
 author = "Муса Дунаев"
-tags = [
-	"семья",
-	"отъезд",
-	"общение",
-	"отношения",
-	"племянники",
-]
-categories = [
-	"Личное",
-	"Семья",
-	"Личное развитие",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 За чашкой чая перед отъездом брата с племянниками...

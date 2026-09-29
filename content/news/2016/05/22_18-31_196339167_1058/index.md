@@ -4,22 +4,9 @@ draft = false
 title = "Председатель Федерации профсоюзов ЧР Хусайн Солтагереев на п"
 slug = "predsedatel-federatsii-profsoiuzov-chr-khusain-soltagereev-p"
 author = "Муса Дунаев"
-tags = [
-	"профсоюзы",
-	"ЧР",
-	"выборы",
-	"Хусайн Солтагереев",
-]
-categories = [
-	"Политика",
-	"Общество",
-]
-projects = []
-locations = [
-	"ЧР",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Председатель Федерации профсоюзов ЧР Хусайн Солтагереев на предварительном голосовании...

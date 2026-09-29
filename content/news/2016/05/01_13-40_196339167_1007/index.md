@@ -4,17 +4,9 @@ draft = false
 title = "С праздником вас друзья!!!"
 slug = "s-prazdnikom-vas-druzia"
 author = "Муса Дунаев"
-tags = [
-	"праздник",
-	"поздравление",
-]
-categories = [
-	"Поздравления",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 С праздником вас друзья!!!

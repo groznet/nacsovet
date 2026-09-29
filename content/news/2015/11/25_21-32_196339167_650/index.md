@@ -4,19 +4,9 @@ draft = false
 title = "На ваш суд, вид из окна ..."
 slug = "na-vash-sud-vid-iz-okna"
 author = "Муса Дунаев"
-tags = [
-	"вид из окна",
-	"анализ",
-	"конкурс",
-]
-categories = [
-	"Образование",
-	"Культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 На ваш суд, вид из окна ...

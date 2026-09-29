@@ -4,18 +4,9 @@ draft = false
 title = "Исключительная фотография, в чем исключительность, что по ту"
 slug = "iskliuchitelnaia-fotografiia-v-chem-iskliuchitelnost-chto-po"
 author = "Муса Дунаев"
-tags = [
-	"фотография",
-	"искусство",
-	"саморефлексия",
-]
-categories = [
-	"Фотография",
-	"Искусство",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 Исключительная фотография, в чем исключительность, что по ту сторону объектива стою скромно Я...

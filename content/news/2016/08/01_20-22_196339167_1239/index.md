@@ -4,20 +4,9 @@ draft = false
 title = "#архив #великолепнаяиталия #италия🇮🇹 #Дунаев"
 slug = "arkhiv-velikolepnaiaitaliia-italiia-dunaev"
 author = "Муса Дунаев"
-tags = [
-	"италия",
-	"путешествие",
-	"архив",
-]
-categories = [
-	"Путешествия",
-	"География",
-]
-projects = []
-locations = [
-	"италия",
-]
-+++
 
+tags = []
+categories = []
++++
 
 #архив #великолепнаяиталия #италия🇮🇹 #Дунаев

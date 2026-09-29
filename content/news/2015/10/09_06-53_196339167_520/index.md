@@ -4,19 +4,9 @@ draft = false
 title = "Всех благ!!!"
 slug = "vsekh-blag"
 author = "Муса Дунаев"
-tags = [
-	"пожелания",
-	"поздравление",
-]
-categories = [
-	"разное",
-	"Образ жизни",
-	"Личное",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Всех благ!!!

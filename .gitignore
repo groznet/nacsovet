@@ -27,3 +27,6 @@ Thumbs.db
 
 # Ignore any content images folders
 /content/**/images/
+
+# macOS AppleDouble files (created on non-APFS/external drives)
+._*

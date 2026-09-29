@@ -4,17 +4,9 @@ draft = false
 title = "Дала аьтту бойла шу !!!"
 slug = "dala-attu-boila-shu"
 author = "Муса Дунаев"
-tags = [
-	"Дала аьтту бойла шу",
-]
-categories = [
-	"Культура",
-	"Общество",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Дала аьтту бойла шу !!!

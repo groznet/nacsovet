@@ -4,23 +4,9 @@ draft = false
 title = "КЧР, Домбай, делегация Общественной палаты ЧР на форуме #пла"
 slug = "kchr-dombai-delegatsiia-obshchestvennoi-palaty-chr-na-forume"
 author = "Муса Дунаев"
-tags = [
-	"КЧР",
-	"Домбай",
-	"Общественная палата ЧР",
-	"форум",
-]
-categories = [
-	"Общество",
-	"Политика",
-]
-projects = [
-	"платформа",
-]
-locations = [
-	"Домбай",
-]
-+++
 
+tags = []
+categories = []
++++
 
 КЧР, Домбай, делегация Общественной палаты ЧР на форуме #платформа

@@ -4,21 +4,9 @@ draft = false
 title = "Школьники представили осеннюю ярмарку | Информационное агент"
 slug = "shkolniki-predstavili-osenniuiu-iarmarku-informatsionnoe"
 author = "Муса Дунаев"
-tags = [
-	"школьники",
-	"осенняя ярмарка",
-]
-categories = [
-	"Образование",
-	"Мероприятия",
-	"События",
-]
-projects = []
-locations = [
-	"Грозный",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Школьники представили осеннюю ярмарку | Информационное агентство "Грозный-Информ"

@@ -4,12 +4,9 @@ draft = false
 title = "С наилучшими пожеланиями..."
 slug = "s-nailuchshimi-pozhelaniiami"
 author = "Муса Дунаев"
+
 tags = []
 categories = []
-projects = []
-locations = []
 +++
-
-
 
 С наилучшими пожеланиями...

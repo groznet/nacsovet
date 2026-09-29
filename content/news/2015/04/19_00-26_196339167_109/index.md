@@ -4,23 +4,9 @@ draft = false
 title = "Просто Венеция!!!"
 slug = "prosto-venetsiia"
 author = "Муса Дунаев"
-tags = [
-	"Венеция",
-	"туризм",
-	"красота",
-	"путешествия",
-	"поездка",
-]
-categories = [
-	"Путешествия",
-	"Культура",
-]
-projects = []
-locations = [
-	"Венеция",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Просто Венеция!!!

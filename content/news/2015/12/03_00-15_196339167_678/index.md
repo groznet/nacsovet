@@ -4,19 +4,9 @@ draft = false
 title = "Дорвался до конфетки, попробуй отбери...) https://www.instag"
 slug = "dorvalsia-do-konfetki-poprobui-otberi-https-www-instag"
 author = "Муса Дунаев"
-tags = [
-	"контент",
-	"сети",
-	"социальные сети",
-]
-categories = [
-	"Маркетинг",
-	"Медиа",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Дорвался до конфетки, попробуй отбери...) https://www.instagram.com/p/-zdzP4H1DO/

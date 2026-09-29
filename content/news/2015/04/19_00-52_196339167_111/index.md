@@ -4,19 +4,9 @@ draft = false
 title = "А как иначе, ведь за красоту !!!"
 slug = "a-kak-inache-ved-za-krasotu"
 author = "Муса Дунаев"
-tags = [
-	"красота",
-	"стиль",
-	"образ",
-	"эстетика",
-]
-categories = [
-	"Красота и стиль",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 А как иначе, ведь за красоту !!!

@@ -4,18 +4,9 @@ draft = false
 title = "Выбор за вами..."
 slug = "vybor-za-vami"
 author = "Муса Дунаев"
-tags = [
-	"выбор",
-	"решение",
-	"ответственность",
-]
-categories = [
-	"Саморазвитие",
-	"Психология",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 Выбор за вами...

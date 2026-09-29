@@ -4,19 +4,9 @@ draft = false
 title = "В горах, да с охраной..."
 slug = "v-gorakh-da-s-okhranoi"
 author = "Муса Дунаев"
-tags = [
-	"горы",
-	"охрана",
-	"путешествия",
-]
-categories = [
-	"Путешествия",
-	"Экология",
-	"Безопасность",
-]
-projects = []
-locations = []
-+++
 
+tags = []
+categories = []
++++
 
 В горах, да с охраной...

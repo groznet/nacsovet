@@ -4,24 +4,9 @@ draft = false
 title = "Экс-президент Франции: Крым никогда не был украинским"
 slug = "eks-prezident-frantsii-krym-nikogda-ne-byl-ukrainskim"
 author = "Муса Дунаев"
-tags = [
-	"Крым",
-	"Украина",
-	"история",
-	"политика",
-]
-categories = [
-	"Геополитика",
-	"История",
-	"Политика",
-]
-projects = []
-locations = [
-	"Крым",
-	"Украина",
-]
+
+tags = []
+categories = []
 +++
-
-
 
 Экс-президент Франции: Крым никогда не был украинским

@@ -4,21 +4,9 @@ draft = false
 title = "Гимн холостяка!"
 slug = "gimn-kholostiaka"
 author = "Муса Дунаев"
-tags = [
-	"холостяк",
-	"отношения",
-	"драма",
-	"гимн",
-]
-categories = [
-	"Стиль жизни",
-	"Развлечения",
-	"Поп-культура",
-]
-projects = []
-locations = []
+
+tags = []
+categories = []
 +++
-
-
 
 Гимн холостяка!
