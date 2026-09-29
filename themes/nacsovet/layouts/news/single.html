@@ -140,8 +140,8 @@
                     <h1 class="heading-font text-3xl md:text-4xl font-extrabold text-primary leading-tight mb-4 font-serif">
                         {{ .Title }}
                     </h1>
-                    <div data-pagefind-ignore class="flex items-center gap-6 text-sm text-gray-500">
-                        <time datetime="{{ .Date.Format "2006-01-02" }}" data-pagefind-meta="date:{{ .Date.Format "02.01.2006" }}" class="flex items-center">
+                    <div data-pagefind-ignore data-pagefind-filter="month:{{ .Date.Format "2006-01" }}" class="flex items-center gap-6 text-sm text-gray-500">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}" data-pagefind-meta="date:{{ .Date.Format "02.01.2006" }}" data-pagefind-filter="day:{{ .Date.Format "2006-01-02" }}" data-pagefind-sort="date:{{ .Date.Format "2006-01-02T15:04" }}" class="flex items-center">
                             <i class="far fa-calendar-alt mr-2" aria-hidden="true"></i>{{ .Date.Format "02.01.2006" }}
                         </time>
                         <span class="flex items-center">
