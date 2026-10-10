@@ -114,24 +114,24 @@
                     {{ $media := partial "post-media.html" . }}
                     <article class="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex flex-col sm:flex-row">
 
-                    <div class="sm:w-48 md:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden bg-gray-100 relative">
-                        {{ $featuredImg := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
+                        <div class="w-full sm:w-48 md:w-56 flex-shrink-0 aspect-[16/9] sm:aspect-[4/3] overflow-hidden bg-gray-100 relative rounded-lg">
+                            {{ $featuredImg := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
-                        <img
-                            src="{{ $featuredImg }}"
-                            alt="{{ .Title }}"
-                            class="w-full h-full object-cover hover:scale-105 transition-transform duration-400"
-                            loading="lazy"
-                        />
+                            <img
+                                src="{{ $featuredImg }}"
+                                alt="{{ .Title }}"
+                                class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-300"
+                                loading="lazy"
+                            />
 
-                        {{ if $media.videos }}
-                        <span class="absolute inset-0 flex items-center justify-center pointer-events-none">
-                            <span class="w-10 h-10 rounded-full bg-black/50 flex items-center justify-center">
-                                <i class="fas fa-play text-white text-sm ml-0.5"></i>
+                            {{ if $media.videos }}
+                            <span class="absolute inset-0 flex items-center justify-center pointer-events-none">
+                                <span class="w-10 h-10 rounded-full bg-black/50 flex items-center justify-center backdrop-blur-xs">
+                                    <i class="fas fa-play text-white text-sm ml-0.5"></i>
+                                </span>
                             </span>
-                        </span>
-                        {{ end }}
-                    </div>
+                            {{ end }}
+                        </div>
 
                         <div class="flex-1 p-4 md:p-5 flex flex-col min-w-0">
                             <div class="flex items-center gap-2 flex-wrap mb-1.5">
