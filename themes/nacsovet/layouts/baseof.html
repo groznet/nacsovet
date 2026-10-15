@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <meta name="description" content="NacSovet — Межрегиональная Ассоциация «Национальный совет молодежных и детских объединений». Новости, интерактивные игры, мероприятия для молодежи и детских организаций в России.">
-    <meta name="keywords" content="национальный совет молодежи, молодежные объединения, детские организации, мероприятия для молодежи, новости молодежных проектов, Чеченская Республика">
-    <meta name="author" content="NacSovet">
-    <title>НацСовет | Национальный совет молодежных и детских объединений</title>
+    <meta name="description" content="Интеллектуальный Кавказ — региональное отделение Всероссийской ассоциации общественных объединений «Интеллектуальная Россия» в Чеченской Республике. Новости, проекты и мероприятия.">
+    <meta name="keywords" content="Интеллектуальный Кавказ, Интеллектуальная Россия, Чеченская Республика, интеллектуальные игры, ЧГК, образовательные проекты, новости">
+    <meta name="author" content="Интеллектуальный Кавказ">
+    <title>Интеллектуальный Кавказ | «Интеллектуальная Россия» в Чеченской Республике</title>
     <!-- Google Fonts & Font Awesome -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- TailwindCSS v3 + base utilities (default theme) -->
     <script src="/assets/js/tailwind.js?plugins=typography"></script>
@@ -19,8 +19,9 @@
 <body class="antialiased">
     <div class="content-wrapper">
         <!-- HEADER: Loaded dynamically from /components/header.html -->
-        <header class="bg-white/80 backdrop-blur-sm shadow-sm sticky top-0 z-50 border-b border-gray-200/60">
+        <header class="bg-paper sticky top-0 z-50">
             {{ partial "header.html" . }}
+            <svg class="ridge ridge-header" viewBox="0 0 1440 16" width="100%" height="14" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 16 L0 9 L40 3 L80 11 L130 1 L175 10 L230 4 L285 12 L340 2 L395 9 L450 3 L510 11 L565 1 L620 10 L680 4 L735 12 L790 2 L850 9 L905 3 L960 11 L1020 1 L1075 10 L1135 4 L1190 12 L1245 2 L1300 9 L1360 3 L1440 11 L1440 16 Z" fill="#C4866D"/></svg>
         </header>
 
         <!-- MAIN CONTENT -->
@@ -29,8 +30,11 @@
         </main>
 
         <!-- FOOTER: Loaded dynamically from /components/footer.html -->
-        <footer class="bg-primary text-white/90 pt-12 pb-6 mt-8 shadow-2xl">
+        <footer class="mt-10">
+            <svg class="ridge ridge-footer" viewBox="0 0 1440 16" width="100%" height="14" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 16 L0 9 L40 3 L80 11 L130 1 L175 10 L230 4 L285 12 L340 2 L395 9 L450 3 L510 11 L565 1 L620 10 L680 4 L735 12 L790 2 L850 9 L905 3 L960 11 L1020 1 L1075 10 L1135 4 L1190 12 L1245 2 L1300 9 L1360 3 L1440 11 L1440 16 Z" fill="#C4866D"/></svg>
+            <div class="pt-8 pb-4">
             {{ partial "footer.html" . }}
+            </div>
         </footer>
     </div>
 

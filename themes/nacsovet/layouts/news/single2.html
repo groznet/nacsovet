@@ -234,7 +234,7 @@
                                 {{ else }}
                                     {{ $imgUrl = printf "%s/%simages/%s" $cdn $dir . }}
                                 {{ end }}
-                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md">
                                     <a href="{{ $imgUrl }}" rel="noopener">
                                         <img src="{{ $imgUrl }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
@@ -251,7 +251,7 @@
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $allImages }}
                                 {{ if ne .RelPermalink $mainImgSrc }}
-                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md">
                                     <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
                                         <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>

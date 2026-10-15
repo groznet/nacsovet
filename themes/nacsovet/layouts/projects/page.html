@@ -2,11 +2,11 @@
 
 <style>
     :root {
-        --color-primary: #0D3B66;
-        --color-secondary: #FAA916;
-        --color-accent: #F4D35E;
-        --color-bg-paper: #FDF9F2;
-        --color-text-dark: #111827;
+        --color-primary: #2B2620;
+        --color-secondary: #8B7355;
+        --color-accent: #C4866D;
+        --color-bg-paper: #F5F3F0;
+        --color-text-dark: #2B2620;
         --color-muted: #6B7280;
         --font-heading: 'Inter', 'Montserrat', system-ui, sans-serif;
         --font-body: 'Roboto', system-ui, sans-serif;
@@ -41,14 +41,9 @@
         z-index: 2;
     }
 
-    .bg-primary { background-color: var(--color-primary); }
-    .bg-secondary { background-color: var(--color-secondary); }
-    .bg-accent { background-color: var(--color-accent); }
     .text-primary { color: var(--color-primary); }
     .text-secondary { color: var(--color-secondary); }
     .text-accent { color: var(--color-accent); }
-    .border-primary { border-color: var(--color-primary); }
-    .border-secondary { border-color: var(--color-secondary); }
 
     .btn-primary {
         background-color: var(--color-primary);
@@ -57,13 +52,11 @@
         font-weight: 600;
     }
     .btn-primary:hover {
-        background-color: #0a2e52;
+        background-color: #C4866D;
         transform: translateY(-1px);
-        box-shadow: 0 8px 16px -6px rgba(13, 59, 102, 0.2);
     }
 
     .btn-outline-secondary {
-        border: 1.5px solid var(--color-secondary);
         color: var(--color-secondary);
         background: transparent;
         transition: 0.2s;
@@ -82,9 +75,8 @@
         transition: all 0.2s ease;
     }
     .btn-secondary-solid:hover {
-        background-color: #e09c14;
+        background-color: #1d4ed8;
         transform: translateY(-2px);
-        box-shadow: 0 8px 16px -6px rgba(250, 169, 22, 0.3);
     }
 
     .card-hover {
@@ -92,7 +84,6 @@
     }
     .card-hover:hover {
         transform: translateY(-6px);
-        box-shadow: 0 20px 25px -12px rgba(0, 0, 0, 0.1);
     }
 
     h1, h2, h3, h4, .heading-font {
@@ -113,7 +104,6 @@
         width: 60px;
         height: 3px;
         background-color: var(--color-secondary);
-        border-radius: 3px;
     }
 
     .section-title-center:after {
@@ -125,20 +115,15 @@
     .project-card {
         transition: all 0.3s ease;
         background: white;
-        border-radius: 1.25rem;
         overflow: hidden;
-        border: 1px solid rgba(0,0,0,0.04);
-        box-shadow: 0 4px 12px rgba(0,0,0,0.02);
     }
     .project-card:hover {
         transform: translateY(-6px);
-        box-shadow: 0 20px 32px -8px rgba(13, 59, 102, 0.1);
-        border-color: rgba(250, 169, 22, 0.15);
     }
     .project-image {
         height: 180px;
         overflow: hidden;
-        background: #f3f4f6;
+        background: none;
         position: relative;
     }
     .project-image img {
@@ -159,7 +144,6 @@
         text-transform: uppercase;
         letter-spacing: 0.5px;
         padding: 0.2rem 0.8rem;
-        border-radius: 20px;
         background: var(--color-secondary);
         color: #1e1e2f;
     }
@@ -205,7 +189,6 @@
     .project-body .project-footer {
         margin-top: 0.75rem;
         padding-top: 0.75rem;
-        border-top: 1px solid rgba(0,0,0,0.04);
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -233,7 +216,7 @@
 <section class="relative overflow-hidden pt-12 pb-16 md:pt-20 md:pb-24">
     <div class="container mx-auto px-5 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
-            <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
+            <span class="inline-block text-primary text-sm font-semibold px-4 py-1.5 mb-5">
                 <i class="fas fa-rocket mr-1"></i> Наши инициативы
             </span>
             <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
@@ -271,10 +254,10 @@
 <!-- ===== CTA: Join us ===== -->
 <section class="py-12">
     <div class="container mx-auto px-5 lg:px-8 text-center">
-        <div class="max-w-3xl mx-auto bg-gradient-to-r from-primary/5 to-secondary/10 rounded-3xl p-6 md:p-10 border border-gray-200/50">
-            <h3 class="heading-font text-2xl md:text-3xl font-bold text-primary">Хотите стать частью НацСовета?</h3>
+        <div class="max-w-3xl mx-auto p-6 md:p-10">
+            <h3 class="heading-font text-2xl md:text-3xl font-bold text-primary">Хотите стать частью «Интеллектуального Кавказа»?</h3>
             <p class="text-gray-700 mt-2">Присоединяйтесь к ассоциации или предложите совместный проект.</p>
-            <a href="/about#team" class="btn-secondary-solid inline-flex items-center px-6 py-2.5 rounded-full mt-4 shadow">
+            <a href="/about#team" class="btn-secondary-solid inline-flex items-center px-6 py-2.5 mt-4">
                 <i class="fas fa-handshake mr-2"></i>Узнать о членстве
             </a>
         </div>
