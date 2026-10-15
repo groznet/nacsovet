@@ -5,7 +5,7 @@
 
         {{ $allNews := where site.RegularPages "Section" "news" }}
         {{ $featured := first 1 $allNews }}
-        {{ $secondary := (after 1 $allNews) | first 3 }}
+        {{ $secondary := (after 1 $allNews) | first 4 }}
 
         <div class="flex items-center justify-between mb-8 md:mb-10">
             <h2 class="heading-font text-2xl md:text-3xl lg:text-4xl font-bold text-primary">
@@ -28,11 +28,14 @@
 
                     <div class="relative overflow-hidden bg-gray-100">
                         {{ $featuredImgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
+                        {{ $focalY := .Params.focalY | default 30 }}
+                        {{ $focalX := .Params.focalX | default 50 }}
 
                         <img
                             src="{{ $featuredImgSrc }}"
                             alt="{{ .Title }}"
-                            class="w-full h-56 sm:h-64 md:h-72 lg:h-80 object-cover group-hover:scale-105 transition-transform duration-500"
+                            class="w-full h-72 sm:h-80 md:h-96 lg:h-[28rem] object-cover group-hover:scale-105 transition-transform duration-500"
+                            style="object-position: {{ $focalX }}% {{ $focalY }}%;"
                             loading="lazy"
                         />
 
@@ -78,11 +81,14 @@
                 <article class="group bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex items-stretch">
                     <div class="relative flex-shrink-0 w-28 sm:w-32 h-28 sm:h-32 overflow-hidden bg-gray-100">
                         {{ $imgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
+                        {{ $focalY := .Params.focalY | default 25 }}
+                        {{ $focalX := .Params.focalX | default 50 }}
 
                         <img
                             src="{{ $imgSrc }}"
                             alt="{{ .Title }}"
                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-400"
+                            style="object-position: {{ $focalX }}% {{ $focalY }}%;"
                             loading="lazy"
                         />
 

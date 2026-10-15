@@ -1,0 +1,13 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $class := .Get "class" | default "w-full h-full object-cover" -}}
+{{- $focalX := .Get "focalX" | default "50" -}}
+{{- $focalY := .Get "focalY" | default "35" -}}
+
+<img
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    class="{{ $class }}"
+    style="object-position: {{ $focalX }}% {{ $focalY }}%;"
+    loading="lazy"
+/>
