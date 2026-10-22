@@ -5,8 +5,8 @@ title = "С чувством выполненного долга, возвращ
 slug = "s-chuvstvom-vypolnennogo-dolga-vozvrashchaemsia-domoi-moskva"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Грозный", "Москва"]
+categories = ["Заметки"]
 +++
 
 С чувством выполненного долга, возвращаемся домой... #москвагрозный✈️🛫 #общественнаяпалатачр

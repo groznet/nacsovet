@@ -6,7 +6,7 @@ slug = "rossiia-rumyniia-40-ia-minuta-k-sozhaleniiu-poka-po-nuliam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Россия-Румыния, 40-я минута,  к сожалению пока по нулям...

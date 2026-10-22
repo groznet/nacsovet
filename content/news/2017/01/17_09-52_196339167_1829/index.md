@@ -6,7 +6,7 @@ slug = "parizh-aeroplrtorli-frantsiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #париж #аэроплрторли #франция #

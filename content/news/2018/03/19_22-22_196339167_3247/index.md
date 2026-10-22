@@ -6,7 +6,7 @@ slug = "guliaia-po-krasnoi-ploshchadi-i-vstretit-druga-ne-chudo-li"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Гуляя по красной площади и встретить друга, не чудо ли это...

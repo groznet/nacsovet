@@ -5,8 +5,8 @@ title = "Да пребудет с вами сила интеллекта!!!Ша�
 slug = "da-prebudet-s-vami-sila-intellekta-shalinskii-raion-khaarkh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Хаархьама"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Да пребудет с вами сила интеллекта!!!Шалинский район… «ХААРХЬАМ», господа интеллектуалы, школьная лига…

@@ -6,7 +6,7 @@ slug = "dumaiu-prokliatoe-bogom-mesto"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Думаю проклятое Богом место.....

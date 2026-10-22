@@ -6,7 +6,7 @@ slug = "italiia-milan-tsentr-abdurrokhim-vse-po-vole-allakha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #италия🇮🇹 #милан #центр #абдуррохьим Все по воле АЛЛАХА!!!!

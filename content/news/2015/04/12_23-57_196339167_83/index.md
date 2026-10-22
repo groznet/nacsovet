@@ -6,7 +6,7 @@ slug = "vot-takim-ia-uvidel-katar"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вот таким я увидел Катар ...

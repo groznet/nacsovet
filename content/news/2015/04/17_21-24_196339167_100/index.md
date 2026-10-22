@@ -5,8 +5,8 @@ title = "Родовое село ХАРОЧОЙ !!! #Чечня #Харочой 
 slug = "rodovoe-selo-kharochoi-chechnia-kharochoi-dunaev-brat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Родовое село ХАРОЧОЙ !!! #Чечня #Харочой #Дунаев #Брат

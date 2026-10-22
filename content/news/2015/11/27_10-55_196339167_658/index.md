@@ -6,7 +6,7 @@ slug = "prosto-nuzhno-byt-chelovekom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ПРОСТО НУЖНО БЫТЬ ЧЕЛОВЕКОМ!!!

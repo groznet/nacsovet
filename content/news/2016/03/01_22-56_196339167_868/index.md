@@ -6,7 +6,7 @@ slug = "khoroshego-cheloveka-s-iubileem-vezachu-allakha-dekalla-voil"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 Хорошего ЧЕЛОВЕКА  с юбилеем !!! Везачу АЛЛАХА декъалла войла хьо винчу даьнца!!!

@@ -5,8 +5,8 @@ title = "Наш ПРЕЗИДЕНТ !!! #россия🇷🇺 #россиявпе
 slug = "nash-prezident-rossiia-rossiiavpered-roofitseryrossii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России"]
+categories = ["Патриотизм и память"]
 +++
 
 Наш ПРЕЗИДЕНТ !!! #россия🇷🇺 #россиявперед🇷🇺 #роофицерыроссиивчр🇷🇺 #президентрф🇷🇺 #главнокомандующийрф🇷🇺 #владимирвладимировичпутин🇷🇺 @nash_prezident_putin @youthchr_nacsovet @muzaevsaidmagomed @intellektualny_kavkaz @dunaevmusa #вединственашасила

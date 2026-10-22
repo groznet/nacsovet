@@ -6,7 +6,7 @@ slug = "s-dnem-rozhdeniia-vsegda-ostavatsia-v-stroiu-molodykh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С днем рождения! Всегда оставаться в строю молодых!

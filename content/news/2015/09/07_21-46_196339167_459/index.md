@@ -6,7 +6,7 @@ slug = "plokh-tot-roditel-kto-ne-uchastvuet-v-vospitanii-syna"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Плох тот родитель, кто не участвует в воспитании сына ...

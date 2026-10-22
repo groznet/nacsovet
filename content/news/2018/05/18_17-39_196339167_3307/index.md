@@ -6,7 +6,7 @@ slug = "u-mastera-sporta-po-velosipednym-delam-u-khoziaina"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 У мастера спорта по велосипедным делам, у хозяина веломагазина Мацагова Джабраила, на консультации... Добро пожаловать в наш Мир!!! velo

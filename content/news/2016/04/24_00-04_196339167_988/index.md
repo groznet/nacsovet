@@ -6,7 +6,7 @@ slug = "spasibo-detkam-za-vecher"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Спасибо деткам за вечер!!!

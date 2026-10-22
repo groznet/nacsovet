@@ -5,8 +5,8 @@ title = "Всероссийская премия «ГОРДОСТЬ НАЦИИ"
 slug = "vserossiiskaia-premiia-gordost-natsii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Я и этот мир"]
+categories = ["Заметки"]
 +++
 
 Всероссийская премия «ГОРДОСТЬ НАЦИИ

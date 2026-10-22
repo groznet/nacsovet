@@ -6,7 +6,7 @@ slug = "dobroe-utro-damy-i-gospoda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро дамы и господа!

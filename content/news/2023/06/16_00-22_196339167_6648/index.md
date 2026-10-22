@@ -6,7 +6,7 @@ slug = "vserossiiskaia-aktsiia-spasibo-uchiteliu-nizkii-vam-poklon"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Всероссийская акция «СПАСИБО УЧИТЕЛЮ», низкий вам поклон, дорогие наши УЧИТЕЛЯ…!!! 

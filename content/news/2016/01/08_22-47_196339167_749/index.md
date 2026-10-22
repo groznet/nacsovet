@@ -6,7 +6,7 @@ slug = "my-zhe-ne-takie-eto-zhe-ne-pro-nas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мы же не такие, это же не про нас...

@@ -5,8 +5,8 @@ title = "Племяннику подарок понравился...) #Бель�
 slug = "plemianniku-podarok-ponravilsia-belgiia-briussel-namiu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Племяннику подарок понравился...) #Бельгия🇧🇪 #Брюссель #Намюр #братан #маленькийпринцаслан

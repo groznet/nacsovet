@@ -5,8 +5,8 @@ title = "#мечеть🌙 #аэропорт #грозный #красотада
 slug = "mechet-aeroport-groznyi-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 #мечеть🌙 #аэропорт #грозный #красотадаитолько

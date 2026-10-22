@@ -5,8 +5,8 @@ title = "После передачи на ЧГТРК \"Грозный\" ..."
 slug = "posle-peredachi-na-chgtrk-groznyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 После передачи на ЧГТРК "Грозный" ...

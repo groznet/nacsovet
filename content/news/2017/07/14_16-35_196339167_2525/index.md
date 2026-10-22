@@ -6,7 +6,7 @@ slug = "kchr-flrum-arkhyz2017-onishchenko-gennadii-grigorevich"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #КЧР #флрум #архыз2017 Онищенко Геннадий Григорьевич!!!

@@ -5,8 +5,8 @@ title = "Межокружной семинар поисковых формиро
 slug = "mezhokruzhnoi-seminar-poiskovykh-formirovanii-skfo-i-iufo-g"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Грозный", "Северный Кавказ"]
+categories = ["Заметки"]
 +++
 
 Межокружной семинар поисковых формирований СКФО и ЮФО г. Грозный. #чгпу @cgpu_official @ibaykhanov #миннацчр @minnac_95 @djambox #поисковоедвижениероссии @isa_sardalov #маоонациональныйсовет @youthchr_nacsovet

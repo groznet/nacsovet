@@ -6,7 +6,7 @@ slug = "s-kollegami-stroiteliami-shashlykmashlyk-stroiteli-kolleg"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С коллегами-строителями... #шашлыкмашлык🍢 #строители #коллеги #друзья #отдых

@@ -5,8 +5,8 @@ title = "На счёт раз ... ) #Чечня #Грозный #спорт #п�
 slug = "na-schet-raz-chechnia-groznyi-sport-priz-konfetka-du"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Спорт"]
 +++
 
 На счёт раз ... ) #Чечня #Грозный #спорт #приз #конфетка #Дунанв

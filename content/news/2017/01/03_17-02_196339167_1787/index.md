@@ -6,7 +6,7 @@ slug = "proezzhaia-mimo-rodovogo-kladbishcha-zaglianul-k-roditeliam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Проезжая мимо родового кладбища заглянул к родителям... Если бы мы готовились к смерти, Мир был бы иным... #охотанеохота #велопробежка🚲 #спорт #драйв #

@@ -5,8 +5,8 @@ title = "Аргунский мечеть \"Сердце матери\" !!!"
 slug = "argunskii-mechet-serdtse-materi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 Аргунский мечеть "Сердце матери" !!!

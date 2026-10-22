@@ -5,8 +5,8 @@ title = "#намюр #виднагородсверху #бельгия🇧🇪 #
 slug = "namiur-vidnagorodsverkhu-belgiia-abdurrokhim"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #намюр #виднагородсверху #бельгия🇧🇪 #абдуррохьим

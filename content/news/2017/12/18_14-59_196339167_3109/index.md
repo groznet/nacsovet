@@ -6,7 +6,7 @@ slug = "vyzovpriniat-ot-mila-berdnik"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #вызовпринят от mila_berdnik

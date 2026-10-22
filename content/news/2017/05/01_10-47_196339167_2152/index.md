@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-vsekh-blag-ot-allakha-1maidenedinstva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 С праздником вас!!! Всех благ от АЛЛАХА!!! #1майденьединстванарода #1май #1мвй2017!!! #праздник #

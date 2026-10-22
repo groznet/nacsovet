@@ -6,7 +6,7 @@ slug = "dieticheskaiaeda-frantsiia-rodinanapoleona-montereaufaulty"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #диетическаяеда #Франция🇫🇷 #РодинаНаполеона #montereaufaultyonne #чеченцыевропы #прощайдиета #спортотдыхает

@@ -6,7 +6,7 @@ slug = "astrakhanskaia-rybalka-rossiia-astrakhan-druzia-otdykh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Астраханская рыбалка ... #Россия #Астрахань #друзья #отдых #Хататаев #Капланов #Хаджимурадов #Дунаев

@@ -5,8 +5,8 @@ title = "Ассаламу 1алейкум! Доброй трудовой нед�
 slug = "assalamu-1aleikum-dobroi-trudovoi-nedeli-druzia-dunaevmu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 Ассаламу 1алейкум! Доброй трудовой недели, друзья! @dunaevmusa @youthchr_nacsovet #маоонациональныйсовет #маоонацсовет #нацсоветчр

@@ -6,7 +6,7 @@ slug = "ostalos-dva-chasa-do-vyleta-ustalyi-no-dovolnyi-aeropo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Осталось два часа до вылета, усталый но довольный... #аэропортминводы #Стамбул #Париж #Брюссель #Люксембург

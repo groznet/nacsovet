@@ -5,8 +5,8 @@ title = "Дорогая ЮЛЯ @yuliavasiljeva !!!"
 slug = "dorogaia-iulia-yuliavasiljeva"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Москва", "Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Дорогая ЮЛЯ @yuliavasiljeva !!!

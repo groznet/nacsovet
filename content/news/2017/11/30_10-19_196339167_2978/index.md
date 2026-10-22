@@ -5,8 +5,8 @@ title = "Конкурс \"Лучшая Школа ЧР\", выступает #м
 slug = "konkurs-luchshaia-shkola-chr-vystupaet-mbousosh35"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Образование"]
 +++
 
 Конкурс "Лучшая Школа ЧР", выступает #мбоусош35

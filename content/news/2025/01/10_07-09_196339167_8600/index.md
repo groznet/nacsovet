@@ -5,8 +5,8 @@ title = "Первый рабочий день, мы на росту)) СОШ 7 �
 slug = "pervyi-rabochii-den-my-na-rostu-sosh-7-g-groznogo-proekt"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лидер чтения", "Грозный"]
+categories = ["Заметки"]
 +++
 
 Первый рабочий день, мы на росту)) СОШ 7 г. Грозного, проект «Лидер чтения г. Грозный»

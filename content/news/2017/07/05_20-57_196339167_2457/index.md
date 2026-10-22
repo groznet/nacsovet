@@ -5,8 +5,8 @@ title = "#кчр #домбай2017 #мастеркласс #ибрагимбаз
 slug = "kchr-dombai2017-masterklass-ibragimbazaev-proektplatform"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев", "Домбай"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #кчр #домбай2017 #мастеркласс #ибрагимбазаев #ПРОЕКТПЛАТФОРМА2017 #ГИМНРФ

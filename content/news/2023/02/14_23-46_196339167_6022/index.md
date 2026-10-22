@@ -5,8 +5,8 @@ title = "ВКС ИНТЕЛЛЕКТА ТЕЛЛЕКТУАЛЬНОЙ РОССИ, С
 slug = "vks-intellekta-tellektualnoi-rossi-spasibo-vsem-budem-rab"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальная Россия"]
+categories = ["Интеллектуальные игры"]
 +++
 
 ВКС ИНТЕЛЛЕКТА ТЕЛЛЕКТУАЛЬНОЙ РОССИ, СПАСИБО ВСЕМ. БУДЕМ РАБОТАТЬ!!! 

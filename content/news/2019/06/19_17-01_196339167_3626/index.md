@@ -6,7 +6,7 @@ slug = "a-gde-vashi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 А где ваши ...? ))

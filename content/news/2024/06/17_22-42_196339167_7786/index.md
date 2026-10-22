@@ -5,8 +5,8 @@ title = "Хасан Мусаев возглавил Центр межнацио�
 slug = "khasan-musaev-vozglavil-tsentr-mezhnatsionalnogo-edinstva"
 author = "ГРАЖДАНСКИЙ КОМИТЕТ РОССИИ (ГКР)"
 
-tags = []
-categories = []
+tags = ["Гражданский комитет России"]
+categories = ["Общественная жизнь"]
 +++
 
 Хасан Мусаев возглавил Центр межнационального единства народов России 

@@ -6,7 +6,7 @@ slug = "kbr-sanatorii-chaika"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 КБР, санаторий "Чайка"...

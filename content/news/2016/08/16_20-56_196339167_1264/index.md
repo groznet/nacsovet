@@ -6,7 +6,7 @@ slug = "posle-uzhina-v-gostinitse-berkat-dovolnye-i-schastlivye"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 После ужина в гостинице "Беркат", довольные и счастливые...

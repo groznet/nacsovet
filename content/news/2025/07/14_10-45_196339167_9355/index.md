@@ -6,7 +6,7 @@ slug = "abkhaziia-sukhum-gagry-putsunda-alakhadzy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Абхазия #Сухум #Гагры #Пуцунда #Алахадзы

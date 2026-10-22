@@ -6,7 +6,7 @@ slug = "kofe-s-vidom-veduchi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Кофе с видом #ведучи

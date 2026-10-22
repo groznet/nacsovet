@@ -5,8 +5,8 @@ title = "Ещё таких пару роликов, начну собирать 
 slug = "eshche-takikh-paru-rolikov-nachnu-sobirat-sumku-v-dorogu-b"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Ещё таких пару роликов, начну собирать сумку в дорогу...) #брат #бельгия🇧🇪 #

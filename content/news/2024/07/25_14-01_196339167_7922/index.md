@@ -5,8 +5,8 @@ title = "Международная выставка от Турецкого п�
 slug = "mezhdunarodnaia-vystavka-ot-turetskogo-proizvoditelia-od"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Выставка", "Дети"]
+categories = ["Молодёжь", "Культура и искусство"]
 +++
 
 Международная выставка от Турецкого производителя детской одежды «Bebus». Спасибо за приглашение!

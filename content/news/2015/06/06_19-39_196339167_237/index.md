@@ -6,7 +6,7 @@ slug = "tunis-karfagen-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Тунис #Карфаген #Дунаев

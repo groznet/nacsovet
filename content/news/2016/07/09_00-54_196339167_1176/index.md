@@ -5,8 +5,8 @@ title = "Поздравляю Францию с выходом в финал... 
 slug = "pozdravliaiu-frantsiiu-s-vykhodom-v-final-kak-vy-dogadalis-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю Францию с выходом в финал... Как вы догадались в середине который Гризман...

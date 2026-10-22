@@ -6,7 +6,7 @@ slug = "iskliuchitelnaia-fotografiia-v-chem-iskliuchitelnost-chto-po"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Исключительная фотография, в чем исключительность, что по ту сторону объектива стою скромно Я...

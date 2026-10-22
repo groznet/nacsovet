@@ -6,7 +6,7 @@ slug = "gimn-kholostiaka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Гимн холостяка!

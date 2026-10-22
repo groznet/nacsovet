@@ -5,8 +5,8 @@ title = "Пришёл заказ, видимо ожидается легкий �
 slug = "prishel-zakaz-vidimo-ozhidaetsia-legkii-uzhin-belgiia-briu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Пришёл заказ, видимо ожидается легкий ужин...  #Бельгия #Брюссель #Намюр #братан #

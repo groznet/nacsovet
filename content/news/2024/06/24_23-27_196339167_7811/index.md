@@ -5,8 +5,8 @@ title = "🇷🇺🇰🇵Доброе рукопожатие с Чрезвыча
 slug = "dobroe-rukopozhatie-s-chrezvychainym-i-polnomochnym-poslom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Гражданский комитет России", "Москва"]
+categories = ["Общественная жизнь"]
 +++
 
 🇷🇺🇰🇵Доброе рукопожатие с Чрезвычайным и Полномочным Послом #КНДР Син Хон Чхолом

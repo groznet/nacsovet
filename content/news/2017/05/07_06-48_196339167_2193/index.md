@@ -5,8 +5,8 @@ title = "Ставай страна огромная на велопробег...
 slug = "stavai-strana-ogromnaia-na-veloprobeg-dobroeutrostrana-s"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Ставай страна огромная на велопробег... #доброеутространа☀ спорт #активныхвыходныхдрузья #толькотак

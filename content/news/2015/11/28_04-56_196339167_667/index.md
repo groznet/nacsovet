@@ -5,8 +5,8 @@ title = "Общественная палата Российской Федера
 slug = "obshchestvennaia-palata-rossiiskoi-federatsii-vystavka-rabot"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Выставка"]
+categories = ["Общественная жизнь", "Культура и искусство"]
 +++
 
 Общественная палата Российской Федерации, выставка работ Дагестанских мастеров...

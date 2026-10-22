@@ -6,7 +6,7 @@ slug = "gprepost-reposter-notetag-alihan-selmurzaev-via-gprepos"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #GPRepost,#reposter,#notetag @alihan_selmurzaev via @GPRepostApp 

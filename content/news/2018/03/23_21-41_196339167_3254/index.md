@@ -5,8 +5,8 @@ title = "В день принятия Конституции ЧР, 23 марта
 slug = "v-den-priniatiia-konstitutsii-chr-23-marta-s-professionalom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 В день принятия Конституции ЧР, 23 марта, с профессионалом БОЛЬШОЙ БУКВЫ АРЬБИ ХАРАЧОЕВСКИМ...

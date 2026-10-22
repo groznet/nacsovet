@@ -6,7 +6,7 @@ slug = "ne-obiazatelno-na-more-esli-bassein-na-kryshe-italiia-ri"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Не обязательно на море, если бассейн на крыше... #италия #римини #красотадаитолько #

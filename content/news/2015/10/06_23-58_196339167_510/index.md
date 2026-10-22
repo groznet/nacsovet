@@ -6,7 +6,7 @@ slug = "slavnyi-arkhiv"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Славный архив ...)

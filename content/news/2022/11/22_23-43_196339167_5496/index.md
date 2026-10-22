@@ -5,8 +5,8 @@ title = "#миннацинформчр #круглыйстол #100летобр�
 slug = "minnatsinformchr-kruglyistol-100letobrazovaniiachr-minsportm"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Образование", "Спорт"]
 +++
 
 #миннацинформчр #круглыйстол #100летобразованиячр #минспортмолчр #маоонациональныйсовет

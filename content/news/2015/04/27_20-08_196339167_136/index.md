@@ -5,8 +5,8 @@ title = "#Чечня #Абрек #Герой"
 slug = "chechnia-abrek-geroi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Патриотизм и память"]
 +++
 
 #Чечня #Абрек #Герой

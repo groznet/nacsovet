@@ -5,8 +5,8 @@ title = "Приглашаем вас на женскую интеллектуа�
 slug = "priglashaem-vas-na-zhenskuiu-intellektualnuiu-viktorinu-lady"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Приглашаем вас на женскую интеллектуальную викторину "Lady-квиз"!  

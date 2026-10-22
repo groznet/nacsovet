@@ -6,7 +6,7 @@ slug = "ocherednaia-sportivnaia-okhota-s-druziami"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Очередная спортивная охота с друзьями...

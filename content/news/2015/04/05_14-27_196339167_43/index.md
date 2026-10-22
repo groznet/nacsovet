@@ -5,8 +5,8 @@ title = "В предверии  совещании в Доме профсоюз�
 slug = "v-predverii-soveshchanii-v-dome-profsoiuzov-domprofsoiuzov-d"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы"]
+categories = ["Общественная жизнь"]
 +++
 
 В предверии  совещании в Доме профсоюзов... #Домпрофсоюзов#Дунаев#Базаев#Муцаев#Общетсвеннаяпалата#

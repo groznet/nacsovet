@@ -5,8 +5,8 @@ title = "#архив #КубокРСМ #турнир #2014 #Байсагуров
 slug = "arkhiv-kubokrsm-turnir-2014-baisagurov-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Кубок", "Турнир"]
+categories = ["Заметки"]
 +++
 
 #архив #КубокРСМ #турнир #2014 #Байсагуров #Дунаев

@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #старыйтрамвайчик #племян
 slug = "belgiia-staryitramvaichik-plemianniki-groty-volshebnyivi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #старыйтрамвайчик #племянники #гроты #волшебныйвид #

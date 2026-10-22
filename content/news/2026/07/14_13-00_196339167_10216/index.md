@@ -5,8 +5,8 @@ title = "#ИГРА.ЗНАНИЕ #ЧЕМПИОНАТРОССИИ #2026 По сп�
 slug = "igra-znanie-chempionatrossii-2026-po-sportivnomu-chtogdeuo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чемпионат", "Москва"]
+categories = ["Спорт"]
 +++
 
 #ИГРА.ЗНАНИЕ #ЧЕМПИОНАТРОССИИ #2026 По спортивному #ЧТОГДЕУОГДА #МОСКВА

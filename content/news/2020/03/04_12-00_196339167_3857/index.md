@@ -5,8 +5,8 @@ title = "В Лингвистической школе @linguistic_school95 г.Г
 slug = "v-lingvisticheskoi-shkole-linguistic-school95-g-groznyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Фонд президентских грантов", "Лингвистическая школа", "Что? Где? Когда?", "Своя игра", "Брэйн-ринг", "Интеллектуальные игры", "Игры разума", "Грозный"]
+categories = ["Интеллектуальные игры", "Образование"]
 +++
 
 В Лингвистической школе @linguistic_school95 г.Грозный прошёл семинар для ОУ ЧР в рамках реализации проекта «Игры разума» , поддержанного фондом президентских грантов @pgrants_ru . В рамках проекта пройдут игры в трёх дисциплинах : «Брэйн-ринг», «Что?Где?Когда?» и «Своя игра» [club12255990|@brain_ring] [club77614088|@chto_gde_kogda] [club68269203|@svoiaigra] . Игры ориентированы на обучающихся 8-11 классов ОУ ЧР. @minobrnauki_95 @dunaevmusa @intellektualny_kavkaz @hasanova_madina__ @chroo_sm @youthchr_nacsovet [club7438074|@youthrussia]

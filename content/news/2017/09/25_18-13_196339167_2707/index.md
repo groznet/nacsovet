@@ -5,8 +5,8 @@ title = "Поймал серьезного человека... #бельгия�
 slug = "poimal-sereznogo-cheloveka-belgiia-namiur-plemiannik"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Поймал серьезного человека... #бельгия🇧🇪 #намюр #племянник #асландунаев

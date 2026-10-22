@@ -5,8 +5,8 @@ title = "#Чечня #Аргун #мечеть #красота #бесподоб
 slug = "chechnia-argun-mechet-krasota-bespodobnyivid-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика", "Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 #Чечня #Аргун #мечеть #красота #бесподобныйвид #Дунаев

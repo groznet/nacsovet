@@ -5,8 +5,8 @@ title = "Школьники представили осеннюю ярмарку
 slug = "shkolniki-predstavili-osenniuiu-iarmarku-informatsionnoe"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Школьники"]
+categories = ["Образование", "Наука и технологии"]
 +++
 
 Школьники представили осеннюю ярмарку | Информационное агентство "Грозный-Информ"

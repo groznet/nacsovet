@@ -5,8 +5,8 @@ title = "По воле нашего СОЗДАТЕЛЯ, экскурсия  с �
 slug = "po-vole-nashego-sozdatelia-ekskursiia-s-bratom-po-zalivu-da"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 По воле нашего СОЗДАТЕЛЯ, экскурсия  с братом по заливу, да будет так!  

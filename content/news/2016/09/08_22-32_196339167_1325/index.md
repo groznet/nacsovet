@@ -5,8 +5,8 @@ title = "Уважаемые гости на расширенном заседа�
 slug = "uvazhaemye-gosti-na-rasshirennom-zasedanii-soveta-federatsii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Уважаемые гости на расширенном заседании Совета Федерации профсоюзов ЧР...

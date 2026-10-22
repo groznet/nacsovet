@@ -6,7 +6,7 @@ slug = "larame-pachakh-vezachu-allakha-dekalla-voila-kho-vinchu-da"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Лараме Пачахь !!! Везачу АЛЛАХА декъалла войла хьо винчу даьнца !!!

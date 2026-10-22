@@ -5,8 +5,8 @@ title = "Моя родная школа МБОУ «СОШ 39» г. Грозны�
 slug = "moia-rodnaia-shkola-mbou-sosh-39-g-groznyi-spasibo-za-prigla"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Образование"]
 +++
 
 Моя родная школа МБОУ «СОШ 39» г. Грозный, СПАСИБО за приглашение, для меня - ЧЕСТЬ!!!

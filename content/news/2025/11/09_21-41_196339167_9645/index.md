@@ -6,7 +6,7 @@ slug = "vserossiiskaia-premiia-gordost-natsii-2025-rechnaia-piaticha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Всероссийская премия «ГОРДОСТЬ НАЦИИ - 2025», речная  пятичасовая прогулка, знакомство лауреатов.

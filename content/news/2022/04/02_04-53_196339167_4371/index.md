@@ -6,7 +6,7 @@ slug = "itogi-pervogo-etapa-spetsoperatsii-rf-po-demilitarizatsii-i"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Итоги первого этапа Спецоперации РФ по демилитаризации и денацификации Украины

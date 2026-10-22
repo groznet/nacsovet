@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-ioila-kho-lailai-iinchu-dantsa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА декьалла йойла хьо ЛайлаI йинчу даьнца!!!

@@ -6,7 +6,7 @@ slug = "kchr-g-cherkessk-ekskursiia-po-gorodu-ot-ruslana-kambieva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 КЧР, г. Черкесск, экскурсия по городу от Руслана Камбиева

@@ -5,8 +5,8 @@ title = "Подводили итоги...) #IIвсероссийскийфору
 slug = "podvodili-itogi-iivserossiiskiiforumstudentovpedagogiche"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Студенты"]
+categories = ["Образование"]
 +++
 
 Подводили итоги...) #IIвсероссийскийфорумстудентовпедагогическихвузоввовлечённыхвдобровольческуюдеятельность

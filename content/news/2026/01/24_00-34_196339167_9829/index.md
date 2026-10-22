@@ -5,8 +5,8 @@ title = "‼️‼️‼️ ВНИМАНИЕ ‼️‼️‼️"
 slug = "vnimanie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Грозный"]
+categories = ["Заметки"]
 +++
 
 ‼️‼️‼️ ВНИМАНИЕ ‼️‼️‼️

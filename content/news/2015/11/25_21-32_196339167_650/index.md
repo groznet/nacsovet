@@ -6,7 +6,7 @@ slug = "na-vash-sud-vid-iz-okna"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 На ваш суд, вид из окна ...

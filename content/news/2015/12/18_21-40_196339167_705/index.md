@@ -6,7 +6,7 @@ slug = "v-muzee-gospodina-mona-prinial-uchastie-v-tseremonii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В музее господина Мона принял участие в церемонии, держались стойко, хотя было весело...)

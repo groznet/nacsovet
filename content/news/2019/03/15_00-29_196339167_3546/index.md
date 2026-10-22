@@ -6,7 +6,7 @@ slug = "skazhu-vam-chestno-takie-novosti-priiatny-moemu-serdtsu-lin"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Скажу вам честно, такие новости, приятны моему сердцу... linguistic_school95 #дунаевмуса #мусадунаев

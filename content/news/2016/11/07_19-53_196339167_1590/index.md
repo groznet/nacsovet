@@ -6,7 +6,7 @@ slug = "dobryi-vecher-druzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Добрый вечер друзья!!!

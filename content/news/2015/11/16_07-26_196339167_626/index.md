@@ -6,7 +6,7 @@ slug = "kak-eto-estestvenno-kogda-muzhichka-otpravliaet-shkolu-mat-i"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Как это естественно, когда мужичка отправляет школу мать и как это сложно, когда миссия ложится на тебя ...)

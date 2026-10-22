@@ -5,8 +5,8 @@ title = "#активныхвыходныхдрузья #работаврадос
 slug = "aktivnykhvykhodnykhdruzia-rabotavradost-tolkotakineinache"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика", "Мечеть"]
+categories = ["Заметки"]
 +++
 
 #активныхвыходныхдрузья #работаврадость #толькотакинеиначе #всехблаготВсевышнего #мечеть🌙 #сердцечечни

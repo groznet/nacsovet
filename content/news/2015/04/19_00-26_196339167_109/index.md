@@ -6,7 +6,7 @@ slug = "prosto-venetsiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Просто Венеция!!!

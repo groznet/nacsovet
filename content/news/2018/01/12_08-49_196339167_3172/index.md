@@ -6,7 +6,7 @@ slug = "luchshim-dnem-vas-vsepovolevsevyshnegoallakha-vsekhblagota"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ЛУЧШИМ ДНЁМ ВАС !!! #всеповолеВсевышнегоАллаха👆 #всехблаготАЛЛАХАвамивашимблизкимвобоихмирах

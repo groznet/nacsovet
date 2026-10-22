@@ -5,8 +5,8 @@ title = "Добро пожаловать в мир интеллекта, «Чт�
 slug = "dobro-pozhalovat-v-mir-intellekta-chto-gde-kogda-gospo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Заметки"]
 +++
 
 Добро пожаловать в мир интеллекта, «Что? Где? Когда?», господа, знатоки выигрывают…

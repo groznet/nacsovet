@@ -5,8 +5,8 @@ title = "Ас Саламу IАлейкум, друзья!!! Поздравляю
 slug = "as-salamu-ialeikum-druzia-pozdravliaiu-vsekh-nas-s-okonchani"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамадан", "Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Ас Саламу IАлейкум, друзья!!! Поздравляю всех нас с окончанием священного месяца рамадан!!! Воистину, мы должны понимать, что и последующие месяцы от АЛЛАХА и быть такими праведными как и в этот священный месяц РАМАДАН. О АЛЛАХ ПРИМИ НАШИ ПОКЛОНЕНИЯ И ДАРУЙ НАМ ВЕЧНЫЙ РАЙ!!!                 Марханаш АЛЛАХА кьобалла дойла! Лайна хало везачу ДАЛА, меле яза йойла! ДАЛА, ялсаманчохь Iар-дахар лойла вайна. opchr_95 youthchr mansur_.095._ movladi_bata rsm_chr95 islam_shah_today magomedkhadzhimuradov [id295988085|deprel_95] idenilkhanov milanaedi0266 islam_mission_ru shafigpshikhachev dmitryshubinn ibragimbazaew @

@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-v-edinstve-nasha-sila"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна 🇷🇺❗️ В единстве наша сила!

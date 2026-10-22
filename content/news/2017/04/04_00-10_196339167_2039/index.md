@@ -6,7 +6,7 @@ slug = "chest-i-khvala-nashim-voinam-vtoroi-mirovoi-voiny-tiazhelaia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Честь и хвала нашим воинам Второй Мировой войны, тяжелая винтовка...

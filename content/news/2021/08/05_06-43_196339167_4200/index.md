@@ -5,8 +5,8 @@ title = "#Repost [club61650283|@er_chechnya] with [club87821973|@make"
 slug = "repost-club61650283-er-chechnya-with-club87821973-make"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Профсоюзы", "Единая Россия", "Чеченская Республика", "Дети", "Молодёжь"]
+categories = ["Молодёжь", "Общественная жизнь"]
 +++
 
 #Repost [club61650283|@er_chechnya] with [club87821973|@make_repost]

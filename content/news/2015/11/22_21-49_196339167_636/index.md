@@ -6,7 +6,7 @@ slug = "ocherednaia-okhota-s-druziami-kak-vsegda-zakonchilas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Очередная охота с друзьями, как всегда закончилась фотосессией...)

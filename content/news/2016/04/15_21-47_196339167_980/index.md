@@ -6,7 +6,7 @@ slug = "vperedi-otdykh-seminary-kruglye-stoly-treningi-i-t-d"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Впереди отдых: семинары, круглые столы, тренинги и т.д. .,,

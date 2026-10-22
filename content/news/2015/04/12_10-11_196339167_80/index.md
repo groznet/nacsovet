@@ -5,8 +5,8 @@ title = "Москва, 4 ноября, Общественная палата Р�
 slug = "moskva-4-noiabria-obshchestvennaia-palata-rf-den-narodnogo-e"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Общественная жизнь"]
 +++
 
 Москва, 4 ноября, Общественная палата РФ,  "День народного единства" ...

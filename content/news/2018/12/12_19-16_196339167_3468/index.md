@@ -5,8 +5,8 @@ title = "#россия🇷🇺 #чроофицерыроссии🇷🇺 #ден
 slug = "rossiia-chroofitseryrossii-denkonstitutsiirf-natsionaln"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Российский союз молодёжи", "Офицеры России", "Молодёжь"]
+categories = ["Патриотизм и память", "Молодёжь"]
 +++
 
 #россия🇷🇺 #чроофицерыроссии🇷🇺 #деньконституциирф #национальныйсоветобщественныхмолодежныхидетскихобъединенийчеченскойреспублики youthchr_nacsovet #чроосоюзмолодежи chroo_sm oficeryofficial movladi_bata

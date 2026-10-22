@@ -5,8 +5,8 @@ title = "На расширенном пленарном заседании, по
 slug = "na-rasshirennom-plenarnom-zasedanii-posviashchennogo-10-ob"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 На расширенном пленарном заседании, посвященного 10-летию образования Общественной палаты ЧР...

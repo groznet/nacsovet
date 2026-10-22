@@ -5,8 +5,8 @@ title = "Только так !!! РСМ - это сила!!!"
 slug = "tolko-tak-rsm-eto-sila"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 Только так !!! РСМ - это сила!!!

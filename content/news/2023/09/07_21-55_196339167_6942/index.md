@@ -5,8 +5,8 @@ title = "#ТУРЦИЯ 🇹🇷 #МЕЧЕТЬ #АЙЯОФИЯ"
 slug = "turtsiia-mechet-aiiaofiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 #ТУРЦИЯ 🇹🇷 #МЕЧЕТЬ #АЙЯОФИЯ

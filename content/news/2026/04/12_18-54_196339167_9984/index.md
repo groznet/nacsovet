@@ -6,7 +6,7 @@ slug = "golosa-pobedy-gromche-khronik"
 author = "ЦРО «Международная Исламская Миссия»"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 «Голоса Победы» – громче хроник

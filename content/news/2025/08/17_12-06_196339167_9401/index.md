@@ -5,8 +5,8 @@ title = "Чеченский боец UFC Хамзат Чимаев одержа�
 slug = "chechenskii-boets-ufc-khamzat-chimaev-oderzhal-pobedu-nad"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир"]
+categories = ["Заметки"]
 +++
 
 Чеченский боец UFC Хамзат Чимаев одержал победу над Дрикусом Дю Плесси в главном бою турнира UFC 319 в Чикаго и завоевал свой первый чемпионский пояс организации. 

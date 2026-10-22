@@ -5,8 +5,8 @@ title = "Всех благ вам друзья !!! Спешите делать �
 slug = "vsekh-blag-vam-druzia-speshite-delat-blagie-dela-minn"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Заметки"]
 +++
 
 Всех благ вам друзья !!! Спешите делать благие дела... @minnac_95 @youthchr_nacsovet #маоонациональныйсовет #гражданскийкомитетроссии [id339261382|@daymohk_chr]

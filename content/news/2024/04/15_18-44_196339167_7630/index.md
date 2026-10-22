@@ -5,8 +5,8 @@ title = "В миннацинформ ЧР прошло праздничное м
 slug = "v-minnatsinform-chr-proshlo-prazdnichnoe-meropriiatie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 В миннацинформ ЧР прошло праздничное мероприятие приуроченное ко Дню отмены КТО

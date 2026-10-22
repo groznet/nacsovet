@@ -6,7 +6,7 @@ slug = "khadzh-cherez-prizmu-istorii"
 author = "ЦРО «Международная Исламская Миссия»"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Хадж через призму истории 

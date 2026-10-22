@@ -5,8 +5,8 @@ title = "Доброе утро страна! #архыз2016 #форум #онф
 slug = "dobroe-utro-strana-arkhyz2016-forum-onf-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Форум"]
+categories = ["Общественная жизнь"]
 +++
 
 Доброе утро страна! #архыз2016 #форум #онф #Дунаев

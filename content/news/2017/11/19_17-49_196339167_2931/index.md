@@ -6,7 +6,7 @@ slug = "milyi-aeroport-davno-ne-videlis"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Милый аэропорт, давно не виделись...

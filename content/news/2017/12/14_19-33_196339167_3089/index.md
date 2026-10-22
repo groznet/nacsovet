@@ -5,8 +5,8 @@ title = "Перерыв господа #3(53)ПленумЦКРСМ #колле�
 slug = "pereryv-gospoda-3-53-plenumtskrsm-kollegi-druzia-predsedat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Заметки"]
 +++
 
 Перерыв господа #3(53)ПленумЦКРСМ #коллеги #друзья Председатели региональных РСМ timur_a503oa

@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-bratia-i-sestry"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником вас братья и сестры!!!

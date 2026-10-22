@@ -6,7 +6,7 @@ slug = "idem-na-kabana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Идем на кабана ...

@@ -6,7 +6,7 @@ slug = "okhota-i-rybalka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Охота и рыбалка ...)

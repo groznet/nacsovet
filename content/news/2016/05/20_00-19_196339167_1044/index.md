@@ -6,7 +6,7 @@ slug = "zavershenie-rabochego-dnia-nadeius-poslednii-uzhin-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Завершение рабочего дня, надеюсь последний ужин на сегодня, с племянниками Зауром и Шамилем. Три банкета за вечер, всё же много...)

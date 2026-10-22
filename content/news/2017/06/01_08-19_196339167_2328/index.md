@@ -5,8 +5,8 @@ title = "М. Дунаев: знание истории своей страны �
 slug = "m-dunaev-znanie-istorii-svoei-strany-delaet-nas-patriotichn"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Патриотизм и память"]
 +++
 
 М. Дунаев: знание истории своей страны делает нас патриотичнее | Информационное агентство "Грозный-Информ"

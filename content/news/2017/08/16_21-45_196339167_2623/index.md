@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #подземныегроты #красотад
 slug = "belgiia-podzemnyegroty-krasotadaitolko-brat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #подземныегроты #красотадаитолько #брат

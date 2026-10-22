@@ -6,7 +6,7 @@ slug = "vnimanie"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВНИМАНИЕ❗️

@@ -5,8 +5,8 @@ title = "В предверии 8 марта !!!"
 slug = "v-predverii-8-marta"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Международный женский день"]
+categories = ["Заметки"]
 +++
 
 В предверии 8 марта !!!

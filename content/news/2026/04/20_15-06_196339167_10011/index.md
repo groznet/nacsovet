@@ -6,7 +6,7 @@ slug = "s-rukovoditelem-proektnogo-ofisa-prezidentskogo-fonda-kultu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С руководителем проектного офиса Президентского фонда культурных инициатив Исмаилом Албагачиевым обсудили ряд совместных мероприятий в братских республиках.

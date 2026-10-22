@@ -5,8 +5,8 @@ title = "Форум завершился, сертификат получен, �
 slug = "forum-zavershilsia-sertifikat-poluchen-spasibo-organizatoram"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум", "Молодёжь"]
+categories = ["Заметки"]
 +++
 
 Форум завершился, сертификат получен, Спасибо организаторам Минмолодежи РД...

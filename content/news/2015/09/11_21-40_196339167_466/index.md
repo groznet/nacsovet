@@ -5,8 +5,8 @@ title = "Заявление члена Общественной палаты Р�
 slug = "zaiavlenie-chlena-obshchestvennoi-palaty-rf-informatsionnoe"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Общественная жизнь", "Наука и технологии"]
 +++
 
 Заявление члена Общественной палаты РФ | Информационное агентство "Грозный-Информ"

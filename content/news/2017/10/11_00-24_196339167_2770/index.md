@@ -5,8 +5,8 @@ title = "Когда тебя поздравляет дорогой брат с �
 slug = "kogda-tebia-pozdravliaet-dorogoi-brat-s-dniukhoi-tem-bolee"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Когда тебя поздравляет дорогой брат с Днюхой, тем более вкладывая историю дорогого стоит... Спасибо alvialtamirov  Аллах реза хуьлда хьуна!!!

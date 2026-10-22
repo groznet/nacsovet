@@ -5,8 +5,8 @@ title = "🇺🇸🇺🇦 ТРАМП ПЕРЕНАПРАВИТ ДЕНЕЖНЫЕ �
 slug = "tramp-perenapravit-denezhnye-potoki-prednaznachennye-dlia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ветераны"]
+categories = ["Патриотизм и память"]
 +++
 
 🇺🇸🇺🇦 ТРАМП ПЕРЕНАПРАВИТ ДЕНЕЖНЫЕ ПОТОКИ, ПРЕДНАЗНАЧЕННЫЕ ДЛЯ УКРАИНЫ, НА НУЖДЫ США 

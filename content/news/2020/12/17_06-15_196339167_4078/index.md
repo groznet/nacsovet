@@ -5,8 +5,8 @@ title = "Доброе утро, страна! Добро пожаловать в
 slug = "dobroe-utro-strana-dobro-pozhalovat-v-respubliku-kak-to"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Заметки"]
 +++
 
 Доброе утро, страна! Добро пожаловать в республику! Как-то, так! Просто нужно внимательно осмотреться, ведь все лучшее у нас...) #маоонациональныйсовет @youthchr_nacsovet @dunaevmusa  [id339261382|@daymohk_chr]

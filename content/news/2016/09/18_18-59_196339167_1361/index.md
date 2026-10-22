@@ -6,7 +6,7 @@ slug = "nam5let-abdurrokhim-denrozhdeniia-dunaev-park"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #нам5лет #Абдуррохьим #деньрождения #Дунаев #парк #

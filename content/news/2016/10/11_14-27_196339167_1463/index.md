@@ -6,7 +6,7 @@ slug = "volgogradskaia-oblast-g-volzhskii-turistsko-ekskursionnyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ВОлгоградская область, г. Волжский туристско- экскурсионный оздоровительный комплекс "Волжский", на семинар-совещании...

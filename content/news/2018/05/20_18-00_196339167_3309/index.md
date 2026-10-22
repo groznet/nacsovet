@@ -6,7 +6,7 @@ slug = "sport-kazhdyi-den-youthchr-rsm-chr95-timur-a503oa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Спорт каждый день!!! youthchr  rsm_chr95 timur_a503oa

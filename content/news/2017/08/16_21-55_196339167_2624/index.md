@@ -6,7 +6,7 @@ slug = "italiia-sanmarino-krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #италия #санмарино #красотадаитолько #

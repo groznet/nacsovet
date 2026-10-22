@@ -5,8 +5,8 @@ title = "Защитник Отечества ... #любимыйплемянни
 slug = "zashchitnik-otechestva-liubimyiplemiannik-belgiia-frantsiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции", "Патриотизм и память"]
 +++
 
 Защитник Отечества ... #любимыйплемянник #Бельгия #Франция #Дунаев #Аслан

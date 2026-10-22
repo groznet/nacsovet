@@ -6,7 +6,7 @@ slug = "proekt-nakormiislama"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 #проект"НакормиИСЛАМА"

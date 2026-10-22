@@ -6,7 +6,7 @@ slug = "pervoe-selfi-naslednika-trona-syn-dolzhen-byt-pokhozh-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Первое селфи наследника трона, "сын должен быть похож на отца"...))

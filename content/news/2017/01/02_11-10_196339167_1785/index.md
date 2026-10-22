@@ -6,7 +6,7 @@ slug = "vezachu-allakha-gech-doila-belchana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА геч дойла белчана!!!

@@ -6,7 +6,7 @@ slug = "dlia-osobogo-druga"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Для особого друга..,)

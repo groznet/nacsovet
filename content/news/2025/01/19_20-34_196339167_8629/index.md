@@ -6,7 +6,7 @@ slug = "pobeditel-intellektualnoi-viktoriny-nasha-gordost"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 Победитель интеллектуальной викторины! Наша гордость 👏❗️

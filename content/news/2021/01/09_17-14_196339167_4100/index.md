@@ -5,8 +5,8 @@ title = "Это роль ругательная, прошу ее ко мне н�
 slug = "eto-rol-rugatelnaia-proshu-ee-ko-mne-ne-primeniat-dun"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Заметки"]
 +++
 
 Это роль ругательная, прошу ее ко мне не применять...)) @dunaevmusa @youthchr_nacsovet #маоонациональныйсовет  [id339261382|@daymohk_chr]

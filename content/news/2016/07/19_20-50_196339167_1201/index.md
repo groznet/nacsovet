@@ -5,8 +5,8 @@ title = "Форумы хороши своими торжественными у�
 slug = "forumy-khoroshi-svoimi-torzhestvennymi-uzhinami-gotovimsia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Форум"]
+categories = ["Заметки"]
 +++
 
 Форумы хороши своими торжественными ужинами, готовимся... ) #ОНФ #ЗагидиМахмудов #ИсмаилАлбагачиев #Дунаев ##форум #Дагестан

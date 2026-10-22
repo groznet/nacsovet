@@ -5,8 +5,8 @@ title = "МФК \"Ахмат Тауэр\" * Высота - 435 м."
 slug = "mfk-akhmat-tauer-vysota-435-m"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 МФК "Ахмат Тауэр" * Высота - 435 м.

@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-da-prebudet-s-vami-sila-inte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна #РОССИЯ 🇷🇺❗️ Да пребудет с вами сила интеллекта!

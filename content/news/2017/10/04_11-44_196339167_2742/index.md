@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #брюсель #франция🇫🇷 #стр
 slug = "belgiia-briusel-frantsiia-strassburg"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #брюсель #франция🇫🇷 #страссбург #

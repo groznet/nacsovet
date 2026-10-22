@@ -6,7 +6,7 @@ slug = "akter-igry-prestolov-stal-silneishim-chelovekom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Актер «Игры престолов» стал сильнейшим человеком тысячелетия

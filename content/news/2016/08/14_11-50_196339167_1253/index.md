@@ -6,7 +6,7 @@ slug = "gotovimsia-k-pryzhkam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Готовимся к прыжкам,...

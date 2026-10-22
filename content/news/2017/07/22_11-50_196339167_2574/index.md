@@ -5,8 +5,8 @@ title = "#РСО  #владикавказ #делегацияРСМ #актив�
 slug = "rso-vladikavkaz-delegatsiiarsm-aktivrsm-zolotyeslova-fo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 #РСО  #владикавказ #делегацияРСМ #активРСМ #золотыеслова #форум

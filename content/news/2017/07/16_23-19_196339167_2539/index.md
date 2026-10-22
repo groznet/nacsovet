@@ -6,7 +6,7 @@ slug = "boleem-za-nashikh-akhmat-sila"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Болеем за наших... Ахмат-сила!!!

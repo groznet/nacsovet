@@ -6,7 +6,7 @@ slug = "po-vole-allakha-kogda-na-zemle-zarozhdaetsia-novaia-semia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле АЛЛАХА, когда на земле зарождается новая семья, когда в главных ролях твой брат, буквально БРАТ и с тобой разделяют это богоугодное мероприятие твои друзья, воистину приятно моему сердцу... alvialtamirov ibragimbazaew и Муса Хататаев...

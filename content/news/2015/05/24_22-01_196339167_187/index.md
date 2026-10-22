@@ -5,8 +5,8 @@ title = "#Китай #Россия #делегация #РоссийскийСо
 slug = "kitai-rossiia-delegatsiia-rossiiskiisoiuzmolodezhi-rsm-chror"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #Китай #Россия #делегация #РоссийскийСоюзМолодежи #РСМ #ЧРОРСМ #Дунаев

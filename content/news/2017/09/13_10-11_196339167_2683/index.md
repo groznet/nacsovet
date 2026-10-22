@@ -6,7 +6,7 @@ slug = "po-vole-vsevyshnego-allakha-vstretili-sestru-iz-khadzha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле ВСЕВЫШНЕГО АЛЛАХА, встретили сестру из хаджа! Везачу АЛЛАХА кьобалла дойла массера хадж!!!

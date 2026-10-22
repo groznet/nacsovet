@@ -5,8 +5,8 @@ title = "ЧР, терский хребет, активные выходные...
 slug = "chr-terskii-khrebet-aktivnye-vykhodnye"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 ЧР, терский хребет, активные выходные...

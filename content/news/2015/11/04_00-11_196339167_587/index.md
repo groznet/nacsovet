@@ -5,8 +5,8 @@ title = "Криштиану Роналду переоделся бомжом и 
 slug = "krishtianu-ronaldu-pereodelsia-bomzhom-i-sygral-v-futbol-na"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Футбол"]
+categories = ["Спорт"]
 +++
 
 Криштиану Роналду переоделся бомжом и сыграл в футбол на площади Мадрида (полная версия) HD

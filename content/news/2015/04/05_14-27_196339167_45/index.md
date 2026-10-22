@@ -6,7 +6,7 @@ slug = "legkii-utrennii-zavtrak-eto-tipa-ia-eshche-na-diete"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Легкий утренний завтрак...))) Это типа я еще на диете...)

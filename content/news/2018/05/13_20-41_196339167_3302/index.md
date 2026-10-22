@@ -6,7 +6,7 @@ slug = "novyi-rekord-ustanovlen-50-km-za-plechami-mysli-vslukh-s"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Новый рекорд установлен, 50 км. за плечами... Мысли вслух, стоял бы моторчик - использовал бы...)

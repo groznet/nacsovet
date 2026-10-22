@@ -6,7 +6,7 @@ slug = "vstavai-strana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вставай страна!!!

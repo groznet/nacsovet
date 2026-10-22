@@ -6,7 +6,7 @@ slug = "italiia-rimini-vsekhblagotsozdatelia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #италия #римини #всехблаготСОЗДАТЕЛЯ

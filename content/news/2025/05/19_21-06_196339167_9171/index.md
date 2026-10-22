@@ -5,8 +5,8 @@ title = "Дональд Трамп будет говорить с президе
 slug = "donald-tramp-budet-govorit-s-prezidentom-ukrainy-vladimiro"
 author = "Скотт Риттер Фан"
 
-tags = []
-categories = []
+tags = ["Владимир Путин"]
+categories = ["Власть и политика"]
 +++
 
 Дональд Трамп будет говорить с президентом Украины Владимиром Путиным

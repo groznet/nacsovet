@@ -6,7 +6,7 @@ slug = "sport-splrtkazhdyiden-sportivnaiakhodba-zdorovyiobrazzhizn"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 #спорт #сплрткаждыйдень #спортивнаяходьба #здоровыйобразжизни #буг1анюрт #алды #призывкдействию

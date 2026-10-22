@@ -6,7 +6,7 @@ slug = "nadterechnyiraionchr-vidizokna-krasotadaitolko-dobropozhal"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #надтеречныйрайончр #видизокна #красотадаитолько #добропожаловать

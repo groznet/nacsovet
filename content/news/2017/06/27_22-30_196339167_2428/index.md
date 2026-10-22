@@ -6,7 +6,7 @@ slug = "kogda-na-uzhin-prikhodiat-rodstvenniki-zaur-bilal-alu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда на ужин приходят родственники #заур#билал#алу#зелимхан и среди них имам посёлка Алды Апти Барзукаев было ожидаемо, но приятно...

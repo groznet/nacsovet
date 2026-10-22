@@ -5,8 +5,8 @@ title = "#ЧТОГДЕКОГДА, уважаемые интеллектуалы,
 slug = "chtogdekogda-uvazhaemye-intellektualy-tv-format-znatoki-vy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Интеллектуальные игры"]
 +++
 
 #ЧТОГДЕКОГДА, уважаемые интеллектуалы, ТВ формат, знатоки выигрывают, господа!

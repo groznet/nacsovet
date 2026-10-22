@@ -6,7 +6,7 @@ slug = "vse-khoroshee-tak-bystro-zakanchivaetsia-doroga-domoi-sochi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все хорошее так быстро заканчивается, дорога домой ...#Сочи #пленум #Дунаев

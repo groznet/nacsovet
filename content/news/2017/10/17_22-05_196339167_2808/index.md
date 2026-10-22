@@ -5,8 +5,8 @@ title = "Проект «Я и этот мир» востребован сред�
 slug = "proekt-ia-i-etot-mir-vostrebovan-sredi-starsheklassnikov-i"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Я и этот мир", "Грозный"]
+categories = ["Заметки"]
 +++
 
 Проект «Я и этот мир» востребован среди старшеклассников | Информационное агентство "Грозный-Информ"

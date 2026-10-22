@@ -5,8 +5,8 @@ title = "Dear intellectuals!"
 slug = "dear-intellectuals"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лингвистическая школа", "Турнир", "Грозный", "Школьники"]
+categories = ["Интеллектуальные игры", "Образование"]
 +++
 
 Dear intellectuals!  

@@ -6,7 +6,7 @@ slug = "saudovskaia-araviia-khadzh-2014-god-voistinu-vazhnoe-sobytie"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Саудовская Аравия, Хадж - 2014 год, воистину, важное событие для мусульман…  

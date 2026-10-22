@@ -5,8 +5,8 @@ title = "#4ноябряденьнародногоединства Женский
 slug = "4noiabriadennarodnogoedinstva-zhenskii-vzvod"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России"]
+categories = ["Заметки"]
 +++
 
 #4ноябряденьнародногоединства Женский взвод #оооофицерыроссиивчр  movladi_bata

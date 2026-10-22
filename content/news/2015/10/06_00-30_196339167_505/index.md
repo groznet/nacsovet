@@ -6,7 +6,7 @@ slug = "po-doroge-v-stavropol"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 По дороге в Ставрополь ...

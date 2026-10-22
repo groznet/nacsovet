@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна 🇷🇺❗️

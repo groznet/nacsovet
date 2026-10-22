@@ -6,7 +6,7 @@ slug = "po-vole-vsevyshnego-allakha-gotovimsia-k-iftaru-chempionevro"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле ВСЕВЫШНЕГО АЛЛАХА готовимся к ифтару... #чемпионевропы2017 #чимаевваха

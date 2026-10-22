@@ -6,7 +6,7 @@ slug = "obshchestvennaia-palata-respubliki-na-vyezdnom-soveshchanii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Общественная жизнь"]
 +++
 
 Общественная палата республики на выездном совещании в Аргуне... Пытаемся спасти мир...))

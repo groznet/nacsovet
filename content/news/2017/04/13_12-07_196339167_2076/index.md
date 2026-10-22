@@ -6,7 +6,7 @@ slug = "dagestan-gorodizberbash-ooo-kf-dag-intern-s-krupnym-invest"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #дагестан #городизбербаш ООО КФ"Даг Интерн" с крупным инвестором в гостях у генерального директора Омарова Тимура Амбулатовича...

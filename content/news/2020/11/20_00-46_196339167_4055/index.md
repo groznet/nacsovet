@@ -5,8 +5,8 @@ title = "Герой проекта @youthchr_nacsovet «Помнить, что
 slug = "geroi-proekta-youthchr-nacsovet-pomnit-chtoby-zhit-ot"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Помнить, чтобы жить", "Северный Кавказ", "Ветераны", "Молодёжь"]
+categories = ["Патриотизм и память", "Интеллектуальные игры"]
 +++
 
 Герой проекта @youthchr_nacsovet «Помнить, чтобы жить!» от [club49388164|@rosmolodez] ДЕРИЗЕМЛЯ А.Д. 

@@ -5,8 +5,8 @@ title = "#Франция🇫🇷 #Montereaufaultyonne #РодинаНаполе�
 slug = "frantsiia-montereaufaultyonne-rodinanapoleona-belgiia-b"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #Франция🇫🇷 #Montereaufaultyonne #РодинаНаполеона #Бельгия #Брюссель #Намюр #братан #легкийобеддляфигурынестрашен))

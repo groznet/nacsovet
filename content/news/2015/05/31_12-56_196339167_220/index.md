@@ -6,7 +6,7 @@ slug = "sochi-iiiplenum-zhizneobespecheniia-malenkiikapitan-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Сочи #IIIпленум #жизнеобеспечения #маленькийкапитан #Дунаев

@@ -6,7 +6,7 @@ slug = "vo-imia-otechestva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Во имя Отечества ...)

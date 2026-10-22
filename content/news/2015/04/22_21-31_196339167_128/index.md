@@ -5,8 +5,8 @@ title = "Добрые профессионалы ... #Чечня #Миннац #
 slug = "dobrye-professionaly-chechnia-minnats-minmol-khatuev-sad"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Добрые профессионалы ... #Чечня #Миннац #Минмол #Хатуев #Садаев #Дунаев

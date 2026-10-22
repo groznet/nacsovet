@@ -5,8 +5,8 @@ title = "г.Грозный, гостиница \"ГОРОДОК\", красот�
 slug = "g-groznyi-gostinitsa-gorodok-krasota-da-i-tolko-gosti-d"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 г.Грозный, гостиница "ГОРОДОК", красота да и только, гости довольны. СПАСИБО!!!

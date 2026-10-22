@@ -6,7 +6,7 @@ slug = "guliaiu-po-zooparku-s-telezvezdoi-shandi-liubimitsei-goroda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Гуляю по зоопарку с телезвездой "Шанди", любимицей города ... #актив #зоопарк #Уфа #цирк #Дунаев

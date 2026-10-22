@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-s-prazdnikom-vas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Доброе утро страна! С праздником вас!!!

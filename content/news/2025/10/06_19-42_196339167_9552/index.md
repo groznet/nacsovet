@@ -5,8 +5,8 @@ title = "… А ВОТ И НАШ САМЫЙ ЮНЫЙ БЛАГОПОЛУЧАТЕ�
 slug = "a-vot-i-nash-samyi-iunyi-blagopoluchatel-uverenno-idet-za-z"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Кубок", "Чемпионат", "Чеченская Республика"]
+categories = ["Власть и политика"]
 +++
 
 … А ВОТ И НАШ САМЫЙ ЮНЫЙ БЛАГОПОЛУЧАТЕЛЬ, УВЕРЕННО ИДЕТ ЗА ЗНАНИЯМИ!!!

@@ -6,7 +6,7 @@ slug = "aktivnyi-otdykh-beg-v-gorakh-nelegkoe-zaniatie-veduchi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Активный отдых, бег в горах, нелегкое занятие…) #ВЕДУЧИ

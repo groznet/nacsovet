@@ -6,7 +6,7 @@ slug = "dai-allakh-vam-dolgikh-i-schastlivykh-let-maga-i-amina-budte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Дай АЛЛАХ вам долгих и счастливых лет! Мага и Амина будьте счастливы, всех благ вам от нашего СОЗДАТЕЛЯ!!!

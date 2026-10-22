@@ -6,7 +6,7 @@ slug = "razminuvshis-s-kabanom-nu-ikh-luchshe-rybalka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Разминувшись с кабаном, ну их ) ... Лучше рыбалка ...

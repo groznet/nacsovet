@@ -6,7 +6,7 @@ slug = "nalchik-gorod-voinskoi-slavy-mezhdunarodnyi-aeroport-v-do"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Нальчик - город воинской славы, международный аэропорт, в добрый путь...

@@ -5,8 +5,8 @@ title = "Молодежь определяет будущее | Информац
 slug = "molodezh-opredeliaet-budushchee-informatsionnoe-agentstvo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Молодёжь"]
+categories = ["Молодёжь", "Наука и технологии"]
 +++
 
 Молодежь определяет будущее | Информационное агентство "Грозный-Информ"

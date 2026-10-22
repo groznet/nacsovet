@@ -6,7 +6,7 @@ slug = "iz-toi-zhe-serii-za-krasotu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Из той же серии, за красоту ...)

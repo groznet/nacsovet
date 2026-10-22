@@ -6,7 +6,7 @@ slug = "gospoda-v-edinstve-nasha-sila"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Господа в единстве наша сила!!!

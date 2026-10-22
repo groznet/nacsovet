@@ -6,7 +6,7 @@ slug = "rukotvornye-chudesa-vid-s-borta-samoleta-katar-damy-i-go"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Рукотворные чудеса, вид с борта самолета... КАТАР, дамы и господа !!! #дунаевмуса

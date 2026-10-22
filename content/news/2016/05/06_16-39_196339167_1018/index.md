@@ -6,7 +6,7 @@ slug = "pytaius-byt-chelovekom-vidit-bog-spasibo-zelenoe-zoloto"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пытаюсь быть ЧЕЛОВЕКОМ, видит БОГ! Спасибо  @zelenoe_zoloto за добрые слова...)

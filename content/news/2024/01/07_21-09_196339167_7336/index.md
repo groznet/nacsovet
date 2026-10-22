@@ -6,7 +6,7 @@ slug = "damy-i-gospoda-khamsa-intellektualnyi-2024-god-otkryt"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 Дамы и Господа, «ХАМСА»! Интеллектуальный 2024 год, ОТКРЫТ! Да пребудет с вами сила интеллекта!

@@ -5,8 +5,8 @@ title = "Чемпион Бельгии Т. Дунаев | WSPORT-SHATOY - Чеч
 slug = "chempion-belgii-t-dunaev-wsport-shatoy-chechenskii-sport"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции", "Спорт"]
 +++
 
 Чемпион Бельгии Т. Дунаев | WSPORT-SHATOY - Чеченский спорт

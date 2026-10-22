@@ -6,7 +6,7 @@ slug = "pushkin-aleksandr-sergeevich-stikhotvorenie-podrazhaniia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Пушкин Александр Сергеевич, стихотворение «Подражания Корану», читает Руслан Камбиев, председатель РОО «Открытый Кавказ»

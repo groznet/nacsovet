@@ -5,8 +5,8 @@ title = "Культурная программа, поход в музей, но
 slug = "kulturnaia-programma-pokhod-v-muzei-no-ne-tut-to-bylo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Культурная программа, поход в музей, но не тут то было...) #бельгия🇧🇪 #намюр

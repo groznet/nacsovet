@@ -5,8 +5,8 @@ title = "Три тура отыграны #чемпионат #Россия #ч�
 slug = "tri-tura-otygrany-chempionat-rossiia-chtogdekogda-znanie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?", "Чемпионат"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Три тура отыграны #чемпионат #Россия #чтогдекогда  #знание  #игра

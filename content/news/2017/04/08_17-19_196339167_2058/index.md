@@ -6,7 +6,7 @@ slug = "terek-arsenal-2-0-boleem-za-nashikh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Терек-Арсенал 2-0, болеем за наших...

@@ -6,7 +6,7 @@ slug = "dva-dnia-v-okhote-vse-po-uchebniku-zasada-tishina-vziali"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Два дня в охоте, все по учебнику: засада, тишина, взяли след, но на обед как всегда, пришел добрый супермаркет ...))

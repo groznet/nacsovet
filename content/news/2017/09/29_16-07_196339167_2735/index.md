@@ -5,8 +5,8 @@ title = "Гуляя по г.Ансюрлес повстречали собачк
 slug = "guliaia-po-g-ansiurles-povstrechali-sobachku-belgiia-ansiur"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Гуляя по г.Ансюрлес повстречали собачку... #бельгия🇧🇪 #ансюрлес #племянник #собакабаскервиль

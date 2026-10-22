@@ -6,7 +6,7 @@ slug = "soveshchanie-rabochei-gruppy-obshcherossiiskogo-narodnogo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Совещание рабочей группы Общероссийского Народного Фронта !

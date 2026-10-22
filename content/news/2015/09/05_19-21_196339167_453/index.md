@@ -6,7 +6,7 @@ slug = "dorogie-druzia-s-dnem-goroda-vas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Дорогие друзья, с Днем города вас !!!

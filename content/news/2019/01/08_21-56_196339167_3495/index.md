@@ -5,8 +5,8 @@ title = "По воле АЛЛАХ1А, занимаемся Богоугодны�
 slug = "po-vole-allakh1a-zanimaemsia-bogougodnym-delom-izuchenieko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Религия и традиции"]
 +++
 
 По воле АЛЛАХ1А, занимаемся Богоугодным делом!!! #изучениекорана #учительотБога👍 1abdul1aziz @офиснацсоветачр #

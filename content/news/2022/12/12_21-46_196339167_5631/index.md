@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-dorogie-druzia-s-dnem-konstitutsii-rossiisk"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником вас дорогие друзья, с Днем Конституции Российской Федерации ! 

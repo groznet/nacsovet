@@ -5,8 +5,8 @@ title = "Дамы и господа, уважаемые интеллектуал
 slug = "damy-i-gospoda-uvazhaemye-intellektualy-vysshaia-liga-final"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?", "Интеллектуальные игры", "Чемпионат"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Дамы и господа, уважаемые интеллектуалы, высшая лига - ФИНАЛ! 

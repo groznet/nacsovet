@@ -6,7 +6,7 @@ slug = "nikhaloevskievodopady-krasotadaitolko-dobropozhalovatvres"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #нихалоевскиеводопады #красотадаитолько #добропожаловатьвреспублику

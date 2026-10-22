@@ -6,7 +6,7 @@ slug = "aktivnykh-vykhodnykh-dpuzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Активных выходных дпузья !!!

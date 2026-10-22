@@ -5,8 +5,8 @@ title = "Проект «Я этот мир» , вместе с @dunaevmusa timur
 slug = "proekt-ia-etot-mir-vmeste-s-dunaevmusa-timuraliev1973-i"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Международная исламская миссия", "Интеллектуальные игры", "Чеченская Республика"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Проект «Я этот мир» , вместе с @dunaevmusa timuraliev1973 и @dunaev.95 посетили @sosh_38_grozny @zarakerimova69 , где провели беседу и интеллектуальную игру с учениками старших классов 🎩✅. 

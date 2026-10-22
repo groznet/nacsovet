@@ -6,7 +6,7 @@ slug = "kinoviktorina-v-chgpu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 «Киновикторина» в ЧГПУ 🎩

@@ -5,8 +5,8 @@ title = "Ресторан 354, самая высокая смотровая пл
 slug = "restoran-354-samaia-vysokaia-smotrovaia-ploshchadka-v-evrope"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Ресторан 354, самая высокая смотровая площадка в Европе!... #москва #племянник #

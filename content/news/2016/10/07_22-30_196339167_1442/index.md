@@ -5,8 +5,8 @@ title = "С днем рождения Вас Владимир Владимиро
 slug = "s-dnem-rozhdeniia-vas-vladimir-vladimirovich-gordimsia-vami"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Владимир Путин"]
+categories = ["Поздравления"]
 +++
 
 С днем рождения Вас Владимир Владимирович!!! Гордимся ВАМИ!!! #Путин #ПрезидентРФ #гордостьстраны #ВВП

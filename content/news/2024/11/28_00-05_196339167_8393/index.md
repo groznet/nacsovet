@@ -5,8 +5,8 @@ title = "*Сенсация: БФ «Даймохк» запускает собс�
 slug = "sensatsiia-bf-daimokhk-zapuskaet-sobstvennoe-prilozhenie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк", "Благотворительность"]
+categories = ["Благотворительность"]
 +++
 
 *Сенсация: БФ «Даймохк» запускает собственное приложение для пожертвований!*

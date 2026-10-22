@@ -5,8 +5,8 @@ title = "В Грозном обсудили проблему «аптечной 
 slug = "v-groznom-obsudili-problemu-aptechnoi-narkomanii-informats"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Наркомания"]
+categories = ["Здоровье"]
 +++
 
 В Грозном обсудили проблему «аптечной наркомании» | Информационное агентство "Грозный-Информ"

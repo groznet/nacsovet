@@ -6,7 +6,7 @@ slug = "zdorovyiobrazzhizni-dnevnaiaveloprogulka-denrozhdeniia-nam6"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #здоровыйобразжизни #дневнаявелопрогулка #деньрождения #нам6лет #всехблаготСОЗДАТЕЛЯ #

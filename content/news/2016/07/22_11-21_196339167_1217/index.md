@@ -5,8 +5,8 @@ title = "На форуме #онф"
 slug = "na-forume-onf"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Форум"]
+categories = ["Общественная жизнь"]
 +++
 
 На форуме #онф

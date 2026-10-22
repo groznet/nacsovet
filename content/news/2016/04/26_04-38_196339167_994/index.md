@@ -6,7 +6,7 @@ slug = "arkhiv-venetsiia-magazin-karnavalnykh-kostiumov-i-masok-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 архив: Венеция, магазин карнавальных костюмов и масок, на время занятости "Казанова", одолжил его знаменитую форму...

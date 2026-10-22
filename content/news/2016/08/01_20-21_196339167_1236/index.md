@@ -6,7 +6,7 @@ slug = "velikolepnaia-italiia-arkhiv-nashzamechatelnyigid-natalia-du"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Великолепная Италия #архив #нашзамечательныйгид #Наталья #Дунаев

@@ -6,7 +6,7 @@ slug = "rad-chto-prichasten-k-obshchestvennoi-palate"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Общественная жизнь"]
 +++
 
 Рад, что причастен к общественной палате ...

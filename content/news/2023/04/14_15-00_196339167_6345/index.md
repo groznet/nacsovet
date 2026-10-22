@@ -6,7 +6,7 @@ slug = "g-shali-rukotvornoe-chudo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 г. Шали, рукотворное чудо…

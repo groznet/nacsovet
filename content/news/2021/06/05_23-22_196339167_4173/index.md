@@ -6,7 +6,7 @@ slug = "pervaia-tovarishcheskaia-igra-club77614088-chto-gde-kogda-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Первая товарищеская игра [club77614088|@chto_gde_kogda] в день торжественного открытия Дома предпринимателей. #бизнессообществочр @youthchr_nacsovet @dunaevmusa @intellektualny_kavkaz @intellektualny_centre_scfo @muzaevsaidmagomed @chroo_sm @mmoo_patriot_ @hasanova_madina__ @dunaev.95

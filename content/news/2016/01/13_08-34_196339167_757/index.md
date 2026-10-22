@@ -6,7 +6,7 @@ slug = "legkii-zavtrak-pekinskoi-utkoi-znachit-den-udastsia-do"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Легкий завтрак, "пекинской уткой"- значит день удастся... Доброе утро страна!!!

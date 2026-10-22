@@ -6,7 +6,7 @@ slug = "kak-mnogie-sebia-tak-vedut-k-sozhaleniiu-ili-nabiraiu-telef"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Как многие себя так ведут к сожалению...), или набираю телефон.... Впрямь как "Маша и Медведь".

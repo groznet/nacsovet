@@ -6,7 +6,7 @@ slug = "voistinu-region-perezhivshii-dva-demokraticheskikh-kto-znaet"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Воистину, регион переживший два демократических КТО, знает страшную цену террактов ... Друзья, дай Бог вам терпения пережить утрату близких ...

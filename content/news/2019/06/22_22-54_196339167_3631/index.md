@@ -5,8 +5,8 @@ title = "#всехблагвамдрузья #грозненскоеморе #ф
 slug = "vsekhblagvamdruzia-groznenskoemore-fontangroznyi-dovolny"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 #всехблагвамдрузья #грозненскоеморе #фонтангрозный #довольныдетисчастливыродители #дунаевмуса

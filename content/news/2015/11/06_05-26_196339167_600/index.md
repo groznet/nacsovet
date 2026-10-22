@@ -6,7 +6,7 @@ slug = "odnim-iz-luchshikh-dnei-vas-dorogie-bratia-i-sestry"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Одним из лучших дней Вас, дорогие братья и сестры !!!

@@ -6,7 +6,7 @@ slug = "ne-vazhno-kto-naprotiv-vazhno-kto-riadom-spasibo-druzia-ch"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Не важно, кто напротив. Важно, кто рядом. Спасибо, друзья, что вы есть!

@@ -6,7 +6,7 @@ slug = "vsem-dobroi-nochi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Всем доброй ночи!!!!!!!!

@@ -6,7 +6,7 @@ slug = "krasotadaitolko-gorykavkaza-chegemskie-vodopady-kbr07"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красотадаитолько #горыкавказа #чегемские_водопады #кбр07

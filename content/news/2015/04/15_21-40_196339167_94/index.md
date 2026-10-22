@@ -5,8 +5,8 @@ title = "На мероприятии в министерстве по нацио
 slug = "na-meropriiatii-v-ministerstve-po-natsionalnoi-politike"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Власть и политика"]
 +++
 
 На мероприятии в министерстве по национальной политике, внешним связям, печати и информации ЧР ...

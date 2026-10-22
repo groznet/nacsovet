@@ -5,8 +5,8 @@ title = "ВНИМАНИЕ ‼️"
 slug = "vnimanie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 ВНИМАНИЕ ‼️ 

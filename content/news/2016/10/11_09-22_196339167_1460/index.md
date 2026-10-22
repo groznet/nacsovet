@@ -5,8 +5,8 @@ title = "Всех мусульман поздравляю с ВЕЛИКИМ ДН
 slug = "vsekh-musulman-pozdravliaiu-s-velikim-dnem-ashura-vsekh-blag"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Всех мусульман поздравляю с ВЕЛИКИМ ДНЕМ АШУРА!!! Всех благ нам от нашего СОЗДАТЕЛЯ АЛЛАХА!!!

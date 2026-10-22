@@ -6,7 +6,7 @@ slug = "uveren-dannyi-chitatel-budet-samym-iunym"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Уверен, данный читатель будет самым юным…))

@@ -5,8 +5,8 @@ title = "ПОЗДРАВЛЯЮ ВСЕХ МУСУЛЬМАН С БЛАГОСЛОВ�
 slug = "pozdravliaiu-vsekh-musulman-s-blagoslovennym-prazdnikom-id"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 ПОЗДРАВЛЯЮ ВСЕХ МУСУЛЬМАН С БЛАГОСЛОВЕННЫМ ПРАЗДНИКОМ ИД АЛЬ-АДХА🤲❗️

@@ -5,8 +5,8 @@ title = "#GPRepost,#reposter,#notetag @germenchuc_sosh2 via @GPRepost"
 slug = "gprepost-reposter-notetag-germenchuc-sosh2-via-gprepost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Асламбек Алаудинов", "Чеченская Республика"]
+categories = ["Общественная жизнь", "Религия и традиции"]
 +++
 
 #GPRepost,#reposter,#notetag @germenchuc_sosh2 via @GPRepostApp 

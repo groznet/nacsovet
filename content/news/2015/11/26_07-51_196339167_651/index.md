@@ -5,8 +5,8 @@ title = "Доброе утро Москва!"
 slug = "dobroe-utro-moskva"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Доброе утро Москва!

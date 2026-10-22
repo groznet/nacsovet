@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-dorogie-nashi-zhenshchiny"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником вас, дорогие наши женщины!!!!!

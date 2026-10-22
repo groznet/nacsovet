@@ -6,7 +6,7 @@ slug = "po-vole-allakha-sestru-provozhaem-v-khadzh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле АЛЛАХА, сестру провожаем в ХАДЖ!!!

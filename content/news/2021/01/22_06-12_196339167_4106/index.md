@@ -5,8 +5,8 @@ title = "#Repost [id508910309|@idenilkhanov]"
 slug = "repost-id508910309-idenilkhanov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Даймохк", "Ибрагим Базаев", "Чеченская Республика", "Благотворительность", "Молодёжь"]
+categories = ["Благотворительность", "Общественная жизнь"]
 +++
 
 #Repost [id508910309|@idenilkhanov]

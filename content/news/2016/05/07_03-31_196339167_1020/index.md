@@ -5,8 +5,8 @@ title = "В предверии великого праздника встрет�
 slug = "v-predverii-velikogo-prazdnika-vstretilis-v-minnatse-s-veter"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ветераны"]
+categories = ["Патриотизм и память"]
 +++
 
 В предверии великого праздника встретились в миннаце с ветеранами ВОВ... Спасибо организаторам!

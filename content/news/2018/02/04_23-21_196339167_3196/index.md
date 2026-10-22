@@ -6,7 +6,7 @@ slug = "kogda-k-tebe-prikhodit-na-dieticheskii-uzhin-rodstvennik"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда к тебе приходит на диетический ужин родственник, прощай диета... #нужновернутьсявспорт #спорткаждыйдень☝🏻️ #хаджимуратоасулейман

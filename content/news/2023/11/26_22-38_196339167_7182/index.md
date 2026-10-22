@@ -5,8 +5,8 @@ title = "Высшая лига, третья игра в осенней сери
 slug = "vysshaia-liga-tretia-igra-v-osennei-serii-chtogdekogda"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Высшая лига, третья игра в осенней серии #ЧТОГДЕКОГДА

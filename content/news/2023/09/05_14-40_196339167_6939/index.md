@@ -6,7 +6,7 @@ slug = "rossiia-turtsiia-kidshop-ldmoda-kid-shop-95-lara-dmod"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #РОССИЯ🇷🇺 #ТУРЦИЯ 🇹🇷#KIDSHOP #LDMODA @kid_shop.95 @lara_dmoda

@@ -6,7 +6,7 @@ slug = "musa-staryk-sdnem-rozhdenyi-zdarovyi-vam-dalla-miarsh-le"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Муса старык сднём рожденый здаровый вам далла мярш могуша лелыйла

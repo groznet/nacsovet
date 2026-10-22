@@ -6,7 +6,7 @@ slug = "kharachoevtsy-v-kharachoe-u-znamenitogo-geroia-abreka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Харачоевцы в Харачое у  знаменитого Героя, Абрека Зелимхана...

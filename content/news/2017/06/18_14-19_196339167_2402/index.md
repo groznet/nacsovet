@@ -5,8 +5,8 @@ title = "Пока дети ловят рыбу, решил прилечь. По 
 slug = "poka-deti-loviat-rybu-reshil-prilech-po-tebe-polzaiut-tebia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Пока дети ловят рыбу, решил прилечь. По тебе ползают, тебя кусают в общем никакого уважения...Уйду я от вас...) #

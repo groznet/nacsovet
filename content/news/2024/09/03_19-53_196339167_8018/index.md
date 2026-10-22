@@ -5,8 +5,8 @@ title = "Уважаемые создатели контента!"
 slug = "uvazhaemye-sozdateli-kontenta"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк"]
+categories = ["Здоровье", "Благотворительность"]
 +++
 
 Уважаемые создатели контента!

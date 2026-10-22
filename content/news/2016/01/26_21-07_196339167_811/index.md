@@ -6,7 +6,7 @@ slug = "chelovek-rabotaiushchii-25-chasov-v-sutki-isa-khadzhimuradov"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Человек, работающий 25 часов в сутки Иса Хаджимурадов...

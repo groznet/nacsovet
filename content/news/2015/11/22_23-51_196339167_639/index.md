@@ -6,7 +6,7 @@ slug = "primerno-vot-tak-vot"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Примерно вот так вот ...

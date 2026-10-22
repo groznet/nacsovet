@@ -5,8 +5,8 @@ title = "Обратная сторона интеллектуальных игр
 slug = "obratnaia-storona-intellektualnykh-igr-no-i-kuda-ia-bez-svoi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Волонтёры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Обратная сторона интеллектуальных игр, но  и куда я без своих волонтёров…)

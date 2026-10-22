@@ -5,8 +5,8 @@ title = "#грозный parisbakerygrozny #впредкушениисказки
 slug = "groznyi-parisbakerygrozny-vpredkusheniiskazki"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 #грозный parisbakerygrozny #впредкушениисказки #

@@ -5,8 +5,8 @@ title = "После проведения Всероссийской акции �
 slug = "posle-provedeniia-vserossiiskoi-aktsii-chro-rsm-timur"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Тимур Магомадов", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 После проведения Всероссийской акции ЧРО РСМ (Тимур Магомадов) "Мы - граждане России!" В городе Шали с профи молодёжного дела с @ibragimbazaew, @mohmad_shali_95, @movsar_ibragimov__er

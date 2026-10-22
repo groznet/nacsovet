@@ -6,7 +6,7 @@ slug = "studencheskaia-osen-v-chgpu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Студенческая осень в ЧГПУ🍁🍂🎩

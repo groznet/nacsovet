@@ -6,7 +6,7 @@ slug = "s-delegatsiei-rso-alaniia-rukovoditel-intellektualnogo-klub"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 С делегацией РСО-Алания, руководитель интеллектуального клуба "Альбус" Жанна Бориева...

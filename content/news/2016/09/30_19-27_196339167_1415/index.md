@@ -5,8 +5,8 @@ title = "Официальный ответ Шура СМР Муфтию Чече
 slug = "ofitsialnyi-otvet-shura-smr-muftiiu-chechenskoi-respubliki"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Религия и традиции"]
 +++
 
 Официальный ответ Шура СМР Муфтию Чеченской Республики Межиеву

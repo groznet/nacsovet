@@ -5,8 +5,8 @@ title = "В ОПЧР на мероприятии..,"
 slug = "v-opchr-na-meropriiatii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР"]
+categories = ["Заметки"]
 +++
 
 В ОПЧР на мероприятии..,

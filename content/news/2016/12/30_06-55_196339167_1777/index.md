@@ -6,7 +6,7 @@ slug = "s-blagoslovennoi-piatnitsei-nas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С Благословенной пятницей нас!!!

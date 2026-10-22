@@ -6,7 +6,7 @@ slug = "ustalye-no-dovolnye-s-pervoi-pobedoi-fk-akhmat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Усталые, но довольные... С первой победой ФК "АХМАТ"!!!

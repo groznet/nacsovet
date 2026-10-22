@@ -6,7 +6,7 @@ slug = "vid-s-kosmosa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вид с "Космоса"

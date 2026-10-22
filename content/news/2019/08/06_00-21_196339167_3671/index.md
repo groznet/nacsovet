@@ -6,7 +6,7 @@ slug = "dom-milyi-dom-nu-i-konechno-ni-dnia-bez-sporta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Дом, милый дом, ну и конечно ни дня без спорта...

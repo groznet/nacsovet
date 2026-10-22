@@ -5,8 +5,8 @@ title = "#кчр #форум #архыз2017 #"
 slug = "kchr-forum-arkhyz2017"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 #кчр #форум #архыз2017 #

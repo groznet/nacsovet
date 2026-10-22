@@ -5,8 +5,8 @@ title = "Великолепные работы мастеров... #просто
 slug = "velikolepnye-raboty-masterov-prostosuper-namiur-belgiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Великолепные работы мастеров... #простосупер #намюр #бельгия🇧🇪 #музей #цитадель #

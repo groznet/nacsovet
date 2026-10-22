@@ -5,8 +5,8 @@ title = "В Национальной библиотеке прошло плен�
 slug = "v-natsionalnoi-biblioteke-proshlo-plenarnoe-zasedanie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Культура и искусство"]
 +++
 
 В Национальной библиотеке прошло пленарное заседание Общественной палаты ЧР

@@ -5,8 +5,8 @@ title = "«ЛЕДИ КВИЗ» - интеллектуальная виктори
 slug = "ledi-kviz-intellektualnaia-viktorina"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 «ЛЕДИ КВИЗ» - интеллектуальная викторина

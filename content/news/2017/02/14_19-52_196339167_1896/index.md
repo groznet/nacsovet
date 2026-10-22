@@ -6,7 +6,7 @@ slug = "prokladyvaiu-dorogu-federatsiiaekstremalnogosportachr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Прокладываю дорогу...#федерацияэкстремальногоспортачр

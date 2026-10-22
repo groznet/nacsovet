@@ -6,7 +6,7 @@ slug = "pervyi-klass-vse-tolko-nachinaetsia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Первый класс, все только начинается...

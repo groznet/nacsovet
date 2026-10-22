@@ -5,8 +5,8 @@ title = "Второй ден форума, дружно идем на обед�
 slug = "vtoroi-den-foruma-druzhno-idem-na-obed"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 Второй ден форума, дружно идем на обед…

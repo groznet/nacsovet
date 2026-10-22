@@ -6,7 +6,7 @@ slug = "https-t-me-gkrrus-2009"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://t.me/gkrrus/2009

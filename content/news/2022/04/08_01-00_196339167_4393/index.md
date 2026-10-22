@@ -6,7 +6,7 @@ slug = "voina-na-ukraine-07-04-22-na-20-00-bolshoe-nastuplenie-vs"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Война на Украине (07.04.22 на 20:00): большое наступление ВС РФ все ближе и ближе – маркеры

@@ -6,7 +6,7 @@ slug = "po-vole-allakha-u-brata-suleimana-khadzhi-nashid-movlid"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции", "Культура и искусство"]
 +++
 
 По воле АЛЛАХА, у брата Сулеймана-Хаджи!!! #нашид #мовлид🌙 #братья💪 #всеповолеВсевышнего☝️

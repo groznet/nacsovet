@@ -6,7 +6,7 @@ slug = "kto-byl-v-kitae-i-ne-poproboval-pekinskuiu-utku-on-ne-byl"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Кто был в Китае и не попробовал "Пекинскую утку", он не был в Китае ...

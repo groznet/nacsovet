@@ -5,8 +5,8 @@ title = "Москва для москвичей), правда, где из вз
 slug = "moskva-dlia-moskvichei-pravda-gde-iz-vziat-to"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Москва для москвичей), правда, где из взять то ...

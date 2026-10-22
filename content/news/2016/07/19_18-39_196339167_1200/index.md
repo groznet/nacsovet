@@ -6,7 +6,7 @@ slug = "poleteli"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Полетели...)

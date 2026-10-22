@@ -6,7 +6,7 @@ slug = "velikaia-kitaiskaia-stena-bezumno-krasivo-i-nemnozhko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Великая Китайская стена, безумно красиво и немножко холодно...)

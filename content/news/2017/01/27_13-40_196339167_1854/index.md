@@ -6,7 +6,7 @@ slug = "krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красотадаитолько #

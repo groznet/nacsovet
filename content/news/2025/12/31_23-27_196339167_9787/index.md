@@ -5,8 +5,8 @@ title = "С наступающим Новым 2026 годом!"
 slug = "s-nastupaiushchim-novym-2026-godom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Новый год"]
+categories = ["Поздравления"]
 +++
 
 С наступающим Новым 2026 годом! 

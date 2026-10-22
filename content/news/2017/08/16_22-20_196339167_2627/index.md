@@ -6,7 +6,7 @@ slug = "sanmarino"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #санмарино

@@ -6,7 +6,7 @@ slug = "voistinu-kogda-nashi-chechenskie-geroi-budut-nagrazhdeny"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Воистину, когда наши чеченские ГЕРОИ будут награждены заслуженными боевыми орденами!!!

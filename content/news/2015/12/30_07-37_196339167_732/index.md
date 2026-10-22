@@ -6,7 +6,7 @@ slug = "udachnogo-dnia-dlia-blagikh-del"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Удачного дня для благих дел!!!

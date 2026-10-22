@@ -5,8 +5,8 @@ title = "#пикник #погодавыдалась #бельгия🇧🇪 #д
 slug = "piknik-pogodavydalas-belgiia-dietastrashnaiasila-brat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #пикник #погодавыдалась #бельгия🇧🇪 #диетастрашнаясила #брат #племянники #шаглыкмашлык

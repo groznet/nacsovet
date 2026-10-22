@@ -6,7 +6,7 @@ slug = "vodopady-nikhaloevskievodopady-krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #водопады💦 #нихалоевскиеводопады #красотадаитолько

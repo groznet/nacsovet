@@ -6,7 +6,7 @@ slug = "druzia-rabotaite-mnogo-rabotaite-ne-opuskaite-ruki-pada"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, работайте, много работайте , не опускайте руки, падая, вставайте и идите дальше и по воле нашего СОЗДАТЕЛЯ  все сложится…

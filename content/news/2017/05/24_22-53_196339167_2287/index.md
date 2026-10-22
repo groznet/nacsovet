@@ -6,7 +6,7 @@ slug = "dala-attu-boila-shu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Дала аьтту бойла шу!!! #

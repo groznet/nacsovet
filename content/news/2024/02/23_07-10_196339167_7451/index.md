@@ -5,8 +5,8 @@ title = "ПОЗДРАВЛЯЮ С ДНЕМ ЗАЩИТНИКА ОТЕЧЕСТВА!
 slug = "pozdravliaiu-s-dnem-zashchitnika-otechestva-voistinu-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 ПОЗДРАВЛЯЮ С ДНЕМ ЗАЩИТНИКА ОТЕЧЕСТВА!!! Воистину, в единстве наша сила!  #РОССИЯ 🇷🇺

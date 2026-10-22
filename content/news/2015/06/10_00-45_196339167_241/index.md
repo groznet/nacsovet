@@ -6,7 +6,7 @@ slug = "rossiia-derbent-krasota-dunaev-makhmudov-zagidi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Россия #Дербент #красота #Дунаев #Махмудов #Загиди

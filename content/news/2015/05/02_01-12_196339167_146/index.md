@@ -5,8 +5,8 @@ title = "Еще пару годиков и я вам покажу ...) #Чечн
 slug = "eshche-paru-godikov-i-ia-vam-pokazhu-chechnia-groznyi-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Еще пару годиков и я вам покажу ...) #Чечня #Грозный #Дунаев #Абдуррахим

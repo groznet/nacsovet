@@ -5,8 +5,8 @@ title = "#охотанеохота #спорт #велопробег #здоро
 slug = "okhotaneokhota-sport-veloprobeg-zdorovyiobrazzhizni-onfchr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #охотанеохота #спорт #велопробег #здоровыйобразжизни #онфчр #спорткаждыйдень

@@ -6,7 +6,7 @@ slug = "sdavaites-fashisty"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Сдавайтесь «фашисты»!

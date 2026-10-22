@@ -5,8 +5,8 @@ title = "#москва #фондперспектива #проектвозвра
 slug = "moskva-fondperspektiva-proektvozvrashcheniekistokam-za"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #москва #фондперспектива #проектвозвращениекистокам За любимым занятием, сдаю отчеты (финансовый и аналитический)...

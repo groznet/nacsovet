@@ -5,8 +5,8 @@ title = "Братья и сёстры в исламе, с наступление
 slug = "bratia-i-sestry-v-islame-s-nastupleniem-sviashchennogo-r"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамадан"]
+categories = ["Религия и традиции"]
 +++
 
 Братья и сёстры в исламе, с наступлением Священного месяца РАМАДАН 🤲🤞

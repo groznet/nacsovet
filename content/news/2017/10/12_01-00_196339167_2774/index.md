@@ -6,7 +6,7 @@ slug = "starinnoe-selo-khoi-vedenskiiraion"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Старинное село ХОЙ, #веденскийрайон #

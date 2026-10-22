@@ -6,7 +6,7 @@ slug = "krasotadaitolko-gory-alpy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красотадаитолько #горы🗻 #альпы

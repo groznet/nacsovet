@@ -6,7 +6,7 @@ slug = "veruiushchie-liudi-tak-ne-postupaiut-vidimo-v-obrazovanii-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Верующие люди так не поступают, видимо в образовании в стране все в идеале, ...

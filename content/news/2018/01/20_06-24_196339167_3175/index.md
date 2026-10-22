@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-vsekh-blag-vam-ot-vsevyshnego-aktivn"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ДОБРОЕ УТРО СТРАНА!!! ВСЕХ БЛАГ ВАМ ОТ ВСЕВЫШНЕГО!!! #активныхвыходныхвсем

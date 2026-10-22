@@ -6,7 +6,7 @@ slug = "dobroe-utro-rossiia-vsekh-blag-vam-i-vashim-blizkim-ot"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ДОБРОЕ УТРО, РОССИЯ 🇷🇺 !!! Всех благ вам и вашим близким от нашего СОЗДАТЕЛЯ!!!

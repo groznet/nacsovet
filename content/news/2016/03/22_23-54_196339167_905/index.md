@@ -5,8 +5,8 @@ title = "Поздравляю с Днём рождения Министра ин
 slug = "pozdravliaiu-s-dnem-rozhdeniia-ministra-inostrannykh-del"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю с Днём рождения Министра иностранных дел Российской Федерации С.В. Лаврова!

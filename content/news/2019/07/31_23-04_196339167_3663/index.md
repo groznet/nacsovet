@@ -5,8 +5,8 @@ title = "Довольны дети,  счастливы родители... #mir
 slug = "dovolny-deti-schastlivy-roditeli-mirobilandia-italia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Довольны дети,  счастливы родители... #mirobilandia #italia🇮🇹

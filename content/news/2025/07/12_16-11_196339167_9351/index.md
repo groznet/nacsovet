@@ -5,8 +5,8 @@ title = "Согласен, отдых с детьми, больше работа
 slug = "soglasen-otdykh-s-detmi-bolshe-rabota-no-my-zhe-ne-ishchem"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Согласен, отдых с детьми, больше работа, но мы же не ищем легких путей. Тем более, довольны дети, ....) 

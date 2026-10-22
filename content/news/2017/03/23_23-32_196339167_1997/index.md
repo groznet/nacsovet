@@ -5,8 +5,8 @@ title = "#москва #селфисчемпионом  #племянник #ч�
 slug = "moskva-selfischempionom-plemiannik-chimaevzaur-sport-gre"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва", "Борьба"]
+categories = ["Спорт"]
 +++
 
 #москва #селфисчемпионом  #племянник #чимаевзаур #спорт #грепплинГИ #борьба #грепплинг #джиоджитсу #АЛХАМДУЛЛАХЬ

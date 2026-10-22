@@ -6,7 +6,7 @@ slug = "assalam-1aleikum-musa-salavdievich-ochen-rad-videt-tebia-u"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ассалам 1алэйкум Муса Салавдиевич ...очень рад видеть тебя у себя в друзьях ! Команда формируется 👍🏻

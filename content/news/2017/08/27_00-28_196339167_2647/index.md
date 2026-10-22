@@ -6,7 +6,7 @@ slug = "park-vykhodnyeprodolzhaiutsia-plemiannik"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #парк #выходныепродолжаются #племянник #довольныдетисчастливыродители

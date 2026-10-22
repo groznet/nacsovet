@@ -6,7 +6,7 @@ slug = "vybory2016-onfvmoemregione-bazaev-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #выборы2016 #онфвмоемрегионе #Базаев #Дунаев

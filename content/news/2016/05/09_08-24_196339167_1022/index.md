@@ -6,7 +6,7 @@ slug = "s-dnem-velikoi-pobedy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С ДНЕМ ВЕЛИКОЙ ПОБЕДЫ!!!

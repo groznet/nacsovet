@@ -6,7 +6,7 @@ slug = "spasibo-v-i-leninu-za-moe-schastlivoe-detstvo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Спасибо В.И. Ленину за моё счастливое детство...

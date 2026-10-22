@@ -6,7 +6,7 @@ slug = "vse-po-vole-allakh1a-zanimaemsia-bogougodnym-delom-uchite"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Все по воле АЛЛАХ1А!!! Занимаемся Богоугодным делом!!!#учительотбога #абдулазиз #племянники

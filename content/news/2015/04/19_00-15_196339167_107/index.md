@@ -5,8 +5,8 @@ title = "Архив ... #Россия #Ставрополь #РСМ #миссс�
 slug = "arkhiv-rossiia-stavropol-rsm-missstudenchestvarossii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 Архив ... #Россия #Ставрополь #РСМ #миссстуденчестваРоссии #Дунаев

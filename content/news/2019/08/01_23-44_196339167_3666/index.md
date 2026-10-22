@@ -6,7 +6,7 @@ slug = "shou-kaskaderov-mirabilandia-italy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Шоу каскадёров ... #mirabilandia #italy🇮🇹

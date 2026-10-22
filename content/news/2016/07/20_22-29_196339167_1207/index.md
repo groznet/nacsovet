@@ -6,7 +6,7 @@ slug = "nash-chechenskii-leps-alvialtamirov"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Наш чеченский ЛЕПС, ...#АльвиАльтамиров

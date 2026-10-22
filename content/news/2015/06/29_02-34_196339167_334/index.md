@@ -5,8 +5,8 @@ title = "Защитник ОТЕЧЕСТВА !!! #Чечня #Кадыров #п
 slug = "zashchitnik-otechestva-chechnia-kadyrov-plemiannik-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Патриотизм и память", "Власть и политика"]
 +++
 
 Защитник ОТЕЧЕСТВА !!! #Чечня #Кадыров #племянник #Дунаев

@@ -5,8 +5,8 @@ title = "На 6 (50) Пленуме Центрального комитета Р
 slug = "na-6-50-plenume-tsentralnogo-komiteta-rossiiskogo-soiuza-mo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Заметки"]
 +++
 
 На 6 (50) Пленуме Центрального комитета Российского Союза Молодежи 24 марта 2016 года.

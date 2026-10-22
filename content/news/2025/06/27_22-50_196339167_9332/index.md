@@ -5,8 +5,8 @@ title = "С праздником вас, наша самая прекрасна�
 slug = "s-prazdnikom-vas-nasha-samaia-prekrasnaia-sportivnaia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Поздравления", "Спорт"]
 +++
 
 С праздником вас, наша самая прекрасная, спортивная, интеллектуальная молодежь России ❗️🇷🇺

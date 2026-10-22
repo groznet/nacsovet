@@ -6,7 +6,7 @@ slug = "obsuzhdaem-vselenskie-problemy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Обсуждаем вселенские проблемы ...

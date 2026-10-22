@@ -6,7 +6,7 @@ slug = "iurii-podoliaka-rossiiskaia-armiia-ukhodit-iz-pod-kieva-kak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Юрий Подоляка: Российская армия уходит из-под Киева – как к этому отношусь я

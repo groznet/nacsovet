@@ -6,7 +6,7 @@ slug = "ochen-interesnaia-i-poznavatelnaia-kniga-spasibo-avtoru"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 Очень интересная и познавательная книга, спасибо автору Джамбулату УМАРОВУ  id233502451 (djambox)ik, [id233502451|djambox], minnac_95, за эту чудесную КНИГУ.  Читайте фактор КРА "ПРОТИВОСТОЯНИЕ"... #всехблагвамбратьяисестры

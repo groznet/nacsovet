@@ -5,8 +5,8 @@ title = "Обратная сторона интеллектуальных игр
 slug = "obratnaia-storona-intellektualnykh-igr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Обратная сторона интеллектуальных игр…))

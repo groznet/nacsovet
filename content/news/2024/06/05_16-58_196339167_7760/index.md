@@ -5,8 +5,8 @@ title = "Магазин детско-подростковой одежды «KID
 slug = "magazin-detsko-podrostkovoi-odezhdy-kidshop-sponsor-intell"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Чеченская Республика", "Дети"]
+categories = ["Молодёжь", "Интеллектуальные игры"]
 +++
 
 Магазин детско-подростковой одежды «KIDSHOP», спонсор интеллектуальных игр в ЧР.

@@ -6,7 +6,7 @@ slug = "blagodaren-vsevyshnemu-za-takikh-druzei-proverennye-vremenem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Благодарен ВСЕВЫШНЕМУ за таких друзей, проверенные временем!!!

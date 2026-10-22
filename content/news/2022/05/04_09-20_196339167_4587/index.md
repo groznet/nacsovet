@@ -5,8 +5,8 @@ title = "Приднестровью грозит вторжение Украин
 slug = "pridnestroviu-grozit-vtorzhenie-ukrainy-i-moldavii"
 author = "ГРАЖДАНСКИЙ КОМИТЕТ РОССИИ (ГКР)"
 
-tags = []
-categories = []
+tags = ["Гражданский комитет России"]
+categories = ["Общественная жизнь"]
 +++
 
 Приднестровью грозит вторжение Украины и Молдавии?

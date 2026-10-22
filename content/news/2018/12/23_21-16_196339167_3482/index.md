@@ -5,8 +5,8 @@ title = "Все во имя спорта, необходимость после 
 slug = "vse-vo-imia-sporta-neobkhodimost-posle-dieticheskogo-dnia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Все во имя спорта, необходимость после "диетического дня"...)) #спорт💪 #треножерныйзал #велоспорт🚴 #велопробег🚲

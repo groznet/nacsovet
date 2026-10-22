@@ -5,8 +5,8 @@ title = "Муса, поздравляю! счастья, здоровья, ус�
 slug = "musa-pozdravliaiu-schastia-zdorovia-uspekhov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление", "Здоровье"]
+categories = ["Поздравления", "Здоровье"]
 +++
 
 Муса, поздравляю! счастья, здоровья, успехов!

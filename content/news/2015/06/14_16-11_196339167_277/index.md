@@ -6,7 +6,7 @@ slug = "pod-varshavoi-ostanovka-na-obed-dom-restoran-na-ozere-o"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Под Варшавой, остановка на обед ... Дом-ресторан на озере, оригинально и красиво ... #Польша #обед #тур #озеро #красивыйвид #архив #Дунаев

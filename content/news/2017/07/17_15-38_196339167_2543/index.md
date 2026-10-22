@@ -5,8 +5,8 @@ title = "Только так, совет мудреца...) #активныйо�
 slug = "tolko-tak-sovet-mudretsa-aktivnyiotdykh-sport-velopro"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Только так, совет мудреца...) #активныйотдых #спорт #велопробег #жарапод40 #

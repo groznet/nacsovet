@@ -6,7 +6,7 @@ slug = "obeshchano-sdelano-u-vas-est-sneg-togda-my-edem-k-vam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Обещано, сделано...) У вас есть снег, тогда мы едем к вам...

@@ -6,7 +6,7 @@ slug = "nashi-atakuiut-akhmat-spartak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Наши атакуют... #ахмат-спартак

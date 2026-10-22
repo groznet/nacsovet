@@ -6,7 +6,7 @@ slug = "tvorenie-rodstvennika-na-vash-sud"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Творение родственника, на ваш суд ...

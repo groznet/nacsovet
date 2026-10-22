@@ -5,8 +5,8 @@ title = "Ассаламу 1алейкум! Друзья, не федеральн
 slug = "assalamu-1aleikum-druzia-ne-federalnaia-ne-natsionalnaia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Ассаламу 1алейкум! Друзья, не федеральная, не национальная, а обычная сельская дорога в #бельгия🇧🇪 ... Хорошего дня!!! #маоонациональныйсовет @youthchr_nacsovet @dunaevmusa

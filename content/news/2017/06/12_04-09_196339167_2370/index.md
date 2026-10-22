@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-s-dnem-rossii-druzia-vsekh-blag-vam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Доброе утро страна! С Днём России друзья!!! Всех благ вам!!!

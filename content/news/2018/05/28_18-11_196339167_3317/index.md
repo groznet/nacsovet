@@ -6,7 +6,7 @@ slug = "idu-na-lichnostnyi-rekord-50-km-za-plechami-no-uzhe-v-soprov"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Иду на личностный рекорд, 50 км. за плечами, но уже в сопровождении... #спорткаждыйдень #берегитесебя

@@ -6,7 +6,7 @@ slug = "staratsia-odno-a-byt-khoroshim-roditelem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Стараться одно, а быть  хорошим  родителем …))

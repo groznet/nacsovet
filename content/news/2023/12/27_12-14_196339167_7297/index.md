@@ -5,8 +5,8 @@ title = "Занимайтесь спортом, играйте в интелле
 slug = "zanimaites-sportom-igraite-v-intellektualnye-igry-da-bud"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Занимайтесь спортом, играйте в интеллектуальные игры… Да будет так!

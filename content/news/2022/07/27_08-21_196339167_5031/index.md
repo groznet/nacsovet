@@ -5,8 +5,8 @@ title = "Международный интеллектуальный форум 
 slug = "mezhdunarodnyi-intellektualnyi-forum-v-dubae-s-nashim-dorog"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Международный интеллектуальный форум в Дубае!! С нашим дорогим спонсором, директором Дома Штор Stile Home! ) 

@@ -6,7 +6,7 @@ slug = "boleemzanashikh-akhmatsila-akhmat-spartak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #болеемзанаших💪 #ахматсила #ахмат-спартак#

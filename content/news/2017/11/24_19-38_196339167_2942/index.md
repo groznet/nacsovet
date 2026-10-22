@@ -5,8 +5,8 @@ title = "#общественнаяпалатачр #селоАндиРД #ибр
 slug = "obshchestvennaiapalatachr-seloandird-ibragimbazaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Ибрагим Базаев"]
+categories = ["Общественная жизнь"]
 +++
 
 #общественнаяпалатачр #селоАндиРД #ибрагимбазаев ibragimbazaew #исламсайдаев islam_shah opchr #хамзатлорсанов

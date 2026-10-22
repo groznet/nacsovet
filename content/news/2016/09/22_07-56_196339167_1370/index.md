@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-s-dnem-zashchity-slonov-nas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Доброе утро страна!!! С днем защиты СЛОНОВ нас!!!

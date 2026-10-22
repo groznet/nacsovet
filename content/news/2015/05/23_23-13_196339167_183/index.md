@@ -5,8 +5,8 @@ title = "Третий по объему водопад в Китае, прост
 slug = "tretii-po-obemu-vodopad-v-kitae-prosto-krasota-kitai"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Заметки"]
 +++
 
 Третий по объему водопад в Китае, просто красота ... #Китай #РСМ #делегация #Дунаев

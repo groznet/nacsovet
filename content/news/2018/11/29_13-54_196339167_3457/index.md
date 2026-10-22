@@ -5,8 +5,8 @@ title = "#министерствообразования инаукичр #ми�
 slug = "ministerstvoobrazovaniia-inaukichr-minobrnaukichr-ibaykhanov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Офицеры России", "Молодёжь"]
+categories = ["Образование"]
 +++
 
 #министерствообразования инаукичр #минобрнаукичр ibaykhanov ГБУ ДО "Республиканский центр развития творчество дет, ей и юношества", семинар: "Профилактика терроризма и экстремизма в молодёжной среде"... #общественнаяпалатачр opchr_95 detichechni #офицерыроссии🇷🇺 oficeryofficial youthchr_nacsovet movladi_bata ibragimbazaew

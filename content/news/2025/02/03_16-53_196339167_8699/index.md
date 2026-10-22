@@ -5,8 +5,8 @@ title = "«ЛИДЕР ЧТЕНИЯ ГОРОДА ГРОЗНЫЙ», СОШ 65 г. 
 slug = "lider-chteniia-goroda-groznyi-sosh-65-g-groznogo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лидер чтения", "Грозный"]
+categories = ["Образование"]
 +++
 
 «ЛИДЕР ЧТЕНИЯ ГОРОДА ГРОЗНЫЙ», СОШ 65 г. Грозного

@@ -5,8 +5,8 @@ title = "День отъезда. Мы все таки успели побыва
 slug = "den-otezda-my-vse-taki-uspeli-pobyvat-i-smotrovoi-ploshchad"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 День отъезда. Мы все таки успели побывать и смотровой площадке... #грозныйсити #виднагородсверху

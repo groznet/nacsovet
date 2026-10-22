@@ -6,7 +6,7 @@ slug = "moi-pervyi-chechenskii-sup-nikomu-ne-govorite-poluchilos"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мой первый «чеченский суп», никому не говорите,  получилось на славу…))

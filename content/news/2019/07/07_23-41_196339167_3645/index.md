@@ -6,7 +6,7 @@ slug = "po-vole-sozdatelia-plemianniki-prodolzhaiut-radovat-segodnia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 По воле Создателя ,племянники продолжают радовать, сегодня Дунаев Магомед - первое место, но а самый юный Чимаев Ясин, пока бронза. Везачу АЛЛАХ1А, аьтто бойла шу!!!

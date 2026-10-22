@@ -1,6 +1,5 @@
 # Hugo output & cache
 public/
-temp/
 resources/_gen/
 .hugo_build.lock
 

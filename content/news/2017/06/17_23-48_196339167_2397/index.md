@@ -5,8 +5,8 @@ title = "#группаАН-НУР #вечернашидов #грозный #ц�
 slug = "gruppaan-nur-vechernashidov-groznyi-tsentrgroznogo-naiftar"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Культура и искусство"]
 +++
 
 #группаАН-НУР #вечернашидов #грозный #центргрозного #наифтаре🌙

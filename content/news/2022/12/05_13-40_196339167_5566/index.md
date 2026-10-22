@@ -5,8 +5,8 @@ title = "С Днем добровольца (волонтера) России �
 slug = "s-dnem-dobrovoltsa-volontera-rossii-vas-druzia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Волонтёры"]
+categories = ["Благотворительность", "Поздравления"]
 +++
 
 С Днем добровольца (волонтера) России 🇷🇺 вас друзья!!!

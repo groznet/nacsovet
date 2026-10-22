@@ -6,7 +6,7 @@ slug = "itum-kali-muzeiimenikhuseinaisaeva-dveri-otkryty-dobropozh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 #Итум-Кали #музейимениХусейнаИСАЕВА, двери открыты #добропожаловать #командапроекта #базаев #дунаев

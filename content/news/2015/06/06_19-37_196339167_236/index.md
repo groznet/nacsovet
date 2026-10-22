@@ -6,7 +6,7 @@ slug = "tunis-belyigorod-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Тунис #белыйгород #Дунаев

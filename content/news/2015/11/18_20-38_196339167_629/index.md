@@ -5,8 +5,8 @@ title = "Тренинг учит школьников толерантности
 slug = "trening-uchit-shkolnikov-tolerantnosti-informatsionnoe-agent"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Школьники"]
+categories = ["Образование", "Наука и технологии"]
 +++
 
 Тренинг учит школьников толерантности | Информационное агентство "Грозный-Информ"

@@ -6,7 +6,7 @@ slug = "sosh2germenchuk-vozvrashcheniekistokam-realizatsiiaproekta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Сош2герменчук #возвращениекистокам #реализацияпроекта

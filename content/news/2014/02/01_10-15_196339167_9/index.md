@@ -6,7 +6,7 @@ slug = "konechno-ameriku-ne-otkryl-no-venetsiia-tonet"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Конечно Америку не открыл, но Венеция тонет......

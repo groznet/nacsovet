@@ -3,7 +3,7 @@
 <!-- ===== PARTNERS HERO ===== -->
 <section class="relative overflow-hidden pt-12 pb-10 md:pt-20 md:pb-16">
     <div class="container mx-auto px-5 lg:px-8 text-center">
-        <span class="inline-block text-primary text-sm font-semibold px-4 py-1.5 mb-5">
+        <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-5 backdrop-blur-sm">
             <i class="fas fa-handshake mr-1"></i> Наши партнёры
         </span>
         <h1 class="heading-font text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight text-primary mb-6">
@@ -30,7 +30,7 @@
                 <a :href="partner.url || '#'" 
                    target="_blank" 
                    rel="noopener"
-                   class="flex flex-col items-center justify-center p-6 duration-300 group">
+                   class="flex flex-col items-center justify-center p-6 bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow duration-300 group">
                     <div class="h-16 w-full flex items-center justify-center mb-4">
                         <img :src="'/' + partner.logo.replace(/^\//, '')" :alt="partner.name" class="max-h-full max-w-full object-contain filter grayscale group-hover:grayscale-0 transition-all duration-300">
                     </div>

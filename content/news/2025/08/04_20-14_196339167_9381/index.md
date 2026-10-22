@@ -5,8 +5,8 @@ title = "Поддержите благотворительный сбор в Day
 slug = "podderzhite-blagotvoritelnyi-sbor-v-daymohk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк", "Благотворительность"]
+categories = ["Благотворительность"]
 +++
 
 Поддержите благотворительный сбор в Daymohk! 🤲

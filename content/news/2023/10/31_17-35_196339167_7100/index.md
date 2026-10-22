@@ -6,7 +6,7 @@ slug = "https-youtube-com-shorts-swyos7cnpi8-feature-shared"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://youtube.com/shorts/SwYOS7cnPi8?feature=shared

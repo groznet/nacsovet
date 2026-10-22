@@ -6,7 +6,7 @@ slug = "dala-dekal-voila-kho-s-dnem-rozhdeniia-vas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 ДАЛА ДЕКЪАЛ ВОЙЛА ХЬО ! С ДНЁМ РОЖДЕНИЯ ВАС !

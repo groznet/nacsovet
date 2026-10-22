@@ -6,7 +6,7 @@ slug = "selfi-s-bratiami-aldy-bratia-salman-suleiman-khaddimu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Селфи с братьями... #алды #братья #салман #сулейман #хаддимурадовы

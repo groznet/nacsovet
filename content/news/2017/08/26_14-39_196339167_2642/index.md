@@ -5,8 +5,8 @@ title = "Хороший взрослый всегда найдёт время д
 slug = "khoroshii-vzroslyi-vsegda-naidet-vremia-dlia-detei-pritnykh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Хороший взрослый всегда найдёт время для детей... Притных выходных!!!

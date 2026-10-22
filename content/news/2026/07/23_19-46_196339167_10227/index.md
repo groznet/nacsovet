@@ -6,7 +6,7 @@ slug = "edinaia-osnova-dlia-obshchestva-kak-ukaz-prezidenta-meniaet"
 author = "ЦРО «Международная Исламская Миссия»"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Единая основа для общества: как указ Президента меняет Россию 

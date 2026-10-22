@@ -5,8 +5,8 @@ title = "Дорогие наши женщины, разрешите и мне п
 slug = "dorogie-nashi-zhenshchiny-razreshite-i-mne-prisoedinitsia-ko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Международный женский день", "Поздравление"]
+categories = ["Общественная жизнь", "Поздравления"]
 +++
 
 Дорогие наши женщины, разрешите и мне присоединиться ко всем поздравлениям в ваш адрес, что бы в вашей жизни 8 марта было "ежедневно", пожелать вам и вашим близким всех благ от ВСЕВЫШНЕГО!!!  yuliavasiljeva liliahusnutdinova ivanova_802 utro_s_groznym #нацсовет hasanova_madina_amat #индираджабраилова chro_voi opchr_95 minnac_95 chroo_sm #нацсоветобщественныхобъединенийчр #нацсоветчр

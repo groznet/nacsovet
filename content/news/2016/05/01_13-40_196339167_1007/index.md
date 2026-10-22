@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-druzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником вас друзья!!!

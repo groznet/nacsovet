@@ -6,7 +6,7 @@ slug = "rossiia-pobedila-shvetsiiu-v-pervom-matche-slutskogo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Россия победила Швецию в первом матче Слуцкого

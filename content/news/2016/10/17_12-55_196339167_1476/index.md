@@ -6,7 +6,7 @@ slug = "budem-zashchishchat-cheloveka-truda-v-sovremennykh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Будем защищать человека труда в современных условиях...

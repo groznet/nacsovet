@@ -5,8 +5,8 @@ title = "В Страсбурге проходит выставка «Много�
 slug = "v-strasburge-prokhodit-vystavka-mnogonatsionalnaia-rossiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Выставка"]
+categories = ["Культура и искусство"]
 +++
 
 В Страсбурге проходит выставка «Многонациональная Россия» | Информационное агентство "Грозный-Информ"

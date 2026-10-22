@@ -6,7 +6,7 @@ slug = "my-gotovy-vash-khod-gospoda-intellektualy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мы готовы, ваш ход, господа интеллектуалы…

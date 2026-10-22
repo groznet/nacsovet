@@ -6,7 +6,7 @@ slug = "chudo-iz-chudes-kezenoi-am"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Чудо из чудес "Кезеной Ам"!

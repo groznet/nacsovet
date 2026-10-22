@@ -5,8 +5,8 @@ title = "#тропамипредков #экспедиция"
 slug = "tropamipredkov-ekspeditsiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Тропами предков", "Экспедиция"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #тропамипредков #экспедиция

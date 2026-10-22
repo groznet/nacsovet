@@ -5,8 +5,8 @@ title = "Друзья из Всекитайской Федерации моло�
 slug = "druzia-iz-vsekitaiskoi-federatsii-molodezhi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 Друзья из Всекитайской Федерации молодежи...

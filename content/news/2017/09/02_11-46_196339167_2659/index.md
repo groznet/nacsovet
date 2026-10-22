@@ -6,7 +6,7 @@ slug = "saudovskaia-araviia-kurbanbairam-krasavtsybarany-vsekhblagot"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 #саудовская_аравия #курбанбайрам #красавцыбараны #всехблаготСОЗДАТЕЛЯ #спраздникомвас

@@ -6,7 +6,7 @@ slug = "priglasit-professionala-pera-indiru-dzhabrailovu-na-iftar-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пригласить профессионала пера Индиру Джабраилову на ифтар в ее День Рождения дорогого стоит... Везачу АЛЛАХА декьалла йойла хьо йинчу даьнца Индира!!!

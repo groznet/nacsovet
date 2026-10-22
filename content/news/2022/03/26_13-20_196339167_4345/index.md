@@ -6,7 +6,7 @@ slug = "dobro-pozhalovat-v-intellektualnyi-mir"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 Добро пожаловать в интеллектуальный мир !

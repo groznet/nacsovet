@@ -6,7 +6,7 @@ slug = "khvalaallakhu-daruiimsvoivechnyiraioallakh-terraktvzelandii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 #хвалаАллаху #даруйимсвойвечныйрайоАллах #террактвзеландии #мусадунаев #скорбимвместесвами

@@ -6,7 +6,7 @@ slug = "serdtse-prositsia-domoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Сердце просится ДОМОЙ!!!!!!

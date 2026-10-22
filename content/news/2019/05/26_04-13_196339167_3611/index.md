@@ -6,7 +6,7 @@ slug = "vezachu-allakh1a-gech-doila-kha-nanan-ibrakhim-khadzh-dala"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВЕЗАЧУ АЛЛАХ1А, ГЕЧ ДОЙЛА ХЬА НАНАН, ИБРАХЬИМ-ХАДЖ! ДАЛА, ЯЛСМАНЕЦА БЕКЪАМА БОЙЛА ЦУНАХ1!

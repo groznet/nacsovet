@@ -5,8 +5,8 @@ title = "г. Грозный, спорт холл Колизей,  междуна
 slug = "g-groznyi-sport-kholl-kolizei-mezhdunarodnyi-turnir-ligi-w"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Грозный"]
+categories = ["Спорт"]
 +++
 
 г. Грозный, спорт холл Колизей,  международный турнир Лиги WFCA "Grad Prix Akhmat"... Главный бой бойцовского вечера Marcin "Bane"  Lazarz из Польши и представитель бойцовского клуба "Ахмат" Максим "Максимус" Гришин...

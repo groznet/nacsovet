@@ -6,7 +6,7 @@ slug = "na-repetitsii-mbousosh39-konkursouchsheishkolychr-uveren-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 На репетиции #мбоусош39 #конкурсоучшейшколычр Уверен, что наша школа лучшая и из лучших!!!!

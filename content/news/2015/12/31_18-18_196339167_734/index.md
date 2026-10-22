@@ -6,7 +6,7 @@ slug = "vsekh-blag-v-oboikh-mirakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Всех благ в обоих мирах!

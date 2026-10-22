@@ -5,8 +5,8 @@ title = "Спасибо генеральному директору \"Спорт
 slug = "spasibo-generalnomu-direktoru-sport-kholl-kolizei-islamu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Религия и традиции", "Спорт"]
 +++
 
 Спасибо генеральному директору "Спорт Холл Колизей"- Исламу  Барзанкаеву за подарок детям...

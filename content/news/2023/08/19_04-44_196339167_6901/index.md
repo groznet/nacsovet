@@ -6,7 +6,7 @@ slug = "tsel-iasna-zadacha-postavlena-budem-rabotat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Цель ясна, задача  поставлена, будем работать…!!!

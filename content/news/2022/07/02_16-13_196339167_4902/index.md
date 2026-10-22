@@ -5,8 +5,8 @@ title = "Как-то так!  Довольны дети, …..!"
 slug = "kak-to-tak-dovolny-deti"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Как-то так!  Довольны дети, …..!

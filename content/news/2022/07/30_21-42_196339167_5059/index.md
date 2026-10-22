@@ -6,7 +6,7 @@ slug = "dubaiskaia-venetsiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Дубайская «Венеция»…)

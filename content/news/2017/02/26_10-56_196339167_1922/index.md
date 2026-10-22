@@ -6,7 +6,7 @@ slug = "rostovnadonu-delfinarii-krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #ростовнадону #дельфинарий ##красотадаитолько

@@ -6,7 +6,7 @@ slug = "khoroshaia-vstrecha-srazu-sdalsia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Хорошая встреча, сразу сдался...)

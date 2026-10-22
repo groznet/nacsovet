@@ -6,7 +6,7 @@ slug = "25-06-2026g-natsionalnaia-biblioteka-tvorcheskii-vecher-sa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 25.06.2026г., Национальная  библиотека , творческий вечер Сайд-Магомеда Баширова - 

@@ -6,7 +6,7 @@ slug = "kto-govoril-chto-budet-skuchno"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Кто говорил, что будет скучно!!!)

@@ -6,7 +6,7 @@ slug = "pravilnyi-primer-dlia-podrastaiushchego-pokoleniia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Правильный пример для подрастающего поколения

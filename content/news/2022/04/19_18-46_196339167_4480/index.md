@@ -5,8 +5,8 @@ title = "#ифтар #друг #хаджимурадовиса #грозныйм
 slug = "iftar-drug-khadzhimuradovisa-groznyimoll-dunaevmusa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный Молл", "Грозный"]
+categories = ["Религия и традиции"]
 +++
 
 #ифтар #друг #хаджимурадовиса #грозныймолл #дунаевмуса

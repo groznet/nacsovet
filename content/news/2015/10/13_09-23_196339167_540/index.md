@@ -6,7 +6,7 @@ slug = "molodtsy-udachi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Молодцы !!! Удачи !!!

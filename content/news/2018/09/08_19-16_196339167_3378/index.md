@@ -5,8 +5,8 @@ title = "#велопробег🚲 #велоспорт🚴 #спорткажды
 slug = "veloprobeg-velosport-sportkazhdyiden-ilipochtikazhdyiden"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #велопробег🚲 #велоспорт🚴 #спорткаждыйдень #илипочтикаждыйдень #здоровыйобразжизни

@@ -5,8 +5,8 @@ title = "#велосипеднадиван #спорт💪 #активныхвы
 slug = "velosipednadivan-sport-aktivnykhvykhodnykh-veloprobeg-ve"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #велосипеднадиван #спорт💪 #активныхвыходных #велопробег🚲 #велоспорт🚴 #россия🇷🇺 #всеповолеВсевышнего☝️

@@ -6,7 +6,7 @@ slug = "rossiia-sochi-iiiplenum-zhizneobespecheniia-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Россия #Сочи #IIIпленум #жизнеобеспечения #Дунаев

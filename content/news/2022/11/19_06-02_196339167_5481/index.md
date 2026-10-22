@@ -5,8 +5,8 @@ title = "Доброе утро страна #РОССИЯ 🇷🇺❗️"
 slug = "dobroe-utro-strana-rossiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 Доброе утро страна #РОССИЯ 🇷🇺❗️

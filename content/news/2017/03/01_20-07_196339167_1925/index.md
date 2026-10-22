@@ -5,8 +5,8 @@ title = "Завершился первый этап проекта «Возвр�
 slug = "zavershilsia-pervyi-etap-proekta-vozvrashchenie-k-istokam"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Завершился первый этап проекта «Возвращение к истокам» | Информационное агентство "Грозный-Информ"

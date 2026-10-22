@@ -6,7 +6,7 @@ slug = "i-ia-tam-byl-po-tu-storonu-obektiva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 И я там был..,) По ту сторону объектива...

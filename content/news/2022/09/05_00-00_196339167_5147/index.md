@@ -6,7 +6,7 @@ slug = "dazhe-obidno-chto-v-pervye-v-galanchozhskom-raione"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Даже обидно, что в первые в Галанчожском районе.  Волшебные виды!!!

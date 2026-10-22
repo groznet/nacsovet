@@ -6,7 +6,7 @@ slug = "vstrecha-odnoklassnikov-tot-samyi-sluchai-kogda-my-druzhno"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Встреча одноклассников, тот самый случай, когда мы дружно переместились в школьные годы, учащиеся 10б класса хорошо провели время, было интересно.

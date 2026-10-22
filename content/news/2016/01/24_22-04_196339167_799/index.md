@@ -6,7 +6,7 @@ slug = "legenda-mirovogo-sporta-buvaisar-saitiev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Легенда мирового спорта Бувайсар САЙТИЕВ!!!

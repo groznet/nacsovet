@@ -5,8 +5,8 @@ title = "Реал Мадрид обладатель \"Кубок Европы\".
 slug = "real-madrid-obladatel-kubok-evropy-bravo-real-bravo-zid"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Кубок"]
+categories = ["Заметки"]
 +++
 
 Реал Мадрид обладатель "Кубок Европы". Браво Реал, браво Зидан!!!

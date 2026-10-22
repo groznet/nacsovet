@@ -6,7 +6,7 @@ slug = "po-vole-vsevyshnego-allakha-prochitali-sviashchennyi-movlid"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле ВСЕВЫШНЕГО АЛЛАХА, прочитали Священный Мовлид, восхваляя Пророка МУХIАММАДА (Да благословит Его АЛЛАХ и приветствует) !!!

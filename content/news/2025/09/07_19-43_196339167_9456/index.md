@@ -6,7 +6,7 @@ slug = "poluchit-gramotu-ot-rukovoditelia-vserossiiskoi-aktsii-ia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Получить грамоту от руководителя Всероссийской акции «Я вернулся - мама» Гучигова С.Б., дорогого стоит, спасибо! Будем работать!

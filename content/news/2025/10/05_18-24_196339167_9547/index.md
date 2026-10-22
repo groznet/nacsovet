@@ -5,8 +5,8 @@ title = "В Грозном стартовала военно-патриотич�
 slug = "v-groznom-startovala-voenno-patrioticheskaia-igra-nasha-sila"
 author = "ЧГТРК Грозный"
 
-tags = []
-categories = []
+tags = ["Владимир Путин", "Грозный", "Здоровье"]
+categories = ["Патриотизм и память", "Здоровье"]
 +++
 
 В Грозном стартовала военно-патриотическая игра «Наша сила — в единстве» 

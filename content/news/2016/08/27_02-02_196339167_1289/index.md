@@ -5,8 +5,8 @@ title = "На Общероссийском форуме активных гра�
 slug = "na-obshcherossiiskom-forume-aktivnykh-grazhdan-soobshchestvo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 На Общероссийском форуме активных граждан "Сообщество"...

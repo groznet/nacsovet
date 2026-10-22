@@ -6,7 +6,7 @@ slug = "v-tri-godika-i-takaia-pochetnaia-gramota-za-smelost-otvagu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В три годика, и такая  Почетная грамота «За смелость, отвагу и героизм», гордость берет …))

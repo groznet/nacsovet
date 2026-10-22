@@ -5,8 +5,8 @@ title = "Самый большой в мире Океанариум! Добро 
 slug = "samyi-bolshoi-v-mire-okeanarium-dobro-pozhalovat-k-nam-v-du"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Самый большой в мире Океанариум! Добро пожаловать к нам в Дубай!

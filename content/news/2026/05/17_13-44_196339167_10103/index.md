@@ -6,7 +6,7 @@ slug = "chto-takoe-miloserdie-dlia-musulmanina"
 author = "ЦРО «Международная Исламская Миссия»"
 
 tags = []
-categories = []
+categories = ["Благотворительность"]
 +++
 
 Что такое милосердие для мусульманина? 

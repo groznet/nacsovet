@@ -5,8 +5,8 @@ title = "#ресторан354метра #москва #смотровая_пло
 slug = "restoran354metra-moskva-smotrovaia-ploshchadka-krasotadaitol"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #ресторан354метра #москва #смотровая_площадка #красотадаитолько #

@@ -6,7 +6,7 @@ slug = "kogda-v-aeroportu-vstrechaesh-uvazhaemykh-liudei-ne-chudo-li"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда в аэропорту встречаешь уважаемых людей, не чудо ли это!!!

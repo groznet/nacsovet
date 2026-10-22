@@ -6,7 +6,7 @@ slug = "tvorcheskii-vecher-murdalova-muslima-istorika-publitsista"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Творческий вечер Мурдалова Муслима, историка, публициста…

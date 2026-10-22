@@ -6,7 +6,7 @@ slug = "navstrechu-vyboram"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 «НАВСТРЕЧУ ВЫБОРАМ!»

@@ -5,8 +5,8 @@ title = "Я на жесткой диете...))) #друзьяивафрикед
 slug = "ia-na-zhestkoi-diete-druziaivafrikedruzia-yuliavasiljev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Форум"]
+categories = ["Заметки"]
 +++
 
 Я на жесткой диете...))) #друзьяивафрикедрузья yuliavasiljeva #форум #открытыйкавказ #грозный

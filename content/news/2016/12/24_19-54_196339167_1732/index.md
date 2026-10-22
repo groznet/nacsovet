@@ -5,8 +5,8 @@ title = "Талисман чемпионата России по дзюдо, п�
 slug = "talisman-chempionata-rossii-po-dziudo-pervyi-den"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чемпионат", "Борьба"]
+categories = ["Заметки"]
 +++
 
 Талисман чемпионата России по дзюдо, первый день..,

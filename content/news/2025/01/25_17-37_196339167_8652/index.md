@@ -5,8 +5,8 @@ title = "✅ С праздником вас, дорогие студенты �
 slug = "s-prazdnikom-vas-dorogie-studenty"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Студенты"]
+categories = ["Поздравления", "Образование"]
 +++
 
 ✅ С праздником вас, дорогие студенты 🧑‍🎓🌹❗️

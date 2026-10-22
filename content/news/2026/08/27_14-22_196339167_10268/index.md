@@ -5,8 +5,8 @@ title = "Августовское совещание работников мун
 slug = "avgustovskoe-soveshchanie-rabotnikov-munitsipalnoi-sistemy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Августовское совещание работников муниципальной системы образования города Грозного.

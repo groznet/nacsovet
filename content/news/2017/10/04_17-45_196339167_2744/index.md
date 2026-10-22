@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #племянники #рамзандунаев
 slug = "belgiia-plemianniki-ramzandunaev-tamerlandunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #племянники #рамзандунаев #тамерландунаев

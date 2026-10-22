@@ -6,7 +6,7 @@ slug = "poleznaia-informatsiia-dlia-vsekh-kto-khochet-nauchitsia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Полезная информация для всех, кто хочет научиться эффективно и грамотно вести социальные сети. Стартовала регистрация на второй сезон проекта «ТопБЛОГ». 

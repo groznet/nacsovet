@@ -6,7 +6,7 @@ slug = "frantsiia-strassburg"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #франция🇫🇷 #страссбург #

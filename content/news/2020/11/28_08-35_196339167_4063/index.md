@@ -5,8 +5,8 @@ title = "Доброе утро страна #россия🇷🇺 !!! Друзь
 slug = "dobroe-utro-strana-rossiia-druzia-aktivnykh-vykhodnykh-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 Доброе утро страна #россия🇷🇺 !!! Друзья, активных выходных вам !!! @youthchr_nacsovet @dunaevmusa #маоонациональныйсовет #маоонацсовет #нацсоветчр #дунаевмуса

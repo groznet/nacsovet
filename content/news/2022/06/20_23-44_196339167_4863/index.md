@@ -6,7 +6,7 @@ slug = "da-prebudet-s-vami-sila-intellekta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ДА ПРЕБУДЕТ С ВАМИ СИЛА ИНТЕЛЛЕКТА!

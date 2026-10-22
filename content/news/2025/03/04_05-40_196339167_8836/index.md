@@ -6,7 +6,7 @@ slug = "o-allakh-darui-emu-rai-inna-lilliakhi-va-inna-iliaikhi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 О АЛЛАХ, даруй ему рай🤲❗️ Инна лилляхи ва-инна иляйхи раджиун🤲

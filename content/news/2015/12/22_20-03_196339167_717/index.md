@@ -6,7 +6,7 @@ slug = "chto-takoe-sout"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Что такое СОУТ?

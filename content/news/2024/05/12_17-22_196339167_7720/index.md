@@ -6,7 +6,7 @@ slug = "https-youtube-com-shorts-nme6f76xhbw-si-hdlzdn6qab2jocyd"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://youtube.com/shorts/nmE6F76xHBw?si=hdlZDn6qaB2jocyD

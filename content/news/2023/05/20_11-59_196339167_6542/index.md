@@ -5,8 +5,8 @@ title = "Фестиваль интеллектуальных игр в рамк�
 slug = "festival-intellektualnykh-igr-v-ramkakh-prezidentskogo-gran"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Я и этот мир"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Фестиваль интеллектуальных игр в рамках Президентского  гранта  «Я и весь мир»

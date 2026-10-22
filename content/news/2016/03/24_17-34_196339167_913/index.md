@@ -5,8 +5,8 @@ title = "44.03.2016г. IX съезд РСМ, с братом Ильясом Ша
 slug = "44-03-2016g-ix-sezd-rsm-s-bratom-iliasom-shavaevym"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 44.03.2016г. IX съезд РСМ, с братом Ильясом Шаваевым...

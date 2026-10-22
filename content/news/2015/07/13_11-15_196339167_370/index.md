@@ -5,8 +5,8 @@ title = "Знакомство Абдуррахмана с Москвой или 
 slug = "znakomstvo-abdurrakhmana-s-moskvoi-ili-moskvy-s"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Знакомство Абдуррахмана с Москвой или Москвы с Абдуррахманом ... #Россия #Москва #Дунаев

@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-sa-dottakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВЕЗАЧУ АЛЛАХА ДЕКЬАЛЛА ВОЙЛА ХЬО ВИНЧУ ДАЬНЦА СА ДОТТАХЬ АЛЬВИ!!! ВСЕХ БЛАГ ВАМ И ВАШИМ БЛИЗКИМ ОТ ВСЕВЫШНЕГО АЛЛАХА В ОБОИХ МИРАХ!!! С Днюхой БРАТ!!!

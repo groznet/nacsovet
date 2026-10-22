@@ -5,8 +5,8 @@ title = "ПОЗДРАВЛЯЮ НАШУ СБОРНУЮ С ПОБЕДОЙ!!! #мо
 slug = "pozdravliaiu-nashu-sbornuiu-s-pobedoi-molodtsy-ura-ura-ura"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 ПОЗДРАВЛЯЮ НАШУ СБОРНУЮ С ПОБЕДОЙ!!! #молодцы #УРА #УРА #УРА

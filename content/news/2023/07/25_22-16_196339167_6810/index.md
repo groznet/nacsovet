@@ -5,8 +5,8 @@ title = "Восьмой этап второго сезона «Тропами п
 slug = "vosmoi-etap-vtorogo-sezona-tropami-predkov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Тропами предков"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Восьмой этап второго сезона «Тропами предков»…

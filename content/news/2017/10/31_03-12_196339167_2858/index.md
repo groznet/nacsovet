@@ -5,8 +5,8 @@ title = "В гостях у Юни Успанова yuni_uspanov в Моздок
 slug = "v-gostiakh-u-iuni-uspanova-yuni-uspanov-v-mozdoke-po-kavkazk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 В гостях у Юни Успанова yuni_uspanov в Моздоке... По кавказки поужинав у Юни, как всегда, тяжело распрощались... #моздок #гостеприимныйдом #юниуспанов #исламсайдаев islam_shah #ибрагимбазаев ibragimbazaew #Деларезахуьлдахьун

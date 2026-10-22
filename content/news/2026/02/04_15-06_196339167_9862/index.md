@@ -5,8 +5,8 @@ title = "Доброе утро, страна #РОССИЯ 🇷🇺Когда д
 slug = "dobroe-utro-strana-rossiia-kogda-den-nachinaetsia-s-raboche"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Единая Россия"]
+categories = ["Заметки"]
 +++
 
 Доброе утро, страна #РОССИЯ 🇷🇺Когда день начинается с рабочей встречи в ЧРО «ЕДИНАЯ РОССИЯ», обещает быть продуктивным…

@@ -5,8 +5,8 @@ title = "#брюсель #бельгия🇧🇪"
 slug = "briusel-belgiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #брюсель #бельгия🇧🇪

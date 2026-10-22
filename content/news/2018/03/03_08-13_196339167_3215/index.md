@@ -6,7 +6,7 @@ slug = "mezhgosudarstvennaia-granitsa-respublikaingushetiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Межгосударственная граница... #республикаингушетия #севернаяосетия ЕДИНАЯ РОССИЙСКАЯ НАЦИЯ

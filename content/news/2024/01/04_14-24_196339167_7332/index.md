@@ -6,7 +6,7 @@ slug = "sport-i-pravilnoe-pitanie-uveren-my-pridem-k-pravilnym-ts"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Спорт и Правильное питание! Уверен, мы придем к правильным цифрам на весах. За 3 дня, минус  3.9 кг. Активных выходных вам, друзья!

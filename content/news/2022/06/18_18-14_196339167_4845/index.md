@@ -6,7 +6,7 @@ slug = "dobro-pozhalovat-v-respubliku"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Добро пожаловать в республику!

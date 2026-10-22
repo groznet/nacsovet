@@ -6,7 +6,7 @@ slug = "s-dnem-narodnogo-edinstva-s-prazdnikom-vas-druzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С днем народного единства! С праздником вас друзья!!!

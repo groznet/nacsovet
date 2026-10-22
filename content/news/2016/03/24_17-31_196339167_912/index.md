@@ -5,8 +5,8 @@ title = "IX съезд РСМ, 24 марта 2016 года."
 slug = "ix-sezd-rsm-24-marta-2016-goda"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 IX съезд РСМ, 24 марта 2016 года.

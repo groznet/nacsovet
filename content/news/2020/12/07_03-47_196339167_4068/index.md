@@ -5,8 +5,8 @@ title = "движения «ГРАЖДАНСКИЙ КОМИТЕТ РОССИИ»
 slug = "dvizheniia-grazhdanskii-komitet-rossii-gkr-arturu-anatolev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Гражданский комитет России"]
+categories = ["Общественная жизнь"]
 +++
 
 движения «ГРАЖДАНСКИЙ КОМИТЕТ РОССИИ» (ГКР) АРТУРУ АНАТОЛЬЕВИЧУ ШЛЫКОВУ @arturshlikovv !!!

@@ -5,8 +5,8 @@ title = "Мой племянник Тамерлан Дунаев стал чем
 slug = "moi-plemiannik-tamerlan-dunaev-stal-chempionom-belgii-po"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия", "Борьба"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Мой племянник Тамерлан Дунаев стал чемпионом Бельгии по дзюдо среди юношей ...

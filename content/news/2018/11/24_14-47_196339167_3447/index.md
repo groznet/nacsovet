@@ -6,7 +6,7 @@ slug = "aktivnykhvykhodnykh-subbotnikudalsia-spasibodruziam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #активныхвыходных #субботникудался #спасибодрузьям

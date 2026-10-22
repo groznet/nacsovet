@@ -6,7 +6,7 @@ slug = "oz-kezenoi-am-vedenskiiraion"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Оз. Кезеной-Ам, #веденскийрайон

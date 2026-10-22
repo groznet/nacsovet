@@ -6,7 +6,7 @@ slug = "blagodaren-sponsoru-kompanii-turetskikh-sladrstei-ulker"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Благодарен спонсору, компании Турецких сладрстей «УЛЬКЕР

@@ -5,8 +5,8 @@ title = "«ХАМСА», Всероссийский форум «Горы от �
 slug = "khamsa-vserossiiskii-forum-gory-ot-uma-respublika-ingush"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 «ХАМСА», Всероссийский форум «Горы от ума», Республика Ингушетия…, день первый

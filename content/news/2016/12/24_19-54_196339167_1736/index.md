@@ -6,7 +6,7 @@ slug = "i-dazhe-na-okhote-ot-zhurnalistov-ne-skroeshsia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 И даже на охоте от журналистов не скроешься...))

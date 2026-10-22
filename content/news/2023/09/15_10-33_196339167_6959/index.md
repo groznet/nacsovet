@@ -5,8 +5,8 @@ title = "МБОУ «СОШ 39 г. Грозный», ярмарка, доволь
 slug = "mbou-sosh-39-g-groznyi-iarmarka-dovolny-deti-rodnaia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Дети"]
+categories = ["Заметки"]
 +++
 
 МБОУ «СОШ 39 г. Грозный», ярмарка, довольны дети, …  #роднаяшкола. #сош39 #грозный #ярмарка

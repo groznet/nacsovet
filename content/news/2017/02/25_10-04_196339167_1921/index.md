@@ -6,7 +6,7 @@ slug = "podezzhaem-k-rostovu-dovolnye-i-schastlivye"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Подъезжаем к Ростову, довольные и счастливые...

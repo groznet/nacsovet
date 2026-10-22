@@ -6,7 +6,7 @@ slug = "selfi-nikto-ne-otmenial-meniaite-divany-na-prirodu-i-prekras"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Селфи никто не отменял. Меняйте диваны на природу, и прекрасно и полезно... #БугIан-Юрт

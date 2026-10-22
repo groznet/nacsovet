@@ -6,7 +6,7 @@ slug = "osen-po-nocham-v-gorakh-chuvstvuetsia-khochetsia-kostrom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Осень по ночам в горах чувствуется, хочется костром накрыться...  Активный отдых.

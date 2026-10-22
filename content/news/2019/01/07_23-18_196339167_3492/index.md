@@ -6,7 +6,7 @@ slug = "dieticheskii-uzhin-s-druziami-musakhatataea-isakhadzhimur"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Диетический  ужин с друзьями) ... #мусахататаеа #исахаджимурадов #муслимкапланов #всехблагвамдрузья

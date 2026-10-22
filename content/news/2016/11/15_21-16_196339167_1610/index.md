@@ -6,7 +6,7 @@ slug = "boleem-za-nashu-sbornuiu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Болеем за нашу сборную...

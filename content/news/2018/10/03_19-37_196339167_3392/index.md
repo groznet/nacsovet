@@ -5,8 +5,8 @@ title = "#всевоимяспорта #велопробег #велоспорт
 slug = "vsevoimiasporta-veloprobeg-velosport-sportkazhdyiden-yul"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #всевоимяспорта #велопробег #велоспорт🚴 #спорткаждыйдень yuliavasiljeva

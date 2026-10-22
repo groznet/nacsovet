@@ -6,7 +6,7 @@ slug = "eks-prezident-frantsii-krym-nikogda-ne-byl-ukrainskim"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Экс-президент Франции: Крым никогда не был украинским

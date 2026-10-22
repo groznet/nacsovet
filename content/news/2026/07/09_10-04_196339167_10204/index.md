@@ -6,7 +6,7 @@ slug = "slavnyi-gorod-rusi-rostov-gorod-moego-studenchestva-vstret"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Славный город РУСИ — РОСТОВ, город моего студенчества встретил нас хорошей погодой. Добро пожаловать в наш гостеприимный город #РОСТОВ!

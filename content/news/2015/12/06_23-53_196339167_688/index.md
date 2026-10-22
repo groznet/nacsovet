@@ -5,8 +5,8 @@ title = "ООО \"Российский Союз Молодежи\", руково
 slug = "ooo-rossiiskii-soiuz-molodezhi-rukovoditeli-territorialnykh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 ООО "Российский Союз Молодежи", руководители территориальных организаций РСМ...

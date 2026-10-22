@@ -6,7 +6,7 @@ slug = "sezd-chechenskogo-naroda-byt-delegatami-chest"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Съезд чеченского народа, быть делегатами - честь !!!

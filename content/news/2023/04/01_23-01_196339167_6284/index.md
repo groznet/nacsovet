@@ -5,8 +5,8 @@ title = "Финальные игры муниципального Чемпион
 slug = "finalnye-igry-munitsipalnogo-chempionata-po-fg-3-4-kl"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чемпионат"]
+categories = ["Заметки"]
 +++
 
 Финальные игры муниципального Чемпионата по ФГ (3-4 кл.)

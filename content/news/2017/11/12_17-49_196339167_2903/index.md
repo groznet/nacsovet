@@ -5,8 +5,8 @@ title = "#аэропортсеверный #оооофицерыроссиивч
 slug = "aeroportsevernyi-oooofitseryrossiivchr-namoskvu-povolevsev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России"]
+categories = ["Патриотизм и память"]
 +++
 
 #аэропортсеверный #оооофицерыроссиивчр #намоскву #поволевсевышнего☝️☝️☝️

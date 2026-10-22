@@ -6,7 +6,7 @@ slug = "nash-gid-zamechatelnaia-russkaia-devushka-s-redkim-imenem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Наш ГИД, замечательная русская девушка с редким именем Наташа ... ) #Италия #Венеция #Дунаев

@@ -6,7 +6,7 @@ slug = "samyi-liubimyi-i-krasivyi-gorod-na-zemle-etot-tot-v-kotorom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Самый любимый и красивый город на земле, этот тот в котором вы родились и живете...

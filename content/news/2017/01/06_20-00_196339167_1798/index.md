@@ -6,7 +6,7 @@ slug = "s-novym-2017-godom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С Новым 2017 годом!!!

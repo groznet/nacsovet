@@ -5,8 +5,8 @@ title = "По милости АЛЛАХА, наш брат Хамзат Закр
 slug = "po-milosti-allakha-nash-brat-khamzat-zakriev-sovershil-v-g"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Религия и традиции"]
 +++
 
 По милости АЛЛАХА, наш брат Хамзат Закриев совершил в этом году Хадж. Все по воле ВСЕВЫШНЕГО!  

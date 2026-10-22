@@ -6,7 +6,7 @@ slug = "ia-po-snegu-soskuchilsia-a-v-stavropole-v-izbytke"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Я по снегу соскучился, а в Ставрополе в избытке...

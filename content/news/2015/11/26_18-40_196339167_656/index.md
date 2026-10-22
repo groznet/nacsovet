@@ -5,8 +5,8 @@ title = "Всероссийское совещание руководителе�
 slug = "vserossiiskoe-soveshchanie-rukovoditelei-to-rsm-rsm25-kadry"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 Всероссийское совещание руководителей ТО  #РСМ #РСМ25 #КадрыРСМ

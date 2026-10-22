@@ -6,7 +6,7 @@ slug = "gospoda-intellektualy-idet-podgotovkam-k-teleproektu-piat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 Господа интеллектуалы, идёт подготовкам к телепроекту «Пять знатоков»&8&66

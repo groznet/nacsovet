@@ -5,8 +5,8 @@ title = "Итоги мартовской игры «Панорама-Квиз» 
 slug = "itogi-martovskoi-igry-panorama-kviz-v-restorane-vasilchuk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Васильчуки"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Итоги мартовской игры «Панорама-Квиз» в ресторане «Васильчуки»:

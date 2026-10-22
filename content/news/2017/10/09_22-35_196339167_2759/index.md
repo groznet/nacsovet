@@ -5,8 +5,8 @@ title = "Дорогие друзья!!! Спасибо вам за поздра�
 slug = "dorogie-druzia-spasibo-vam-za-pozdravleniia-i-vam-vsekh-bl"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Дорогие друзья!!! Спасибо вам за поздравления. И вам всех благ от СОЗДАТЕЛЯ!!!! #друзьяивафрикедрузья

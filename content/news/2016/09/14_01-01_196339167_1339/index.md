@@ -6,7 +6,7 @@ slug = "budem-rybu-lovit"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Будем рыбу ловить...

@@ -6,7 +6,7 @@ slug = "konechno-kogda-tvoi-trud-viden-gordost-beret"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Конечно, когда твой труд виден, гордость берет!)

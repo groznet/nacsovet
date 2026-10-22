@@ -6,7 +6,7 @@ slug = "vedenskiiraion-peshchera-abrekzelimkhan-natsionalnyigeroi-kh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 #веденскийрайон #пещера #абрекзелимхан #национальныйгерой #харачойнзелимхан

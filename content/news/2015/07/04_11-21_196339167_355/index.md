@@ -6,7 +6,7 @@ slug = "na-starte-proigravshii-platit-za-uzhin-u-menia-kon-po-kr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 На старте ...Проигравший платит за ужин, у меня "КОНЬ" по круче и поел на славу ...) #КБР #бесподобныйвид #старт #победа #ужин #Дунаев

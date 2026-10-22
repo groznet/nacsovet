@@ -6,7 +6,7 @@ slug = "aktivnykh-vykhodnykh-sport"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Активных  выходных... #спорт💪

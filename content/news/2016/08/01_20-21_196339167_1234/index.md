@@ -6,7 +6,7 @@ slug = "velikolepnaia-italiia-g-verona-samyi-znamenityi-balkon-mira"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Великолепная Италия, г.Верона, самый знаменитый балкон МИРА... #Италия #Верона #Россия #знаменитыйбалкон #джульетта #джульеттаиромео

@@ -6,7 +6,7 @@ slug = "nabiraius-opytom-k-priezdu-druga-semi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Набираюсь опытом к приезду друга семьи !

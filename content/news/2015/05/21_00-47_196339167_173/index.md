@@ -5,8 +5,8 @@ title = "Нам годик!!! #Чечня #Грозный #ДеньРожден�
 slug = "nam-godik-chechnia-groznyi-denrozhdeniia-dunaev-abdulmal"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Нам годик!!! #Чечня #Грозный #ДеньРождения #Дунаев #Абдулмалик

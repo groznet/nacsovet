@@ -5,8 +5,8 @@ title = "#Чечня #Грозный #Спорт #Борьба #племянни
 slug = "chechnia-groznyi-sport-borba-plemiannik-zaur-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Спорт"]
 +++
 
 #Чечня #Грозный #Спорт #Борьба #племянник #Заур #Дунаев

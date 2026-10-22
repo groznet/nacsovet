@@ -5,8 +5,8 @@ title = "XI Съезд Российского Союза Молодежи, на 
 slug = "xi-sezd-rossiiskogo-soiuza-molodezhi-na-soveshchanii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Северный Кавказ", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 XI Съезд Российского Союза Молодежи, на совещании региональной группы СКФО...

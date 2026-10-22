@@ -6,7 +6,7 @@ slug = "nikto-ne-govoril-chto-budet-legko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Никто не говорил, что будет легко !!!)

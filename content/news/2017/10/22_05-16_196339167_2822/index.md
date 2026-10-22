@@ -6,7 +6,7 @@ slug = "vsekh-blag-ot-vsevyshnego-allakha-vam-i-vashim-blizkim-dob"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВСЕХ. БЛАГ ОТ  ВСЕВЫШНЕГО АЛЛАХА, ВАМ И ВАШИМ БЛИЗКИМ!!! ДОБРОЕ УТРО, СТРАНА!!!

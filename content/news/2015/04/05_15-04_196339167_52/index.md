@@ -6,7 +6,7 @@ slug = "pobeditel-i-pobezhdennyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 "Победитель и побежденный!"

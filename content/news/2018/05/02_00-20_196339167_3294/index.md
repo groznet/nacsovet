@@ -6,7 +6,7 @@ slug = "vspomnil-slova-velikogo-cheloveka-posle-otdykha-nuzhen"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вспомнил слова великого ЧЕЛОВЕКА "после отдыха, нужен отдых"...))

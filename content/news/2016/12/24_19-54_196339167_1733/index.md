@@ -6,7 +6,7 @@ slug = "kogda-detki-tak-masteriat-priiatno"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда детки так мастерят, приятно...)

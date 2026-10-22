@@ -5,8 +5,8 @@ title = "«ЧТО? ГДЕ? КОГДА?», ВЫСШАЯ ЛИГА, ДА ПРЕБУ
 slug = "chto-gde-kogda-vysshaia-liga-da-prebudet-s-vami-sila-int"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Заметки"]
 +++
 
 «ЧТО? ГДЕ? КОГДА?», ВЫСШАЯ ЛИГА, ДА ПРЕБУДЕТ С ВАМИ СИЛА ИНТЕЛЛЕКТА!!!

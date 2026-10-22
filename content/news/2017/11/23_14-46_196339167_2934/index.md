@@ -6,7 +6,7 @@ slug = "rsoalaniia-vladikavkaz"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #рсоалания #владикавказ

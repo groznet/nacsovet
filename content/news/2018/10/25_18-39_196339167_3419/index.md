@@ -6,7 +6,7 @@ slug = "spetsialnyi-reportazh-dlia-druzei-devchonki-derzhites-yu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Специальный репортаж для друзей, девчонки держитесь...))) yuliavasiljeva ivanova_802

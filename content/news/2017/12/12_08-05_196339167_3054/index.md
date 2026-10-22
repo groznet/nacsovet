@@ -5,8 +5,8 @@ title = "ДОБРОЕ УТРО СТРАНА!!! Продуктивной неде
 slug = "dobroe-utro-strana-produktivnoi-nedeli-vam-moskva-kr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 ДОБРОЕ УТРО СТРАНА!!! Продуктивной недели ВАМ!!! #москва #круглыйстол #

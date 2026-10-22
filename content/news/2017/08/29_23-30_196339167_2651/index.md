@@ -5,8 +5,8 @@ title = "Расширенное заседание Общественной па
 slug = "rasshirennoe-zasedanie-obshchestvennoi-palaty-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 Расширенное заседание Общественной палаты ЧР.

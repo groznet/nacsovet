@@ -6,7 +6,7 @@ slug = "dagestan-makhmudovzagidi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #дагестан #махмудовзагиди #

@@ -5,8 +5,8 @@ title = "ДОРОГИЕ ДРУЗЬЯ!!! В 17:30 начнётся Первый �
 slug = "dorogie-druzia-v-17-30-nachnetsia-pervyi-mezhdunarodnyi-inte"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России", "Кубок", "Турнир", "Чеченская Республика"]
+categories = ["Интеллектуальные игры"]
 +++
 
 ДОРОГИЕ ДРУЗЬЯ!!! В 17:30 начнётся Первый Международный интеллектуальный турнир на Кубок 🏆 Первого Президента ЧР, Героя России А-Х.А. КАДЫРОВА .. pgrants_ru tiynalla_hotel youthchr_nacsovet intellektualny_kavkaz chroo_sm opchr_95 rosmolodez fadn_rossii #роофицерыроссиивчр🇷🇺

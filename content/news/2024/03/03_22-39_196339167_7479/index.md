@@ -6,7 +6,7 @@ slug = "komandy-gotovy-my-edem-k-vam-da-prebudet-s-vami-sila-inte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Команды готовы, мы едем к вам…) Да пребудет с вами сила интеллекта!

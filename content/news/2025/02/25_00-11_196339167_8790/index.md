@@ -5,8 +5,8 @@ title = "24.02.2025 В рамках цикла внеурочных заняти
 slug = "24-02-2025-v-ramkakh-tsikla-vneurochnykh-zaniatii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 24.02.2025 В рамках цикла внеурочных занятий

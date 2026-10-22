@@ -6,7 +6,7 @@ slug = "druzia-iz-bratskoi-osetii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья из братской Осетии !!!

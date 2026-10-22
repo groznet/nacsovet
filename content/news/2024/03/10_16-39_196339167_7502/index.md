@@ -6,7 +6,7 @@ slug = "master-klass-ot-cheloveka-vremeni"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мастер-класс, от человека времени…))

@@ -6,7 +6,7 @@ slug = "pora-druzia-oi-kak-pora-otkryvaiu-shashlyk-mashlyk-gosti"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пора, друзья, ой как пора, открываю «Шашлык- Машлык», гости, семья были довольны, или пожалели меня, мой труд…))

@@ -6,7 +6,7 @@ slug = "da-budet-dovolen-vami-allakh-iskrennie-soboleznovaniia-rodn"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Да будет доволен вами АЛЛАХ!!! Искренние соболезнования родным...

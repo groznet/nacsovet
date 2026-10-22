@@ -5,8 +5,8 @@ title = "#владикавказ #рсо #рсм #чрорсм #тимурмаг
 slug = "vladikavkaz-rso-rsm-chrorsm-timurmagomadov-tskrsm"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Тимур Магомадов"]
+categories = ["Молодёжь"]
 +++
 
 #владикавказ #рсо #рсм #чрорсм #тимурмагомадов #цкрсм

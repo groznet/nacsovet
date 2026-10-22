@@ -5,8 +5,8 @@ title = "#директор #интеллектуальныйцентрскфо #
 slug = "direktor-intellektualnyitsentrskfo-muzaevsaidmagomed-int"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Северный Кавказ"]
+categories = ["Интеллектуальные игры"]
 +++
 
 #директор #интеллектуальныйцентрскфо #музаевсайдмагомед #интервью

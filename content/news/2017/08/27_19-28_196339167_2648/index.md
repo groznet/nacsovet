@@ -6,7 +6,7 @@ slug = "s-volevoi-pobedoi-fk-akhmat-tsska-akhmat-0-1"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С волевой победой  ФК "АХМАТ"!!! ЦСКА-АХМАТ 0-1!!!

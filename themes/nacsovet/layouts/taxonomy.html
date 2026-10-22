@@ -15,7 +15,7 @@
         
         <div class="flex flex-wrap items-center justify-between gap-4">
             <div>
-                <span class="inline-block text-primary text-sm font-semibold px-4 py-1.5 mb-3">
+                <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-3 backdrop-blur-sm">
                     <i class="fas fa-tags mr-1"></i> {{ .Data.Singular | humanize }}
                 </span>
                 <h1 class="heading-font text-3xl md:text-4xl lg:text-5xl font-extrabold text-primary">
@@ -27,7 +27,7 @@
                 </p>
             </div>
             
-            <div class="text-sm text-muted px-4 py-2">
+            <div class="text-sm text-muted bg-white/60 px-4 py-2 rounded-full border border-gray-200/50">
                 <i class="fas fa-hashtag mr-1"></i> Всего: <span>{{ len $terms }}</span>
             </div>
         </div>
@@ -55,7 +55,7 @@
             RIGHT COLUMN — TERM CLOUD
             ============================================================ -->
         <main class="flex-1 min-w-0">
-            <div class="p-6 md:p-8">
+            <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
                 {{ $allTerms := .Data.Terms.ByCount }}
                 {{ $totalCount := len $allTerms }}
                 {{ if gt $totalCount 0 }}
@@ -84,9 +84,9 @@
                             {{ end }}
 
                             <a href="{{ $term.Page.RelPermalink }}" 
-                            class="inline-flex items-center gap-2 text-primary transition-all duration-200 group {{ $fontSize }} {{ if ge $index 80 }}extra-term hidden{{ end }}">
+                            class="inline-flex items-center gap-2 rounded-full border border-gray-200/80 bg-gray-50/80 text-primary hover:bg-primary/5 hover:border-primary transition-all duration-200 group {{ $fontSize }} {{ if ge $index 80 }}extra-term hidden{{ end }}">
                                 <span>{{ $term.Page.Title }}</span>
-                                <span class="text-[11px] font-semibold text-primary px-2 py-0.5 transition-colors">
+                                <span class="text-[11px] font-semibold bg-accent/40 text-primary px-2 py-0.5 rounded-full transition-colors">
                                     {{ $count }}
                                 </span>
                             </a>
@@ -94,8 +94,8 @@
                     </div>
 
                     {{ if gt $totalCount 80 }}
-                        <div class="mt-8 pt-4 text-center">
-                            <button id="termsToggleBtn" type="button" class="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:text-secondary transition-colors cursor-pointer px-5 py-2.5">
+                        <div class="mt-8 pt-4 border-t border-gray-100 text-center">
+                            <button id="termsToggleBtn" type="button" class="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:text-secondary transition-colors cursor-pointer bg-gray-50 hover:bg-gray-100 px-5 py-2.5 rounded-full border border-gray-200">
                                 <span id="termsToggleText">Показать все ({{ $totalCount }})</span>
                                 <i id="termsToggleIcon" class="fas fa-chevron-down text-xs transition-transform duration-200"></i>
                             </button>

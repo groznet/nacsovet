@@ -6,7 +6,7 @@ slug = "na-iftare-u-isy-khadzhimuradova-muslimkaplanov-musakhatata"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 На ифтаре у Исы Хаджимурадова... #муслимкапланов #мусахататаев

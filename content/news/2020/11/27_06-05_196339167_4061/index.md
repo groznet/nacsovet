@@ -5,8 +5,8 @@ title = "Примите поздравления от имени правлен�
 slug = "primite-pozdravleniia-ot-imeni-pravleniia-youthchr-nacsovet"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Примите поздравления от имени правления @youthchr_nacsovet , уверен, зная вас, первое место не за горами ... Везачу Аллаха, аьтто бойла хьа, лараме 1иса @isa.patriot !!! #маоонациональныйсовет @dunaevmusa #дунаевмуса

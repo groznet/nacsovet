@@ -5,8 +5,8 @@ title = "Приехали в Хасавюрт!!! #хасавюртлигазна
 slug = "priekhali-v-khasaviurt-khasaviurtligaznanii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир"]
+categories = ["Заметки"]
 +++
 
 Приехали в Хасавюрт!!! #хасавюртлигазнаний

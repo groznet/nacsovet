@@ -5,8 +5,8 @@ title = "Семья Абрека Зелимхана!!! #Чечня#гордос�
 slug = "semia-abreka-zelimkhana-chechnia-gordost-abrekzelimkhan-duna"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Семья Абрека Зелимхана!!! #Чечня#гордость#АбрекЗелимхан#Дунаев#Базаев#Муцаев#

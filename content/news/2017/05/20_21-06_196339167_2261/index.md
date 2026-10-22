@@ -5,8 +5,8 @@ title = "#чечня #серноводск #санаторий #здоровый
 slug = "chechnia-sernovodsk-sanatorii-zdorovyiobrazzhizni-tolkotak"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #чечня #серноводск #санаторий #здоровыйобразжизни #толькотакиникакиначе

@@ -6,7 +6,7 @@ slug = "budem-nabliudat-vse-radi-nauki"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Наука и технологии"]
 +++
 
 Будем наблюдать, все ради науки...

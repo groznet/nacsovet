@@ -6,7 +6,7 @@ slug = "druzia-s-novym-2025-godom-vas-voistinu-24-god-byl-nasyshch"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, с Новым 2025 годом вас!  Воистину, 24 год, был насыщенным, проделана  огромная работа, год ушел в историю…

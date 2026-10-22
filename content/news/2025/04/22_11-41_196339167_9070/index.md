@@ -5,8 +5,8 @@ title = "В ГКР высказались против создания отде
 slug = "v-gkr-vyskazalis-protiv-sozdaniia-otdelnogo-napravleniia-v-i"
 author = "Сборная Бельгии по футболу | RBFA"
 
-tags = []
-categories = []
+tags = ["Гранты"]
+categories = ["Заметки"]
 +++
 
 В ГКР высказались против создания отдельного направления в интересах мигрантов❌

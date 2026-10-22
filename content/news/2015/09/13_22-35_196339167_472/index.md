@@ -5,8 +5,8 @@ title = "ЧР, Итум-Калинский района, сел. Керичу. �
 slug = "chr-itum-kalinskii-raiona-sel-kerichu-rodovoe-selo-bazaevy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 ЧР, Итум-Калинский района, сел. Керичу. Родовое село Базаевых, просто  действенная красота ...

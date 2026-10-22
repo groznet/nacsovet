@@ -6,7 +6,7 @@ slug = "takaia-ataka-byla-29-minuta-poka-po-nuliam-rossiia-ru"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Такая атака была..., 29 минута, пока по нулям... #РОССИЯ #РУМЫНИЯ

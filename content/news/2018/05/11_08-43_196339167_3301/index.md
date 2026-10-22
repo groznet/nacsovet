@@ -6,7 +6,7 @@ slug = "pomnim-i-skorbim-vezachu-allakha-gech-doila-shuna"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Помним и скорбим!!! ВЕЗАЧУ АЛЛАХА ГЕЧ ДОЙЛА ШУНА, ЯЛСМАНЕЦА БЕКЪАМА А БОЙЛА!!!

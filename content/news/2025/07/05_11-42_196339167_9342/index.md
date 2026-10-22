@@ -5,8 +5,8 @@ title = "«Мобильная съёмка 1.0». Подведение итог�
 slug = "mobilnaia-semka-1-0-podvedenie-itogov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 «Мобильная съёмка 1.0». Подведение итогов.

@@ -6,7 +6,7 @@ slug = "s-dnem-chechenskogo-iazyka-vas-damy-i-gospoda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С Днем чеченского языка вас, дамы и господа!!!

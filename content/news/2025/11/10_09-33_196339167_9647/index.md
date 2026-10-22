@@ -5,8 +5,8 @@ title = "Доброе утро страна 🇷🇺‼️ Фотосессия 
 slug = "dobroe-utro-strana-fotosessiia-prodolzhaetsia-den-vtoroi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Доброе утро страна 🇷🇺‼️ Фотосессия продолжается, день второй…

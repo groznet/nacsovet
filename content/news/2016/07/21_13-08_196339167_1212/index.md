@@ -6,7 +6,7 @@ slug = "vozlozhenie-tsvetov-k-memorialnomu-kompleksu-slavy-im-a-kh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Возложение цветов к мемориальному комплексу Славы им.А-Х. КАДЫРОВА, ВЕЗАЧУ АЛЛАХА декьалла войла хьо!!!

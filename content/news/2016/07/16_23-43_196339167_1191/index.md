@@ -6,7 +6,7 @@ slug = "krasnaia-dorozhka-na-starte-nalchik-zagidimakhmudov-mago"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Красная дорожка, на старте... #Нальчик #ЗагидиМахмудов #МагомедАлиев #МаринаФиларетова #АннаКарпухина #Дунаев

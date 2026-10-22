@@ -6,7 +6,7 @@ slug = "vysokogornoe-ozero-kezenoi-am-prosto-krasota-poverte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Высокогорное озеро Кезеной-Ам, просто красота - поверьте....

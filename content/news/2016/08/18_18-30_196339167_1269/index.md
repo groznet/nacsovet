@@ -6,7 +6,7 @@ slug = "i-ia-tam-byl"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 И я там был...

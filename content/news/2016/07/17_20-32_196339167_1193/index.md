@@ -6,7 +6,7 @@ slug = "nalchik-na-svadbe-mladshego-brata-magomeda-alieva-s-druziam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Нальчик, на свадьбе младшего брата Магомеда Алиева с друзьями...

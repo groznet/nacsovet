@@ -6,7 +6,7 @@ slug = "na-festivale-kinomaevka-v-krymu-predstavili-dokumentalnyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 На фестивале «Киномаёвка» в Крыму представили документальный сериал «Семья «Ахмат».

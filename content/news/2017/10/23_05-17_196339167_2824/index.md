@@ -6,7 +6,7 @@ slug = "voistinu-namaz-luchshe-chem-son-dobroe-utro-strana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВОИСТИНУ, НАМАЗ ЛУЧШЕ ЧЕМ СОН!!! Доброе утро страна!!!

@@ -5,8 +5,8 @@ title = "Хороший родитель всегда найдет время д
 slug = "khoroshii-roditel-vsegda-naidet-vremia-dlia-svoikh-detei-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Хороший родитель всегда найдет время для своих детей…)) В ожидании торжественной линейки, ждем грамоту за отличную учебу…

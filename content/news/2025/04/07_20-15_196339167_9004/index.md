@@ -6,7 +6,7 @@ slug = "druzia-6-aprelia-svoi-den-rozhdeniia-otmetila-drug-semi-khor"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, 6 апреля свой День рождения отметила друг семьи, хороший ЧЕЛОВЕК, ЮЛИЯ ВАСИЛЬЕВА.

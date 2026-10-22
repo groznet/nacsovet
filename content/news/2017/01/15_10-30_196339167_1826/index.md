@@ -6,7 +6,7 @@ slug = "aktivnykh-vykhodnykh-druzia-krasotadaitolko-dobroeutro"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Активных выходных друзья... ##красотадаитолько✌️ #доброеутространа

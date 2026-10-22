@@ -6,7 +6,7 @@ slug = "v-dobryi-put-ni-dnia-bez-sporta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 В добрый путь, ни дня без спорта...

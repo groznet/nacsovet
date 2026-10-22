@@ -6,7 +6,7 @@ slug = "arkhiv-neperedavaemoe-oshchushchenie-kormit-golubei-s-ruk"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Архив: Непередаваемое ощущение, кормить голубей с рук...

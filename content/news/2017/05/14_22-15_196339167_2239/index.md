@@ -6,7 +6,7 @@ slug = "krasotadaitolko-vedenskiiraion"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красотадаитолько #веденскийрайон

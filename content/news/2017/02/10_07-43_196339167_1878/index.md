@@ -6,7 +6,7 @@ slug = "gprepost-reposter-notetag-assotsiatsiya-obsh-obyedineniy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #GPRepost,#reposter,#notetag @assotsiatsiya_obsh_obyedineniy via @GPRepostApp 

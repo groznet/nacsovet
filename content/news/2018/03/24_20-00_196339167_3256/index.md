@@ -6,7 +6,7 @@ slug = "po-vole-allakha-vremia-ne-stoit-na-meste-vot-i-ia-v-krugu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле АЛЛАХА, время не стоит на месте, вот и я в кругу родственников, ждём будущих, а я за старшего... #всеповолеАЛЛАХА

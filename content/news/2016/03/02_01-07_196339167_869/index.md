@@ -6,7 +6,7 @@ slug = "29-02-2016g-otmechaem-den-rozhdeniia-dunaeva-abdurakhmana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 29.02.2016г. отмечаем День рождения Дунаева Абдурахмана! Завершился день праздничным ужином в кругу семьи...

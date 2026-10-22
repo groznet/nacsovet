@@ -5,8 +5,8 @@ title = "#доброеутространа #красотадаитолько #м
 slug = "dobroeutrostrana-krasotadaitolko-mechet-aeroport-groz"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика", "Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 #доброеутространа #красотадаитолько #мечеть🌙 #аэропорт #грозный #чечня

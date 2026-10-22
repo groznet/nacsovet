@@ -6,7 +6,7 @@ slug = "video-dnia-chto-budet-esli-vrezatsia-na-skorosti-pod-200-km"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Видео дня: что будет, если врезаться на скорости под 200 км/ч

@@ -6,7 +6,7 @@ slug = "nu-ne-peredaet-obektiv-krasotu-i-velichie-gor"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ну не передаёт объектив красоту и величие гор.

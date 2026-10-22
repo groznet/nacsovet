@@ -6,7 +6,7 @@ slug = "tolko-tak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Только так !!!

@@ -6,7 +6,7 @@ slug = "predsedatel-poiskovogo-otriada-terek-blagodaria-ego-otriadu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Председатель поискового отряда "ТЕРЕК", благодаря его отряду в республике найдены много солдат ВОВ, ...

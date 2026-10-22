@@ -6,7 +6,7 @@ slug = "kak-to-tak-dliaprimera-prizyvkzdorovomuobrazuzhizni-khod"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Как-то так... #дляпримера #призывкздоровомуобразужизни #ходьба #спорткаждыйдень #спортивнаяходьба

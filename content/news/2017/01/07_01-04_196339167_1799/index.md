@@ -6,7 +6,7 @@ slug = "druzia-moi-pravoslavnye-s-prazdnikom-vas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Друзья мои православные, с праздником вас!!!

@@ -5,8 +5,8 @@ title = "Родом из детствах, все мы по сути дети...
 slug = "rodom-iz-detstvakh-vse-my-po-suti-deti-soglasen-rol-ne"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Родом из детствах, все мы по сути дети...) Согласен, роль не главная, но все же роль...))

@@ -6,7 +6,7 @@ slug = "khochetsia-perezhata-vam-druzia-vsiu-etu-krasotku-dobro"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Хочется пережата вам друзья всю эту красотку,... Добро пожаловать в республику!!!

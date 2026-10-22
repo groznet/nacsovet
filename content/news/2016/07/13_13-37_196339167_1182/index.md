@@ -6,7 +6,7 @@ slug = "za-chashkoi-chaia-pered-otezdom-brata-s-plemiannikami"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 За чашкой чая перед отъездом брата с племянниками...

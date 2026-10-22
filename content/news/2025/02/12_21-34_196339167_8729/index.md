@@ -6,7 +6,7 @@ slug = "podkast-mezhdunarodnoi-islamskoi-missii-chas-proshel-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Подкаст Международной Исламской Миссии, час прошел на одном дыхании, видит Бог, я был объективен, впрочем как всегда. Спасибо 🙏 за приглашение.

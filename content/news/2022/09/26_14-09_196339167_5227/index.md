@@ -5,8 +5,8 @@ title = "Добро пожаловать, буржуи…)) #дубай #гро�
 slug = "dobro-pozhalovat-burzhui-dubai-groznyi-minvody-aeropo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Добро пожаловать, буржуи…)) #дубай #грозный #минводы #аэропорт

@@ -5,8 +5,8 @@ title = "#общественнаяпалатачр #круглыйстол #Же
 slug = "obshchestvennaiapalatachr-kruglyistol-zhenshchinaochagsemi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Общественная палата ЧР", "Российский союз молодёжи", "Офицеры России", "Интеллектуальный Кавказ", "Ибрагим Базаев", "Молодёжь"]
+categories = ["Общественная жизнь", "Интеллектуальные игры"]
 +++
 
 #общественнаяпалатачр #круглыйстол #ЖенщинаОчагСемьи #арьбихабзиев @arbi_khabziev_ #исмаилденильханов [id508910309|@idenilkhanov] #департаментадминистрацииглавыиправительствачр @ismail_85_95 @minnac_95 #ибрагимбазаев @ibragimbazaew #шамханхамадов @shamhan_khamadov #лайлааюбова @l_dialog @opchr_95 #нацсоветчр @youthchr_nacsovet #чроосоюзмолодежи @chroo_sm #интеллектуальныйкавказ @intellektualny_kavkaz #роофицерыроссиивчр🇷🇺 [club150060071|@oficeryofficial] #команданацсовета @muzaevsaidmagomed @hasanova_madina__ @dunaev.95 @1abdul1aziz #дунаевмуса @dunaevmusa

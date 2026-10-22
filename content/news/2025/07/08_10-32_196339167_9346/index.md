@@ -5,8 +5,8 @@ title = "Глава Чечни сообщил о Telegram-канале, с по�
 slug = "glava-chechni-soobshchil-o-telegram-kanale-s-pomoshchiu-u"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамзан Кадыров", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Глава Чечни сообщил о Telegram-канале, с помощью йкоторого украинцы могут найти своих близких среди военнопленных. Воспользоваться им можно по ссылке: https://t.me/MiruMir_Sh.

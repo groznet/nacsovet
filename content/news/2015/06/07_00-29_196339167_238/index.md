@@ -6,7 +6,7 @@ slug = "spasibo-barselone-ot-reala-otomstila-i-rad-za-brata-i-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Спасибо Барселоне от Реала, отомстила ... И рад за брата и всех кто болел за "Барсу"!!!

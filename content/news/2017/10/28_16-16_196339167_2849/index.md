@@ -5,8 +5,8 @@ title = "#спорткаждыйдень #велопрогулка #здоров
 slug = "sportkazhdyiden-veloprogulka-zdorovyiobrazzhizni-molodezh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Молодёжь", "Спорт"]
 +++
 
 #спорткаждыйдень #велопрогулка #здоровыйобразжизни #молодежь #диванынавелосипеды

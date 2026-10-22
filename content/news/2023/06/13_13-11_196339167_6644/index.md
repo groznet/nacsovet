@@ -6,7 +6,7 @@ slug = "zanimaites-sportom-voistinu-eto-nuzhno-v-pervuiu-ochered-va"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Занимайтесь спортом, воистину, это нужно в первую очередь вам!!!

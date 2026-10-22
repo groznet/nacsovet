@@ -6,7 +6,7 @@ slug = "slavnom-gorode-rostove"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Славном городе Ростове...

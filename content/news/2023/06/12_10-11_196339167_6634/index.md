@@ -6,7 +6,7 @@ slug = "s-dnem-rossii-rossiia-prazdnik"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С Днем РОССИИ 🇷🇺❗️ #РОССИЯ🇷🇺 #ПРАЗДНИК

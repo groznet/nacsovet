@@ -6,7 +6,7 @@ slug = "https-intel-russia-timepad-ru-event-3104228"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://intel-russia.timepad.ru/event/3104228/

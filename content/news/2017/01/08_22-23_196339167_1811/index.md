@@ -6,7 +6,7 @@ slug = "gory-gorykavkaza-krasotadaitolko-goryingushetii-khadzhi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 #горы🗻 #горыкавказа #красотадаитолько #горыингушетии ##ХаджимурадовИса #ТагиевМурат #КаплановМуслим #активныйотдых

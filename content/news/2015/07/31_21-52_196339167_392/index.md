@@ -6,7 +6,7 @@ slug = "kak-malo-ot-nas-nuzhno-sozdateliu-voistinu-eto-den-nastan"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Как мало от нас нужно Создателю !!! Воистину это день настанет непременно, только готовы ли мы ...

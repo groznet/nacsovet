@@ -6,7 +6,7 @@ slug = "samyi-skromnyi-inturist-poverte-ia-znaiu-chto-govoriu-kho"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Самый скромный интурист, поверьте, я знаю, что говорю…))) Хорошего дня!

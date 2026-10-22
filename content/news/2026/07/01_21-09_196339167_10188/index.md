@@ -6,7 +6,7 @@ slug = "vecherniaia-progulka-ploshchad-lenina-g-maikop"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вечерняя прогулка, площадь Ленина, г. Майкоп.

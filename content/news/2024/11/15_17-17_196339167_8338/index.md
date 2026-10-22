@@ -6,7 +6,7 @@ slug = "kogda-rabota-vidna-i-ona-otsenivaetsia-dorogogo-stoit-spas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ✅ Когда работа видна и она оценивается, дорогого стоит, спасибо 🙏 … Будем работать❗️

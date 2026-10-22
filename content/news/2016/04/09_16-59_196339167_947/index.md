@@ -6,7 +6,7 @@ slug = "obshchestvennaia-palata-na-subbotnike"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Общественная жизнь"]
 +++
 
 Общественная палата на субботнике...

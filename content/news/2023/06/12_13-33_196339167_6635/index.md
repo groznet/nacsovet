@@ -6,7 +6,7 @@ slug = "druzia-esli-moi-posty-vdokhnoviat-khot-odnogo-molodogo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, если мои посты вдохновят хоть одного молодого человека, поменять диван на спортзал, что ж, буду продолжать…))

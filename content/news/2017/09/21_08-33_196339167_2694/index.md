@@ -6,7 +6,7 @@ slug = "vsekh-blag-ot-vsevyshnego-allakha-v-oboikh-mirakh-s-nov"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Всех благ от ВСЕВЫШНЕГО АЛЛАХА в обоих мирах!!!!!!!!!! С Новым 1439 Годом!!!

@@ -5,8 +5,8 @@ title = "Дамы и Господа красота да и только!!! #че
 slug = "damy-i-gospoda-krasota-da-i-tolko-chechenskaiarespublika"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Дамы и Господа красота да и только!!! #чеченскаяреспублика #нихалойскиеводопады #

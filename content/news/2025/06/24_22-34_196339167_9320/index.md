@@ -5,8 +5,8 @@ title = "Чемпионат России по спортивному «Что? �
 slug = "chempionat-rossii-po-sportivnomu-chto-gde-kogda"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?", "Чемпионат"]
+categories = ["Спорт"]
 +++
 
 Чемпионат России по спортивному «Что? Где? Когда?»

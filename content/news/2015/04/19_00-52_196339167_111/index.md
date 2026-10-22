@@ -6,7 +6,7 @@ slug = "a-kak-inache-ved-za-krasotu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 А как иначе, ведь за красоту !!!

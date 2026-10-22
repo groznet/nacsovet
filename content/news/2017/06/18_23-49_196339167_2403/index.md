@@ -5,8 +5,8 @@ title = "#оооофицерыроссии #оооофицерыроссиивч
 slug = "oooofitseryrossii-oooofitseryrossiivchr-mbousosh2sbelgatoi-d"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России", "Ибрагим Базаев", "Мовлагай Райханов"]
+categories = ["Патриотизм и память"]
 +++
 
 #оооофицерыроссии #оооофицерыроссиивчр #мбоусош2сбелгатой #директор #петиматамерханова #вечернашидов #мохьмадахмадов @mohmad_shali_95 #мовлагайраханов @movladi_bata #ибрагимбазаев @ibragimbazaew

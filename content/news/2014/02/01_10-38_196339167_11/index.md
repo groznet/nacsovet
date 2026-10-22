@@ -6,7 +6,7 @@ slug = "tselyi-den-po-rimu-vse-tak-krasivo-ne-peredat-konechno-nem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Целый день по Риму, все так красиво не передать. Конечно немножко устал. ))

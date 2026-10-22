@@ -5,8 +5,8 @@ title = "Защитите детей от себя дамы и господа, �
 slug = "zashchitite-detei-ot-sebia-damy-i-gospoda-voistinu-my-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Защитите детей от себя дамы и господа, воистину мы в ответе перед нашим СОЗДАТЕЛЕМ!!!

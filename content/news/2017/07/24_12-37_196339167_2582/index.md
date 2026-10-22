@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-larame"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА декьалла войла хьо винчу даьнца лараме Турпал-Али @bistriy_95 Всех благ вам и вашим близким от АЛЛАХА в обоих мирах!!! С Днём рождения!!!

@@ -5,8 +5,8 @@ title = "🌟 Шестая игра на субботнем \"Lady-квиз\" в
 slug = "shestaia-igra-na-subbotnem-lady-kviz-v-trts-grand-park"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз", "Грозный", "Поздравление", "Театр"]
+categories = ["Интеллектуальные игры"]
 +++
 
 🌟 Шестая игра на субботнем "Lady-квиз" в ТРЦ Гранд-парк 🌟

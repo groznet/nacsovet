@@ -12,7 +12,7 @@
         {{ $posts := .Pages }}
         <div class="flex flex-wrap items-center justify-between gap-4">
             <div>
-                <span class="inline-block text-primary text-sm font-semibold px-4 py-1.5 mb-3">
+                <span class="inline-block bg-accent/30 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-3 backdrop-blur-sm">
                     <i class="fas fa-tag mr-1"></i> {{ .Data.Singular | humanize }}
                 </span>
                 <h1 class="heading-font text-3xl md:text-4xl lg:text-5xl font-extrabold text-primary">
@@ -24,7 +24,7 @@
                 </p>
             </div>
             
-            <div class="text-sm text-muted px-4 py-2">
+            <div class="text-sm text-muted bg-white/60 px-4 py-2 rounded-full border border-gray-200/50">
                 <i class="far fa-file-alt mr-1"></i> Всего: <span>{{ len $posts }}</span> публикаций
             </div>
         </div>
@@ -57,8 +57,8 @@
             <div id="postsContainer" class="space-y-5">
                 {{ range $paginator.Pages }}
                     {{ $media := partial "post-media.html" . }}
-                    <article class="transition-shadow duration-300 overflow-hidden flex flex-col sm:flex-row">
-                        <div class="sm:w-48 md:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden relative">
+                    <article class="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100/80 overflow-hidden flex flex-col sm:flex-row">
+                        <div class="sm:w-48 md:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden bg-gray-100 relative">
                             {{ $featuredImg := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
                             <img
                                 src="{{ $featuredImg }}"
@@ -68,7 +68,7 @@
                             />
                             {{ if $media.videos }}
                             <span class="absolute inset-0 flex items-center justify-center pointer-events-none">
-                                <span class="w-10 h-10 bg-black/50 flex items-center justify-center">
+                                <span class="w-10 h-10 rounded-full bg-black/50 flex items-center justify-center">
                                     <i class="fas fa-play text-white text-sm ml-0.5"></i>
                                 </span>
                             </span>
@@ -76,7 +76,7 @@
                         </div>
                         <div class="flex-1 p-4 md:p-5 flex flex-col min-w-0">
                             <div class="flex items-center gap-2 flex-wrap mb-1.5">
-                                <span class="category-pill text-[10px] font-bold uppercase tracking-wider text-primary px-2.5 py-0.5">
+                                <span class="category-pill text-[10px] font-bold uppercase tracking-wider bg-accent text-primary px-2.5 py-0.5 rounded-full">
                                     {{ with .Params.categories }}{{ index . 0 }}{{ else }}{{ .Type }}{{ end }}
                                 </span>
                                 <span class="text-xs text-gray-400">
@@ -96,7 +96,7 @@
                                 {{ $content := .Description | default .Summary }}
                                 {{ $content | plainify | truncate 350 }}
                             </p>
-                            <div class="flex items-center justify-between mt-3 pt-3">
+                            <div class="flex items-center justify-between mt-3 pt-3 border-t border-gray-100">
                                 <span class="text-xs text-gray-400 truncate max-w-[150px]">
                                     <i class="far fa-user mr-1"></i>
                                     {{ with .Params.author }}{{ . }}{{ else }}Пресс-служба{{ end }}
@@ -108,7 +108,7 @@
                         </div>
                     </article>
                 {{ else }}
-                    <div class="text-center py-12 text-gray-500">
+                    <div class="text-center py-12 text-gray-500 bg-white rounded-2xl border border-gray-100">
                         <i class="far fa-folder-open text-4xl mb-3 block text-gray-300"></i>
                         Публикаций по этой теме не найдено.
                     </div>
@@ -117,17 +117,17 @@
 
             <!-- ====== PAGINATION ====== -->
             {{ if gt $paginator.TotalPages 1 }}
-            <nav class="flex flex-col items-center gap-4 mt-8 pt-4 sm:flex-row sm:justify-between" aria-label="Навигация по страницам">
+            <nav class="flex flex-col items-center gap-4 mt-8 pt-4 border-t border-gray-200/60 sm:flex-row sm:justify-between" aria-label="Навигация по страницам">
                 <div class="text-sm text-gray-500">
                     Страница <span class="font-medium text-gray-700">{{ $paginator.PageNumber }}</span> из <span class="font-medium text-gray-700">{{ $paginator.TotalPages }}</span>
                 </div>
                 <div class="flex items-center gap-1.5">
                     {{ if $paginator.HasPrev }}
-                        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center text-gray-700 hover:text-primary transition">
+                        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition">
                             <i class="fas fa-chevron-left text-xs"></i>
                         </a>
                     {{ else }}
-                        <button class="pagination-btn w-9 h-9 flex items-center justify-center text-gray-400 opacity-40 cursor-not-allowed" disabled>
+                        <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 opacity-40 cursor-not-allowed" disabled>
                             <i class="fas fa-chevron-left text-xs"></i>
                         </button>
                     {{ end }}
@@ -139,11 +139,11 @@
                         {{ if or (eq $pipe 1) (eq $pipe $total) (and (ge $pipe (sub $current 1)) (le $pipe (add $current 1))) }}
                             {{ $ellipses_printed = false }}
                             {{ if eq $pipe $current }}
-                                <button class="pagination-btn w-9 h-9 flex items-center justify-center text-primary font-medium text-sm cursor-default">
+                                <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full bg-primary text-white font-medium text-sm cursor-default">
                                     {{ $pipe }}
                                 </button>
                             {{ else }}
-                                <a href="{{ .URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center text-gray-700 hover:text-primary transition font-medium text-sm">
+                                <a href="{{ .URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition font-medium text-sm">
                                     {{ $pipe }}
                                 </a>
                             {{ end }}
@@ -153,11 +153,11 @@
                         {{ end }}
                     {{ end }}
                     {{ if $paginator.HasNext }}
-                        <a href="{{ $paginator.Next.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center text-gray-700 hover:text-primary transition">
+                        <a href="{{ $paginator.Next.URL }}" class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-700 hover:bg-gray-50 hover:text-primary transition">
                             <i class="fas fa-chevron-right text-xs"></i>
                         </a>
                     {{ else }}
-                        <button class="pagination-btn w-9 h-9 flex items-center justify-center text-gray-400 opacity-40 cursor-not-allowed" disabled>
+                        <button class="pagination-btn w-9 h-9 flex items-center justify-center rounded-full border border-gray-200 bg-white text-gray-400 opacity-40 cursor-not-allowed" disabled>
                             <i class="fas fa-chevron-right text-xs"></i>
                         </button>
                     {{ end }}

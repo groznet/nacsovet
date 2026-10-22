@@ -5,8 +5,8 @@ title = "«ХАМСА», очередной этап интеллектуаль�
 slug = "khamsa-ocherednoi-etap-intellektualnoi-igry-da-prebudet"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 «ХАМСА», очередной этап интеллектуальной игры … Да пребудет с вами сила интеллекта!

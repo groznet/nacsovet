@@ -5,8 +5,8 @@ title = "Помним и скорбим! Низкий поклон вам наш
 slug = "pomnim-i-skorbim-nizkii-poklon-vam-nashi-dorogie-veterany-vo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ветераны"]
+categories = ["Патриотизм и память"]
 +++
 
 Помним и скорбим! Низкий поклон вам наши дорогие ветераны ВОВ!

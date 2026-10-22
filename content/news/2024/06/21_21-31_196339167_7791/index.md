@@ -5,8 +5,8 @@ title = "Работа оргкомитета по проведению инте�
 slug = "rabota-orgkomiteta-po-provedeniiu-intellektualnoi-viktoriny"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Работа оргкомитета по проведению интеллектуальной викторины «Леди Квиз»

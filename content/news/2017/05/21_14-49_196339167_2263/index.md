@@ -6,7 +6,7 @@ slug = "s-dnem-rozhdeniia-tebia-vsekh-zemnykh-blag-tebe-krasavitsa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С Днем рождения тебя!!! Всех земных благ тебе красавица!!! #деньрождения #роза🌹 #рсм_ставропольскийкрай #коллега #валентинатроценко

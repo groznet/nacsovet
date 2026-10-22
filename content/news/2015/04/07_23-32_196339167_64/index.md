@@ -5,8 +5,8 @@ title = "Оз.Кезеной-Ам. #Чечня#КезенойАм#Дунаев#�
 slug = "oz-kezenoi-am-chechnia-kezenoiam-dunaev-bazaev-krasota"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Оз.Кезеной-Ам. #Чечня#КезенойАм#Дунаев#Базаев#красота#гордость#

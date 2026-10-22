@@ -6,7 +6,7 @@ slug = "dlianovorozhdennykhumnvkhvoditelei-beregitesebia-sam-ne"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #дляноворожденныхумнвхводителей #берегитесебя Сам не видел, говорят аварии участились...

@@ -6,7 +6,7 @@ slug = "esli-by-nam-takoi-podkhod-imeia-vse-resursy-uveren-my-byli"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Если бы нам такой подход, имея  все ресурсы уверен, мы были бы впереди планеты всей ...

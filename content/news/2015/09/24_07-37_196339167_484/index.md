@@ -6,7 +6,7 @@ slug = "vo-imia-allakha-milostivogo-i-miloserdnogo-o-allakh-primi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Благотворительность", "Религия и традиции"]
 +++
 
 Во имя АЛЛАХА Милостивого и Милосердного !!! О АЛЛАХ, прими наши дела !!! С праздником всех  мусульман !!!

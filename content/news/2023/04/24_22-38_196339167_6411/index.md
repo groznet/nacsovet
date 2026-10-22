@@ -6,7 +6,7 @@ slug = "vse-po-vole-nashego-sozdatelia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все по воле нашего СОЗДАТЕЛЯ!!!

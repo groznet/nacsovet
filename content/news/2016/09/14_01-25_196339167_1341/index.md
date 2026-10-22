@@ -6,7 +6,7 @@ slug = "veduchi-krasota-da-i-tolko-aktivnyi-otdykh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ведучи! Красота да и только, активный отдых...

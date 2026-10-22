@@ -5,8 +5,8 @@ title = "Участники проекта «Слава поколению По�
 slug = "uchastniki-proekta-slava-pokoleniiu-pobedy-groznyi-posetil"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Участники проекта «Слава поколению Победы – Грозный» посетили защитника Бреста | Информационное агентство "Грозный-Информ"

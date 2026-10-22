@@ -6,7 +6,7 @@ slug = "gotovlius-k-okhote-den-vtoroi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Готовлюсь к охоте, день второй...

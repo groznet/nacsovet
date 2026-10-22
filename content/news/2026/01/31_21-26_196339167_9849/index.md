@@ -5,8 +5,8 @@ title = "Интеллектуальная викторина «ЛЕДИ КВИЗ
 slug = "intellektualnaia-viktorina-ledi-kviz-2026-pervaia-igra"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз", "Поздравление"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Интеллектуальная викторина «ЛЕДИ КВИЗ 2026», первая игра.

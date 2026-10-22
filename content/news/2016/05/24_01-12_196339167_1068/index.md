@@ -6,7 +6,7 @@ slug = "arkhiv-italiia-velikolepnaia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Архив: Италия великолепная!!!

@@ -5,8 +5,8 @@ title = "Единственным свидетельством патриоти�
 slug = "edinstvennym-svidetelstvom-patriotizma-iavliaetsia-postupok"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамзан Кадыров", "Грозный"]
+categories = ["Патриотизм и память"]
 +++
 
 Единственным свидетельством патриотизма является поступок!!! Рамзан КАДЫРОВ #грозный #аэропортсеверный

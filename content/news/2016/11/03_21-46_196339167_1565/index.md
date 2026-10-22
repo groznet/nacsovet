@@ -5,8 +5,8 @@ title = "Не знаю как там у вас, но у нас в Москве �
 slug = "ne-znaiu-kak-tam-u-vas-no-u-nas-v-moskve-sneg-moskva-dlia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Не знаю как там у вас, но у нас в Москве снег.., Москва для Москвичей...)

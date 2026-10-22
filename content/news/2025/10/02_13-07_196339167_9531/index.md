@@ -6,7 +6,7 @@ slug = "v-evropeiskikh-stranakh-iz-kazhdogo-utiuga-veshchaiut-pro-s"
 author = "Дмитрий Медведев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В европейских странах из каждого утюга вещают про войну с Россией в течение ближайших пяти лет. 

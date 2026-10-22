@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-vsekh-blag-sprrtzazhdyidee"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна, всех благ!!! #Спрртзаждыйдееь!!!!

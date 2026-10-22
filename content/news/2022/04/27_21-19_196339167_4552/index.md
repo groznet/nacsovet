@@ -5,8 +5,8 @@ title = "СИЛА И ЧЕСТЬ!!!"
 slug = "sila-i-chest"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Владимир Путин"]
+categories = ["Власть и политика"]
 +++
 
 СИЛА И ЧЕСТЬ!!!

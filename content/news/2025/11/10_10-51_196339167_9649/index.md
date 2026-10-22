@@ -6,7 +6,7 @@ slug = "zal-pamiati-i-skorbi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ЗАЛ ПАМЯТИ И СКОРБИ 🌹‼️

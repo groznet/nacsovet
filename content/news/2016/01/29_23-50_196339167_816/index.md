@@ -6,7 +6,7 @@ slug = "malenkaia-printsessa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Маленькая принцесса ...

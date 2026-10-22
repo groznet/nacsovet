@@ -5,8 +5,8 @@ title = "Уважаемые интеллектуалы, сегодня в ТРЦ
 slug = "uvazhaemye-intellektualy-segodnia-v-trts-grand-park-club430"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальная Россия", "Lady-Квиз", "Волонтёры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Уважаемые интеллектуалы, сегодня в ТРЦ «Гранд парк» [club43098840|@grand_park] прошла пятая интеллектуальная викторина “LADY QUIZ”. 

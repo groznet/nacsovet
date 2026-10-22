@@ -5,8 +5,8 @@ title = "Дорога на оз. КезенойАм-Ам. #Чечня #Кезе�
 slug = "doroga-na-oz-kezenoiam-am-chechnia-kezenoiam-natssove-opchr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "ОНФ", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Дорога на оз. КезенойАм-Ам. #Чечня #КезенойАм #Нацсове #ОПЧР #ОНФ #Дунаев

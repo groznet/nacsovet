@@ -6,7 +6,7 @@ slug = "obsleduem-peshcheru"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Обследуем пещеру...

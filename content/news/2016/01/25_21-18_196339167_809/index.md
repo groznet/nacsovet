@@ -5,8 +5,8 @@ title = "WSPORT-SHATOY – Чеченский спорт Бронза чемпи
 slug = "wsport-shatoy-chechenskii-sport-bronza-chempionata-belgii-u"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чемпионат", "Бельгия"]
+categories = ["Путешествия и экспедиции", "Спорт"]
 +++
 
 WSPORT-SHATOY – Чеченский спорт Бронза чемпионата Бельгии у Тамерлана Дунаева | WSPORT-SHATOY - Чеченский спорт

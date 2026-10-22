@@ -6,7 +6,7 @@ slug = "s-dnem-rozhdeniia-tebia-moi-liubimyi-gorod"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С Днём рождения тебя мой любимый город!!!!!!!!!!!!!

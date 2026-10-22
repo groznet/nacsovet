@@ -5,8 +5,8 @@ title = "По завершении форума в Дербенте, дорог�
 slug = "po-zavershenii-foruma-v-derbente-doroga-domoi-derbent-a"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 По завершении форума в Дербенте, дорога домой... #Дербент #архив #форум #деревня-душаРоссии #Базаев #Дунаев

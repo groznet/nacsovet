@@ -5,8 +5,8 @@ title = "#InstaFrame #Чечня #Сернаводск #СовпрофЧР #Са
 slug = "instaframe-chechnia-sernavodsk-sovprofchr-sanatorii-reskom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #InstaFrame #Чечня #Сернаводск #СовпрофЧР #Санаторий #Реском #Профсоюзработников    #жизнеобеспечения #Хаджимурадов #Магомед #Дунаев

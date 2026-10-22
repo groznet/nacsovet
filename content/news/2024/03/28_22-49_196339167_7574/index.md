@@ -6,7 +6,7 @@ slug = "bez-nazvaniia"
 author = "Интеллектуальный клуб \"Альбус\""
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 

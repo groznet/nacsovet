@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-aktivnykh-vam-vykhodnykh-du"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна, #россия🇷🇺 !!! Активных вам выходных! @dunaevmusa @youthchr_nacsovet @intellektualny_centre_scfo @intellektualny_kavkaz [id339261382|@daymohk_chr] @ochag__predkov

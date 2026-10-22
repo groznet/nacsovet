@@ -6,7 +6,7 @@ slug = "https-vk-ru-wall196339167-9527"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://vk.ru/wall196339167_9527

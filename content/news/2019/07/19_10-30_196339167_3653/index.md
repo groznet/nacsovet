@@ -5,8 +5,8 @@ title = "Встречай Москва, москвича... #москвадля�
 slug = "vstrechai-moskva-moskvicha-moskvadliamoskvichei-dunaevmusa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Москва"]
+categories = ["Заметки"]
 +++
 
 Встречай Москва, москвича... #москвадлямосквичей #дунаевмуса #нацсоветчр

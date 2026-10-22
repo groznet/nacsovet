@@ -5,8 +5,8 @@ title = "Великолепный вид!!! #чеченскаяреспубли�
 slug = "velikolepnyi-vid-chechenskaiarespublika-nikhaloiskievodopad"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Великолепный вид!!! #чеченскаяреспублика #нихалойскиеводопады #красотадаитолько

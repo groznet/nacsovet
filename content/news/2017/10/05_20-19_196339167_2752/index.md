@@ -5,8 +5,8 @@ title = "Надземные, подземные тоннели замка \"Ци
 slug = "nadzemnye-podzemnye-tonneli-zamka-tsitadel-namiur-belg"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Надземные, подземные тоннели замка "Цитадель", #намюр #бельгия🇧🇪 #

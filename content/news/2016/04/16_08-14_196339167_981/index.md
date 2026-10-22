@@ -5,8 +5,8 @@ title = "Это истина,  великий день для народов Ч�
 slug = "eto-istina-velikii-den-dlia-narodov-chr-da-i-dlia-vsei-str"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Это истина,  великий день для народов ЧР, да  и для всей страны уверен...

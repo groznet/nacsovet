@@ -5,8 +5,8 @@ title = "#GPRepost,#reposter,#notetag @zelenoe_zoloto via @GPRepostAp"
 slug = "gprepost-reposter-notetag-zelenoe-zoloto-via-gprepostap"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Российский союз молодёжи", "Рамзан Кадыров", "Ибрагим Базаев", "Чеченская Республика"]
+categories = ["Власть и политика", "Общественная жизнь"]
 +++
 
 #GPRepost,#reposter,#notetag @zelenoe_zoloto via @GPRepostApp 

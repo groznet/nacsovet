@@ -5,8 +5,8 @@ title = "ВСЕХ МУСУЛЬМАН С ПРАЗДНИКОМ КУРБАН-БАЙ
 slug = "vsekh-musulman-s-prazdnikom-kurban-bairam"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Курбан-байрам"]
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 ВСЕХ МУСУЛЬМАН С ПРАЗДНИКОМ КУРБАН-БАЙРАМ!!!

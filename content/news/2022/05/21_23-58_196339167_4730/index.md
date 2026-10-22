@@ -6,7 +6,7 @@ slug = "voina-na-ukraine-evropa-stanet-zakholustem-evrazii-potomu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Война на Украине: Европа станет захолустьем Евразии — потому что она идет … по стопам Киева

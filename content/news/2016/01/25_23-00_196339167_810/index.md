@@ -6,7 +6,7 @@ slug = "uveren-chto-moim-dorogim-plemiannikom-postavleny-vysokie"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Уверен, что моим дорогим племянником, поставлены высокие цели в спорте...

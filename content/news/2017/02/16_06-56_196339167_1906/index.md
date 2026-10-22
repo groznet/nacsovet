@@ -5,8 +5,8 @@ title = "Шаройский район, ЧР... #красотадаитольк�
 slug = "sharoiskii-raion-chr-krasotadaitolko-dobropozhalovat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Шаройский район, ЧР... #красотадаитолько #добропожаловать

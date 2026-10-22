@@ -6,7 +6,7 @@ slug = "doroga-domoi-takim-ia-videl-katar-pytaius-peredat-tu-kra"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Дорога домой!!! Таким я видел Катар, пытаюсь передать ту красоту ...) #Катар #хадж #муслимтур #Дунаев

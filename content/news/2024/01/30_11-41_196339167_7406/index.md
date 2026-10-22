@@ -5,8 +5,8 @@ title = "В Грозном прошла интеллектуальная игр�
 slug = "v-groznom-proshla-intellektualnaia-igra-navstrechu-vyboram"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Грозный"]
+categories = ["Интеллектуальные игры"]
 +++
 
 В Грозном прошла интеллектуальная игра «Навстречу выборам»

@@ -6,7 +6,7 @@ slug = "na-starte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 На старте...

@@ -6,7 +6,7 @@ slug = "efeleva-bashnia-brat-plemiannik-rossiia-frantsiia-vidsverkhu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #эфелева_башня #брат #племянник #россия #франция #видсверху #красотадаитолько #иятамбыл #помню_и_требую #

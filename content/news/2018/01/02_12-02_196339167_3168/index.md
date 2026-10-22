@@ -6,7 +6,7 @@ slug = "osteregaites-kozlov"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Остерегайтесь козлов! ))

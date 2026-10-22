@@ -5,8 +5,8 @@ title = "#Россия #Чечня #Итум_Кали #Дунаев"
 slug = "rossiia-chechnia-itum-kali-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #Россия #Чечня #Итум_Кали #Дунаев

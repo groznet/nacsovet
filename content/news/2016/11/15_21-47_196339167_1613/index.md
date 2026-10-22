@@ -6,7 +6,7 @@ slug = "ura-gospoda-mozhet-byt-s-blagodatnoi-chechenskoi-zemli-nasha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ура, господа! Может быть с благодатной Чеченской земли наша сборная возродится!!! С победой нас!

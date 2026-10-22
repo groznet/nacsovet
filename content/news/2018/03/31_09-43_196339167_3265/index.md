@@ -6,7 +6,7 @@ slug = "s-moim-malenkim-plemiannikom-ortsaev-1996"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С моим маленьким племянником _ortsaev_1996_ ...)

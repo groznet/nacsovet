@@ -5,8 +5,8 @@ title = "Мы справились, смогли, никто не говорил
 slug = "my-spravilis-smogli-nikto-ne-govoril-chto-budet-legko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Тропами предков"]
+categories = ["Заметки"]
 +++
 
 Мы справились, смогли, никто не говорил, что будет легко…))

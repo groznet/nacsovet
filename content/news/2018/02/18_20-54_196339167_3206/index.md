@@ -6,7 +6,7 @@ slug = "dlia-moikh-osobykh-druzei"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Для моих особых друзей...))

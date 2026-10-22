@@ -6,7 +6,7 @@ slug = "prekrasnyi-vid-bugian-iurtovskogo-lesa-krasota-i-tolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Прекрасный вид БугIан-Юртовского леса, красота и только...

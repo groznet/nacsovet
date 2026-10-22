@@ -6,7 +6,7 @@ slug = "ministerstvo-inostrannykh-del-knr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Министерство иностранных дел КНР, ...

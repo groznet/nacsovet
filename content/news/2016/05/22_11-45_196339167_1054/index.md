@@ -5,8 +5,8 @@ title = "Учусь делать Селфи,) замруководителя Р�
 slug = "uchus-delat-selfi-zamrukovoditelia-rosobrnadzora-anzor-muz"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Учусь делать Селфи,) замруководителя Рособрнадзора АНЗОР Музаев и замминистра обрнауки ЧР Ахмед Усманов...

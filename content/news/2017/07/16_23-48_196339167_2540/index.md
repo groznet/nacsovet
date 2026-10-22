@@ -6,7 +6,7 @@ slug = "s-pervoi-pobedoi-fk-akhmat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С первой победой ФК "АХМАТ"!!!

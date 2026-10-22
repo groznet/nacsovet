@@ -6,7 +6,7 @@ slug = "beregite-i-dorozhite-roditeliami-frantsiia-parizh-ma"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Берегите и дорожите родителями ......!!! #Франция #Париж #Мама #Дунаев

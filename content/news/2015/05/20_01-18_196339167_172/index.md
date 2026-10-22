@@ -6,7 +6,7 @@ slug = "gosduma-priniala-zakon-o-nezhelatelnykh-organizatsiiakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Госдума приняла закон о «нежелательных организациях»

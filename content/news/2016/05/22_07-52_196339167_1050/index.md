@@ -6,7 +6,7 @@ slug = "oz-lugano-shveitsariia-potriasaiushchii-vid-khotel-cherez"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 оз.Лугано, Швейцария потрясающий вид, хотел через фотографию передать, вряд ли... Доброго выходного вам!!!

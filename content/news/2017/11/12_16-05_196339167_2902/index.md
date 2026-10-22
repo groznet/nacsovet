@@ -6,7 +6,7 @@ slug = "povolevsevyshnego-druziadalislovo-vnashempolkupribylo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #поволевсевышнего☝️☝️☝️ #друзьядалислово #внашемполкуприбыло #исахаджимурадов isa.patriot

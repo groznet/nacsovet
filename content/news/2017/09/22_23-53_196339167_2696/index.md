@@ -6,7 +6,7 @@ slug = "vstrechai-evropa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Встречай Европа!!!

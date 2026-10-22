@@ -6,7 +6,7 @@ slug = "khashlama-poprobuite-mne-nravitsia-skolko-raz-gotovliu-po"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 «Хашлама», попробуйте, мне нравится… Сколько раз готовлю, получается. Семья довольна!

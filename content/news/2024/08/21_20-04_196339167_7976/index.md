@@ -5,8 +5,8 @@ title = "73 годовщина со дня рожденияПервого Пое
 slug = "73-godovshchina-so-dnia-rozhdeniiapervogo-poezidenta-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 73 годовщина со дня рожденияПервого Поезидента ЧР Героя России А-Х. Кадырова, …

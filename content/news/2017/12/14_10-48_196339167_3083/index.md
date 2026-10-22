@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dentsa-khasan"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВЕЗАЧУ АЛЛАХА, ДЕКЪАЛЛА ВОЙЛА ХЬО ВИНЧУ ДЕНЦА ХЬАСАН ТАЙМАСХАНОВ!!! #ректорггту

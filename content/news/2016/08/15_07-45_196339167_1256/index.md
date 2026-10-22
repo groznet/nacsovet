@@ -6,7 +6,7 @@ slug = "posle-pryzhka-s-parashiutom-dovolnye-i-schastlivye"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 После прыжка с парашютом, довольные и счастливые...

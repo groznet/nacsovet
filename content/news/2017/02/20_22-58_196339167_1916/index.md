@@ -6,7 +6,7 @@ slug = "gprepost-reposter-notetag-abazov-95-via-gprepostapp"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #GPRepost,#reposter,#notetag @abazov_95 via @GPRepostApp 

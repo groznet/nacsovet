@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vas-druzia-s-dnem-rossii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С ПРАЗДНИКОМ ВАС ДРУЗЬЯ, с Днём РОССИИ!!!

@@ -6,7 +6,7 @@ slug = "namaz-luchshe-chem-son"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Намаз - лучше чем сон!!!

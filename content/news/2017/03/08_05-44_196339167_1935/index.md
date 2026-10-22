@@ -6,7 +6,7 @@ slug = "my-skorbim-vmeste-s-vami-bratia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мы скорбим вместе с вами братья!!!

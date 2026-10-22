@@ -5,8 +5,8 @@ title = "#Москва #РоссийскийСоюзМолодежи #Архив
 slug = "moskva-rossiiskiisoiuzmolodezhi-arkhiv-zampred-epov-chrors"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Москва", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #Москва #РоссийскийСоюзМолодежи #Архив #Зампред #Епов #ЧРОРСМ #Председатель #Дунаев

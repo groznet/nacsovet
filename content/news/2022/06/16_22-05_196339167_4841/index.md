@@ -6,7 +6,7 @@ slug = "vse-dlia-vas-nakhodite-vremia-dlia-detok"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все для вас!!! Находите время для деток!

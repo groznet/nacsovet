@@ -6,7 +6,7 @@ slug = "dzhigit-bez-konia-sportkazhdyiden"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Джигит без коня...!) #спорткаждыйдень

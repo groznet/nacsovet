@@ -5,8 +5,8 @@ title = "С дорогим братом с Ильясом Шаваевым на 
 slug = "s-dorogim-bratom-s-iliasom-shavaevym-na-sezde-rsm"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 С дорогим братом с Ильясом Шаваевым на съезде РСМ...

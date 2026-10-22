@@ -6,7 +6,7 @@ slug = "21-09-2024g-12-30-trts-grand-park-dobro-pozhalovat-v-m"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 21.09.2024г., 12:30 - ТРЦ «Гранд парк». Добро пожаловать в мир интеллекта!

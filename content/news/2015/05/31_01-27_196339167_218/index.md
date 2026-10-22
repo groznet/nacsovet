@@ -5,8 +5,8 @@ title = "#архив #легендаРСМ #коллега #друг #профе
 slug = "arkhiv-legendarsm-kollega-drug-professional-krasavitsa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Заметки"]
 +++
 
 #архив #легендаРСМ #коллега #друг #профессионал #красавица #Дина #Соколова #ЧРОРСМ #Дунаев

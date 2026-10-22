@@ -5,8 +5,8 @@ title = "#часть2 Только так, совет мудреца...) #акт
 slug = "chast2-tolko-tak-sovet-mudretsa-aktivnyiotdykh-sport"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #часть2 Только так, совет мудреца...) #активныйотдых #спорт #велопробег #жарапод40 #

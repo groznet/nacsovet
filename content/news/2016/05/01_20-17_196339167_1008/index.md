@@ -5,8 +5,8 @@ title = "Друзей своих православных я от души по�
 slug = "druzei-svoikh-pravoslavnykh-ia-ot-dushi-pozdravliaiu-so-pr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Друзей своих православных я от души поздравляю со светлым праздником ПАСХИ! Удачи вам друзья!!!

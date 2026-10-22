@@ -6,7 +6,7 @@ slug = "spetsreportazh-dlia-magomedkhadzhimuradov-sportkazhdyiden"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Спецрепортаж для magomedkhadzhimuradov ))) #спорткаждыйдень

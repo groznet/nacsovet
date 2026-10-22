@@ -6,7 +6,7 @@ slug = "vynutyi-mech-allakha-khalid-ibn-al-valid-r-a"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Вынутый меч АЛЛАХА Халид ибн аль - Валид ( р.а.)

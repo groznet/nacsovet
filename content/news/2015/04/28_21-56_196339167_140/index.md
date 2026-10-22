@@ -6,7 +6,7 @@ slug = "nu-svinia-pogodi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ну свинья погоди !!!

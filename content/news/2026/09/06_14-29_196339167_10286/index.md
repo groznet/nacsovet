@@ -6,7 +6,7 @@ slug = "segodnia-my-otmechaem-odin-iz-glavnykh-prazdnikov-den-respub"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Сегодня мы отмечаем один из главных праздников – День Республики – День гражданского согласия и единения! С праздником!

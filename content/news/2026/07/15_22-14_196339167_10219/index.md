@@ -5,8 +5,8 @@ title = "Всероссийский интеллектуальный турни�
 slug = "vserossiiskii-intellektualnyi-turnir"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Москва"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Всероссийский интеллектуальный турнир

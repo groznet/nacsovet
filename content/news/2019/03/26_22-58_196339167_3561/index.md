@@ -5,8 +5,8 @@ title = "#здоровыйобразжизни #споптивнаяходьба
 slug = "zdorovyiobrazzhizni-spoptivnaiakhodba-khodba-bug1aniurt-al"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #здоровыйобразжизни #споптивнаяходьба #ходьба #буг1анюрт #алды #россия #чечня #мусадунаев

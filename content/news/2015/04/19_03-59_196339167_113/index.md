@@ -6,7 +6,7 @@ slug = "italiia-rim-kolizei"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #Италия #Рим #Колизей

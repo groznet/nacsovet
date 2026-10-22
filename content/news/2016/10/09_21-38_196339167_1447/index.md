@@ -5,8 +5,8 @@ title = "Спасибо большое друзья за поздравлени�
 slug = "spasibo-bolshoe-druzia-za-pozdravleniia-klianus-vam-ia-ponim"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Спасибо большое друзья за поздравления, клянусь вам, я понимаю и ценю дружбу!!!

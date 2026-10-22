@@ -6,7 +6,7 @@ slug = "vezachu-allakh1a-kobala-doila-kha-khadzh-larame-ibrakhim"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХ1А, къобала дойла хьа Хадж, лараме Ибрахьим Хадж!!!

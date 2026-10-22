@@ -6,7 +6,7 @@ slug = "v-etom-v-pekinskom-trts-vy-mozhete-kupit-vse-ili-pochti-vse"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В этом в Пекинском ТРЦ вы можете купить все,  или почти все ...

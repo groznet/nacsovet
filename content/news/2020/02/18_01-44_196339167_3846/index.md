@@ -5,8 +5,8 @@ title = "Тренер Президентского проекта #маоона�
 slug = "trener-prezidentskogo-proekta-maoonatsionalnyisovet-youthc"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Фонд президентских грантов", "Я и этот мир", "Гранты"]
+categories = ["Общественная жизнь", "Спорт"]
 +++
 
 Тренер Президентского проекта #маоонациональныйсовет @youthchr_nacsovet "Я и этот мир" @muzaevsaidmagomed проводит тренинг-семинар в СОШ 1 с. Чечен-Аул @sosh1chechenaul #фондпрезидентскихгрантов @pgrants_ru

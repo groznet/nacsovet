@@ -6,7 +6,7 @@ slug = "dumal-ne-reshatsia-udivili"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Думал не решатся, удивили…))

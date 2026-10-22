@@ -5,8 +5,8 @@ title = "Все хорошее заканчивается к сожалению 
 slug = "vse-khoroshee-zakanchivaetsia-k-sozhaleniiu-bystro-doroga"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы"]
+categories = ["Заметки"]
 +++
 
 Все хорошее заканчивается к сожалению быстро, дорога домой...#Россия #Сочи #пленум #профсоюз #жизнеобеспечения #Дунаев

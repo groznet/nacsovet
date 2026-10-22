@@ -6,7 +6,7 @@ slug = "s-prazdnikom-druzia-s-dnem-narodnogo-edinstva-voistin"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником, друзья, с днем народного единства!!!   Воистину, в единстве наша сила!

@@ -6,7 +6,7 @@ slug = "kaspmisk-more-zagidi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #каспмйск #море #загиди

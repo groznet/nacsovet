@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-vsekh-s-prazdnikom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 ✅ Доброе утро страна 🇷🇺, всех  с праздником!❗️

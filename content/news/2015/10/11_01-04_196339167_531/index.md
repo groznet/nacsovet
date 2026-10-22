@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-sa-vasha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА декъалла войла хьо винчу даьнца са ваша Ханпаш!!!

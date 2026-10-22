@@ -6,7 +6,7 @@ slug = "maklaren-gospoda-mashina-budushchego"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Макларен, господа, машина будущего...

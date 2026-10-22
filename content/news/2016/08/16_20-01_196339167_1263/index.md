@@ -6,7 +6,7 @@ slug = "sredi-svoikh-malenkikh-bratev-arsena-iz-kbr-i-ibragima-iz-dr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Среди своих маленьких братьев Арсена из КБР и Ибрагима из ДР чувствуешь себя не ловко...)))

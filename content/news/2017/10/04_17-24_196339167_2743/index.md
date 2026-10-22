@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #шаглыкмашлык #племянники
 slug = "belgiia-shaglykmashlyk-plemianniki-ramzandunaev-tvmerlan"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #шаглыкмашлык #племянники #рамзандунаев #твмерландунаев #брат

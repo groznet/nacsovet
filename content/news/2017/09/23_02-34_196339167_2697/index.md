@@ -5,8 +5,8 @@ title = "#россия🇷🇺 #италия🇮🇹 #франция🇫🇷 #ш
 slug = "rossiia-italiia-frantsiia-shveitsariia-belgiia-aero"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #россия🇷🇺 #италия🇮🇹 #франция🇫🇷 #швейцария🇨🇭 #бельгия🇧🇪 #аэропортгрозныйсеверный #абдуррохьим

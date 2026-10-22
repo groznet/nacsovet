@@ -6,7 +6,7 @@ slug = "muzei-ferrari-no-rossiiskii-avtoprom-kruche"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 Музей Феррари, но Российский автопром круче, импортозамещение господа...

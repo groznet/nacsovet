@@ -6,7 +6,7 @@ slug = "otkrytie-velosezona-veloprogulka-velosport"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Открытие велосезона!!! #велопрогулка🚲 #велоспорт🚴

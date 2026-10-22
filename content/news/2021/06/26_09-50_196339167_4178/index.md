@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-nash-pervyi-vypusknoi-sadi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 Доброе утро страна, #россия🇷🇺 ! Наш первый выпускной!! #садиквыпускной #индиго #абдулмалик #дунаевмуса @youthchr_nacsovet @dunaevmusa

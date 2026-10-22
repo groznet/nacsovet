@@ -6,7 +6,7 @@ slug = "ochen-vazhnyi-dokument"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Очень важный документ )) ❗️

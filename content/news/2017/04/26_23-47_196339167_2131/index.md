@@ -5,8 +5,8 @@ title = "Социальный проект «Возвращение к исто�
 slug = "sotsialnyi-proekt-vozvrashchenie-k-istokam-blizitsia-k"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Социальный проект «Возвращение к истокам» близится к завершению | Информационное агентство "Грозный-Информ"

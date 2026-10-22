@@ -6,7 +6,7 @@ slug = "v-gostiakh-khorosho-dobroi-nochi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В гостях хорошо, … )), доброй ночи!

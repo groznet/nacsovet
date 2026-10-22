@@ -6,7 +6,7 @@ slug = "vtoraia-trenirovka-gotovlius-k-novomu-godu-on-obeshchaet-byt"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вторая тренировка, готовлюсь к новому году, он обещает быть не менее продуктивным…  Всех благ вам, друзья!

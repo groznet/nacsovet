@@ -6,7 +6,7 @@ slug = "dobro-pozhalovat-v-mir-intellekta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Добро пожаловать в мир интеллекта!

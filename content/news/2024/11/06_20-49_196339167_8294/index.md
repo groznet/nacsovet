@@ -6,7 +6,7 @@ slug = "nikto-ne-zabyt-nichto-ne-zabyto"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Никто не забыт , ничто не забыто !

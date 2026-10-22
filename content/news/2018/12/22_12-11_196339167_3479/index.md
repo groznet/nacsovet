@@ -6,7 +6,7 @@ slug = "legkii-dieticheskii-zavtrak-dovolnyi-i-schastlivyi-priiat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Лёгкий, диетический завтрак, довольный и счастливый... Приятных выходных!!!

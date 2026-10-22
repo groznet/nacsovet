@@ -6,7 +6,7 @@ slug = "s-nailuchshimi-pozhelaniiami"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С наилучшими пожеланиями...

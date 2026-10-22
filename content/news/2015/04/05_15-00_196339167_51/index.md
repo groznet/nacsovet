@@ -6,7 +6,7 @@ slug = "vo-istinu-eto-istina-krasivee-gor-mogut-byt-tolko-gory"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Во истину-это истина "Красивее гор, могут быть только горы" !!!!!

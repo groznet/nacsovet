@@ -6,7 +6,7 @@ slug = "daiu-master-klass-gore-rybakam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Даю мастер класс горе рыбакам...)

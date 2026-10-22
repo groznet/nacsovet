@@ -5,8 +5,8 @@ title = "Мастер класс от Ибрагима Базаева,.. #24ок
 slug = "master-klass-ot-ibragima-bazaeva-24oktiabria2017-vgostiakhu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Заметки"]
 +++
 
 Мастер класс от Ибрагима Базаева,.. #24октября2017 #вгостяхубрата #всехблагвамбратьяисестры

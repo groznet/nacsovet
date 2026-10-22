@@ -6,7 +6,7 @@ slug = "da-smiluetsia-allakh-nad-nami"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Да смилуется АЛЛАХ над нами!!!

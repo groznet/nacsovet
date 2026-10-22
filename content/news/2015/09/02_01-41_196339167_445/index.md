@@ -6,7 +6,7 @@ slug = "vo-istinu-etot-den-uzhe-istoriia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Во истину, этот день уже история ... !!!

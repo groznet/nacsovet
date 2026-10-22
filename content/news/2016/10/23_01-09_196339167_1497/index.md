@@ -5,8 +5,8 @@ title = "В селении Гойты в рамках проекта «Я и э�
 slug = "v-selenii-goity-v-ramkakh-proekta-ia-i-etot-mir-proshel"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Я и этот мир"]
+categories = ["Заметки"]
 +++
 
 В селении Гойты в рамках проекта «Я и этот мир» прошел тренинг-семинар со старшеклассниками

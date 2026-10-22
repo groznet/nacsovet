@@ -5,8 +5,8 @@ title = "#москва #интернациональнаяпартияросси
 slug = "moskva-internatsionalnaiapartiiarossii-internatsionalnaiapar"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Власть и политика"]
 +++
 
 #москва #интернациональнаяпартияроссии #интернациональнаяпартияроссиивчр #председательВППИПР #рафаиловжансимонович #

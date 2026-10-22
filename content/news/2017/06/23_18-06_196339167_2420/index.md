@@ -6,7 +6,7 @@ slug = "pomnim-i-skorbim"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ПОМНИМ И СКОРБИМ!!!!

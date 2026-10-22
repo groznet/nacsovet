@@ -6,7 +6,7 @@ slug = "nalchik-park-otdykha-prekrasnaia-pogoda-druziavsegdariado"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Нальчик, парк отдыха, прекрасная погода... #друзьявсегдарядом #загидимахмудов #ильясшаваев #умаромаров #1мвй2017

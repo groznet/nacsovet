@@ -6,7 +6,7 @@ slug = "vsem-dobrogo-dnia-segodnia-odin-iz-luchshikh-dnei-ne-zabudte"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Всем доброго дня, сегодня один из лучших дней, не забудьте про "джума намаз"!? Да смилуется над нами ВСЕВЫШНИЙ АЛЛАХ!!!

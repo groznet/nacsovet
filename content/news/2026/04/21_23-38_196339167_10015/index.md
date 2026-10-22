@@ -6,7 +6,7 @@ slug = "21-04-2026g-gimnaziia-8-s-nozhai-iurt-intellektualnye-i-sp"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры"]
 +++
 
 21.04.2026г., Гимназия 8 с. Ножай-Юрт, интеллектуальные и спортивные игры, хороший симбиоз…

@@ -5,8 +5,8 @@ title = "«ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»"
 slug = "tsel-opravdyvaet-sredstva"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 «ЦЕЛЬ ОПРАВДЫВАЕТ СРЕДСТВА!»

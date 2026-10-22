@@ -5,8 +5,8 @@ title = "С ДНЕМ ГЕРОЕВ ОТЕЧЕСТВА НАС!!! #оооофице
 slug = "s-dnem-geroev-otechestva-nas-oooofitseryrossiivchr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России"]
+categories = ["Поздравления", "Патриотизм и память"]
 +++
 
 С ДНЕМ ГЕРОЕВ ОТЕЧЕСТВА НАС!!! #оооофицерыроссиивчр

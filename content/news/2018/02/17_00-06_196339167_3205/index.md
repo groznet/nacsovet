@@ -5,8 +5,8 @@ title = "#москва #красивеегормогутбытьтолького
 slug = "moskva-krasiveegormogutbyttolkogory-nadoblakami"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #москва #красивеегормогутбытьтолькогоры🗻 #надоблаками☁

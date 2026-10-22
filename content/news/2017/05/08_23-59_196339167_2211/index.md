@@ -5,8 +5,8 @@ title = "С Днём ВЕЛИКОЙ ПОБЕДЫ ВАС ДОРОГИЕ НАШИ 
 slug = "s-dnem-velikoi-pobedy-vas-dorogie-nashi-veterany"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ветераны"]
+categories = ["Поздравления", "Патриотизм и память"]
 +++
 
 С Днём ВЕЛИКОЙ ПОБЕДЫ ВАС ДОРОГИЕ НАШИ ВЕТЕРАНЫ!!!!

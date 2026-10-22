@@ -5,8 +5,8 @@ title = "Друзья, мечеть  Айя София , Стамбул, все�
 slug = "druzia-mechet-aiia-sofiia-stambul-vsekh-blag-vam-ot-nashego"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Мечеть"]
+categories = ["Путешествия и экспедиции", "Религия и традиции"]
 +++
 
 Друзья, мечеть  Айя София , Стамбул, всех благ вам от нашего СОЗДАТЕЛЯ 🤲❗️

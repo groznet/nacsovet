@@ -5,8 +5,8 @@ title = "Ночной Грозный - мне нравится..."
 slug = "nochnoi-groznyi-mne-nravitsia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Ночной Грозный - мне нравится...

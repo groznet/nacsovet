@@ -5,8 +5,8 @@ title = "ДОБРОЕ УТРО СТРАНА 🇷🇺❗️"
 slug = "dobroe-utro-strana"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 ДОБРОЕ УТРО СТРАНА 🇷🇺❗️

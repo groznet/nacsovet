@@ -5,8 +5,8 @@ title = "С руководителем департамента образова
 slug = "s-rukovoditelem-departamenta-obrazovaniia-g-groznyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Образование"]
 +++
 
 С руководителем департамента образования г.Грозный Зелимханом Ахматовым✅🎩🇷🇺📄

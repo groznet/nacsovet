@@ -6,7 +6,7 @@ slug = "navernoe-vspomnil-interesnoe-a-to-chto-ia-ulybaius"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Наверное, вспомнил интересное, а то, что я улыбаюсь ... )

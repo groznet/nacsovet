@@ -5,8 +5,8 @@ title = "С ДНЕМ МОЛОДЕЖИ РОССИИ❗️  #РОССИЯ🇷🇺 
 slug = "s-dnem-molodezhi-rossii-rossiia-denmolodezhi-prazdnik"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Поздравления", "Молодёжь"]
 +++
 
 С ДНЕМ МОЛОДЕЖИ РОССИИ❗️  #РОССИЯ🇷🇺 #ДЕНЬМОЛОДЕЖИ #ПРАЗДНИК

@@ -6,7 +6,7 @@ slug = "kak-to-tak-dubai-muzaevsaidmagomed-dunaevmusa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Как-то так!  #дубай 🇦🇪 @muzaevsaidmagomed @dunaevmusa

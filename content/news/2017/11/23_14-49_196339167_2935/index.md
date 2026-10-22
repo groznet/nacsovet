@@ -6,7 +6,7 @@ slug = "vladikavkaz-tsentrplasicheskoikhirurgii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #владикавказ #центрпласьическойхирургии

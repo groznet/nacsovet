@@ -5,8 +5,8 @@ title = "🌟НОХЧИЙН МЕТТАН ШАРНА ЛЕРИНА ЦХЬАЬНА�
 slug = "nokhchiin-mettan-sharna-lerina-tskhanakkhetar-diadakhira"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк"]
+categories = ["Образование", "Власть и политика"]
 +++
 
 🌟НОХЧИЙН МЕТТАН ШАРНА ЛЕРИНА ЦХЬАЬНАКХЕТАР ДIАДАЬХЬИРА СОЬЛЖА-ГIАЛИН ЛОЬМАР 39 ЙОЛЧУ ИШКОЛЕХЬ. 

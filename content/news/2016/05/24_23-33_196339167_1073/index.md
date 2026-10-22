@@ -6,7 +6,7 @@ slug = "ruslan-dunaev-i-mami-mutsaev-na-stavropole"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Руслан Дунаев и Мами Муцаев на Ставрополье...

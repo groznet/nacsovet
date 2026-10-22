@@ -5,8 +5,8 @@ title = "#КЧР #домбай #круглыйстол #ПРОЕКТПЛАТФО
 slug = "kchr-dombai-kruglyistol-proektplatforma2017"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Домбай"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #КЧР #домбай #круглыйстол #ПРОЕКТПЛАТФОРМА2017 #

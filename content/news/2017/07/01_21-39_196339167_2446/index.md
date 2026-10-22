@@ -5,8 +5,8 @@ title = "#фонтан #Грозный #красотадаитолько"
 slug = "fontan-groznyi-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 #фонтан #Грозный #красотадаитолько

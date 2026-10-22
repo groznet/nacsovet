@@ -5,8 +5,8 @@ title = "Господа интеллектуалы, все для вас, вои
 slug = "gospoda-intellektualy-vse-dlia-vas-voistinu-za-intellektom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Господа интеллектуалы, все для вас, воистину, за интеллектом будущее…   

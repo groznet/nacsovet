@@ -6,7 +6,7 @@ slug = "shakh-i-mat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Шах и МАТ!!!

@@ -6,7 +6,7 @@ slug = "segodnia-u-professionala-s-bolshoi-bukvy-adlana-nagaeva-den"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Сегодня у профессионала с большой буквы Адлана Нагаева День рождения, дай АЛЛАХ вам и вашим близким всех благ в обоих мирах!!!

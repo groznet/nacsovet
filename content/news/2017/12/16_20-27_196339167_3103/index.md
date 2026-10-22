@@ -6,7 +6,7 @@ slug = "geroi-sovetskogo-soiuza-velikii-syn-chechenskogo-naroda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 ГЕРОЙ СОВЕТСКОГО СОЮЗА, великий сын чеченского народа ХАНПАША НУРАДИЛОВ!!! ВЕЗАЧУ АЛЛАХА, декъалла бойла вай ТУРПАЛХОЙ!!!

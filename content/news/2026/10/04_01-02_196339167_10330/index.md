@@ -5,8 +5,8 @@ title = "Уважаемые интеллектуалы!"
 slug = "uvazhaemye-intellektualy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Уважаемые интеллектуалы!

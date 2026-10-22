@@ -6,7 +6,7 @@ slug = "dubai-den-pervyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Дубай, день первый!

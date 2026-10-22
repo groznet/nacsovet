@@ -5,8 +5,8 @@ title = "С Днем рождения! Здоровья, мира и благо�
 slug = "s-dnem-rozhdeniia-zdorovia-mira-i-blagopoluchiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Здоровье"]
+categories = ["Поздравления", "Здоровье"]
 +++
 
 С Днем рождения! Здоровья, мира и благополучия!

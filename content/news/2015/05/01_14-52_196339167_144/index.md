@@ -6,7 +6,7 @@ slug = "rezultaty-poiska-po-zaprosu-dunaev-musa-bessmertnyi-pol"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Результаты поиска по запросу "дунаев муса" | Бессмертный полк

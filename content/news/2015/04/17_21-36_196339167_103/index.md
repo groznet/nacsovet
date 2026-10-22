@@ -6,7 +6,7 @@ slug = "vse-po-vole-allakha-rossiia-sochi-olimpiada"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Все по воле АЛЛАХА !!! #Россия #Сочи #Олимпиада

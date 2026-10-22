@@ -5,8 +5,8 @@ title = "#архив #Питер #собираюсьмыслями) #экску�
 slug = "arkhiv-piter-sobiraiusmysliami-ekskursiia-krasota-rsm-s"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 #архив #Питер #собираюсьмыслями) #экскурсия #красота #РСМ #сила #Дунаев

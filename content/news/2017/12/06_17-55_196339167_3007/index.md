@@ -6,7 +6,7 @@ slug = "kogda-rabochii-den-zavershaetsia-s-khoroshim-chelovekom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда рабочий день завершается с хорошим ЧЕЛОВЕКОМ, профессионалом "ПЕРА", Индирой Джабраиловой, не ЧУДО ЛИ ЭТО!!!

@@ -5,8 +5,8 @@ title = "С братьями Ибрагимом Яхияевым РД и Арс�
 slug = "s-bratiami-ibragimom-iakhiiaevym-rd-i-arsenom-kaigermazovym"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 С братьями Ибрагимом Яхияевым РД и Арсеном Кайгермазовым КБР на форуме #архыз2017 #буднифорума #

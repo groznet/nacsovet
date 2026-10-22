@@ -6,7 +6,7 @@ slug = "sport-kazhdyi-den"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Спорт каждый день!!!

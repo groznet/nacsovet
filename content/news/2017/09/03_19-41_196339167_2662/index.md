@@ -6,7 +6,7 @@ slug = "budte-vy-prokliaty-ubiitsy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 БУДЬТЕ ВЫ ПРОКЛЯТЫ,УБИЙЦЫ!!!

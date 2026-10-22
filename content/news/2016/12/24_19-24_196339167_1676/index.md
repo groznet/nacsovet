@@ -5,8 +5,8 @@ title = "На 4 международном политологическом фо
 slug = "na-4-mezhdunarodnom-politologicheskom-forume-rossiiskii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 На 4 международном политологическом форуме "Российский Кавказ", 1-2.12.2016г,, Ставропольский край..,

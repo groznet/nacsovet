@@ -5,8 +5,8 @@ title = "Закончился практический этап проекта �
 slug = "zakonchilsia-prakticheskii-etap-proekta-vozvrashchenie-k"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Закончился практический этап проекта «Возвращение к истокам» | Информационное агентство "Грозный-Информ"

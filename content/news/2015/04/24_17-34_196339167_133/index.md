@@ -6,7 +6,7 @@ slug = "vse-tak-kak-my-realisty-i-khoteli-uveren-barselona-s-b"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все так как мы РЕАЛисты и хотели ...))) Уверен Барселона с Баварией не прочь были бы поменяться с Реалом ,

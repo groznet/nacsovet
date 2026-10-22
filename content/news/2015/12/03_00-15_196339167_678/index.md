@@ -6,7 +6,7 @@ slug = "dorvalsia-do-konfetki-poprobui-otberi-https-www-instag"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Дорвался до конфетки, попробуй отбери...) https://www.instagram.com/p/-zdzP4H1DO/

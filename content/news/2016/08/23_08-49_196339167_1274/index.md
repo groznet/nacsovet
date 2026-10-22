@@ -5,8 +5,8 @@ title = "В Грозном празднуют День Государствен�
 slug = "v-groznom-prazdnuiut-den-gosudarstvennogo-flaga-rf-informa"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 В Грозном празднуют День Государственного флага РФ | Информационное агентство "Грозный-Информ"

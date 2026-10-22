@@ -6,7 +6,7 @@ slug = "druzia-ostaiutsia-s-vami-togda-kogda-ot-vas-ukhodit-ves-mi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ✅ ДРУЗЬЯ, ОСТАЮТСЯ С ВАМИ ТОГДА, КОГДА ОТ ВАС УХОДИТ ВЕСЬ МИР 🌍, ПРОВЕРЕННЫЕ ВРЕМЕНЕМ 🤲❗️

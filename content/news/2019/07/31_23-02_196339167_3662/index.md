@@ -6,7 +6,7 @@ slug = "vecherniuiu-progulku-nikto-ne-otmenial-sportivnaiakhodba-spo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Вечернюю прогулку никто не отменял... #спортивнаяходьба #спорткаждыйдень #ходьба #дунаевмуса #rimini #italy🇮🇹 #grozny #russia🇷🇺

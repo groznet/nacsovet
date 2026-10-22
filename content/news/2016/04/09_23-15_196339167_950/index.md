@@ -6,7 +6,7 @@ slug = "proveril-dnevnik-muzhichka-ostalsia-strashno-dovolnym-tak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Проверил дневник мужичка, остался страшно довольным, так держать!!!

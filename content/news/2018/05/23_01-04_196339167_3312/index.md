@@ -6,7 +6,7 @@ slug = "mbousosh2sgermenchuk-shalinskii-raion-posledniizvonok2018"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #мбоусош2сгерменчук #шалинский_район #последнийзвонок2018🔔  Всех благ вам от АЛЛАХА  дорогие выпускники в обоих мирах!!!

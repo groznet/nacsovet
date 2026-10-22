@@ -5,8 +5,8 @@ title = "Утро четвертого дня Всероссийского ин�
 slug = "utro-chetvertogo-dnia-vserossiiskogo-intellektualnogo-foruma"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Культурный Кавказ", "Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Утро четвертого дня Всероссийского интеллектуального форума «Культурный Кавказ», отъезд участников…

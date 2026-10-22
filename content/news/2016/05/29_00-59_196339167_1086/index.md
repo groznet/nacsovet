@@ -5,8 +5,8 @@ title = "Поздравляю Реал с победой в Лиге Чемпи�
 slug = "pozdravliaiu-real-s-pobedoi-v-lige-chempionov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю Реал с победой в Лиге Чемпионов!!!

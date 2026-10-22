@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-vsekh-blag-vam-i-vashim-blizkim"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро СТРАНА!!! Всех благ вам и вашим близким!!!

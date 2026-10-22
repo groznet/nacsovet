@@ -6,7 +6,7 @@ slug = "rd-makhachkala-vsekhblagvamdruzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #РД #Махачкала #всехблагвамдрузья #

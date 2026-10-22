@@ -6,7 +6,7 @@ slug = "druzia-kogda-trening-po-sotsialnomu-proektirovaniiu-organiz"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, когда тренинг по социальному проектированию, организаторы РОО «ОТКРЫТЫЙ КАВКАЗ» проводят в Домбае, конечно, с удовольствием приняли участие. СПАСИБО! 

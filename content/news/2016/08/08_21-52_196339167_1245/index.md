@@ -5,8 +5,8 @@ title = "М. Дунаев: Молодежь должна формировать�
 slug = "m-dunaev-molodezh-dolzhna-formirovatsia-v-zdorovoi-srede"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 М. Дунаев: Молодежь должна формироваться в здоровой среде | Информационное агентство "Грозный-Информ"

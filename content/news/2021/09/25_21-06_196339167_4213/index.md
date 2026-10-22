@@ -5,8 +5,8 @@ title = "Республиканская интеллектуально-прав�
 slug = "respublikanskaia-intellektualno-pravovaia-igra-molodezh-i-za"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Интеллектуальные игры", "Турнир", "Грозный", "Молодёжь"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Республиканская интеллектуально-правовая игра «Молодёжь и Закон», благодарны учредителю турнира @minnacinform_chr [club204804052|@ahmed_95kra] @tochki__opory @surho_grozny за чудесные подарки, партнёру и исполнителям @youthchr_nacsovet @dunaevmusa @intellektualny_centre_scfo @intellektualny_kavkaz @chroo_sm #амперсанд за организацию, хорошие вопросы.

@@ -5,8 +5,8 @@ title = "На финише, усталые, но довольные и счас�
 slug = "na-finishe-ustalye-no-dovolnye-i-schastlivye-belgiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 На финише, усталые, но довольные и счастливые... #бельгия🇧🇪 #брат #динанткаяк #

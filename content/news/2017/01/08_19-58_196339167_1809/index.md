@@ -6,7 +6,7 @@ slug = "armkhidzheirakhotdykh-armkhigornolyzhnyikurort-ingushetiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #армхиджейрахотдых #армхигорнолыжныйкурорт #Ингушетия #Тагиев #Капланов #Хаджимурадов #Дунаев

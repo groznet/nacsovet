@@ -5,8 +5,8 @@ title = "Гостиница НЛО,... #Платформа #Дом@ай #Общ�
 slug = "gostinitsa-nlo-platforma-dom-ai-obshchestvennaiapalatachr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР"]
+categories = ["Общественная жизнь"]
 +++
 
 Гостиница НЛО,... #Платформа #Дом@ай #ОбщественнаяпалатаЧР #Камбиев #Базаев #Дунаев

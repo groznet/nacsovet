@@ -5,8 +5,8 @@ title = "✨ Дорогие дамы, приглашаем вас на неза�
 slug = "dorogie-damy-priglashaem-vas-na-nezabyvaemuiu-intellektual"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 ✨ Дорогие дамы, приглашаем вас на незабываемую интеллектуальную викторину "Lady-квиз"! ✨

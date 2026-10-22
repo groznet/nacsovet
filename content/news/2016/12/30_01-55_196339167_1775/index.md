@@ -6,7 +6,7 @@ slug = "rabota-chechenskogo-khudozhnika-assa-svoego-dela-alaskhanova"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 Работа чеченского художника, асса своего дела Аласханова Зайнди...

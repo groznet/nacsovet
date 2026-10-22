@@ -5,8 +5,8 @@ title = "#общественнаяпалатачр opchr #Грозный-Вла�
 slug = "obshchestvennaiapalatachr-opchr-groznyi-vladikavkaz"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Ибрагим Базаев", "Грозный"]
+categories = ["Общественная жизнь"]
 +++
 
 #общественнаяпалатачр opchr #Грозный-Владикавказ  #ибрагимбазаев #исламсайдаев ibragimbazaew islam_shah 14 ноября 2017 год.

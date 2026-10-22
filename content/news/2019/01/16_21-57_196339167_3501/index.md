@@ -6,7 +6,7 @@ slug = "s-druziami-obsuzhdali-sovmestnye-proekty-na-tekushchii-god"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С друзьями обсуждали совместные проекты на текущий год... movladi_bata #исасардалов

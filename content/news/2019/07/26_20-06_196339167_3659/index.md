@@ -5,8 +5,8 @@ title = "В компании близких и дорогих людей, вре
 slug = "v-kompanii-blizkikh-i-dorogikh-liudei-vremia-skorotechno-mo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 В компании близких и дорогих людей, время скоротечно... 🕰#москва #дунаевмуса #чимаевзаур muzaevsaidmagomed

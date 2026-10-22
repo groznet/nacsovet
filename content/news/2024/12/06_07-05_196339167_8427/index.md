@@ -5,8 +5,8 @@ title = "«ЛИДЕР ЧТЕНИЯ Г. ГРОЗНЫЙ», проект реали
 slug = "lider-chteniia-g-groznyi-proekt-realizuetsia-mik-intellekt"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальный Кавказ", "Лидер чтения", "Грозный"]
+categories = ["Образование", "Интеллектуальные игры"]
 +++
 
 «ЛИДЕР ЧТЕНИЯ Г. ГРОЗНЫЙ», проект реализуется МИК «Интеллектуальный Кавказ», тренер и эксперт #проект @muzaevsaidmagomed и @timur_a503oa

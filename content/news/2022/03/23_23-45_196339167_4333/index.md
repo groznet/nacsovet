@@ -5,8 +5,8 @@ title = "Друзья,поздравляю всех нас с этим праз�
 slug = "druzia-pozdravliaiu-vsekh-nas-s-etim-prazdnikom-vse-po-vole"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Друзья,поздравляю всех нас с этим праздником!  Все по воле нашего СОЗДАТЕЛЯ!

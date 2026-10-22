@@ -6,7 +6,7 @@ slug = "vse-po-vole-vsevyshnego-allakha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВСЕ ПО ВОЛЕ ВСЕВЫШНЕГО АЛЛАХА!!!

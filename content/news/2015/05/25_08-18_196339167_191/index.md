@@ -5,8 +5,8 @@ title = "#Китай #природа #красота #Россия #Россий
 slug = "kitai-priroda-krasota-rossiia-rossiiskiisoiuzmolodezhi-rs"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #Китай #природа #красота #Россия #РоссийскийСоюзМолодежи #РСМ #ЧРОРСМ #делегация #Дунаев

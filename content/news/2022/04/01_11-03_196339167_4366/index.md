@@ -6,7 +6,7 @@ slug = "donetskaia-narodnaia-respublika-press-tur-za-pravdu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Донецкая народная республика, пресс-тур «Zа правду»…

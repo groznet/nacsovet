@@ -6,7 +6,7 @@ slug = "pervyi-blin-k-sozhaleniiu-opytom-nabralsia-rediskam-nel"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Первый блин к сожалению, )) опытом набрался, «редискам» нельзя слепо верить, … 

@@ -6,7 +6,7 @@ slug = "rannee-utro-groznenskoe-more-samoe-chistoe-more-v-mire-dum"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Раннее утро, грозненское море, самое чистое море в Мире, думаете не скромно, но это же факт. Добро пожаловать!!!

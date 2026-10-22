@@ -5,8 +5,8 @@ title = "#россия🇷🇺 #грозный #4ноябряденьнарод�
 slug = "rossiia-groznyi-4noiabriadennarodnogoedinstva-adlandinae"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Офицеры России", "Грозный"]
+categories = ["Заметки"]
 +++
 
 #россия🇷🇺 #грозный #4ноябряденьнародногоединства #адландинаев adlan_dinaev95_196 #общественнаяпалатачр #опчр opchr #оооофицерыроссиивчр movladi_bata

@@ -6,7 +6,7 @@ slug = "arkhiv-velikolepnaiaitaliia-italiia-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #архив #великолепнаяиталия #италия🇮🇹 #Дунаев

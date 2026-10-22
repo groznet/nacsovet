@@ -5,8 +5,8 @@ title = "#призывкдействию #спорт #велоспорт🚴 #в
 slug = "prizyvkdeistviiu-sport-velosport-veloprobeg-molodezh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег", "Молодёжь"]
+categories = ["Спорт", "Молодёжь"]
 +++
 
 #призывкдействию #спорт #велоспорт🚴 #велопробег🚲 #молодежь #пример

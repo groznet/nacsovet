@@ -6,7 +6,7 @@ slug = "glavnogo-parashiutista-respubliki-isu-khadzhimuradova-s-dnem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 Главного парашютиста республики ИСУ ХАДЖИМУРАДОВА с Днем рождения!!! ВЕЗАЧУ АЛЛАХА ДЕКЬАЛЛА ВОЙЛА ХЬО ВИНЧУ ДАЬНЦА!!!

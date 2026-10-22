@@ -6,7 +6,7 @@ slug = "login-instagram"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Login • Instagram

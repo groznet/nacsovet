@@ -1,12 +1,12 @@
 +++
 date = "2025-05-22T18:27:00-08:00"
-draft = false
+draft = true
 title = "Без названия"
 slug = "bez-nazvaniia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 

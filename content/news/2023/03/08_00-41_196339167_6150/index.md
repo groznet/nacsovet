@@ -5,8 +5,8 @@ title = "Милые дамы, от всей души поздравляю вас
 slug = "milye-damy-ot-vsei-dushi-pozdravliaiu-vas-s-prazdnikom-vesny"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Милые дамы, от всей души поздравляю вас с праздником весны, любви и красоты!

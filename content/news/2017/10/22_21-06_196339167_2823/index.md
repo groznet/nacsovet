@@ -6,7 +6,7 @@ slug = "druziavsegdariadom-druzianavsegda-druziasdetstva-zhizhig-ga"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #друзьявсегдарядом #друзьянавсегда #друзьясдетства #жижиг_галнаш по рецепту yuliavasiljeva

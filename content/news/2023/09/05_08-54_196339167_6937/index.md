@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ДОБРОЕ УТРО СТРАНА #РОССИЯ 🇷🇺❗️

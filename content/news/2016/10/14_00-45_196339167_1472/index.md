@@ -5,8 +5,8 @@ title = "#GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp"
 slug = "gprepost-reposter-notetag-albert-che95-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика", "Москва", "Поздравление", "Молодёжь"]
+categories = ["Культура и искусство", "Религия и традиции"]
 +++
 
 #GPRepost,#reposter,#notetag @albert_che95 via @GPRepostApp 

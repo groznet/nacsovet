@@ -6,7 +6,7 @@ slug = "rossiiskoe-obshchestvo-znanie-otborochnyi-etap-sernovodsii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Российское общество «Знание», отборочный этап…  Серноводсий район,   СОШ 1 с. Серноводское. Играют команды   старших классов общеобразоваткльных организаций района…

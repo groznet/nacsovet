@@ -5,8 +5,8 @@ title = "Платформа - 2016 научила ребят социально�
 slug = "platforma-2016-nauchila-rebiat-sotsialnomu-proektirovaniiu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Платформа - 2016 научила ребят социальному проектированию | Информационное агентство "Грозный-Информ"

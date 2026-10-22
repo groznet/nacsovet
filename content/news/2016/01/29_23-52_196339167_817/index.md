@@ -5,8 +5,8 @@ title = "После первого детского конкурса в Спор
 slug = "posle-pervogo-detskogo-konkursa-v-sport-kholle-kolizei"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Молодёжь", "Спорт"]
 +++
 
 После первого детского конкурса в Спорт Холле Колизей...

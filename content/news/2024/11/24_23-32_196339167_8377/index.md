@@ -5,8 +5,8 @@ title = "🌟 УВАЖАЕМЫЕ ДАМЫ И ГОСПОДА, НАШИ ДОРОГ
 slug = "uvazhaemye-damy-i-gospoda-nashi-dorogie-intellektualy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 🌟 УВАЖАЕМЫЕ ДАМЫ И ГОСПОДА, НАШИ ДОРОГИЕ ИНТЕЛЛЕКТУАЛЫ!

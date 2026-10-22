@@ -5,8 +5,8 @@ title = "Слава ветеранам ВОВ!!!"
 slug = "slava-veteranam-vov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ветераны"]
+categories = ["Патриотизм и память"]
 +++
 
 Слава ветеранам ВОВ!!!

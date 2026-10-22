@@ -6,7 +6,7 @@ slug = "vse-liudi-bratia-i-sestry"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все люди братья и сестры...

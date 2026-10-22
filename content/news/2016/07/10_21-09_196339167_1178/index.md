@@ -5,8 +5,8 @@ title = "Чеченская Республика, оз. Кезеной-Ам, С�
 slug = "chechenskaia-respublika-oz-kezenoi-am-selfi-s-druziami"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Чеченская Республика, оз. Кезеной-Ам, Селфи с друзьями...

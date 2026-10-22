@@ -5,8 +5,8 @@ title = "С праздником вас дорогие братья и сест�
 slug = "s-prazdnikom-vas-dorogie-bratia-i-sestry-vsekh-blag-vam-i-va"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамадан"]
+categories = ["Поздравления"]
 +++
 
 С праздником вас дорогие братья и сестры, всех благ вам и вашим близким в обоих мирах!!! #месяцрамадан✨🌙

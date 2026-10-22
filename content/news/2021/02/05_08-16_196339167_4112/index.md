@@ -6,7 +6,7 @@ slug = "gospoda-intellektualy-s-prazdnikom-vas-intellektualny"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Интеллектуальные игры", "Поздравления"]
 +++
 
 Господа интеллектуалы, с праздником вас !!! #интеллектуальныйкавказ @intellektualny_kavkaz @intellektualny_centre_scfo @youthchr_nacsovet

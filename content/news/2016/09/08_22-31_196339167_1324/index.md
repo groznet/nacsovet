@@ -5,8 +5,8 @@ title = "Перед заседанием Совета ФПЧР, члены пр�
 slug = "pered-zasedaniem-soveta-fpchr-chleny-prezidiuma-chroo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы"]
+categories = ["Общественная жизнь"]
 +++
 
 Перед заседанием Совета ФПЧР, члены президиума ЧРОО профсоюза работников жизнеобеспечения ...

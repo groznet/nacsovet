@@ -6,7 +6,7 @@ slug = "spasibo-dobrym-liudiam-sfotografirovali-prislali-ne-po"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ✅ 🙏 Спасибо добрым людям), сфотографировали, прислали, не поленились…)) Так-то, я добрый, к сожалению зрение с годами не становится лучше…)) 

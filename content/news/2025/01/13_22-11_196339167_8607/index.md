@@ -5,8 +5,8 @@ title = "СОШ 34 г. Грозного, проект «Лидер чтения 
 slug = "sosh-34-g-groznogo-proekt-lider-chteniia-goroda-groznyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лидер чтения", "Грозный"]
+categories = ["Образование"]
 +++
 
 СОШ 34 г. Грозного, проект «Лидер чтения города Грозный»

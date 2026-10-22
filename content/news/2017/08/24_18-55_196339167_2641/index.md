@@ -6,7 +6,7 @@ slug = "priiatnogo-vechera"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Приятного вечера!!!

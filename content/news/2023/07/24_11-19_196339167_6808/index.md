@@ -6,7 +6,7 @@ slug = "dobroe-strana-rossiia-produktivnoi-nedeli"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе страна #РОССИЯ 🇷🇺❗️ Продуктивной недели !!!

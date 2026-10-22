@@ -6,7 +6,7 @@ slug = "poekhali"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ПОЕХАЛИ!!!

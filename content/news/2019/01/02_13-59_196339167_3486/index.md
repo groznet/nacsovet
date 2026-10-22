@@ -5,8 +5,8 @@ title = "Довольны дети, счастливы родители! Все�
 slug = "dovolny-deti-schastlivy-roditeli-vsekh-blag-ot-allakh1a-vam"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Религия и традиции"]
 +++
 
 Довольны дети, счастливы родители! Всех благ от АЛЛАХ1А, вам и вашим близким в обоих мирах!!!

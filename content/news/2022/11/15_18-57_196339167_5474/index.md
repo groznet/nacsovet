@@ -6,7 +6,7 @@ slug = "kak-to-tak-zanimaites-sportom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Как-то так, занимайтесь спортом!!!

@@ -6,7 +6,7 @@ slug = "nastavnik-chelsi-zhoze-mouriniu-popal-v-knigu-rekordov-ginne"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Культура и искусство"]
 +++
 
 Наставник «Челси» Жозе Моуринью попал в Книгу рекордов Гиннесса

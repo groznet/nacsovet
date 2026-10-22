@@ -5,8 +5,8 @@ title = "🔥А жизни детей Донбасса что — ничего �
 slug = "a-zhizni-detei-donbassa-chto-nichego-ne-stoiat-zampostpred"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 🔥А жизни детей Донбасса что — ничего не стоят? — зампостпреда РФ при Юнеско Татьяна Довгаленко

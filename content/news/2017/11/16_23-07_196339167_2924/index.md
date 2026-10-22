@@ -6,7 +6,7 @@ slug = "konechno-posle-raboty-priiatnaia-vstrecha-s-plemiannikom-i"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Конечно, после работы приятная встреча с племянником, и легкий диетический ужин...)

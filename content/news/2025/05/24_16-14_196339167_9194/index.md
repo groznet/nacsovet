@@ -6,7 +6,7 @@ slug = "poluchil-gramotu-ot-glavy-administratsii-shalinskogo-raiona"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Власть и политика"]
 +++
 
 Получил грамоту от Главы Администрации Шалинского района Ибрагимова Т-А.В. «За поддержку значимых социальных проектов в районе». Будем работать!

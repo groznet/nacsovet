@@ -6,7 +6,7 @@ slug = "zasedanie-regionalnogo-shtaba-narodnogo-fronta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Заседание регионального штаба Народного фронта

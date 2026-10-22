@@ -5,8 +5,8 @@ title = "💎 Лауреаты «ГОРДОСТЬ НАЦИИ» в Музее П�
 slug = "laureaty-gordost-natsii-v-muzee-pobedy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["День Победы"]
+categories = ["Патриотизм и память"]
 +++
 
 💎 Лауреаты «ГОРДОСТЬ НАЦИИ» в Музее Победы 

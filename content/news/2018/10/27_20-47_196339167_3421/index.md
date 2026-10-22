@@ -5,8 +5,8 @@ title = "Без технического обслуживания  никак, �
 slug = "bez-tekhnicheskogo-obsluzhivaniia-nikak-zaekhal-k-chudo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Заметки"]
 +++
 
 Без технического обслуживания  никак, заехал к чудо мастеру... velo_zap4asti_95 #велоспорт🚴 #велопробег🚲 #активныхвыходных

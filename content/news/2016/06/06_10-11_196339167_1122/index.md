@@ -5,8 +5,8 @@ title = "Поздравляю хорошего, талантливого ЧЕЛ�
 slug = "pozdravliaiu-khoroshego-talantlivogo-cheloveka-s-proshedshim"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю хорошего, талантливого ЧЕЛОВЕКА с прошедшим Днем рождения! ВЕЗАЧУ АЛЛАХА декьалла войла хьо винчу даьнца!!!

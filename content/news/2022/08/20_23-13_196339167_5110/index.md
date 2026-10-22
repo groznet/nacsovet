@@ -6,7 +6,7 @@ slug = "samaia-krasivaia-plemiannitsa-svadba-plemiannik-tiinala"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Самая красивая племянница…!!!#свадьба #племянник #тийнала

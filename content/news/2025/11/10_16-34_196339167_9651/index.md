@@ -6,7 +6,7 @@ slug = "dlia-statuetki-laureata-premii-iskali-gornyi-khrustal-po-vs"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 💎«Для статуэтки лауреата премии искали горный хрусталь по всей стране»: раскрываем подробности 

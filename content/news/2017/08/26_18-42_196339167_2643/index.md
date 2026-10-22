@@ -5,8 +5,8 @@ title = "Жара спала, комфортное время для велоп�
 slug = "zhara-spala-komfortnoe-vremia-dlia-veloprobega-sportkazhdy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Жара спала, комфортное время для велопробега.... #спорткаждыйдень #здоровыйобразжизни #

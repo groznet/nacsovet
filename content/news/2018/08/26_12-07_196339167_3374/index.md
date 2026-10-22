@@ -6,7 +6,7 @@ slug = "master-klass-ot-yuliavasiljeva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мастер-класс от yuliavasiljeva

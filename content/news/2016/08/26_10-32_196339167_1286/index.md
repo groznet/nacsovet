@@ -5,8 +5,8 @@ title = "#форумактивныхграждан #\"Сообщество\" О�
 slug = "forumaktivnykhgrazhdan-soobshchestvo-onf-gosti-stavropolsk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Форум"]
+categories = ["Общественная жизнь"]
 +++
 
 #форумактивныхграждан #"Сообщество" ОНФ #Гости #Ставропольскийкрай #базаев #дунаев

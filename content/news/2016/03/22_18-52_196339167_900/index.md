@@ -5,8 +5,8 @@ title = "На съезде РСМ, готов к работе..."
 slug = "na-sezde-rsm-gotov-k-rabote"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 На съезде РСМ, готов к работе...

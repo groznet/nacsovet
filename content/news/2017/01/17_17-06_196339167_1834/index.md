@@ -5,8 +5,8 @@ title = "#Бельгия #Брюссель #Намюр #братан видсв�
 slug = "belgiia-briussel-namiur-bratan-vidsverkhu-zamoktsitadel"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #Бельгия #Брюссель #Намюр #братан видсверху #замокцитадель

@@ -6,7 +6,7 @@ slug = "s-prazdnikom-vsekh-musulman-no-i-konechno-vsegda-nakhodite-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 С праздником всех мусульман, но и конечно, всегда находите время для семьи…

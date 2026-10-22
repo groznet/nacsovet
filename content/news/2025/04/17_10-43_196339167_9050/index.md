@@ -6,7 +6,7 @@ slug = "musa-dunaev-sotsialnoe-sluzhenie-musulmanina-azbuka-islam"
 author = "ЦРО «Международная Исламская Миссия»"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Муса Дунаев. Социальное служение мусульманина | Азбука Ислама

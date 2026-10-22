@@ -6,7 +6,7 @@ slug = "sportkazhdyiden-zdorovyiobrazzhizni-komulegko-udachivsem"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 #спорткаждыйдень #здоровыйобразжизни #комулегко #удачивсем✌

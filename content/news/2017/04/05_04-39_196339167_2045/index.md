@@ -5,8 +5,8 @@ title = "Доброе утро страна!!! #спорт #велопробег
 slug = "dobroe-utro-strana-sport-veloprobeg-zdorovyiobrazzhizni"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Доброе утро страна!!! #спорт #велопробег #здоровыйобразжизни #

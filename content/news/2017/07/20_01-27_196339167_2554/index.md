@@ -6,7 +6,7 @@ slug = "krasota-da-i-tolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Красота да и только!!!!!

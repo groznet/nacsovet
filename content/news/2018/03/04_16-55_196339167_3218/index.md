@@ -5,8 +5,8 @@ title = "Активных выходных друзья!!! #грозныйсит
 slug = "aktivnykh-vykhodnykh-druzia-groznyisiti"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Активных выходных друзья!!! #грозныйсити

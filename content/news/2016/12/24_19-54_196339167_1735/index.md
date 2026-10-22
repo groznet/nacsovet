@@ -6,7 +6,7 @@ slug = "ia-dobryi-okhotnik-lisu-otpustil-v-krolika-ne-stal-streliat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Я добрый охотник, лису отпустил, в кролика не стал стрелять, будем есть из рюкзака и вес будет полегче...) А фотоохоту никто не отменял...

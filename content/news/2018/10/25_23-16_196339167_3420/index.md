@@ -6,7 +6,7 @@ slug = "druziaivafrikedruzia-vmestepozhizni-druzia-dieticheskiiu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #друзьяивафрикедрузья #вместепожизни🙏🏼 #друзья #диетическийужин #худеемвместе

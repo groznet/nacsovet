@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-vsekh-blag-vam-ot-nashego-sozda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна #РОССИЯ🇷🇺❗️ Всех благ вам от нашего СОЗДАТЕЛЯ!!!

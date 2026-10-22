@@ -6,7 +6,7 @@ slug = "zanimaites-sportom-i-da-prebudet-s-vami-sila-intellekta"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт", "Путешествия и экспедиции"]
 +++
 
 Занимайтесь спортом, и да пребудет с вами сила интеллекта! #дубай

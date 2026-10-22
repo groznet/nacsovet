@@ -6,7 +6,7 @@ slug = "rostovnadonu-progulkapogorodu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #ростовнадону #прогулкапогороду #

@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #гроты #волшебныйвид #"
 slug = "belgiia-groty-volshebnyivid"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #гроты #волшебныйвид #

@@ -6,7 +6,7 @@ slug = "byt-khoroshim-i-dobrym-okhotnikom-uveren-ne-kazhdyi-smozhet"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Быть хорошим и добрым охотником  уверен не каждый сможет,  спасибо минимаркету, что накормил нас ... )

@@ -6,7 +6,7 @@ slug = "aktivnykhvykhodnykh-splrtivnyiprazdnik-sport-zdorovyiobrazzh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 #активныхвыходных #сплртивныйпраздник #спорт #здоровыйобразжизни #велопрогулка

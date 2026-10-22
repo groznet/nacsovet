@@ -5,8 +5,8 @@ title = "Так держать! Поздравляю!!!"
 slug = "tak-derzhat-pozdravliaiu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Так держать! Поздравляю!!!

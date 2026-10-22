@@ -5,8 +5,8 @@ title = "🌍 Уехал за границу? Российские сервис�
 slug = "uekhal-za-granitsu-rossiiskie-servisy-vse-ravno-rabotaiut"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Единая Россия", "Владимир Путин"]
+categories = ["Власть и политика", "Путешествия и экспедиции"]
 +++
 
 🌍 Уехал за границу? Российские сервисы всё равно работают!

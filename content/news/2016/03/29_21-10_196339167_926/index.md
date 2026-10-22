@@ -6,7 +6,7 @@ slug = "ia-byl-ustavshii-pobeda-chistaia-no-nechestnaia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Я был уставший, победа чистая, но нечестная...).

@@ -5,8 +5,8 @@ title = "С дорогими гостями форума \"Сообщество\
 slug = "s-dorogimi-gostiami-foruma-soobshchestvo-iz-kurgana"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 С дорогими гостями форума "Сообщество" из Кургана...

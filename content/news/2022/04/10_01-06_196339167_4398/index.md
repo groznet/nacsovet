@@ -6,7 +6,7 @@ slug = "o-allakh-darui-svoi-vechnyi-rai-tvoemu-rabu-moemu-bratu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 О АЛЛАХ, ДАРУЙ СВОЙ ВЕЧНЫЙ РАЙ ТВОЕМУ РАБУ, МОЕМУ БРАТУ!!! 

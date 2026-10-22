@@ -6,7 +6,7 @@ slug = "veduchi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ведучи!!!

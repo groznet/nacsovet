@@ -5,8 +5,8 @@ title = "Активных выходных друзья!!! #Грозный #ни
 slug = "aktivnykh-vykhodnykh-druzia-groznyi-nikhaloevskievodopady"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Активных выходных друзья!!! #Грозный #нихалоевскиеводопады #парламентчр #денильхановасхаб #дунаевабдуррохьман

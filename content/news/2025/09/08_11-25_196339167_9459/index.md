@@ -5,8 +5,8 @@ title = "Проект !Я и весь мир!\""
 slug = "proekt-ia-i-ves-mir"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Я и этот мир"]
+categories = ["Заметки"]
 +++
 
 Проект !Я и весь мир!"

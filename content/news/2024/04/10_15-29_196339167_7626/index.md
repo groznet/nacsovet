@@ -5,8 +5,8 @@ title = "С благословенным праздником"
 slug = "s-blagoslovennym-prazdnikom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ураза-байрам"]
+categories = ["Поздравления"]
 +++
 
 С благословенным праздником 

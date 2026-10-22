@@ -5,8 +5,8 @@ title = "«ТРОПАМИ ПРЕДКОВ», 8 экспедиция, 3 сезон
 slug = "tropami-predkov-8-ekspeditsiia-3-sezon-tropami-predkov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Тропами предков", "Экспедиция"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 «ТРОПАМИ ПРЕДКОВ», 8 экспедиция, 3 сезон!  @tropami_predkov @timuraliev1973 @youthchr_nacsovet @dunaevmusa

@@ -6,7 +6,7 @@ slug = "da-zdravstvuet-sneg-bylo-priiatno-chto-v-bratskoi-osetii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Да.здравствует снег! ) Было приятно, что в братской Осетии, зимой зима была...))

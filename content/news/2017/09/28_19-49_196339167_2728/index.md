@@ -6,7 +6,7 @@ slug = "razreshili-prokatatsia-vy-so-mnoi-ekskursiiapotsitadeliu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Разрешили прокататься...) Вы, со мной? #экскурсияпоцитаделю #намюр #

@@ -6,7 +6,7 @@ slug = "vsekhblagvamivashimblizkim-dasmilovitsianadnamiallakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 #всехблагвамивашимблизким🙏🏻 #дасмиловитсянаднамиАллах

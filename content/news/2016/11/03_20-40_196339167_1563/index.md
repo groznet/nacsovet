@@ -5,8 +5,8 @@ title = "С другом и коллегой Еленой Яковлевой,,..
 slug = "s-drugom-i-kollegoi-elenoi-iakovlevoi-forumsoobshchestvo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 С другом и коллегой Еленой Яковлевой,,... #форумсообщество

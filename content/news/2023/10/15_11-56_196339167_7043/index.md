@@ -5,8 +5,8 @@ title = "Межрегиональный интеллектуальный фор�
 slug = "mezhregionalnyi-intellektualnyi-forum-gory-ot-uma"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Межрегиональный интеллектуальный форум «Горы от ума»…

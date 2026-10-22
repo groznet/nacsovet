@@ -5,8 +5,8 @@ title = "Детская площадка под мостом, вдумайтес
 slug = "detskaia-ploshchadka-pod-mostom-vdumaites-dumaiushchie-dubai"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Путешествия и экспедиции", "Молодёжь"]
 +++
 
 Детская площадка под мостом, вдумайтесь, думающие…  #дубай

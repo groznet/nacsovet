@@ -6,7 +6,7 @@ slug = "vtoraia-popytka-vrode-by-poluchaetsia-glavnoe-chtoby-druz"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вторая попытка, вроде бы получается…))  Главное, чтобы друзья были довольны, а еда съедобна))

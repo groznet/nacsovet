@@ -5,8 +5,8 @@ title = "Ассаламу 1алейкум! Друзья, приветствую 
 slug = "assalamu-1aleikum-druzia-privetstvuiu-vas-zanimaites-spor"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Заметки"]
 +++
 
 Ассаламу 1алейкум! Друзья, приветствую вас! Занимайтесь спортом, находите время для себя любимых. Активных выходных вам! @dunaevmusa @youthchr_nacsovet #маоонациональныйсовет

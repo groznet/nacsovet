@@ -6,7 +6,7 @@ slug = "v-gostiakh-u-druga-naur-naurskiiraion-abazmurtazov-musl"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 В гостях у друга... #наур #наурскийрайон #абазмуртазов #муслимкапланов

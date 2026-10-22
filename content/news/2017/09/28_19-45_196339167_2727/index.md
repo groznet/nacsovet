@@ -6,7 +6,7 @@ slug = "priekhali-v-muzei-namiur"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции", "Культура и искусство"]
 +++
 
 Приехали в музей... #намюр #

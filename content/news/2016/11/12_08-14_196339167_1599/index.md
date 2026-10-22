@@ -6,7 +6,7 @@ slug = "dobrykh-i-aktivnykh-vykhodnykh-vam-damy-i-gospoda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Добрых и активных выходных вам дамы и господа!!!

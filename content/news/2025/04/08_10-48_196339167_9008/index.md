@@ -5,8 +5,8 @@ title = "Гордость берет за БФ «Даймохк»!"
 slug = "gordost-beret-za-bf-daimokhk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк"]
+categories = ["Благотворительность"]
 +++
 
 Гордость берет за БФ «Даймохк»!

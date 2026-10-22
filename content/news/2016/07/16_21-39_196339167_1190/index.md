@@ -6,7 +6,7 @@ slug = "vash-soiuz-ot-allakha-vsekh-blag-vam-v-oboikh-mirakh-kbr-sva"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Ваш союз от АЛЛАХА, всех благ вам в обоих мирах!!! #КБР #свадьба #Нальчик #МаринаФиларетова #ЗагидиМахмудов #МагомедАлиев #Дунаев

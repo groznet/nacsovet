@@ -5,8 +5,8 @@ title = "Национальная библиотека ЧР, «Библилно�
 slug = "natsionalnaia-biblioteka-chr-biblilnoch-2023"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Культура и искусство"]
 +++
 
 Национальная библиотека ЧР, «Библилночь - 2023»…

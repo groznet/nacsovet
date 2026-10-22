@@ -5,8 +5,8 @@ title = "В национальной библиотеке прошла выс�
 slug = "v-natsionalnoi-biblioteke-proshla-vystavka-arkhivnykh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Выставка"]
+categories = ["Культура и искусство"]
 +++
 
 В национальной библиотеке прошла выставка  архивных документов, фотографий времён ВОВ "Без срока давности" #безсрокадавности @opchr_95 @isa_sardalov #поисковикичр @youthchr_nacsovet @national_library_chechnya @dunaevmusa

@@ -5,8 +5,8 @@ title = "#Архыз #КЧР #ХаджимурадовИса #Денильхан
 slug = "arkhyz-kchr-khadzhimuradovisa-denilkhanovaskhab-ibragimbazae"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Религия и традиции"]
 +++
 
 #Архыз #КЧР #ХаджимурадовИса #ДенильхановАсхаб #ИбрагимБазаев #ДунаевМуса #

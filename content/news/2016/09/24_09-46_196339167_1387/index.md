@@ -5,8 +5,8 @@ title = "Домбай господа!"
 slug = "dombai-gospoda"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Домбай"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Домбай господа!

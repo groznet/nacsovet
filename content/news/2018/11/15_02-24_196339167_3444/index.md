@@ -6,7 +6,7 @@ slug = "dala-t1akhe-berkate-ioila-kadyrov-95-geroirossiikadyr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Дала т1аьхье беркате йойла!!! kadyrov_95 #геройроссии🇷🇺кадыроврамзанахматович @главачр #всеповолеВсевышнего☝️

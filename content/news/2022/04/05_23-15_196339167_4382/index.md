@@ -5,8 +5,8 @@ title = "Благодарственное письмо Рамзану Кадыр
 slug = "blagodarstvennoe-pismo-ramzanu-kadyrovu-ot-gkr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамзан Кадыров"]
+categories = ["Власть и политика"]
 +++
 
 Благодарственное письмо Рамзану Кадырову от ГКР

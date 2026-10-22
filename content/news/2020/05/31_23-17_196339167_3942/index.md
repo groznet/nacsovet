@@ -5,8 +5,8 @@ title = "С юбилеем тебя РСМ !!! @zagidimahmudov #шаваевил
 slug = "s-iubileem-tebia-rsm-zagidimahmudov-shavaevilias-lariche"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Поздравления", "Молодёжь"]
 +++
 
 С юбилеем тебя РСМ !!! @zagidimahmudov #шаваевильяс @laricheva_koroleva #еленакраснояруженская [id4196537|@zarinadadayan] #рсм [club129054802|@rsm_official] [id22880896|@o.rozhnov] @andrplaton [id4904973|@krasnorutsky] @dina.sokolowa [club188090470|@rsm_tula] #коллеги [club187191049|@rsm_chr95]

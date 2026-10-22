@@ -6,7 +6,7 @@ slug = "vsepovoleallakha-sportkazhdyiden-ilipochtikazhdyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции", "Спорт"]
 +++
 
 #всеповолеАЛЛАХА #спорткаждыйдень #илипочтикаждый

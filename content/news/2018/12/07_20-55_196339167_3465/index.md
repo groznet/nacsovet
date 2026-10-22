@@ -6,7 +6,7 @@ slug = "po-vole-allakha-dvigaemsia-po-bogougodnomu-delu-uchitelot"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование", "Религия и традиции"]
 +++
 
 По воле АЛЛАХА, двигаемся по Богоугодному делу!!! #учительотБога👍 1abdul1aziz islam_mission_ru #всеповолеВсевышнего☝️ youthchr_nacsovet chroo_sm

@@ -6,7 +6,7 @@ slug = "kak-to-tak-prizyvkzdorovomuobrazuzhizni-khodba-rekord"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Как-то так... #призывкздоровомуобразужизни #ходьба #рекорд #спорт #спорткаждыйдень #активныйобразжизни

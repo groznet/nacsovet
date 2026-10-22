@@ -6,7 +6,7 @@ slug = "v-2014-godu-po-vole-allakha-ty-dal-mne-vozmozhnost-sovershit"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 В 2014 году, по воле Аллаха, ты дал мне возможность совершить паломничество — хадж.

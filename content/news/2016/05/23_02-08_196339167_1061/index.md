@@ -6,7 +6,7 @@ slug = "udachi-tebe-o-khoroshii-i-umnyi-chelovek"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Удачи тебе о хороший и умный ЧЕЛОВЕК!!!

@@ -5,8 +5,8 @@ title = "С Наступившим новым годом вас, друзья!"
 slug = "s-nastupivshim-novym-godom-vas-druzia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Новый год"]
+categories = ["Заметки"]
 +++
 
 С Наступившим новым годом вас, друзья!  

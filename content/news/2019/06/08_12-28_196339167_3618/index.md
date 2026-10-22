@@ -6,7 +6,7 @@ slug = "krasiveegormogutbyttolkogory-aktivnykhvykhodnykhvsem-duna"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красивеегормогутбытьтолькогоры🗻 #активныхвыходныхвсем #дунаевмуса #семья

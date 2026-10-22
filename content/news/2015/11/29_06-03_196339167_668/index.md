@@ -6,7 +6,7 @@ slug = "tak-dolzhno-bylo-by-a-kak-est-dobroe-utro-strana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Так должно было бы, а как есть ... ! Доброе утро страна!!!

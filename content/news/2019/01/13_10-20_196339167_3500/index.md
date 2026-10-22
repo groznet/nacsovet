@@ -5,8 +5,8 @@ title = "БРЭЙН НОВОСТИ_ АЛАНИЯ IQ 2018_АЛЬБУС_РСО-А�
 slug = "brein-novosti-alaniia-iq-2018-albus-rso-alaniia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 БРЭЙН НОВОСТИ_ АЛАНИЯ IQ 2018_АЛЬБУС_РСО-АЛАНИЯ

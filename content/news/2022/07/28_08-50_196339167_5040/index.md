@@ -5,8 +5,8 @@ title = "Доброе утро страна 🇷🇺❗️"
 slug = "dobroe-utro-strana"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Доброе утро страна 🇷🇺❗️

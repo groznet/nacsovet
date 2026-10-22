@@ -6,7 +6,7 @@ slug = "dovolnydetischastliayroditeli"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #довольныдетисчастлиаыродители

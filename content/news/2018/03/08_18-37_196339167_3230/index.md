@@ -6,7 +6,7 @@ slug = "dagestanu-mir-i-protsvetanie"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Дагестану мир и процветание!!!

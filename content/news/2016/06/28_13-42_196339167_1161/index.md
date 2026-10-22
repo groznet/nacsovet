@@ -5,8 +5,8 @@ title = "РО ОНФ в ЧР заседание рабочих групп..."
 slug = "ro-onf-v-chr-zasedanie-rabochikh-grupp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 РО ОНФ в ЧР заседание рабочих групп...

@@ -5,8 +5,8 @@ title = "Тот случай, когда РСМ - навсегда !!! #маха
 slug = "tot-sluchai-kogda-rsm-navsegda-makhachkala-drug-makhmu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 Тот случай, когда РСМ - навсегда !!! #махачкала #друг #махмудовзагиди

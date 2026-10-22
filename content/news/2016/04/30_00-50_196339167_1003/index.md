@@ -5,8 +5,8 @@ title = "На заседании Президиума Рескома ЧРОО п
 slug = "na-zasedanii-prezidiuma-reskoma-chroo-profsoiuza-rabotnikov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы"]
+categories = ["Общественная жизнь"]
 +++
 
 На заседании Президиума Рескома ЧРОО профсоюза работников жизнеобеспечения, видимо, даже уверен говорил от сердца...)

@@ -5,8 +5,8 @@ title = "Ну здравствуй Москва для Москвичей!"
 slug = "nu-zdravstvui-moskva-dlia-moskvichei"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Ну здравствуй Москва для Москвичей!

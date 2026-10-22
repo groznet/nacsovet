@@ -6,7 +6,7 @@ slug = "druzia-vas-bylo-v-instagramme-bolee-10-000-znaia-vas-vsekh-p"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, вас было в Инстаграмме более 10 000, зная вас всех поименно, жду))))

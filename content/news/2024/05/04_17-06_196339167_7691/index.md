@@ -5,8 +5,8 @@ title = "«KIDSHOP» - магазин дестко-подростковой од
 slug = "kidshop-magazin-destko-podrostkovoi-odezhdy-sponsor-inte"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры"]
+categories = ["Молодёжь", "Интеллектуальные игры"]
 +++
 
 «KIDSHOP» - магазин дестко-подростковой одежды, спонсор интеллектуальных игр. Да пребудет с вами сила интеллекта!

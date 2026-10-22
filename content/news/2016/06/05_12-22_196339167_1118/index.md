@@ -6,7 +6,7 @@ slug = "da-pomiluet-allakh-tvoiu-dushu-ne-stalo-nashego-velikogo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Да помилует АЛЛАХ твою душу!!! Не стало нашего великого брата в Исламе Мухаммеда Али...

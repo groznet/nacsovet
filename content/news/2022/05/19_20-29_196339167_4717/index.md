@@ -5,8 +5,8 @@ title = "Адам Делимханов и Магомед Даудов прибы
 slug = "adam-delimkhanov-i-magomed-daudov-pribyli-v-lnr"
 author = "ЧГТРК Грозный"
 
-tags = []
-categories = []
+tags = ["Рамзан Кадыров", "Чеченская Республика"]
+categories = ["Власть и политика"]
 +++
 
 Адам Делимханов и Магомед Даудов прибыли в ЛНР 

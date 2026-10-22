@@ -5,8 +5,8 @@ title = "Выходные с пользой, хашлама, шашлыки, д�
 slug = "vykhodnye-s-polzoi-khashlama-shashlyki-dovolny-deti"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Выходные с пользой, хашлама, шашлыки, довольны дети…)

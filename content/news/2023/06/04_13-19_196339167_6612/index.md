@@ -5,8 +5,8 @@ title = "Культурная программа от организатлров
 slug = "kulturnaia-programma-ot-organizatlrov-mezhregionalnogo-molod"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум", "Молодёжь"]
+categories = ["Заметки"]
 +++
 
 Культурная программа от организатлров межрегионального молодёжного форума «Засавюрт — Лига наций»…

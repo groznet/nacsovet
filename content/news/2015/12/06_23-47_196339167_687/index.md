@@ -6,7 +6,7 @@ slug = "druzia-ot-boga"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья от Бога!!!

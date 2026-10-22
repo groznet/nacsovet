@@ -6,7 +6,7 @@ slug = "nikhaloevskievodopady-krasotadaitolko-aktivnykhvykhodnykh-a"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #нихалоевскиеводопады #красотадаитолько #активныхвыходных #активныйобразжизни

@@ -5,8 +5,8 @@ title = "ОНФ ЧР за здоровый образ жизни, формулу
 slug = "onf-chr-za-zdorovyi-obraz-zhizni-formulu-divany-na-velosiped"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["ОНФ", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 ОНФ ЧР за здоровый образ жизни, формулу "Диваны на велосипеды" никто не отменял...

@@ -6,7 +6,7 @@ slug = "s-chuvstvom-vypolnennogo-dolga-zavershaem-vykhodnoi-den-dob"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С чувством выполненного долга завершаем выходной день... Доброй ночи!!!

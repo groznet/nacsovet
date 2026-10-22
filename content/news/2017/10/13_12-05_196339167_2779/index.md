@@ -5,8 +5,8 @@ title = "#проспектввпутина #грозный #курган #"
 slug = "prospektvvputina-groznyi-kurgan"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Власть и политика"]
 +++
 
 #проспектввпутина #грозный #курган #

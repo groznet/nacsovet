@@ -5,8 +5,8 @@ title = "Поздравляю ФК \"АХМАТ\" с первой игрой!!! 
 slug = "pozdravliaiu-fk-akhmat-s-pervoi-igroi-v-dobryi-put-fk-akh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю ФК "АХМАТ" с первой игрой!!! В добрый путь ФК "АХМАТ"!!!!

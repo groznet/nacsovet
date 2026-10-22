@@ -5,8 +5,8 @@ title = "#москва #оегкийдиетическийужин #племян
 slug = "moskva-oegkiidieticheskiiuzhin-plemiannik-chimaevzaur-sport"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Спорт"]
 +++
 
 #москва #оегкийдиетическийужин #племянник #ЧимаевЗаур #спорт #мастерспортарф #

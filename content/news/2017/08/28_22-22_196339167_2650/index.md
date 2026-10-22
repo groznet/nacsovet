@@ -6,7 +6,7 @@ slug = "khondaten750-chopper-vysshaialiga-budemuchitsiaezdit-kraso"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #хондатень750 #чоппер #высшаялига #будемучитьсяездить #красотадаитолько

@@ -6,7 +6,7 @@ slug = "krasnyi-attestat-zolotaia-medal-znachok-gto-est-my-sde"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 Красный аттестат, золотая медаль🏅, значок ГТО — есть! Мы сделали это, полтонны с плеч.

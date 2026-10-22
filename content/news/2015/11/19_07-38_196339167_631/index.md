@@ -6,7 +6,7 @@ slug = "dobryi-chelovek-otkryl-okno-v-evropu-a-nam-vidimo-nravitsia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Добрый ЧЕЛОВЕК открыл "окно в Европу", а нам видимо нравится ... Берегите себя, для дел великих, новых ...!

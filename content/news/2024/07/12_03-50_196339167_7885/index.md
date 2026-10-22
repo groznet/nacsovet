@@ -6,7 +6,7 @@ slug = "https-youtube-com-shorts-sgvrgf-6du4-si-ywawyedwcch-nmur"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://youtube.com/shorts/SgvRGF-6dU4?si=YwawYEDWCCH-NMUR

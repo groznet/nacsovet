@@ -6,7 +6,7 @@ slug = "edut-pouzhinaem-na-slavu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Едут! Поужинаем на славу ... )

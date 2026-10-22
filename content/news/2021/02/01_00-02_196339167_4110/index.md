@@ -5,8 +5,8 @@ title = "#Repost [club42535075|@groznytv]"
 slug = "repost-club42535075-groznytv"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика", "Дети", "Молодёжь"]
+categories = ["Заметки"]
 +++
 
 #Repost [club42535075|@groznytv]

@@ -5,8 +5,8 @@ title = "Тренинг посвящен вопросам толерантнос
 slug = "trening-posviashchen-voprosam-tolerantnosti-informatsionnoe"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Наука и технологии"]
 +++
 
 Тренинг посвящен вопросам толерантности | Информационное агентство "Грозный-Информ"

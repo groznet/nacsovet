@@ -5,8 +5,8 @@ title = "#чеченскаяреспублика #нихалойскиеводо
 slug = "chechenskaiarespublika-nikhaloiskievodopady-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #чеченскаяреспублика #нихалойскиеводопады #красотадаитолько #племянникидядя

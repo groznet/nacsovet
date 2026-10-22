@@ -5,8 +5,8 @@ title = "Курс молодого бойца ... #Чечня #Грозный #�
 slug = "kurs-molodogo-boitsa-chechnia-groznyi-argun-syn-uchebka"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Курс молодого бойца ... #Чечня #Грозный #Аргун #сын #учебка #Дунаев

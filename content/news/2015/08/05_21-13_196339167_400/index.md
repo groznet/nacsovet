@@ -6,7 +6,7 @@ slug = "mashuk-2015"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Машук 2015 ...

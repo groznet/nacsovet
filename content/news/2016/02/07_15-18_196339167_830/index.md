@@ -6,7 +6,7 @@ slug = "napominanie-dlia-bessmertnykh-tvorite-dobro"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Напоминание, для "бессмертных"!!! Творите добро!!!

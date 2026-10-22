@@ -5,8 +5,8 @@ title = "На форуме в Ставрополе."
 slug = "na-forume-v-stavropole"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 На форуме в Ставрополе.

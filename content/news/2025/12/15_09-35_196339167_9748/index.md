@@ -6,7 +6,7 @@ slug = "ona-obeshchaet-byt-produktivnoi-dobroe-utro-strana-rossiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 … «она обещает быть продуктивной. Доброе утро страна #РОССИЯ🇷🇺❗️

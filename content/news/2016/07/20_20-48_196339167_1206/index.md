@@ -5,8 +5,8 @@ title = "На юбилейном концерте народного артис�
 slug = "na-iubileinom-kontserte-narodnogo-artista-chr-alvi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика", "Концерт"]
+categories = ["Культура и искусство"]
 +++
 
 На юбилейном концерте народного артиста ЧР Альви АЛЬТАМИРОВА..,

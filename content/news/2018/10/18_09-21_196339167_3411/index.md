@@ -6,7 +6,7 @@ slug = "i-snova-v-pervyi-klass-pytaius-byt-khoroshim-roditelem-g"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Образование"]
 +++
 
 И снова в первый класс, пытаюсь быть хорошим родителем... #гимназия3 gimnazia_3 #1акласс #образование #школа #родительскийконтроль #абдуррохьим

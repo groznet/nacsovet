@@ -6,7 +6,7 @@ slug = "po-stopam-suvorova-alpy-gospoda-italiia-gory-alpy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 По стопам СУВОРОВА, Альпы - господа... #италия #горы #альпы #красотадаитолько

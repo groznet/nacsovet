@@ -6,7 +6,7 @@ slug = "ne-smogli-proiti-mimo-i-ne-dali-ubezhat"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Не смогли пройти мимо и не дали убежать...)

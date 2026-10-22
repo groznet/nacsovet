@@ -5,8 +5,8 @@ title = "Поздравляю с праздником Курбан-Байрам 
 slug = "pozdravliaiu-s-prazdnikom-kurban-bairam-id-al-adkha"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Курбан-байрам", "Поздравление"]
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 Поздравляю с праздником Курбан-Байрам (Ид аль-Адха).

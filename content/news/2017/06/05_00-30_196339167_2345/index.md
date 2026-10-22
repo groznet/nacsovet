@@ -6,7 +6,7 @@ slug = "vsekh-blag-vam-i-vashim-blizkim-ot-allakha-v-oboikh-mirakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Всех благ вам и вашим близким от АЛЛАХА в обоих мирах!!! Воистину мы от АЛЛАХА, и к нему мы вернёмся!!!

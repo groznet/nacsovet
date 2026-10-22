@@ -6,7 +6,7 @@ slug = "ia-kruchu-pedali-daby-ne-upast-a-plemiannik-verolomno"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Я кручу педали дабы не упасть, а племянник вероломно снимает-прикалывается, грешно смеяться над взрослыми...)

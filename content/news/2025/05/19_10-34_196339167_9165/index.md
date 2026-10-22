@@ -5,8 +5,8 @@ title = "Четвертый день интеллектуального фору
 slug = "chetvertyi-den-intellektualnogo-foruma"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Культурный Кавказ", "Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Четвертый день интеллектуального форума

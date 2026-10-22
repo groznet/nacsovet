@@ -6,7 +6,7 @@ slug = "respublika-dagestan-den-pervyi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Республика Дагестан, день первый,

@@ -5,8 +5,8 @@ title = "#Намюр #Бельгия #зомокцитадель #"
 slug = "namiur-belgiia-zomoktsitadel"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #Намюр #Бельгия #зомокцитадель #

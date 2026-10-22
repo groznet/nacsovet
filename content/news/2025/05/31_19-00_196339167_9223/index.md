@@ -5,8 +5,8 @@ title = "В четвертом туре приняли участие 7 кома
 slug = "v-chetvertom-ture-priniali-uchastie-7-komand"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Кубок"]
+categories = ["Интеллектуальные игры"]
 +++
 
 В четвертом туре приняли участие 7 команд.

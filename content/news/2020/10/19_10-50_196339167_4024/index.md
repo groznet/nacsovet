@@ -5,8 +5,8 @@ title = "#Repost [club89240801|@vesti_respubliki_chr]"
 slug = "repost-club89240801-vesti-respubliki-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?", "Своя игра", "Интеллектуальные игры", "Игры разума", "Чемпионат", "Турнир", "Грозный", "Чеченская Республика"]
+categories = ["Интеллектуальные игры"]
 +++
 
 #Repost [club89240801|@vesti_respubliki_chr]

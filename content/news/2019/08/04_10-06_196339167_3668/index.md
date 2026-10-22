@@ -6,7 +6,7 @@ slug = "velikolepnyi-pliazh-rimini-italy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Великолепный пляж #Rimini #italy🇮🇹

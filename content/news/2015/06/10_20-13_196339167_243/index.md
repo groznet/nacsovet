@@ -5,8 +5,8 @@ title = "После работы, не дали домой зайти мужич
 slug = "posle-raboty-ne-dali-domoi-zaiti-muzhichki-govoriat-chto-o"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 После работы, не дали домой зайти мужички.... Говорят, что обещал. #Грозный #парк #Дунаев

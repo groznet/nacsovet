@@ -6,7 +6,7 @@ slug = "spasibo-druzia-chto-vy-est-budem-pytatsia-delat-poka-iu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 СПАСИБО ДРУЗЬЯ, ЧТО ВЫ ЕСТЬ!!! Будем пытаться делать, пока Юля не приехала, надо .чему-то, да научиться…))

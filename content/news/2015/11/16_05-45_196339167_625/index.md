@@ -6,7 +6,7 @@ slug = "zhelaiu-vsekh-blag-v-oboikh-mirakh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Желаю всех благ в обоих мирах !!!

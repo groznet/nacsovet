@@ -5,8 +5,8 @@ title = "#IIIпленум #Россия #Сочи #профсоюз #жизне�
 slug = "iiiplenum-rossiia-sochi-profsoiuz-zhizneobespecheniia-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы"]
+categories = ["Общественная жизнь"]
 +++
 
 #IIIпленум #Россия #Сочи #профсоюз #жизнеобеспечения #Дунаев

@@ -5,8 +5,8 @@ title = "Доброе утро Москва, и как обычно Москва
 slug = "dobroe-utro-moskva-i-kak-obychno-moskva-dlia-moskvichei"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Доброе утро Москва, и как обычно Москва для Москвичей!!!

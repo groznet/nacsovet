@@ -5,8 +5,8 @@ title = "#рд #фонднурадилова #турнирнакубокгеро
 slug = "rd-fondnuradilova-turnirnakubokgeroiasssrnuradilovakhn-roo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Офицеры России", "Турнир"]
+categories = ["Заметки"]
 +++
 
 #рд #фонднурадилова #турнирнакубокгероясссрнурадиловахн #роофицерыроссиивчр🇷🇺 [club150060071|@oficeryofficial] @opchr_95 @youthchr_nacsovet #нацсоветчр #дунаевмуса

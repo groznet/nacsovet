@@ -5,8 +5,8 @@ title = "#москва #пленумрсм #рсм #чрорсм"
 slug = "moskva-plenumrsm-rsm-chrorsm"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Москва"]
+categories = ["Молодёжь"]
 +++
 
 #москва #пленумрсм #рсм #чрорсм

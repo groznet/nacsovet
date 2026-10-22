@@ -5,8 +5,8 @@ title = "Москва, 9–11 ноября 2025 г., VI Всероссийска
 slug = "moskva-9-11-noiabria-2025-g-vi-vserossiiskaia-p"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Общественная жизнь"]
 +++
 
 Москва, 9–11 ноября 2025 г., VI Всероссийская общественная премия

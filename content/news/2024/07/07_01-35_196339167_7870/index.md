@@ -5,8 +5,8 @@ title = "Друзья, поздравляю с наступлением Ново
 slug = "druzia-pozdravliaiu-s-nastupleniem-novogo-1446-goda-po"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Друзья, поздравляю с наступлением Нового 1446 года по Хиджре!

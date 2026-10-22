@@ -5,8 +5,8 @@ title = "Заседание Совета Общественной палаты �
 slug = "zasedanie-soveta-obshchestvennoi-palaty-chechenskoi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 Заседание Совета Общественной палаты Чеченской республики...

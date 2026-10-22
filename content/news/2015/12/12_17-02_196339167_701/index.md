@@ -6,7 +6,7 @@ slug = "gospozha-tan-izvestnaia-televedushchaia-v-provintsii-shandun"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Госпожа Тан, известная телеведущая в провинции Шаньдунь.

@@ -5,8 +5,8 @@ title = "За встречей всегда расставание, и это и
 slug = "za-vstrechei-vsegda-rasstavanie-i-eto-istina-brat-rossi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 За встречей всегда расставание, и это истина... #брат #россия🇷🇺 #бельгия🇧🇪 #недельныйвояж

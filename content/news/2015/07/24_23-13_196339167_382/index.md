@@ -6,7 +6,7 @@ slug = "moi-muzhiki-vytashchili-v-derbent-nu-i-ia-ne-dolgo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мои мужики вытащили в Дербент, ну и я не долго сопротивлялся, надо так надо ...)

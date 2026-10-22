@@ -6,7 +6,7 @@ slug = "piatyi-klass-na-otlichno-dvigaeisia-dalshe"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пятый класс на отлично, двигаеися дальше…

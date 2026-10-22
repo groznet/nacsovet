@@ -6,7 +6,7 @@ slug = "moi-dobryi-i-krasivyi-drug"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мой добрый и красивый друг!!!

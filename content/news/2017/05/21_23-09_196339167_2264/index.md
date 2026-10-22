@@ -5,8 +5,8 @@ title = "Поздравляю Реал с победой в чемпионате
 slug = "pozdravliaiu-real-s-pobedoi-v-chempionate-ispanii-bravo-zida"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чемпионат", "Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю Реал с победой в чемпионате Испании!!! Браво Зидан!!!

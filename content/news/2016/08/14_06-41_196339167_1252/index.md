@@ -6,7 +6,7 @@ slug = "slavnoe-utro-dlia-pervogo-pryzhka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Славное утро для первого прыжка...

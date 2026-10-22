@@ -5,8 +5,8 @@ title = "Уважаемые руководители ОУ г. Грозного (
 slug = "uvazhaemye-rukovoditeli-ou-g-groznogo-spisok-shkol-vnizu-pri"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лингвистическая школа", "Лидер чтения", "Грозный"]
+categories = ["Образование"]
 +++
 
 Уважаемые руководители ОУ г. Грозного (список школ внизу прилагается⬇️), 

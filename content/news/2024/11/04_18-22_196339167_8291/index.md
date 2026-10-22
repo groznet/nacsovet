@@ -6,7 +6,7 @@ slug = "voistinu-v-edinstve-nasha-sila-s-prazdnikom-nas-druzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Поздравления"]
 +++
 
 Воистину, в единстве наша сила, с праздником нас друзья!

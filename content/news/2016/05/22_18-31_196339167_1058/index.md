@@ -5,8 +5,8 @@ title = "Председатель Федерации профсоюзов ЧР �
 slug = "predsedatel-federatsii-profsoiuzov-chr-khusain-soltagereev-p"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 Председатель Федерации профсоюзов ЧР Хусайн Солтагереев на предварительном голосовании...

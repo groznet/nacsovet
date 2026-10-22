@@ -6,7 +6,7 @@ slug = "foantsiia-strassburg-druziavsegdariadom-nostalgiianakhlynu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #фоанция🇫🇷 #страссбург #друзьявсегдарядом #ностальгиянахлынула #

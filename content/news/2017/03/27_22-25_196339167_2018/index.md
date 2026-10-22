@@ -5,8 +5,8 @@ title = "Представитель Чечни вошел в состав «Га
 slug = "predstavitel-chechni-voshel-v-sostav-gagarinskogo-kluba-in"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Представитель Чечни вошел в состав «Гагаринского клуба» | Информационное агентство "Грозный-Информ"

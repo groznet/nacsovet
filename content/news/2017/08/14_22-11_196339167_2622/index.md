@@ -5,8 +5,8 @@ title = "Нельзя забывать о главном... #детинашеб�
 slug = "nelzia-zabyvat-o-glavnom-detinashebudushchee-vsekhblagotsoz"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Дети"]
+categories = ["Заметки"]
 +++
 
 Нельзя забывать о главном... #детинашебудущее #всехблаготСОЗДАТЕЛЯ

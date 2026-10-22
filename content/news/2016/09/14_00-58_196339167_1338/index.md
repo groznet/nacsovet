@@ -6,7 +6,7 @@ slug = "potreniruius-i-na-kabana"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Потренируюсь и на кабана...)

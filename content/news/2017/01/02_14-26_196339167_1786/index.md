@@ -6,7 +6,7 @@ slug = "vsekh-blag"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Всех благ!!!

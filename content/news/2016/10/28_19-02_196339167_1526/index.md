@@ -6,7 +6,7 @@ slug = "chut-vrasplokh-ne-poimali-opyt-pomog-priiatnogo-appetita"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Чуть врасплох не поймали, опыт помог... Приятного аппетита!

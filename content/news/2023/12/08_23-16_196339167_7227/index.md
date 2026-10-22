@@ -6,7 +6,7 @@ slug = "khashlama-zabegaia-vpered-pishu-poluchilos-na-urovne-mne-po"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 «ХАШЛАМА», забегая вперед пишу, получилось на уровне, мне понравилось…))

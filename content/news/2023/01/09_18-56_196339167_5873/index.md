@@ -6,7 +6,7 @@ slug = "v-pervyi-uchebnyi-den-novogo-goda-tebia-raduiut-gramotoi-ne"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В первый учебный день Нового года тебя радуют грамотой, не чудо ли это…)

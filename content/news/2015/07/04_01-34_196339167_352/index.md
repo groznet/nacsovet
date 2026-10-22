@@ -5,8 +5,8 @@ title = "#Россия #КБР #Горы #бесподобныйвид #Росс
 slug = "rossiia-kbr-gory-bespodobnyivid-rossiiskiisoiuzmolodezhi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #Россия #КБР #Горы #бесподобныйвид #РоссийскийСоюзМолодежи #Шаваев #друг #ЧРОРСМ #Дунаев

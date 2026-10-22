@@ -6,7 +6,7 @@ slug = "podarok-po-dushe-dovolnyi-i-schastlivyi-malenkiizaurchim"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Подарок по душе, довольный и счастливый... #маленькийзаурчимаев #ясинчимаев #коасавчикнаш

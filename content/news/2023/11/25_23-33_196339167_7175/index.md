@@ -6,7 +6,7 @@ slug = "da-prebudet-s-vami-sila-intellekta-dobroi-nochi-druzia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Да пребудет с вами  сила интеллекта, доброй ночи, друзья!

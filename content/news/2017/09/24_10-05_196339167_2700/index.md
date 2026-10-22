@@ -6,7 +6,7 @@ slug = "dorogu-vyderzhal-a-ia-somnevalsia-bolee-togo-dovolen-kak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Дорогу выдержал, а я сомневался, более того доволен как паровоз... #всехблаготСОЗДАТЕЛЯ #активныхвыходных #всеповолееАЛЛАХА

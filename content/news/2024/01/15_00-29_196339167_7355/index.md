@@ -6,7 +6,7 @@ slug = "i-k-nam-prishla-zima-malenkii-plemiannik-20-godik-ot-rodu-re"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 И к нам пришла зима, маленький племянник 20 годик от роду решили зайти в гости к другу…))

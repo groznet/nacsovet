@@ -6,7 +6,7 @@ slug = "gospoda-venetsiia-i-vpriam-tonet-italiia-venetsiia-tur"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Господа !!! Венеция и впрямь тонет ... #Италия #Венеция #туризм #Дунаев

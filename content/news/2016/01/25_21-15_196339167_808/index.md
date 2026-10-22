@@ -5,8 +5,8 @@ title = "WSPORT-SHATOY – Чеченский спорт Тамерлан Дун
 slug = "wsport-shatoy-chechenskii-sport-tamerlan-dunaev-bronzovyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Спорт"]
 +++
 
 WSPORT-SHATOY – Чеченский спорт Тамерлан Дунаев - бронзовый призер Бельгии | WSPORT-SHATOY - Чеченский спорт

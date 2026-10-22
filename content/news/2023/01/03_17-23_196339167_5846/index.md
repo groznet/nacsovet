@@ -6,7 +6,7 @@ slug = "druzia-aktivnykh-vykhodnykh-vam-glavnoe-chtoby-dorogie-gosti"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, активных выходных вам! Главное, чтобы дорогие гости были довольны…))

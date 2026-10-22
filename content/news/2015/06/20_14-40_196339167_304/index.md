@@ -5,8 +5,8 @@ title = "#архив #Чечня #Кадыров #КПДМЧР #Дунаев"
 slug = "arkhiv-chechnia-kadyrov-kpdmchr-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Власть и политика"]
 +++
 
 #архив #Чечня #Кадыров #КПДМЧР #Дунаев

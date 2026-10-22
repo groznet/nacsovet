@@ -5,8 +5,8 @@ title = "Игроки интеллектуальной сборной на Ме�
 slug = "igroki-intellektualnoi-sbornoi-na-mezhregionalnom-turnire-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Магас"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Игроки интеллектуальной сборной на Межрегиональном турнире в г. Магас, РИ.  Да пребудет с вами сила интеллекта!

@@ -6,7 +6,7 @@ slug = "voina-na-ukraine-31-03-22-na-21-00-peregruppirovka-vs-rf"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Война на Украине (31.03.22 на 21:00): Перегруппировка ВС РФ, Изюм, Горловка, Николаев

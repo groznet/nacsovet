@@ -5,8 +5,8 @@ title = "Да пребудет с вами сила интеллекта!!! Ме
 slug = "da-prebudet-s-vami-sila-intellekta-mezhregionaleyi-forum"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Да пребудет с вами сила интеллекта!!! Межрегиональеый форум «Горы от ума»

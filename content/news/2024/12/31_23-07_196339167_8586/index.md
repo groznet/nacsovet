@@ -5,8 +5,8 @@ title = "Согласен с ведущей ЧГТРК"
 slug = "soglasen-s-vedushchei-chgtrk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Согласен с ведущей ЧГТРК

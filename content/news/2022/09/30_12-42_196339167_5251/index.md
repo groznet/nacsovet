@@ -5,8 +5,8 @@ title = "СОШ 39 г. Грозный, ярмарка…"
 slug = "sosh-39-g-groznyi-iarmarka"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 СОШ 39 г. Грозный, ярмарка…

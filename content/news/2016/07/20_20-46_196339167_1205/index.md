@@ -5,8 +5,8 @@ title = "Поехали... #Юбилейныйконцерт #25летнасце
 slug = "poekhali-iubileinyikontsert-25letnastsene-alvi-altamiro"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Концерт"]
+categories = ["Культура и искусство"]
 +++
 
 Поехали... #Юбилейныйконцерт #25летнасцене #АЛЬВИ #АЛЬТАМИРОВ

@@ -5,8 +5,8 @@ title = "#велосипед #велопробег #здоровыйобразж
 slug = "velosiped-veloprobeg-zdorovyiobrazzhizni-divanyasport-mo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег", "Молодёжь"]
+categories = ["Спорт"]
 +++
 
 #велосипед #велопробег #здоровыйобразжизни #диваныаспорт #молодежь #призывкспорту

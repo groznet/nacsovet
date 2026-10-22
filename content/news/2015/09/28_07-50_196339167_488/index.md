@@ -6,7 +6,7 @@ slug = "priiatnaia-ustalost-pered-dorogoi-domoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Приятная усталость, перед дорогой домой ...

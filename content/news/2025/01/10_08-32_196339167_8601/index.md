@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-khoroshego-nastroeniia-vam-a-e"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро, страна #РОССИЯ🇷🇺❗️ Хорошего настроения вам! А это «чудо», наш любимец,  «Нстроение поднималка», так его зовут мои пацаны…))

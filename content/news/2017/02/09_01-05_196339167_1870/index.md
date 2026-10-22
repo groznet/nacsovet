@@ -6,7 +6,7 @@ slug = "gprepost-reposter-notetag-belgatoy-2-via-gprepostapp"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Спорт"]
 +++
 
 #GPRepost,#reposter,#notetag @belgatoy_2 via @GPRepostApp 

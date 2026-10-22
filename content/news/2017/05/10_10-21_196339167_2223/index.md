@@ -6,7 +6,7 @@ slug = "my-prosim-u-vsevyshnego-allakha-raia-vam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 МЫ ПРОСИМ У ВСЕВЫШНЕГО АЛЛАХА РАЯ ВАМ!!!

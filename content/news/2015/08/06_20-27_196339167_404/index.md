@@ -6,7 +6,7 @@ slug = "instaframe"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #InstaFrame

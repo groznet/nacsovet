@@ -6,7 +6,7 @@ slug = "inturist-ustal-italiia-rim-turist-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Интурист устал ... #Италия #Рим  #Турист #Дунаев

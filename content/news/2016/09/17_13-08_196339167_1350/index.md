@@ -6,7 +6,7 @@ slug = "vybor-za-vami"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Выбор за вами...

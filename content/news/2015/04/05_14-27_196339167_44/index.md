@@ -6,7 +6,7 @@ slug = "tak-vstrechaiut-menia-moi-muzhichki-samoe-tsennoe-otdaiut"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Так встречают меня мои мужички.....Самое ценное отдают...

@@ -6,7 +6,7 @@ slug = "master-klass-ot-alekseia-blinovae-bylo-interesno-i-poznavate"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мастер-класс от Алексея Блиноваэ, было интересно и познавательно…

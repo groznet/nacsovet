@@ -6,7 +6,7 @@ slug = "poimal-ibragima-na-fotosessii-tolko-drug-ob-etom-ne-znaet"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Поймал Ибрагима на фотосессии, только друг об этом не знает...)

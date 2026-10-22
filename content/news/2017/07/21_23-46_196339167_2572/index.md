@@ -6,7 +6,7 @@ slug = "arkhyz2017-budniforuma-ot-sudby-vriad-li-dadut-uiti"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #архыз2017 #буднифорума От судьбы вряд ли дадут уйти... ))

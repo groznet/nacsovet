@@ -6,7 +6,7 @@ slug = "dolgaia-neponiatnaia-pauza"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Долгая непонятная пауза ...)

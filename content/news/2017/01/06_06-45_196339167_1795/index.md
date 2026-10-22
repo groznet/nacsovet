@@ -5,8 +5,8 @@ title = "Поздравляю с благословенной пятницей!!
 slug = "pozdravliaiu-s-blagoslovennoi-piatnitsei"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю с благословенной пятницей!!!

@@ -5,8 +5,8 @@ title = "Доброе утро, страна! #россия🇷🇺 Привет
 slug = "dobroe-utro-strana-rossiia-privetstvuem-delegatov-vsemir"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Общественная палата ЧР", "Интеллектуальный Кавказ", "Чеченская Республика"]
+categories = ["Интеллектуальные игры", "Общественная жизнь"]
 +++
 
 Доброе утро, страна! #россия🇷🇺 Приветствуем делегатов Всемирного съезда народов Чеченской Республики! Марша догIийла! Welcome ! #общественнаяпалатачр #маоонациональныйсовет #интеллектуальныйкавказ @youthchr_nacsovet @intellektualny_kavkaz @intellektualny_centre_scfo @chroo_sm @mmoo_patriot_ [id508910309|@idenilkhanov] @ibragimbazaew @dunaevmusa #всемирныйсъезднародовчеченскойреспублики

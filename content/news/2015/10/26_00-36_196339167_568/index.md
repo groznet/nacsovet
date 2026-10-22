@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-dala-gech-doila-ialsmane"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА декъалла войла хьо !!! Дала геч дойла, ЯЛСМАНЕЦА бекьама бойла хьуна !!!

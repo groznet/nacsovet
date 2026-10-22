@@ -5,8 +5,8 @@ title = "В Чеченской Республике продолжается г�
 slug = "v-chechenskoi-respublike-prodolzhaetsia-golosovanie"
 author = "Гражданский комитет России| Чеченская республика"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Власть и политика"]
 +++
 
 В Чеченской Республике продолжается голосование

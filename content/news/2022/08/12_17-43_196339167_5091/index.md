@@ -5,8 +5,8 @@ title = "Открытие персональной выставки соврем
 slug = "otkrytie-personalnoi-vystavki-sovremennoi-arabskoi-kalligra"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Выставка"]
+categories = ["Культура и искусство"]
 +++
 
 Открытие персональной выставки современной арабской каллиграфии Исмаила Денильханова  «Свящённые буквы».

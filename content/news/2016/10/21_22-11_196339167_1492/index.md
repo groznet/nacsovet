@@ -5,8 +5,8 @@ title = "#GPRepost,#reposter,#notetag @islam_shah via @GPRepostApp"
 slug = "gprepost-reposter-notetag-islam-shah-via-gprepostapp"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Общественная палата ЧР", "Международная исламская миссия", "Пятигорск", "Мечеть"]
+categories = ["Религия и традиции"]
 +++
 
 #GPRepost,#reposter,#notetag @islam_shah via @GPRepostApp 

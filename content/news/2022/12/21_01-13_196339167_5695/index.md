@@ -5,8 +5,8 @@ title = "Спасибо команде МАОО «Национальный Со�
 slug = "spasibo-komande-maoo-natsionalnyi-sovet-za-vashu-rabotu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет"]
+categories = ["Общественная жизнь"]
 +++
 
 Спасибо команде МАОО «Национальный Совет» за вашу работу.

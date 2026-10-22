@@ -5,8 +5,8 @@ title = "Усталый турист... #бельгия🇧🇪"
 slug = "ustalyi-turist-belgiia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Усталый турист... #бельгия🇧🇪

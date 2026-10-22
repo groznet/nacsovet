@@ -6,7 +6,7 @@ slug = "kchr-arkhyz2017-flrum-krasotadaitolko"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #кчр #архыз2017 #флрум #красотадаитолько #

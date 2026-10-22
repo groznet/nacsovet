@@ -5,8 +5,8 @@ title = "🌟 Приглашаем вас принять участие в же�
 slug = "priglashaem-vas-priniat-uchastie-v-zhenskoi-intellektualnoi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Lady-Квиз"]
+categories = ["Интеллектуальные игры"]
 +++
 
 🌟 Приглашаем вас принять участие в женской интеллектуальной викторине "Lady-квиз"! 🌟

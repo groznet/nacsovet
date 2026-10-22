@@ -5,8 +5,8 @@ title = "На заседании Совета профсоюзов ЧР..."
 slug = "na-zasedanii-soveta-profsoiuzov-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 На заседании Совета профсоюзов ЧР...

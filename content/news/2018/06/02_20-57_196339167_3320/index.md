@@ -6,7 +6,7 @@ slug = "zavtra-po-vole-allakha-skoro-otchitaius"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Завтра по воле АЛЛАХА скоро отчитаюсь magomedkhadzhimuradov, думаю 20 кг. за 2 месяца, как и договаривались... #спорткаждыйдень #всеповолеВсевышнегоАллаха👆

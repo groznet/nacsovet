@@ -5,8 +5,8 @@ title = "Второй день охоты, ищем \"свиней\", хочет
 slug = "vtoroi-den-okhoty-ishchem-svinei-khochetsia-vnesti-leptu-s"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Заметки"]
 +++
 
 Второй день охоты, ищем "свиней", хочется внести лепту с другом Ибрагимом Базаевым @ibragimbazaew по искоренению их ...)))

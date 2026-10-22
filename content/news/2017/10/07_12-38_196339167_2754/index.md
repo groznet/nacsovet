@@ -6,7 +6,7 @@ slug = "kogda-vstrechaesh-rassvet-nad-oblakami-ne-chudo-li-eto"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Когда встречаешь рассвет над облаками, не чудо ли это...

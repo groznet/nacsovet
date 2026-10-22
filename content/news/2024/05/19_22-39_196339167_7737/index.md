@@ -5,8 +5,8 @@ title = "@tropami_predkov «Четвертый маршрут третьего �
 slug = "tropami-predkov-chetvertyi-marshrut-tretego-sezona-istoriko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Тропами предков", "Экспедиция"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 @tropami_predkov «Четвертый маршрут третьего сезона историко-географической экспедиции #тропамипредков «Бей-кхал» в районе селения

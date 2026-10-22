@@ -5,8 +5,8 @@ title = "Муса, поздравляю с днем рождения! Будьт
 slug = "musa-pozdravliaiu-s-dnem-rozhdeniia-budte-vsegda-zdorovy-kre"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Муса, поздравляю с днем рождения! Будьте всегда здоровы, крепки телом и духом, богаты душой!

@@ -6,7 +6,7 @@ slug = "komandirovka-papy-v-sochi-otrazilas-na-malenkom-iunge-ros"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Командировка папы в Сочи, отразилась на маленьком Юнге. #Россия #Сочи #пленум #жизнеобеспечения #Дунаев

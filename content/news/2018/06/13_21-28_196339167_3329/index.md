@@ -6,7 +6,7 @@ slug = "na-iftara-u-brata-ibragimbazaew-islam-shah-today"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 На ифтара у брата ibragimbazaew islam_shah_today

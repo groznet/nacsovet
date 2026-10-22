@@ -6,7 +6,7 @@ slug = "gost-ustal-pytaemsia-byt-dzhentlmenami-khotia-ved-tak"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Гость устал, пытаемся быть джентльменами...), хотя ведь так было, есть и уверен будет всегда...

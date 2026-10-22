@@ -5,8 +5,8 @@ title = "Поздравляю братьев и сестер в Исламе с 
 slug = "pozdravliaiu-bratev-i-sester-v-islame-s-blagoslovennym"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления", "Религия и традиции"]
 +++
 
 Поздравляю братьев и сестер в Исламе с благословенным праздником Ид аль-Фитр!

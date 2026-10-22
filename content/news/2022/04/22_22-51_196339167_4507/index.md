@@ -6,7 +6,7 @@ slug = "s-bratiami-na-iftare"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 С братьями на ифтаре…

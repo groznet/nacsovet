@@ -6,7 +6,7 @@ slug = "dva-dnia-na-odnom-dykhanii-nadeius-chto-gosti-partnery-iz"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Два дня на одном дыхании, надеюсь,  что гости, партнеры  из #турция 🇹🇷 остались довольными, старались как могли…

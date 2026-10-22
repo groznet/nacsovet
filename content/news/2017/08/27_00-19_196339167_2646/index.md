@@ -5,8 +5,8 @@ title = "#чеченскаяреспублика #наурскийрайон #в
 slug = "chechenskaiarespublika-naurskiiraion-vserossiiskiiturnirpogr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #чеченскаяреспублика #наурскийрайон #всероссийскийтурнирпогрекоримскойборьбе ##архив

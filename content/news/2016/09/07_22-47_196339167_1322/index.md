@@ -6,7 +6,7 @@ slug = "2014-god-luchezarnaia-medina-po-vole-allakha-sovershu-khadzh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 2014 год, лучезарная Медина... По воле АЛЛАХА совершу хадж в 17-ом году за маму...

@@ -5,8 +5,8 @@ title = "#Россия #Москва #племянник #Ясин #Дунаев
 slug = "rossiia-moskva-plemiannik-iasin-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #Россия #Москва #племянник #Ясин #Дунаев

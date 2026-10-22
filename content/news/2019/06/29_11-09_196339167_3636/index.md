@@ -6,7 +6,7 @@ slug = "khoroshei-dorogi-druzia-krasivym-vidom-nuzhno-delitsia-d"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Хорошей дороги, друзья!!!  Красивым видом нужно делиться) #дунаевмуса #всехблагвамдрузья #дорога #красивыйвид

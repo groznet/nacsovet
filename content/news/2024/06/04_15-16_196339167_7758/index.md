@@ -5,8 +5,8 @@ title = "✅ Друзья, 3 июня на торжественной линей
 slug = "druzia-3-iiunia-na-torzhestvennoi-lineike-v"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Школьники"]
+categories = ["Интеллектуальные игры", "Образование"]
 +++
 
 ✅ Друзья, 3 июня на торжественной линейке в

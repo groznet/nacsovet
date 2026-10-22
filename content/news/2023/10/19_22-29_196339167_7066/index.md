@@ -5,8 +5,8 @@ title = "@timuraliev1973 @tropami_predkov"
 slug = "timuraliev1973-tropami-predkov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Профсоюзы", "СПЧ", "Интеллектуальный Кавказ", "Интеллектуальные игры", "Кубок", "Турнир", "Тропами предков"]
+categories = ["Интеллектуальные игры", "Путешествия и экспедиции"]
 +++
 
 @timuraliev1973 @tropami_predkov

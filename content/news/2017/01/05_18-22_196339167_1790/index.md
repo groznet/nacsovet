@@ -5,8 +5,8 @@ title = "Активных выходных вам друзья!!! #красот�
 slug = "aktivnykh-vykhodnykh-vam-druzia-krasotadaitolko-ibragimb"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Заметки"]
 +++
 
 Активных выходных вам друзья!!! #красотадаитолько# #ИбрагимБазаев

@@ -6,7 +6,7 @@ slug = "tsentrpodderzhkipredprinimatelstvard-direktor-makhmudovzagi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #центрподдержкипредпринимательстваРД #директор #махмудовзагиди Обсуждаем проблемные вопросы в сфере малого и среднего бизнеса в республике Дагестан...

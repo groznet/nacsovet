@@ -6,7 +6,7 @@ slug = "selfi-so-slavnym-synom-russkogo-naroda-m-i-kutuzovym"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Селфи со славным сыном русского народа М.И.Кутузовым...

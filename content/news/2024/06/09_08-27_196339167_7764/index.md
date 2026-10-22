@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-rossiia-vsem-khoroshelo-dnia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Доброе утро страна #РОССИЯ🇷🇺❗️✅ Всем хорошело дня☝️

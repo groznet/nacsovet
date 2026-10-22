@@ -5,8 +5,8 @@ title = "#Repost @youthchr_nacsovet ([club188253483|@get_repost])"
 slug = "repost-youthchr-nacsovet-club188253483-get-repost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Фонд президентских грантов", "Грозный", "Чеченская Республика", "Молодёжь", "Гранты"]
+categories = ["Молодёжь", "Общественная жизнь"]
 +++
 
 #Repost @youthchr_nacsovet ([club188253483|@get_repost])

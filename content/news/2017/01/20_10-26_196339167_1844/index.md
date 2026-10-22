@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-lerame-islam-vinchu-dantsa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА декьалла войла хьо лераме Ислам винчу даьнца!!! Всех благ вам и вашим близким от АЛЛАХА в обоих мирах!!! С Днём рождения!!!

@@ -5,8 +5,8 @@ title = "г. Ставрополь, 29-30.05.2021г., Интеллектуаль�
 slug = "g-stavropol-29-30-05-2021g-intellektualnyi-turnir-skfo"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Своя игра", "Интеллектуальный Кавказ", "Интеллектуальные игры", "Турнир", "Северный Кавказ"]
+categories = ["Интеллектуальные игры"]
 +++
 
 г. Ставрополь, 29-30.05.2021г., Интеллектуальный турнир СКФО «Своя игра». Да пребудет с вами сила интеллекта! @intellektualny_kavkaz @intellektualny_centre_scfo @youthchr_nacsovet #маоонациональныйсовет #интеллектуальныйкавказ @dunaevmusa @muzaevsaidmagomed [id104980503|@irskom] [id339261382|@daymohk_chr] [club61650283|@er_chechnya] @isma_school

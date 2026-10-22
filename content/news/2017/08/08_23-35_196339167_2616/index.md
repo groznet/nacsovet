@@ -5,8 +5,8 @@ title = "#москва #ресторан354метра #красотадаито�
 slug = "moskva-restoran354metra-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #москва #ресторан354метра #красотадаитолько

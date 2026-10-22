@@ -6,7 +6,7 @@ slug = "priiatnogo-appetita"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Приятного аппетита!!!!

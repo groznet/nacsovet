@@ -5,8 +5,8 @@ title = "#фотоохота #охота #россия🇷🇺 #чечня #ду
 slug = "fotookhota-okhota-rossiia-chechnia-dunaevmusa-arkhiv-progu"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #фотоохота #охота #россия🇷🇺 #чечня #дунаевмуса #архив #прогулкаполесу

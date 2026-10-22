@@ -6,7 +6,7 @@ slug = "bez-kommentarii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Без комментарий! )

@@ -6,7 +6,7 @@ slug = "voistinu-my-ot-allakha-i-k-nemu-my-vernemsia-vsepovoleall"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Воистину мы от АЛЛАХА, и к нему мы вернёмся!!! #ВСЕПОВОЛЕАЛЛАХА #мылюбимпророкамухаммадаﷺ Всех благ вам и вашим близким от СОЗДАТЕЛЯ!!!

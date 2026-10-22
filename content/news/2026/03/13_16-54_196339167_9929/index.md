@@ -5,8 +5,8 @@ title = "#рамадан #ифтар #друзья"
 slug = "ramadan-iftar-druzia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Рамадан"]
+categories = ["Религия и традиции"]
 +++
 
 #рамадан #ифтар #друзья

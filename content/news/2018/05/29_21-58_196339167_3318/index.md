@@ -5,8 +5,8 @@ title = "Изучаю северные районы республики... #в�
 slug = "izuchaiu-severnye-raiony-respubliki-veloprobeg-sport"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Изучаю северные районы республики... #велопробег🚲 #спорт

@@ -6,7 +6,7 @@ slug = "po-vole-tvortsa-posetili-ziarat-umar-khadzhi-andiiskogo-r-a"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле ТВОРЦА, посетили зиарат Умар-Хаджи Андийского (р.а.)... #селоандирд ibragimbazaew islam_shah

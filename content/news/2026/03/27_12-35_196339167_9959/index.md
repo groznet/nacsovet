@@ -6,7 +6,7 @@ slug = "krasnodar-kogda-nemnogo-za-30"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #КРАСНОДАР,  когда немного за 30 )

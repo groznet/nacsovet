@@ -6,7 +6,7 @@ slug = "shest-chasov-proleteli-kak-mig-druzia-ot-boga"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Шесть часов пролетели как миг, друзья от БОГА !!!

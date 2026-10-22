@@ -6,7 +6,7 @@ slug = "27-03-2016g-moi-muzhiki-poveli-v-tsirk"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 27.03.2016г. мои мужики повели  в цирк.,,

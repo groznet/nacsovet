@@ -5,8 +5,8 @@ title = "Высшая лига,  «ЧТО? ГДЕ? КОГДА?», 1 игра в 
 slug = "vysshaia-liga-chto-gde-kogda-1-igra-v-letnei-serii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Заметки"]
 +++
 
 Высшая лига,  «ЧТО? ГДЕ? КОГДА?», 1 игра в летней серии …

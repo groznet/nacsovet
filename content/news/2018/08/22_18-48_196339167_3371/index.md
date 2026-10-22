@@ -6,7 +6,7 @@ slug = "vezachu-allakha-kobala-doila-massera-a-g1urbanash"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 ВЕЗАЧУ АЛЛАХА, КЪОБАЛА ДОЙЛА МАССЕРА А Г1УРБАНАШ!!!

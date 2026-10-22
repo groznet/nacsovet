@@ -5,8 +5,8 @@ title = "Поехали.. Второй день межрегионального
 slug = "poekhali-vtoroi-den-mezhregionalnogo-intellektualnogo-mol"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум", "Молодёжь"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Поехали.. Второй день межрегионального интеллектуального молодёжного форума «Хасавюрт — Лига знаний»

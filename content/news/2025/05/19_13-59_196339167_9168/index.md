@@ -5,8 +5,8 @@ title = "Интеллектуальный форум"
 slug = "intellektualnyi-forum"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Культурный Кавказ", "Форум"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Интеллектуальный форум

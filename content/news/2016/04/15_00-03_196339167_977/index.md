@@ -6,7 +6,7 @@ slug = "oz-kezennoi-am"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 оз. "Кезенной Ам"...

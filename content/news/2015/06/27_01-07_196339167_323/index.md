@@ -6,7 +6,7 @@ slug = "rossiia-kbr-nalchik-elbrus-drug-shavaev-iumor-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #Россия #КБР #Нальчик #Эльбрус #друг #Шаваев #юмор #Дунаев

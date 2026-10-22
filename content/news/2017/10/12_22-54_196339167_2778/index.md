@@ -6,7 +6,7 @@ slug = "tak-stroili-zamechatelnye-chechenskie-stroiteli-eshche-v"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Так строили замечательные чеченские строители ещё в средние века... Старинное село ХОЙ, #веденскийрайончр

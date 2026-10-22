@@ -5,8 +5,8 @@ title = "Соскучился по #велопробег🚲 #велоспорт
 slug = "soskuchilsia-po-veloprobeg-velosport-utrenniaia-trenirovka"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 Соскучился по #велопробег🚲 #велоспорт🚴 , утренняя тренировка, а вы... #призывкдействию #призывкспорту #спорткаждыйдень

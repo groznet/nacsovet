@@ -6,7 +6,7 @@ slug = "v-edinstve-nasha-sila"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В единстве наша сила...

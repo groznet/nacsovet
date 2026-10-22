@@ -5,8 +5,8 @@ title = "#минводы #поэтессакатеринакан stihi_bycatheri
 slug = "minvody-poetessakaterinakan-stihi-bycatherinekan-islamsai"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Религия и традиции", "Культура и искусство"]
 +++
 
 #минводы #поэтессакатеринакан stihi_bycatherinekan #исламсайдаев islam_shah #ибрагимбазаев ibragimbazaew #сайпудигучигов

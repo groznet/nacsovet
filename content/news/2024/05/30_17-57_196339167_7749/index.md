@@ -5,8 +5,8 @@ title = "✅ Друзья, сегодня в актовом зале МБОУ"
 slug = "druzia-segodnia-v-aktovom-zale-mbou"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Лингвистическая школа", "Школьники"]
+categories = ["Образование"]
 +++
 
 ✅ Друзья, сегодня в актовом зале МБОУ

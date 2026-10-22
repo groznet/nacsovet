@@ -6,7 +6,7 @@ slug = "bez-nazvaniia"
 author = "Отдел образования Урус-Мартановского района"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 

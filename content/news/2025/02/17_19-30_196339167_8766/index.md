@@ -6,7 +6,7 @@ slug = "prezentatsiia-poemy-a-tuguzova-kunta-khadzhi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Презентация поэмы А. Тугузова  «Кунта Хаджи»…

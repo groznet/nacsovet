@@ -5,8 +5,8 @@ title = "#чеченскаяреспублика #охотаирыбалка #р
 slug = "chechenskaiarespublika-okhotairybalka-rybalka2017-otdykh-pek"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #чеченскаяреспублика #охотаирыбалка #рыбалка2017 #отдых #пекниксдрузьями

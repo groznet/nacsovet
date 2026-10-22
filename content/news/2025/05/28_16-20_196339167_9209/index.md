@@ -6,7 +6,7 @@ slug = "my-sdelali-eto"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мы сделали это!)

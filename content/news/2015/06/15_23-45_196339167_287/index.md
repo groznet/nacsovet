@@ -6,7 +6,7 @@ slug = "odin-iz-drevneishikh-gorodov-italii-italiia-tur-otdykh-kra"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Один из древнейших городов Италии...#Италия #тур #отдых #красота ##Дунаев

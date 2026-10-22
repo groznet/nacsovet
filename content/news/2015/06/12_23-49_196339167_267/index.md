@@ -6,7 +6,7 @@ slug = "arkhiv-piter-krasota-dunaev"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #архив #Питер #красота #Дунаев

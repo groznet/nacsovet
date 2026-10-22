@@ -5,8 +5,8 @@ title = "#Китай #РСМ #делегация #Дунаев"
 slug = "kitai-rsm-delegatsiia-dunaev"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 #Китай #РСМ #делегация #Дунаев

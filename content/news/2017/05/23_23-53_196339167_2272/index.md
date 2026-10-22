@@ -6,7 +6,7 @@ slug = "23-05-2017g-rossiia-roshtabaonfvchr-onlainsoveshchanie-rabu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 23.05.2017г, #россия🇷🇺 #роштабаонфвчр #онлайнсовещание #рабуаздаева #лайла

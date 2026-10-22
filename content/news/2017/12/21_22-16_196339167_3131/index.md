@@ -5,8 +5,8 @@ title = "#грозный #ночнойгород #спортбезвремени
 slug = "groznyi-nochnoigorod-sportbezvremeni-sportkazhdyiden-vel"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Спорт"]
 +++
 
 #грозный #ночнойгород #спортбезвремени #спорткаждыйдень #велопррбег #

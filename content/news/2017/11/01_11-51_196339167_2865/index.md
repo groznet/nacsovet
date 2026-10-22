@@ -5,8 +5,8 @@ title = "После заседаний постоянных комиссий О�
 slug = "posle-zasedanii-postoiannykh-komissii-obshchestvennoi-palaty"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 После заседаний постоянных комиссий Общественной палаты Чеченской Республики... #исмаилденильханов idenilkhanov opchr #шамханхвджихамадов #ибрагимбазаев ibragimbazaew #исламсайдаев islam_shah #сайпудигучигов

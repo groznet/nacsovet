@@ -6,7 +6,7 @@ slug = "mid-rf-v-sviazi-s-10-letiem-tragedii-v-odesse-2-maia-2014"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 МИД РФ в связи с 10-летием трагедии в Одессе 2 мая 2014 года:

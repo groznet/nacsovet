@@ -5,8 +5,8 @@ title = "В рамках реализации проекта \"НАКОРМИ И
 slug = "v-ramkakh-realizatsii-proekta-nakormi-islama-islamsaidae"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Ибрагим Базаев"]
+categories = ["Религия и традиции"]
 +++
 
 В рамках реализации проекта "НАКОРМИ ИСЛАМА"..: #исламсайдаев islam_shah #ибрагимбазаев ibragimbazaew

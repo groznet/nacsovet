@@ -6,7 +6,7 @@ slug = "v-gorakh-da-s-okhranoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В горах, да с охраной...

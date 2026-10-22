@@ -5,8 +5,8 @@ title = "Эксперты #проектаМИМ \"Я и этот мир\" гот
 slug = "eksperty-proektamim-ia-i-etot-mir-gotoviatsia-k"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Я и этот мир"]
+categories = ["Заметки"]
 +++
 
 Эксперты #проектаМИМ "Я и этот мир" готовятся  к мероприятиям, заканчиваю вводную часть.

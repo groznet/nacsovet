@@ -6,7 +6,7 @@ slug = "na-konu-dengi-vidimo-oni-tak-zhe-nuzhny-i-askhabu-deni"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 На кону деньги ... )) Видимо, они так же нужны и Асхабу Денильханову ...)))

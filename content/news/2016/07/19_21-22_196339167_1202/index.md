@@ -5,8 +5,8 @@ title = "Перед началом настоящего форума...) #фор
 slug = "pered-nachalom-nastoiashchego-foruma-forum-dagestan-ismail"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 Перед началом настоящего форума...) #форум #Дагестан #ИсмаилАлбагачиев #ЗагидиМахмудов #Дунаев

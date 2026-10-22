@@ -5,8 +5,8 @@ title = "Мой дорогой Бельгиец ... #Бельгия #племя�
 slug = "moi-dorogoi-belgiets-belgiia-plemiannik-spetsfotodliadiad"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 Мой дорогой Бельгиец ... #Бельгия #племянник #спецфотодлядяди #Аслан #Дунаев

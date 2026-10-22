@@ -5,8 +5,8 @@ title = "#париж #брюсель #москва #россия #грозный
 slug = "parizh-briusel-moskva-rossiia-groznyi-brat-plemiannik-t"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Москва"]
+categories = ["Заметки"]
 +++
 
 #париж #брюсель #москва #россия #грозный #брат #племянник #турист #красотадаитолько #

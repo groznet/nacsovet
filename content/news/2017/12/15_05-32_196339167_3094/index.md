@@ -5,8 +5,8 @@ title = "Доброе утро страна!!! #фоторазное #москв
 slug = "dobroe-utro-strana-fotoraznoe-moskva-moskovskaiaoblast"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 Доброе утро страна!!! #фоторазное #москва #московскаяобласть #

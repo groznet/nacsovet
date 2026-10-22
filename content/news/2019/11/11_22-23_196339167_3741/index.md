@@ -5,8 +5,8 @@ title = "Акция \"Колокольчики памяти\", СОШ 2 с. Кх
 slug = "aktsiia-kolokolchiki-pamiati-sosh-2-s-kkhenkhi-sharoiskii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Помнить, чтобы жить", "Колокольчики памяти", "Волонтёры", "Дети", "Молодёжь"]
+categories = ["Патриотизм и память", "Молодёжь"]
 +++
 
 Акция "Колокольчики памяти", СОШ 2 с. Кхенхи, Шаройский район республики в рамках проекта Национального Совета молодёжных и детских объединений #МАООНациональныйСовет @youthchr_nacsovet "Помнить, чтобы жить!" поддержанного Федеральным агентством по делам молодёжи [club49388164|@rosmolodez] #росмолодежь #команданацсовета #волонтерынацсовета @muzaevsaidmagomed @dunaev.95 @hasanova_madina__ @1abdul1aziz @layla_1965 @chro_voi @chroo_sm @intellektualny_kavkaz @movladi_bata @monchr95 @minnac_95 [id422063213|@minmolodezhi_95] @deprel_95 @opchr_95 @ibragimbazaew

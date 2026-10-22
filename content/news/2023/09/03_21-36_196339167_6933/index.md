@@ -5,8 +5,8 @@ title = "#СВОЯИГРА, ОТКРЫТАЯ ЛИГА, ШЕСТАЯ ИГРА…"
 slug = "svoiaigra-otkrytaia-liga-shestaia-igra"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Своя игра", "Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 #СВОЯИГРА, ОТКРЫТАЯ ЛИГА, ШЕСТАЯ ИГРА…

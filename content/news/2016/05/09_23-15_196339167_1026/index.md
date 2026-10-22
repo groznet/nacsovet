@@ -6,7 +6,7 @@ slug = "voistinu-vash-podvig-vechen-slava-geroiam"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Воистину ваш подвиг вечен!!! Слава героям!!!

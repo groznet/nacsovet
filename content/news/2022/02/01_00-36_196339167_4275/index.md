@@ -6,7 +6,7 @@ slug = "https-youtube-com-watch-v-axd4dlfpspi-feature-share"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://youtube.com/watch?v=AxD4dLfPspI&feature=share

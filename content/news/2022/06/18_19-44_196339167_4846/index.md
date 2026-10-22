@@ -5,8 +5,8 @@ title = "Ножай-Юртовский район ЧР! Красота да и �
 slug = "nozhai-iurtovskii-raion-chr-krasota-da-i-tolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Ножай-Юртовский район ЧР! Красота да и только!

@@ -6,7 +6,7 @@ slug = "v-ramkakh-aktsii-mopd-akhmat-peshii-pokhod-ot-oborony-na-r"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 В рамках акции МОПД "Ахмат" -   пеший поход "От обороны на реке Терек, до аллеи Славы"

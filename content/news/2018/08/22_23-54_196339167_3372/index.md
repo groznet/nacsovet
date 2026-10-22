@@ -6,7 +6,7 @@ slug = "dolina-mina-vsepovolevsevyshnego-khadzh2018-dzhamarat-m"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Долина МИНА!!! #всеповолеВСЕВЫШНЕГО☝️ #хадж2018 #джамарат #мирвамивашимблизким #АЛЛАХВЕЛИК

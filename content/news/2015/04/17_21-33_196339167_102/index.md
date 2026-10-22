@@ -6,7 +6,7 @@ slug = "arkhiv-nu-mishen-derzhis-my-ot-kabanov-kroliki-ot-nas"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Архив: Ну мишень держись ... (мы от кабанов, кролики от нас ...).  )

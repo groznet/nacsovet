@@ -6,7 +6,7 @@ slug = "italiia-velikolepnaia-milan-gospoda"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Италия великолепная... Милан господа.

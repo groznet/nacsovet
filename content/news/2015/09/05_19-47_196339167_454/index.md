@@ -6,7 +6,7 @@ slug = "vse-foto-v-kuchu-k-marks-otdykhaet"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Все фото в кучу, К. Маркс отдыхает ... )

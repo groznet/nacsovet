@@ -6,7 +6,7 @@ slug = "priniat-uchastie-na-prazdnike-olenevodov-v-g-salekhard-raspo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Принять участие на празднике оленеводов в г. Салехард, расположенном в низовьях реки Оби на Полярном круге, завидую молча…)) 

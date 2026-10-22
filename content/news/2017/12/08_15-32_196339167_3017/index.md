@@ -5,8 +5,8 @@ title = "#молодежныйфорум Я держусь, хотя сложн�
 slug = "molodezhnyiforum-ia-derzhus-khotia-slozhno-moskva-moskovs"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва", "Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #молодежныйфорум Я держусь, хотя сложно...) #москва #московсеаяобласть

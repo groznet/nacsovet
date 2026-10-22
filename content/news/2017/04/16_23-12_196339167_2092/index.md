@@ -6,7 +6,7 @@ slug = "gprepost-reposter-notetag-timuraliev1973-via-gprepostap"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #GPRepost,#reposter,#notetag @timuraliev1973 via @GPRepostApp ======> @timuraliev1973:Дела реза хуьлда, лераме Паччахь Рамзан Ахматович @kadyrov_95 🙏🙏🙏. #GPRepost,#reposter,#notetag @timuraliev1973 via @GPRepostApp ======>

@@ -6,7 +6,7 @@ slug = "stambul-gospoda-dobroe-utro"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 Стамбул господа... Доброе утро!!!

@@ -5,8 +5,8 @@ title = "ТЦ «ГРАНД ПАРК» - 10 лет!  Имел честь быть
 slug = "tts-grand-park-10-let-imel-chest-byt-sredi-priglashenny"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Грозный"]
+categories = ["Заметки"]
 +++
 
 ТЦ «ГРАНД ПАРК» - 10 лет!  Имел честь быть среди приглашенных, спасибо! ТЦ очень важен для города, республики, более тысячи людей нашли работу в центре… #грандпарк #грозный #тцграндпврк #минспортмол #маоонациональныйсовет #дунаевмуса [club43098840|@grand_park] @adminchr @minsportmol95 @youthchr_nacsovet @tropami_predkov @timuraliev1973

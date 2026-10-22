@@ -6,7 +6,7 @@ slug = "v-ogne-ne-goriu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В огне не горю ...)

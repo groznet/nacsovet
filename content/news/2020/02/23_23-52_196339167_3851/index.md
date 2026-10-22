@@ -6,7 +6,7 @@ slug = "gordost-beret-za-geroev-vechnaia-slava-geroiam-vov-cl"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Патриотизм и память"]
 +++
 
 Гордость берет за ГЕРОЕВ !!! Вечная слава ГЕРОЯМ ВОВ !!! [club119042965|@grozmer] @isa.patriot @minnac_95 @djambox @surho_grozny @youthchr_nacsovet @deprel_95 @opchr_95 @minobrnauki_95

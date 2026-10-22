@@ -6,7 +6,7 @@ slug = "musa-dala-dekil-voila-vin-dentsa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Муса Дала декьил войла вин денца!

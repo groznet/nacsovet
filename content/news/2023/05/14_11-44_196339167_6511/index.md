@@ -5,8 +5,8 @@ title = "Поздравляю, гордость берёт когда в тво�
 slug = "pozdravliaiu-gordost-beret-kogda-v-tvoei-komande-takie-profe"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 Поздравляю, гордость берёт когда в твоей команде такие профессионалы… Будем работать!!!

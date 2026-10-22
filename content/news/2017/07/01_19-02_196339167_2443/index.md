@@ -5,8 +5,8 @@ title = "#Деньмолодежи #впредвериипраздника #ми
 slug = "denmolodezhi-vpredveriiprazdnika-minmolchr-edilkhandovlet"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Молодёжь"]
 +++
 
 #Деньмолодежи #впредвериипраздника #минмолчр #эдильхандовлетбаев #

@@ -5,8 +5,8 @@ title = "#москва #съезднекоммерческихорганизац
 slug = "moskva-sezdnekommercheskikhorganizatsiirossii-12-12-2017g"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Москва"]
+categories = ["Заметки"]
 +++
 
 #москва #съезднекоммерческихорганизацийроссии #12.12.2017г.,

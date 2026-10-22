@@ -6,7 +6,7 @@ slug = "venetsiia-gorod-krasoty-i-grekha"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Венеция, город красоты и греха...

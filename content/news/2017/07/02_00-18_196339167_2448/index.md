@@ -5,8 +5,8 @@ title = "#чеченскаяреспублика #нихалоевскиевод
 slug = "chechenskaiarespublika-nikhaloevskievodopady-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #чеченскаяреспублика #нихалоевскиеводопады #красотадаитолько #красотадаитолько #активныхвыходных #Грозный

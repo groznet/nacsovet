@@ -6,7 +6,7 @@ slug = "dobroe-utro-strana-zhelaiu-nam-provesti-den-bez-pafosa-i"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 ДОБРОЕ УТРО СТРАНА!!! Желаю нам провести день, без пафоса и лжи!!! #вседоброгоутра #всеповолеВсевышнегоАллаха👆

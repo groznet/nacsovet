@@ -6,7 +6,7 @@ slug = "ulov-utra-tretego-dnia-rossiia-astrakhan-rybalka-otdy"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Улов утра третьего дня ... #Россия #Астрахань #рыбалка #отдых #друзья #База #"Хуторок"

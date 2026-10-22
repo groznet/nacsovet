@@ -5,8 +5,8 @@ title = "В ЧГПУ завершился Межрегиональный мол�
 slug = "v-chgpu-zavershilsia-mezhregionalnyi-molodezhnyi-forum-ia"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум", "Молодёжь"]
+categories = ["Молодёжь", "Образование"]
 +++
 
 В ЧГПУ завершился Межрегиональный молодёжный форум «Я – гражданин России».

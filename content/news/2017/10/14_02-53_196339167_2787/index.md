@@ -5,8 +5,8 @@ title = "#нихалойскиеводопады #оооофицерыросси
 slug = "nikhaloiskievodopady-oooofitseryrossiivchr-movlagairakhanov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Офицеры России", "Мовлагай Райханов"]
+categories = ["Патриотизм и память"]
 +++
 
 #нихалойскиеводопады #оооофицерыроссиивчр #мовлагайраханов #мусадунаев

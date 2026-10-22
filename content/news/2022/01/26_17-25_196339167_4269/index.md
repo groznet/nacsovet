@@ -5,8 +5,8 @@ title = "#Repost @gabazov_isa with [club87821973|@make_repost]"
 slug = "repost-gabazov-isa-with-club87821973-make-repost"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Интеллектуальные игры", "Дети", "Молодёжь"]
+categories = ["Интеллектуальные игры", "Молодёжь"]
 +++
 
 #Repost @gabazov_isa with [club87821973|@make_repost]

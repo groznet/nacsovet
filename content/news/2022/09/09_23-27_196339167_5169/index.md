@@ -6,7 +6,7 @@ slug = "krasivye-vidy-respublika-dagestan"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Красивые виды, Республика Дагестан…

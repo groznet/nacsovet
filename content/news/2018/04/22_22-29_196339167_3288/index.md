@@ -5,8 +5,8 @@ title = "#толькотакиникакиначе #велопробег #все
 slug = "tolkotakinikakinache-veloprobeg-vsepovoleallakha-zdoroyyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт", "Религия и традиции"]
 +++
 
 #толькотакиникакиначе #велопробег #всеповолеАЛЛАХА #здороыыйобразжизни #спорт #спорткаждыйдень

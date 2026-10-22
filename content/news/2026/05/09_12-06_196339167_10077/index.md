@@ -5,8 +5,8 @@ title = "С Днем Победы❗️С праздником ❗️🌹"
 slug = "s-dnem-pobedy-s-prazdnikom"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["День Победы", "Ветераны"]
+categories = ["Поздравления"]
 +++
 
 С Днем Победы❗️С праздником ❗️🌹

@@ -5,8 +5,8 @@ title = "Межрегиональный интеллектуальный тур�
 slug = "mezhregionalnyi-intellektualnyi-turnir-khasav-iurt-liga-zn"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Турнир", "Чеченская Республика", "Молодёжь"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Межрегиональный интеллектуальный турнир «Хасав-Юрт - Лига знаний»… 

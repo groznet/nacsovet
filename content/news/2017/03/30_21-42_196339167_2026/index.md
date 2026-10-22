@@ -5,8 +5,8 @@ title = "#спорт #велопробег #активныйотдых #"
 slug = "sport-veloprobeg-aktivnyiotdykh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #спорт #велопробег #активныйотдых #

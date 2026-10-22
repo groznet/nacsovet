@@ -5,8 +5,8 @@ title = "Семинар от @islam_mission_ru @shafigpshikhachev в рамка�
 slug = "seminar-ot-islam-mission-ru-shafigpshikhachev-v-ramkakh-pro"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Гражданский комитет России", "Офицеры России", "Интеллектуальный Кавказ"]
+categories = ["Интеллектуальные игры", "Общественная жизнь"]
 +++
 
 Семинар от @islam_mission_ru @shafigpshikhachev в рамках проекта: «Точки роста». Российский исламский университет им. Кунта-Хаджи. 

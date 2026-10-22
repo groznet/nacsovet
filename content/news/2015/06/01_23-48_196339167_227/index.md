@@ -6,7 +6,7 @@ slug = "podarok-delfina-nashel-dostoinoe-mesto-v-kabinete-arkhi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Подарок дельфина,  нашел достойное место в кабинете ...#архив #Крым2003 #аукцион #КПДМ #Дунаев

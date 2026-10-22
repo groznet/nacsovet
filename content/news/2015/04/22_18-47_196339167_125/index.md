@@ -5,8 +5,8 @@ title = "Селекторное совещание президиума Сове
 slug = "selektornoe-soveshchanie-prezidiuma-soveta-profsoiuzov-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Профсоюзы", "Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 Селекторное совещание президиума Совета профсоюзов ЧР ... #Чечня #ФНПР #Совпроф #Дунаев

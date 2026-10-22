@@ -6,7 +6,7 @@ slug = "https-vesti095-ru-2026-05-chtoby-pomnili-delegatsiya-iz-gr"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 https://vesti095.ru/2026/05/chtoby-pomnili-delegatsiya-iz-gruzii-posetila-chechenskuyu-respubliku-chtoby-otdat-dan-pamyati-zemlyakam-pogibshim-v-boyah-za-groznyj/ 

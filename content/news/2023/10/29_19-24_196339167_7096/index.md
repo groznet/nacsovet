@@ -5,8 +5,8 @@ title = "Вторая игра в осенней серии, #чтогдеког
 slug = "vtoraia-igra-v-osennei-serii-chtogdekogda-vysshaia-liga"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Что? Где? Когда?"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Вторая игра в осенней серии, #чтогдекогда - ВЫСШАЯ ЛИГА…

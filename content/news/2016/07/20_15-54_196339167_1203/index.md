@@ -6,7 +6,7 @@ slug = "v-polku-velosipedistov-pribylo-za-zdorovyi-obraz-zhizni"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 В полку велосипедистов прибыло, за здоровый образ жизни...

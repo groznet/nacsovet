@@ -6,7 +6,7 @@ slug = "vsekh-blag-molodym-vezachu-allakha-dekalla-doila-shu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Всех благ молодым!!! ВЕЗАЧУ АЛЛАХА декьалла дойла шу!!!

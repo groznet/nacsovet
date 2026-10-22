@@ -5,8 +5,8 @@ title = "Хвала Аллаху за данную возможность #ма�
 slug = "khvala-allakhu-za-dannuiu-vozmozhnost-maoonatsionalnyisovet"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Волонтёры", "Благотворительность", "Поздравление"]
+categories = ["Религия и традиции", "Общественная жизнь"]
 +++
 
 Хвала Аллаху за данную возможность #маоонациональныйсовет @youthchr_nacsovet проработать волонтёром в известный период в благотворительном фонде "Даймохк" [id339261382|@daymohk_chr] @zakriev_hamzat_95 . Аллаха, ялсманеца бекхама бойла шуна, [id339261382|@daymohk_chr] !!! Поздравляю своих коллег-волонтёров с праздником !!! #деньволонтеров @opchr_95 [id508910309|@idenilkhanov] @ibragimbazaew [id422063213|@minmolodezhi_95] @isa_k669ra [club119042965|@grozmer] @isa.patriot @musaev2997 @molodezhka_onf_95 @chro_voi @volunteer_b_f_daymohk @intellektualny_kavkaz @chroo_sm @mmoo_patriot_ [id507332371|@marimatsaeva] @deni.yakhyaev ...

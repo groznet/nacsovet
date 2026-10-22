@@ -6,7 +6,7 @@ slug = "khoroshego-dnia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Хорошего дня !!!

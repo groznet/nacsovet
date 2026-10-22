@@ -5,8 +5,8 @@ title = "#грозный #виднагородсверху #грозныйсит
 slug = "groznyi-vidnagorodsverkhu-groznyisiti-krasotadaitolko"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 #грозный #виднагородсверху #грозныйсити #красотадаитолько #

@@ -5,8 +5,8 @@ title = "#нихалоевскиеводопады #коасотадаитоль
 slug = "nikhaloevskievodopady-koasotadaitolko-chechenskaiarespublika"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 #нихалоевскиеводопады #коасотадаитолько #чеченскаяреспублика #добропожаловатьвреспублику

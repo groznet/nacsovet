@@ -5,8 +5,8 @@ title = "Большая мимомвская семья #МИМ, #Пятигор
 slug = "bolshaia-mimomvskaia-semia-mim-piatigorsk-otchetnyiseminar"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Международная исламская миссия", "Пятигорск"]
+categories = ["Заметки"]
 +++
 
 Большая мимомвская семья #МИМ, #Пятигорск #отчетныйсеминар

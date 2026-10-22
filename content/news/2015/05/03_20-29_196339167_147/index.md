@@ -6,7 +6,7 @@ slug = "gory-i-vpravdu-vorobevy-progulka-pered-uzhinom"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Горы и вправду Воробьевы !!! Прогулка перед ужином ...

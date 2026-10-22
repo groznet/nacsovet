@@ -6,7 +6,7 @@ slug = "vse-po-vole-vsevyshnego-urokarabskogoiazyka-izucheniekoran"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Все по воле ВСЕВЫШНЕГО!!! #урокарабскогоязыка #изучениекорана #всеповолеАллаха

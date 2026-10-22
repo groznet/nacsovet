@@ -6,7 +6,7 @@ slug = "pytaius-byt-khoroshim-roditelem-aktivnyiotdykh-bassein-o"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пытаюсь быть хорошим родителем... #активныйотдых #бассейн #охотанеохота #Абдуррохьим ##Дунаев

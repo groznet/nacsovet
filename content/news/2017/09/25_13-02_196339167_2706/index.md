@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #намюр #племянники #дунаев
 slug = "belgiia-namiur-plemianniki-dunaevramzan-dunaevtamerlan"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #намюр #племянники #дунаеврамзан #дунаевтамерлан #доброгодня #всехблаг

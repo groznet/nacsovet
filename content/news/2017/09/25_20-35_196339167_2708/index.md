@@ -5,8 +5,8 @@ title = "По воле АЛЛАХА, вот такой у меня племян�
 slug = "po-vole-allakha-vot-takoi-u-menia-plemiannik-budushchii"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Религия и традиции"]
 +++
 
 По воле АЛЛАХА, вот такой у меня племянник!!! Будущий ученный... #мохьмаддунаев #россия🇷🇺 #грозный

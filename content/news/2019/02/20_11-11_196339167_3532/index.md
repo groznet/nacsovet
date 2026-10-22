@@ -6,7 +6,7 @@ slug = "ty-nastoiashchii-drug-i-brat-iulia-priiatno-poluchit-takoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ты настоящий друг и брат - Юля !!! Приятно получить такой подарок (СНЕГ - не просто с большой буквы, а все заглавными) южанину от снегурочки))))

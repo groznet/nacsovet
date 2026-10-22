@@ -6,7 +6,7 @@ slug = "bez-nazvaniia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 

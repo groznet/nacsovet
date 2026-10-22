@@ -6,7 +6,7 @@ slug = "ni-kto-ne-dolzhen-i-ne-imeet-prava-pretendovat-v-mire-ni-na"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ни кто не должен и не имеет права претендовать в мире ни на что, кроме "исключительных" США ...

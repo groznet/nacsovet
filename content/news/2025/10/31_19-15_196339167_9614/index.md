@@ -5,8 +5,8 @@ title = "Друзья, добрый день!"
 slug = "druzia-dobryi-den"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Форум"]
+categories = ["Заметки"]
 +++
 
 Друзья, добрый день! 

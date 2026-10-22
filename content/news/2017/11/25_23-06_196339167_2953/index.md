@@ -5,8 +5,8 @@ title = "#толькотак #поздравляю #ахматсила #побе
 slug = "tolkotak-pozdravliaiu-akhmatsila-pobeda-takderzhat"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Поздравление"]
+categories = ["Поздравления"]
 +++
 
 #толькотак #поздравляю #ахматсила #победа #такдержать👍

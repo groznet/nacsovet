@@ -6,7 +6,7 @@ slug = "gordimsia-toboi-beterbiev-provel-zashchitu-chempionskikh"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Гордимся тобой!!! Бетербиев провел защиту чемпионских поясов в полутяжелом весе по версиям WBC, WBO и IBF против обязательного претендента по версии WBC Смита.

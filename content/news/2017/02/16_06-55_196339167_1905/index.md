@@ -5,8 +5,8 @@ title = "Итум-Калиинский район, ЧР... #красотадаи
 slug = "itum-kaliinskii-raion-chr-krasotadaitolko-dobropozhalov"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Итум-Калиинский район, ЧР... #красотадаитолько #добропожаловать #

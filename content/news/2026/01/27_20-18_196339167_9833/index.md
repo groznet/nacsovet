@@ -6,7 +6,7 @@ slug = "umnozhaia-talanty-2026-gorodskoi-okrug-argun"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 «УМНОЖАЯ ТАЛАНТЫ 2026», ГОРОДСКОЙ ОКРУГ АРГУН!

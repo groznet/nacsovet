@@ -5,8 +5,8 @@ title = "Серноводский район ЧР, обратная сторон
 slug = "sernovodskii-raion-chr-obratnaia-storona-intellektualnykh"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Интеллектуальные игры", "Чеченская Республика"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Серноводский район ЧР, обратная сторона интеллектуальных игр )

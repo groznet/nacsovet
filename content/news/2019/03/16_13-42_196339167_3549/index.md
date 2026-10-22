@@ -6,7 +6,7 @@ slug = "kruglyistol-krymvozvoashchenienarodinu-krymvistoriirossii"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #круглыйстол #крымвозвоащениенародину #крымвисториироссии

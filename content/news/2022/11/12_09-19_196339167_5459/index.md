@@ -6,7 +6,7 @@ slug = "dunaevmusa"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 dunaevmusa

@@ -6,7 +6,7 @@ slug = "druzia-i-v-radosti-i-v-gore-svadba-plemiannik-tiinala"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Друзья, и в радости и в горе… #свадьба #племянник #тийнала

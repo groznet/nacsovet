@@ -6,7 +6,7 @@ slug = "priiatno-nagrazhdat-dostoinykh-liudei"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Приятно награждать достойных людей !!!

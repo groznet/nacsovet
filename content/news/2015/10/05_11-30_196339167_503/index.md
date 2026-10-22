@@ -5,8 +5,8 @@ title = "С Днем Рождения тебя, ГРОЗНЫЙ !!!"
 slug = "s-dnem-rozhdeniia-tebia-groznyi"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Поздравления"]
 +++
 
 С Днем Рождения тебя, ГРОЗНЫЙ !!!

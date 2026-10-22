@@ -6,7 +6,7 @@ slug = "assalam-aleikum"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Ассалам алейкум!

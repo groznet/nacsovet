@@ -5,8 +5,8 @@ title = "Дорога в садик, видимо не очень радует �
 slug = "doroga-v-sadik-vidimo-ne-ochen-raduet-muzhichka"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный", "Чеченская Республика"]
+categories = ["Заметки"]
 +++
 
 Дорога в садик, видимо не очень радует мужичка ...

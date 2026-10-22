@@ -5,8 +5,8 @@ title = "Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_o
 slug = "druzia-19-04-2021-g-v-ifip-chspu-ifip-chgpu-chspu-offici"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Национальный совет", "Интеллектуальный Кавказ", "Интеллектуальные игры"]
+categories = ["Интеллектуальные игры"]
 +++
 
 Друзья ,19.04.2021 г., в ИФИП @chspu_ifip ЧГПУ @chspu_official @ibaykhanov прошла Интеллектуальная игра «Киномания». 

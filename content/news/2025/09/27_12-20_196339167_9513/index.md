@@ -5,8 +5,8 @@ title = "РГВК «Дагестан», межрегиональный турн�
 slug = "rgvk-dagestan-mezhregionalnyi-turnir-na-kubok-druzhby"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Кубок", "Турнир"]
+categories = ["Заметки"]
 +++
 
 РГВК «Дагестан», межрегиональный турнир на «Кубок дружбы»

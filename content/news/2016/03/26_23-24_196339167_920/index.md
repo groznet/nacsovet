@@ -5,8 +5,8 @@ title = "Партийный босс и @kambirus в Грозном, обсуж�
 slug = "partiinyi-boss-i-kambirus-v-groznom-obsuzhdaem-rabochie-mome"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Партийный босс и @kambirus в Грозном, обсуждаем рабочие моменты за чашкой чая... #ИнтернациональнаяпартияРоссии. #председатель #ЖанСимоновичРафаилов

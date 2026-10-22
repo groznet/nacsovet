@@ -5,8 +5,8 @@ title = "На заседании совета Общественной пала�
 slug = "na-zasedanii-soveta-obshchestvennoi-palaty-chr"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Чеченская Республика"]
+categories = ["Общественная жизнь"]
 +++
 
 На заседании совета Общественной палаты ЧР ...

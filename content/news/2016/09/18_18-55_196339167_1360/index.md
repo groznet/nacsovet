@@ -6,7 +6,7 @@ slug = "posle-dniukhi-ustalyi-no-dovolnyi-denrozhdeniia-nam5let"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 После Днюхи, усталый но довольный... #деньрождения #нам5лет #Абдуррохьим #Дунаев

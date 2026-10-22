@@ -9,9 +9,11 @@
         z-index: 1000;
         width: 56px;
         height: 56px;
-        border-radius: 0;
-        background: var(--color-primary, #2B2620);
+        border-radius: 9999px;
+        background: var(--color-primary, #0D3B66);
         color: white;
+        border: none;
+        box-shadow: 0 8px 30px rgba(13, 59, 102, 0.3);
         display: none;
         align-items: center;
         justify-content: center;
@@ -21,7 +23,7 @@
     }
     .archive-sidebar-toggle:hover {
         transform: scale(1.05);
-        background: #C4866D;
+        background: #0a2e52;
     }
     .archive-sidebar-toggle:active {
         transform: scale(0.95);
@@ -64,10 +66,11 @@
             max-width: 85vw;
             height: 100%;
             z-index: 1000;
-            background: #F5F3F0;
+            background: #fff;
             overflow-y: auto;
             transform: translateX(-100%);
             transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 4px 0 30px rgba(0, 0, 0, 0.08);
             padding: 1.5rem 1.25rem 2rem;
             display: block !important;
         }
@@ -96,8 +99,9 @@
         justify-content: center;
         width: 32px;
         height: 32px;
-        border-radius: 0;
-        background: none;
+        border-radius: 9999px;
+        background: #f3f4f6;
+        border: none;
         cursor: pointer;
         color: #4b5563;
         transition: background 0.2s;
@@ -105,11 +109,11 @@
         margin-bottom: 0.5rem;
     }
     .archive-sidebar-close:hover {
-        background: none;
+        background: #e5e7eb;
     }
 </style>
 
-<div class="container mx-auto px-4 lg:px-8 py-8">
+<div class="container mx-auto px-4 lg:px-8 py-12">
 
     <!-- Mobile Overlay & Toggle -->
     <div id="archiveSidebarOverlay" class="archive-sidebar-overlay"></div>
@@ -119,21 +123,21 @@
     
     <div class="flex flex-col lg:flex-row gap-12">
         
-        <!-- LEFT SIDEBAR -->
+        <!-- Sidebar -->
         <aside class="archive-sidebar lg:w-72 xl:w-80 flex-shrink-0">
             {{ partial "sidebar.html" . }}
         </aside>
 
         <!-- Main Content -->
         <main class="flex-1 min-w-0">
-            <article class="md:py-4" data-pagefind-body>
+            <article class="rounded-2xl md:p-6 shadow-sm border border-gray-100" data-pagefind-body>
 
                 <!-- Metadata -->
                 <header class="mb-6">
-                    <span data-pagefind-ignore data-pagefind-meta="category" class="inline-block text-primary text-xs font-bold uppercase tracking-widest py-1.5 mb-4">
+                    <span data-pagefind-ignore data-pagefind-meta="category" class="inline-block bg-accent/30 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
                         {{ with .Params.categories }}{{ index . 0 }}{{ else }}Новости{{ end }}
                     </span>
-                    <h1 class="heading-font text-4xl md:text-5xl font-extrabold text-gray-900 mb-5">
+                    <h1 class="heading-font text-3xl md:text-4xl font-extrabold text-primary leading-tight mb-4 font-serif">
                         {{ .Title }}
                     </h1>
                     <div data-pagefind-ignore data-pagefind-filter="month:{{ .Date.Format "2006-01" }}" class="flex items-center gap-6 text-sm text-gray-500">
@@ -151,7 +155,7 @@
                 {{ $mainImgSrc := $media.featured | default "/assets/images/post-thumbnail.jpg" }}
 
                 <!-- Main Featured Image -->
-                <div data-pagefind-ignore class="mb-8 overflow-hidden">
+                <div data-pagefind-ignore class="mb-8 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
                     <img src="{{ $mainImgSrc }}"
                          data-pagefind-meta="image[src]"
                          alt="{{ .Title }}"
@@ -178,7 +182,7 @@
 
                 <!-- Videos -->
                 {{ with $media.videos }}
-                <section data-pagefind-ignore class="mt-10 pt-6">
+                <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                     <h2 class="text-2xl font-bold text-primary mb-6">
                         {{ if gt (len .) 1 }}Видео ({{ len . }}){{ else }}Видео{{ end }}
                     </h2>
@@ -188,7 +192,7 @@
                             controls
                             preload="none"
                             {{ with .poster }}poster="{{ . }}"{{ end }}
-                            class="w-full bg-black"
+                            class="w-full rounded-xl bg-black"
                         >
                             <source src="{{ .src }}">
                             Ваш браузер не поддерживает воспроизведение видео.
@@ -202,11 +206,11 @@
                 <!-- Gallery -->
                 {{ if $media.images }}
                     {{/* Галерея из media.json — абсолютные URL на S3 */}}
-                    <section data-pagefind-ignore class="mt-10 pt-6">
+                    <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                         <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $media.images }}
-                                <figure class="overflow-hidden">
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
                                     <a href="{{ . }}" target="_blank" rel="noopener">
                                         <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
@@ -218,12 +222,12 @@
                     {{/* Запасная галерея из локальных ресурсов бандла */}}
                     {{ $allImages := .Resources.ByType "image" }}
                     {{ if gt (len $allImages) 1 }}
-                    <section data-pagefind-ignore class="mt-10 pt-6">
+                    <section data-pagefind-ignore class="mt-10 pt-6 border-t border-gray-100">
                         <h2 class="text-2xl font-bold text-primary mb-6">Галерея</h2>
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $allImages }}
                                 {{ if ne .RelPermalink $mainImgSrc }}
-                                <figure class="overflow-hidden">
+                                <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
                                     <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
                                         <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
@@ -238,7 +242,7 @@
             </article>
 
             <!-- Navigation: Prev/Next -->
-            <nav class="flex justify-between items-center mt-12 pt-8" aria-label="Навигация по статьям">
+            <nav class="flex justify-between items-center mt-12 pt-8 border-t border-gray-200" aria-label="Навигация по статьям">
                 {{ if .PrevInSection }}
                     <a href="{{ .PrevInSection.RelPermalink }}" class="text-sm font-semibold text-primary hover:text-secondary transition-colors duration-200 flex items-center">
                         <i class="fas fa-arrow-left mr-2" aria-hidden="true"></i> Предыдущая
@@ -254,7 +258,6 @@
                 {{ end }}
             </nav>
         </main>
-
     </div>
 </div>
 

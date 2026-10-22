@@ -6,7 +6,7 @@ slug = "vedinstvenashasila-krymnash-rossiia"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #вединственашасила #крымнаш #РОССИЯ #

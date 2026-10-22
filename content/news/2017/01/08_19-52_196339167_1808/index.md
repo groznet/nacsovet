@@ -6,7 +6,7 @@ slug = "krasotadaitolko-gory-gorykavkaza-ingushetiia-tagiev-ka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #красотадаитолько #горы🗻 #горыкавказа #Ингушетия #Тагиев #Капланов #Хаджимурадов #Дунаев #

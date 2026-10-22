@@ -6,7 +6,7 @@ slug = "rimini-italiia-legkii-dieticheskii-zavtrak-pered-dorogoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Путешествия и экспедиции"]
 +++
 
 #римини #италия🇮🇹 Лёгкий диетический завтрак, перед дорогой в Венецию... С интеллектуалами года, с учителем и учеником... muzaevsaidmagomed dunaevmusa #дунаевмуса

@@ -6,7 +6,7 @@ slug = "prishlos-derzhat-slovo-kolichestvo-piaterok-za-nedeliu-togo"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Пришлось держать слово), количество пятёрок  за неделю того стоило...

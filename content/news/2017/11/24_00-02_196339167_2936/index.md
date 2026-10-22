@@ -6,7 +6,7 @@ slug = "vezachu-allakha-dekalla-voila-kho-vinchu-dantsa-ismail"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 Везачу АЛЛАХА ДЕКЬАЛЛА войла хьо винчу даьнца Исмаил Денильханов idenilkhanov !!! ДАЙ АЛЛАХ, ТЕБЕ И ТВОИМ БЛИЗКИМ ВСЕХ БЛАГ В ОБОИХ МИРАХ!!!

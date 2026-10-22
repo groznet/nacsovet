@@ -6,7 +6,7 @@ slug = "po-vole-vsevyshnego-allakha-provozhaem-sestru-v-saudovskuiu"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Религия и традиции"]
 +++
 
 По воле ВСЕВЫШНЕГО АЛЛАХА провожаем сестру в Саудовскую Аравию (хадж)...

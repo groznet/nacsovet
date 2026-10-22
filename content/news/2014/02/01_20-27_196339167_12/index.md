@@ -5,8 +5,8 @@ title = "На форуме международной исламской мис�
 slug = "na-forume-mezhdunarodnoi-islamskoi-missii-v-g-piatigorske-py"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Пятигорск", "Форум"]
+categories = ["Религия и традиции"]
 +++
 
 На форуме международной исламской миссии в г. Пятигорске. Пытаемся защитить проекты...

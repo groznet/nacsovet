@@ -5,8 +5,8 @@ title = "#велопробег🚲 #заздрровыйобразжизни #с
 slug = "veloprobeg-zazdrrovyiobrazzhizni-sport-vsepovoleallakha"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт", "Религия и традиции"]
 +++
 
 #велопробег🚲 #заздрровыйобразжизни #спорт #всеповолеАЛЛАХА #спорткаждыйдееь или почти каждый день...)

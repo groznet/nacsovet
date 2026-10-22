@@ -6,7 +6,7 @@ slug = "malenkaia-razborka"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Маленькая разборка ... )

@@ -6,7 +6,7 @@ slug = "vyshli-na-bereg-tereka-pereval-gde-moi-udochki-s-okhotoi"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Вышли на берег Терека, перевал, где мои удочки ...) С охотой ладно, но рыбу ловить то получается. Могли бы обойтись услуг супермаркета...))

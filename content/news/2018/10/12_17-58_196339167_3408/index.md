@@ -5,8 +5,8 @@ title = "#акакиначетолькотак #велопробег🚲 #вел
 slug = "akakinachetolkotak-veloprobeg-velosport-sport-zdorovy"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Велопробег"]
+categories = ["Спорт"]
 +++
 
 #акакиначетолькотак #велопробег🚲 #велоспорт🚴 #спорт #здоровыйобразжизни #спорткаждыйдень

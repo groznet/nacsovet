@@ -6,7 +6,7 @@ slug = "my-na-prazdnike-priiatnykh-no-aktivnykh-vykhodnykh-vam-druz"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Мы на празднике...) Приятных, но активных выходных вам друзья!!!

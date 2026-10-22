@@ -5,8 +5,8 @@ title = "#минводы #аэропорт #доброеутространа #р
 slug = "minvody-aeroport-dobroeutrostrana-rsm"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Российский союз молодёжи"]
+categories = ["Молодёжь"]
 +++
 
 #минводы #аэропорт #доброеутространа #рсм #

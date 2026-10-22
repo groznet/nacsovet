@@ -6,7 +6,7 @@ slug = "kbr-chegemskievodopady-krasotadaitolko-krasiveegormogutb"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #кбр #чегемскиеводопады #красотадаитолько #красивеегормогутбытьтолькогоры #кавказвеликолепен #кавказвеликаясила #всадник

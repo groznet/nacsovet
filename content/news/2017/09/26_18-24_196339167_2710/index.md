@@ -5,8 +5,8 @@ title = "#бельгия🇧🇪 #динант #каяк #активный_от�
 slug = "belgiia-dinant-kaiak-aktivnyi-otdykh-prostoshik-prostos"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Бельгия"]
+categories = ["Путешествия и экспедиции"]
 +++
 
 #бельгия🇧🇪 #динант #каяк #активный_отдых #простошик #простосупер

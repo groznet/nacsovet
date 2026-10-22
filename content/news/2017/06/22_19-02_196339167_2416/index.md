@@ -5,8 +5,8 @@ title = "#паскачеаасламбек #членсоветаприпрези
 slug = "paskacheaaslambek-chlensovetapriprezidenterf-piatigorsk"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Пятигорск"]
+categories = ["Заметки"]
 +++
 
 #паскачеаасламбек #членсоветаприпрезидентерф #Пятигорск

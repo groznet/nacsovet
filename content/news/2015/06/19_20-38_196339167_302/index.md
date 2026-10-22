@@ -5,8 +5,8 @@ title = "Муса Дунаев стал кавалером Международ�
 slug = "musa-dunaev-stal-kavalerom-mezhdunarodnogo-zolotogo-ordena"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Грозный"]
+categories = ["Заметки"]
 +++
 
 Муса Дунаев стал кавалером Международного Золотого Ордена « За честь и достоинство» | Информационное агентство "Грозный-Информ"

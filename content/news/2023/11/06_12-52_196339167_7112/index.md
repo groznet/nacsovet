@@ -5,8 +5,8 @@ title = "Патриотическое восптание молодежи  пр�
 slug = "patrioticheskoe-vosptanie-molodezhi-prioritetnoe-napravlenie"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Молодёжь"]
+categories = ["Молодёжь", "Патриотизм и память"]
 +++
 
 Патриотическое восптание молодежи  приоритетное направление в системе образования России 🇷🇺❗️

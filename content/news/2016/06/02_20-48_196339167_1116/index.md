@@ -6,7 +6,7 @@ slug = "zolotye-slova"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Золотые слова!

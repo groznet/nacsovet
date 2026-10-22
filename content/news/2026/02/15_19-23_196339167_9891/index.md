@@ -5,8 +5,8 @@ title = "https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t"
 slug = "https-chat-whatsapp-com-lisffx8bcum4cagcxkc5lt-mode-gi-t"
 author = "Муса Дунаев"
 
-tags = []
-categories = []
+tags = ["Даймохк", "Грозный", "Рамадан", "Благотворительность"]
+categories = ["Благотворительность", "Здоровье"]
 +++
 
 https://chat.whatsapp.com/LIsfFX8Bcum4caGcxKC5Lt?mode=gi_t

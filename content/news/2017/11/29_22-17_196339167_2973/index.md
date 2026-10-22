@@ -6,7 +6,7 @@ slug = "tolkotakinikakinache"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 #толькотакиникакиначе #

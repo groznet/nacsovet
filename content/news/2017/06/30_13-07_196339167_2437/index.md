@@ -6,7 +6,7 @@ slug = "khochetsia-peredat-vam-druzia-vsiu-etu-krasotku-dobro-pozhal"
 author = "Муса Дунаев"
 
 tags = []
-categories = []
+categories = ["Заметки"]
 +++
 
 Хочется передать вам друзья всю эту красотку,... Добро пожаловать в республику!!!#итумкалинскийрайончр
