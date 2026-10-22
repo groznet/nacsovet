@@ -101,6 +101,11 @@ buildExpired = false
     weight = 3
 
   [[menu.main]]
+    name = "Рубрики"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.main]]
     name = "Мероприятия"
     url = "/events/"
     weight = 4
