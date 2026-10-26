@@ -36,6 +36,14 @@
             </a>
           {{ end }}
         </div>
+        {{/* Mail link only for events that attach their own «Бланк заявки» */}}
+        {{ if where .Resources "Title" "Бланк заявки" }}
+        <div class="mt-3 text-sm">
+          <a href="{{ printf "mailto:%s?subject=%s" (site.Params.email | default "dunaev_ms@mail.ru") (replace (printf "Заявка: %s" .Title | urlquery) "+" "%20") | safeURL }}" class="inline-flex items-center gap-1.5 text-gray-600 hover:text-primary">
+            <i class="fas fa-envelope"></i>Отправить заполненную заявку на {{ site.Params.email | default "dunaev_ms@mail.ru" }}
+          </a>
+        </div>
+        {{ end }}
       </li>
       {{ end }}
     </ul>
