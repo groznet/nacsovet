@@ -1,9 +1,34 @@
+<style>
+    /* Бегущая строка анонса: движется справа налево и скрывается у краёв блока */
+    /* Первый проход начинается сразу с видимой позиции, дальше строка циклично въезжает справа */
+    .announce-marquee__text {
+        animation:
+            announce-marquee-first calc(var(--marquee-dur, 20s) / 2) linear var(--marquee-pause, 2s) 1 forwards,
+            announce-marquee var(--marquee-dur, 20s) linear calc(var(--marquee-dur, 20s) / 2 + var(--marquee-pause, 2s)) infinite;
+        will-change: transform;
+    }
+    .announce-marquee__text.is-static { animation: none; }
+    @keyframes announce-marquee-first {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-100%); }
+    }
+    .announce-marquee__text:hover,
+    a:hover .announce-marquee__text { animation-play-state: paused; }
+    @keyframes announce-marquee {
+        from { transform: translateX(100%); }
+        to   { transform: translateX(-100%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+        .announce-marquee__text { animation: none; }
+        .announce-marquee { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    }
+</style>
 <!-- Top Bar -->
 <div class="bg-primary text-white text-xs py-2 border-b border-white/10">
     <div class="container mx-auto px-5 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-2">
         <!-- Левая часть: актуальные документы (автоматически из content/documents) -->
         {{ $docs := partialCached "documents-current.html" . }}
-        <div class="flex items-center space-x-2 min-w-0">
+        <div class="flex items-center space-x-2 min-w-0 w-full sm:w-auto sm:flex-1">
             {{ with $docs }}
                 {{ $latest := index (sort . "Date" "desc") 0 }}
                 <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Документы</span>
@@ -14,14 +39,17 @@
                         <span class="relative inline-flex h-2 w-2 rounded-full bg-secondary"></span>
                     </span>
                     <span class="bg-secondary text-primary font-bold px-1.5 py-0.5 rounded-sm text-[9px] uppercase tracking-wider shrink-0">Новое</span>
-                    <span class="font-medium truncate">{{ $latest.Title }}</span>
+                    {{ $dur := math.Max 14 (mul (strings.RuneCount $latest.Title) 0.2) }}
+                    <span class="announce-marquee min-w-0 overflow-hidden">
+                        <span class="announce-marquee__text inline-block whitespace-nowrap font-medium" style="--marquee-dur: {{ $dur }}s">{{ $latest.Title }}</span>
+                    </span>
                     <i class="fas fa-arrow-right text-[10px] shrink-0 transition-transform duration-200 group-hover:translate-x-1"></i>
                 </a>
             {{ end }}
         </div>
 
         <!-- Правая часть: Контакты и Соцсети -->
-        <div class="flex items-center space-x-4 flex-wrap justify-center">
+        <div class="flex items-center space-x-4 flex-wrap justify-center sm:shrink-0">
             <!-- Телефон -->
             <a href="tel:+79287805607" class="hover:text-accent transition-colors flex items-center space-x-1">
                 <i class="fas fa-phone-alt text-[10px]"></i>
@@ -117,3 +145,19 @@
         <a href="/partners" class="btn-secondary-solid w-full text-center inline-block px-4 py-2 rounded-full text-sm">Календарь мероприятий</a>
     </div>
 </div>
+<script>
+    // Если название помещается целиком, строку не двигаем
+    (function () {
+        function fit() {
+            document.querySelectorAll('.announce-marquee').forEach(function (box) {
+                var t = box.querySelector('.announce-marquee__text');
+                if (!t) return;
+                t.classList.remove('is-static');
+                if (t.scrollWidth <= box.clientWidth + 1) t.classList.add('is-static');
+            });
+        }
+        window.addEventListener('load', fit);
+        window.addEventListener('resize', fit);
+        if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+    })();
+</script>

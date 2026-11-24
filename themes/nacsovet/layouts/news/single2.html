@@ -252,7 +252,7 @@
                             {{ range $allImages }}
                                 {{ if ne .RelPermalink $mainImgSrc }}
                                 <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                                    <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
+                                    <a href="{{ .RelPermalink }}">
                                         <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
                                 </figure>

@@ -130,7 +130,7 @@
 
         <!-- Main Content -->
         <main class="flex-1 min-w-0">
-            <article class="rounded-2xl md:p-6 shadow-sm border border-gray-100">
+            <article class="rounded-2xl">
 
                 <!-- Metadata -->
                 <header class="mb-6">
@@ -218,7 +218,7 @@
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                             {{ range $media.images }}
                                 <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                                    <a href="{{ . }}" target="_blank" rel="noopener">
+                                    <a href="{{ . }}">
                                         <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
                                 </figure>
@@ -235,7 +235,7 @@
                             {{ range $allImages }}
                                 {{ if ne .RelPermalink $mainImgSrc }}
                                 <figure class="overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                                    <a href="{{ .RelPermalink }}" target="_blank" rel="noopener">
+                                    <a href="{{ .RelPermalink }}">
                                         <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full h-48 object-cover hover:scale-105 transition-transform duration-300" loading="lazy">
                                     </a>
                                 </figure>
