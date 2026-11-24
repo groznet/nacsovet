@@ -135,7 +135,7 @@
                 <!-- Metadata -->
                 <header class="mb-6">
                     <span data-pagefind-ignore data-pagefind-meta="category" class="inline-block bg-accent/30 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
-                        {{ with .Params.categories }}{{ index . 0 }}{{ else }}Instagram{{ end }}
+                        {{ with .Params.categories }}{{ index . 0 }}{{ else }}Медиаархив{{ end }}
                     </span>
                     <h1 class="heading-font text-3xl md:text-4xl font-extrabold text-primary leading-tight mb-4 font-serif">
                         {{ .Title }}
@@ -145,7 +145,7 @@
                             <i class="far fa-calendar-alt mr-2" aria-hidden="true"></i>{{ .Date.Format "02.01.2006" }}
                         </time>
                         <span class="flex items-center">
-                            <i class="far fa-user mr-2" aria-hidden="true"></i>{{ with .Params.author }}{{ . }}{{ else }}Instagram{{ end }}
+                            <i class="far fa-user mr-2" aria-hidden="true"></i>{{ with .Params.author }}{{ . }}{{ else }}Медиаархив{{ end }}
                         </span>
                     </div>
                 </header>
