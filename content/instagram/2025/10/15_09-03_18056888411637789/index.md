@@ -1,0 +1,20 @@
++++
+date = "2025-10-15T09:03:00+03:00"
+draft = false
+title = "15 октября 2025 года, «Панорама квиз», ресторан «Васильчуки» (ТРЦ…"
+slug = "15-oktiabria-2025-goda-panorama-kviz-restoran-vasilchuki"
+author = "Муса Дунаев"
+
+hashtags = []
+categories = []
+
+instagram_id = "18056888411637789"
+instagram_type = "reel"
+instagram_source = "reels.html"
+image = "videos/18056888411637789-thumb.jpg"
+videos = ["videos/18056888411637789.mp4"]
++++
+
+15 октября  2025 года, «Панорама  квиз», ресторан «Васильчуки» (ТРЦ «Грозный-молл», третий этаж). 
+
+Ответственный, руководитель проекта, директор МИЦ СКФО Сайдмагомед Музаев +7 (929) 010-94-95.

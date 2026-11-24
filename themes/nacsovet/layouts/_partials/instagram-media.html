@@ -1,0 +1,40 @@
+{{/*
+    Медиа Instagram-поста (аналог post-media.html для формата media.json Instagram).
+    Возвращает тот же словарь, что и post-media.html, поэтому шаблоны
+    list/single работают одинаково:
+        featured — URL обложки ("" если нет)
+        images   — срез абсолютных URL галереи
+        videos   — срез словарей {src, poster, name}
+
+    Формат media.json Instagram:
+        remote_base_url  — база для images (имена файлов относительные)
+        featured_image   — абсолютный URL обложки
+        images           — имена файлов (без пути)
+        videos_base_url  — база для видео
+        videos           — имена файлов видео; постер: <имя без расширения>-thumb.jpg
+*/}}
+
+{{ $featured := "" }}
+{{ $images := slice }}
+{{ $videos := slice }}
+
+{{ with .Resources.GetMatch "media.json" }}
+    {{ $data := .Content | transform.Unmarshal }}
+    {{ with $data.featured_image }}{{ $featured = . }}{{ end }}
+
+    {{ $imgBase := strings.TrimSuffix "/" ($data.remote_base_url | default "") }}
+    {{ range $data.images }}
+        {{ $images = $images | append (printf "%s/%s" $imgBase .) }}
+    {{ end }}
+
+    {{ $vidBase := strings.TrimSuffix "/" ($data.videos_base_url | default "") }}
+    {{ range $data.videos }}
+        {{ $stem := strings.TrimSuffix (path.Ext .) . }}
+        {{ $videos = $videos | append (dict
+            "src" (printf "%s/%s" $vidBase .)
+            "poster" (printf "%s/%s-thumb.jpg" $vidBase $stem)
+            "name" .) }}
+    {{ end }}
+{{ end }}
+
+{{ return dict "featured" $featured "images" $images "videos" $videos }}

@@ -1,0 +1,218 @@
+{{/* Сайдбар раздела Instagram: только архив по месяцам. Копия sidebar.html без поиска Pagefind, категорий, тегов и фильтров периода (они завязаны на индекс новостей). */}}
+<style>
+    /* Mobile sidebar toggle styles */
+    .archive-sidebar-toggle {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        z-index: 1000;
+        width: 56px;
+        height: 56px;
+        border-radius: 9999px;
+        background: var(--color-primary, #0D3B66);
+        color: white;
+        border: none;
+        box-shadow: 0 8px 30px rgba(13, 59, 102, 0.3);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.2s;
+    }
+    .archive-sidebar-toggle:hover {
+        transform: scale(1.05);
+        background: #0a2e52;
+    }
+    .archive-sidebar-toggle:active {
+        transform: scale(0.95);
+    }
+
+    /* Sidebar overlay (mobile) */
+    .archive-sidebar-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 900;
+        background: rgba(0, 0, 0, 0.3);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+    }
+    .archive-sidebar-overlay.active {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    /* Sidebar panel */
+    .archive-sidebar {
+        position: relative;
+        /* default: static in flow on desktop */
+    }
+
+    /* On mobile, we make it fixed and slide from left */
+    @media (max-width: 1023px) {
+        .archive-sidebar-toggle {
+            display: flex;
+        }
+
+        .archive-sidebar-overlay {
+            display: block;
+        }
+
+        .archive-sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 320px;
+            max-width: 85vw;
+            height: 100%;
+            z-index: 1000;
+            background: #fff;
+            overflow-y: auto;
+            transform: translateX(-100%);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 4px 0 30px rgba(0, 0, 0, 0.08);
+            padding: 1.5rem 1.25rem 2rem;
+            display: block !important; /* override any flex */
+        }
+
+        .archive-sidebar.open {
+            transform: translateX(0);
+        }
+
+        /* Hide the sticky behavior on mobile */
+        .archive-sidebar .sticky {
+            position: static !important;
+        }
+
+        /* Close button inside sidebar (mobile) */
+        .archive-sidebar-close {
+            display: flex !important;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .archive-sidebar-close {
+            display: none !important;
+        }
+        .archive-sidebar-overlay {
+            display: none !important;
+        }
+        .archive-sidebar-toggle {
+            display: none !important;
+        }
+    }
+
+    .archive-sidebar-close {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        width: 32px;
+        height: 32px;
+        border-radius: 9999px;
+        background: #f3f4f6;
+        border: none;
+        cursor: pointer;
+        color: #4b5563;
+        transition: background 0.2s;
+        margin-left: auto;
+        margin-bottom: 0.5rem;
+    }
+    .archive-sidebar-close:hover {
+        background: #e5e7eb;
+    }
+</style>
+
+<button id="archiveSidebarClose" class="archive-sidebar-close" aria-label="Закрыть фильтры">
+    <i class="fas fa-times"></i>
+</button>
+
+<div class="bg-white/80 backdrop-blur-sm rounded-2xl p-5 shadow-sm border border-gray-100/80">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3 flex items-center gap-2">
+            <i class="fas fa-folder-open text-secondary"></i> Архив по месяцам
+        </h3>
+        <div class="space-y-2 text-sm" id="archiveFilters">
+            {{ $pages := where .Site.RegularPages "Section" "instagram" }}
+            {{ $months := dict "January" "Январь" "February" "Февраль" "March" "Март" "April" "Апрель" "May" "Май" "June" "Июнь" "July" "Июль" "August" "Август" "September" "Сентябрь" "October" "Октябрь" "November" "Ноябрь" "December" "Декабрь" }}
+            
+            {{ $years := $pages.GroupByDate "2006" }}
+            {{ $totalYears := len $years }}
+            
+            {{ range $index, $yearGroup := $years }}
+                <details class="group/year {{ if ge $index 5 }}extra-year hidden{{ end }}" {{ if eq $index 0 }}open{{ end }}>
+                    <summary class="flex justify-between items-center px-2 py-1.5 rounded-lg hover:bg-gray-50 cursor-pointer font-medium text-gray-800 transition select-none">
+                        <span class="flex items-center gap-2">
+                            <i class="fas fa-chevron-right text-xs text-gray-400 transition-transform group-open/year:rotate-90"></i>
+                            {{ $yearGroup.Key }} год
+                        </span>
+                        <span class="text-xs text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full font-normal">
+                            {{ len $yearGroup.Pages }}
+                        </span>
+                    </summary>
+                    
+                    <div class="mt-1 ml-4 pl-2 border-l border-gray-100 space-y-0.5">
+                        {{ range $yearGroup.Pages.GroupByDate "2006-01" }}
+                            {{ $date := time.AsTime (printf "%s-01" .Key) }}
+                            {{ $monthName := index $months ($date.Format "January") }}
+                            {{ $year := $date.Format "2006" }}
+                            {{ $monthNum := $date.Format "01" }}
+                            
+                            <a href="{{ relURL (printf "/instagram/%s/%s/" $year $monthNum) }}" 
+                            class="flex justify-between items-center px-2 py-1 rounded-lg hover:bg-gray-50 cursor-pointer transition group/month block" 
+                            data-archive="{{ .Key }}">
+                                <span class="text-gray-600 group-hover/month:text-primary transition text-xs">
+                                    {{ $monthName }}
+                                </span>
+                                <span class="text-[10px] text-gray-400 bg-gray-100 px-1.5 py-0.2 rounded-full">
+                                    {{ len .Pages }}
+                                </span>
+                            </a>
+                        {{ end }}
+                    </div>
+                </details>
+            {{ end }}
+        </div>
+
+        {{ if gt $totalYears 5 }}
+            <div class="mt-3 pt-3 border-t border-gray-100 text-right">
+                <button id="yearsToggleBtn" type="button" class="text-xs font-semibold text-secondary hover:text-primary transition-colors inline-flex items-center gap-1 cursor-pointer">
+                    <span id="yearsToggleText">Показать все годы</span>
+                    <i id="yearsToggleIcon" class="fas fa-chevron-down text-[10px] transition-transform duration-200"></i>
+                </button>
+            </div>
+
+            <script>
+                (function() {
+                    const btn = document.getElementById('yearsToggleBtn');
+                    const text = document.getElementById('yearsToggleText');
+                    const icon = document.getElementById('yearsToggleIcon');
+                    if (!btn) return;
+
+                    let isExpanded = false;
+
+                    btn.addEventListener('click', function() {
+                        const hiddenYears = document.querySelectorAll('.extra-year');
+                        isExpanded = !isExpanded;
+
+                        hiddenYears.forEach(el => {
+                            if (isExpanded) {
+                                el.classList.remove('hidden');
+                            } else {
+                                el.classList.add('hidden');
+                            }
+                        });
+
+                        if (isExpanded) {
+                            text.textContent = 'Свернуть';
+                            icon.classList.add('rotate-180');
+                        } else {
+                            text.textContent = 'Показать все годы';
+                            icon.classList.remove('rotate-180');
+                        }
+                    });
+                })();
+            </script>
+        {{ end }}
+    </div>
+</div>

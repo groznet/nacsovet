@@ -200,6 +200,7 @@ buildExpired = false
 
 [permalinks]
   news = "/news/:year/:month/:slug/"
+  instagram = "/instagram/:year/:month/:slug/"
 
 [urlizeoptions]
   # Removes trailing dots and special characters from generated URLs/paths
